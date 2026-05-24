@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Radio Sources de Vie</title>
+<style>
+body{font-family:Arial,sans-serif;background:#1a1a2e;color:white;margin:0;padding:20px;text-align:center}
+h1{color:#f0a500;font-size:2em;margin-bottom:5px}
+p{color:#aaa;margin-bottom:30px}
+.player{background:#16213e;border-radius:15px;padding:30px;max-width:500px;margin:0 auto 30px}
+audio{width:100%;margin-top:15px}
+.tabs{display:flex;justify-content:center;gap:10px;flex-wrap:wrap;margin-bottom:20px}
+.tab{background:#f0a500;color:#1a1a2e;border:none;padding:10px 20px;border-radius:20px;cursor:pointer;font-weight:bold}
+.tab:hover{background:#e09400}
+.section{display:none;background:#16213e;border-radius:15px;padding:20px;max-width:600px;margin:0 auto}
+.section.active{display:block}
+</style>
+</head>
+<body>
+<h1>🎙️ Radio Sources de Vie</h1>
+<p>Station Radio Chrétienne</p>
+<div class="player">
+<h2>🔴 En Direct</h2>
+<audio controls autoplay>
+<source src="https://stream.zeno.fm/sgnhqhl2oeevv" type="audio/mpeg">
+</audio>
+</div>
+<div class="tabs">
+<button class="tab" onclick="show('nouvelles')">📰 Nouvelles</button>
+<button class="tab" onclick="show('priere')">🙏 Prière</button>
+<button class="tab" onclick="show('sermon')">📖 Sermon</button>
+<button class="tab" onclick="show('temoignage')">❤️ Témoignage</button>
+</div>
+<div id="nouvelles" class="section active"><h3>📰 Nouvelles Chrétiennes</h3><p>Contenu généré automatiquement.</p></div>
+<div id="priere" class="section"><h3>🙏 Prière du Jour</h3><p>Contenu généré automatiquement.</p></div>
+<div id="sermon" class="section"><h3>📖 Sermon</h3><p>Contenu généré automatiquement.</p></div>
+<div id="temoignage" class="section"><h3>❤️ Témoignage</h3><p>Contenu généré automatiquement.</p></div>
+<script>
+function show(id){document.querySelectorAll('.section').forEach(s=>s.classList.remove('active'));document.getElementById(id).classList.add('active')}
+</script>
+</body>
+</html>
