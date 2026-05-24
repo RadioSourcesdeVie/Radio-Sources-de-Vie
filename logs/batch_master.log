@@ -1,0 +1,14 @@
+BATCH START 00:41:30
+--- priere_matin START 00:41:30 ---
+--- priere_matin END exit=0 00:49:51 ---
+--- sermon_matin START 00:49:51 ---
+--- sermon_matin END exit=0 01:02:17 ---
+--- nouvelles_soir START 01:02:17 ---
+--- nouvelles_soir END exit=0 01:11:58 ---
+--- temoignage START 01:11:58 ---
+--- temoignage END exit=0 01:18:18 ---
+--- sermon_soir START 01:18:18 ---
+--- sermon_soir END exit=0 01:30:17 ---
+--- priere_soir START 01:30:17 ---
+--- priere_soir END exit=0 01:38:58 ---
+BATCH END 01:38:58
