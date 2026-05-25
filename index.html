@@ -202,17 +202,17 @@ async function loadRSS(feeds,containerId,icon){
   }
   c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';}
 
-function loadChretien(){loadRSS([
+function loadChretien(){loadNewsFromJSON('chretien','tab-chretien','✝️');} function loadChretienOLD(){loadRSS([
   {url:'https://www.crosswalk.com/rss/'},
   {url:'https://www.thegospelcoalition.org/feed/'}
 ],'tab-chretien','✝️');}
 
-function loadHaiti(){loadRSS([
+function loadHaiti(){loadNewsFromJSON('haiti','tab-haiti','🇭🇹');} function loadHaitiOLD(){loadRSS([
   {url:'https://www.haitiantimes.com/feed/'},
   {url:'https://www.haitilibre.com/rssfeed.php'}
 ],'tab-haiti','🇭🇹');}
 
-function loadMonde(){loadRSS([
+function loadMonde(){loadNewsFromJSON('monde','tab-monde','🌍');} function loadMondeOLD(){loadRSS([
   {url:'https://feeds.bbci.co.uk/afrique/rss.xml'},
   {url:'https://www.france24.com/fr/rss'}
 ],'tab-monde','🌍');}
@@ -239,7 +239,7 @@ async function loadDaily(type,containerId,icon,voiceName){
 
 async function loadWeather(){
   try{
-    const r=await fetch('weather.json?t='+Date.now());
+    const r=await fetch('/weather.json?t='+Date.now());
     if(!r.ok)throw new Error();
     const d=await r.json();
     if(d.ottawa){document.getElementById('wx-ottawa-temp').textContent=Math.round(d.ottawa.temp)+'°C';
@@ -257,11 +257,9 @@ async function loadWeather(){
 async function loadSpiritualContent(jsonPath, containerId, icon, voiceName, audioPath){
   const c=document.getElementById(containerId);
   try{
-    const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(REPO+'/'+jsonPath);
-    const r=await fetch(proxy);
+    const r=await fetch('/'+jsonPath+'?t='+Date.now());
     if(!r.ok)throw new Error();
-    const j=await r.json();
-    const d=JSON.parse(j.contents);
+    const d=await r.json();
     let audio = audioPath ? `<div class="audio-player"><div class="audio-label">🎙️ ${voiceName}</div><audio controls style="width:100%;height:36px"><source src="${REPO}/${audioPath}" type="audio/mpeg"></audio></div>` : '';
     c.innerHTML=`<div class="spiritual-card">
       <div class="card-meta">${icon} ${d.title||''}</div>
@@ -276,11 +274,9 @@ async function loadSpiritualContent(jsonPath, containerId, icon, voiceName, audi
 async function loadNewsBulletin(moment, containerId){
   const c=document.getElementById(containerId);
   try{
-    const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(REPO+'/content/bulletins/'+TODAY+'.json');
-    const r=await fetch(proxy);
+    const r=await fetch('/content/bulletins/'+TODAY+'.json?t='+Date.now());
     if(!r.ok)throw new Error();
-    const j=await r.json();
-    const d=JSON.parse(j.contents);
+    const d=await r.json();
     const bulletin = d[moment];
     c.innerHTML=`<div class="spiritual-card">
       <div class="card-meta">📻 ${bulletin.title||''}</div>
@@ -292,11 +288,9 @@ async function loadNewsBulletin(moment, containerId){
 async function loadSportNews(){
   const c=document.getElementById('tab-sport');
   try{
-    const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(REPO+'/content/news/sport_'+TODAY+'.json');
-    const r=await fetch(proxy);
+    const r=await fetch('/content/news/sport_'+TODAY+'.json?t='+Date.now());
     if(!r.ok)throw new Error();
-    const j=await r.json();
-    const d=JSON.parse(j.contents);
+    const d=await r.json();
     let html='';
     (d.articles||[]).slice(0,5).forEach(a=>{
       html+=`<div class="card"><div class="card-title"><a href="${a.link}" target="_blank">${a.title}</a></div><div class="card-body">${a.desc}</div><div class="card-meta">${a.source}</div></div>`;
