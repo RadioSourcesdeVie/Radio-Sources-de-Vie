@@ -91,6 +91,10 @@ footer a{color:var(--gold);text-decoration:none}
     </div>
   </div>
   <div class="update-time" id="wx-updated"></div>
+  <div id="meteo-audio" style="margin-top:.8rem;background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.2);border-radius:10px;padding:.8rem 1rem;display:none">
+    <div style="font-size:.7rem;color:var(--gold);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.5rem">🎙️ BELLA — MÉTÉO DU JOUR</div>
+    <audio controls style="width:100%;height:36px" id="meteo-audio-player"></audio>
+  </div>
 </div>
 
 <hr class="divider">
@@ -148,7 +152,7 @@ function showTab(name,el){
     sport:         loadSportNews,
     sermon:        ()=>loadSpiritualContent('content/sermons/'+TODAY+'.json','tab-sermon','📖','Texte — Votre voix',null),
     temoignage:    ()=>loadSpiritualContent('content/testimonies/'+TODAY+'.json','tab-temoignage','❤️','Elli','audio/testimonies/'+TODAY+'.mp3'),
-    sabbat:        ()=>loadSpiritualContent('content/sabbat/'+TODAY+'.json','tab-sabbat','🕯️','Antoni — Sabbat','audio/sabbat/'+TODAY+'.mp3'),
+    sabbat:        ()=>loadSpiritualContent('content/sabbat/'+TODAY+'.json','tab-sabbat','🕯️','Antoni — Sabbat School','audio/sabbat/'+TODAY+'.mp3'),
     bulletin_soir: ()=>loadNewsBulletin('soir','tab-bulletin_soir'),
     priere_soir:   ()=>loadSpiritualContent('content/prayers/soir_'+TODAY+'.json','tab-priere_soir','🌙','Bella — Prière Soir','audio/prayers/soir_'+TODAY+'.mp3'),
     gemini:        loadGemini
@@ -245,6 +249,14 @@ async function loadWeather(){
     if(d.pap){document.getElementById('wx-pap-temp').textContent=Math.round(d.pap.temp)+'°C';
       document.getElementById('wx-pap-desc').textContent=d.pap.description;}
     if(d.updated)document.getElementById('wx-updated').textContent='Mis à jour: '+fmtDate(d.updated);
+    // Audio météo
+    const meteoMp3=`/audio/meteo/${TODAY}.mp3`;
+    const meteoDiv=document.getElementById('meteo-audio');
+    const meteoPlayer=document.getElementById('meteo-audio-player');
+    if(meteoDiv&&meteoPlayer){
+      meteoPlayer.src=meteoMp3;
+      meteoDiv.style.display='block';
+    }
   }catch(e){
     document.getElementById('wx-ottawa-desc').textContent='Ottawa, ON';
     document.getElementById('wx-pap-desc').textContent='Port-au-Prince, HT';}
