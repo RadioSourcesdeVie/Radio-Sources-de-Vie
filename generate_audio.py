@@ -20,7 +20,7 @@ VOICES = {
 
 CONTENT_TYPES = {
     "prayer":    {"dir": "content/prayers",    "audio": "audio/prayers",    "icon": "🙏"},
-    "sermon":    {"dir": "content/sermons",     "audio": "audio/sermons",    "icon": "📖"},
+    # sermon: audio produit manuellement par le pasteur
     "testimony": {"dir": "content/testimonies", "audio": "audio/testimonies","icon": "❤️"},
 }
 
