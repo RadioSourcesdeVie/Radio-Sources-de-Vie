@@ -1,8 +1,8 @@
 {
   "date": "2026-05-24",
   "files": {
-    "prayer": "audio\\prayers\\2026-05-24.mp3",
-    "sermon": "audio\\sermons\\2026-05-24.mp3",
-    "testimony": "audio\\testimonies\\2026-05-24.mp3"
+    "prayer": "audio/prayers/2026-05-24.mp3",
+    "sermon": "audio/sermons/2026-05-24.mp3",
+    "testimony": "audio/testimonies/2026-05-24.mp3"
   }
 }
