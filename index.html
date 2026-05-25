@@ -234,6 +234,19 @@ async function loadWeather(){
     document.getElementById('wx-pap-desc').textContent='Port-au-Prince, HT';}
 }
 
+
+async function loadGemini(){
+  const c=document.getElementById('tab-gemini');
+  try{
+    const r=await fetch(REPO+'/content/gemini/'+TODAY+'.json');
+    const d=await r.json();
+    let html='';
+    if(d.bulletin)html+='<div class="spiritual-card"><div class="card-meta">📻 Bulletin du jour</div><div class="card-body" style="line-height:1.8;white-space:pre-line">'+d.bulletin+'</div></div>';
+    if(d.commentary)html+='<div class="spiritual-card" style="margin-top:.8rem"><div class="card-meta">✝️ Commentaire chrétien</div><div class="card-title" style="font-family:Playfair Display,serif;font-size:1.1rem;margin:.5rem 0">'+(d.commentary.title||'')+'</div><div class="verse">'+(d.commentary.verse||'')+'</div><div class="card-body" style="line-height:1.7">'+(d.commentary.content||'')+'</div><div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 '+(d.commentary.reference||'')+'</div></div>';
+    if(d.haiti_summary)html+='<div class="spiritual-card" style="margin-top:.8rem"><div class="card-meta">🇭🇹 Haïti & Diaspora</div><div class="card-body" style="line-height:1.8;white-space:pre-line">'+d.haiti_summary+'</div></div>';
+    c.innerHTML=html||'<div class="card"><div class="card-body">Bulletin non disponible.</div></div>';
+  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Bulletin non disponible.<br><em>Lancez generate_gemini.py</em></div></div>';}
+}
 loadWeather();
 loadChretien();
 </script>
