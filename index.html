@@ -133,7 +133,7 @@ function showTab(name,el){
   document.getElementById('tab-'+name).style.display='flex';
   document.getElementById('tab-'+name).style.flexDirection='column';
   el.classList.add('active');
-  var loaders={haiti:loadHaiti,monde:loadMonde,
+  var loaders={gemini:loadGemini,haiti:loadHaiti,monde:loadMonde,
     priere:()=>loadDaily('prayers','tab-priere','🙏','Bella — voix féminine'),
     sermon:()=>loadDaily('sermons','tab-sermon','📖','Antoni — pasteur'),
     temoignage:()=>loadDaily('testimonies','tab-temoignage','❤️','Elli')};
