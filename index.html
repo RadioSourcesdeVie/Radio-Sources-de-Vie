@@ -254,6 +254,20 @@ async function loadWeather(){
 
 
 
+async function loadNewsFromJSON(category, containerId, icon){
+  const c=document.getElementById(containerId);
+  try{
+    const r=await fetch('/content/news/'+category+'_'+TODAY+'.json?t='+Date.now());
+    if(!r.ok)throw new Error();
+    const d=await r.json();
+    let html='';
+    (d.articles||[]).slice(0,8).forEach(a=>{
+      html+='<div class="card"><div style="display:flex;align-items:flex-start;gap:10px;margin-bottom:.4rem"><span style="font-size:1.2rem">'+icon+'</span><span class="card-title"><a href="'+a.link+'" target="_blank">'+a.title+'</a></span></div><div class="card-meta">'+a.source+'</div><div class="card-body">'+a.desc+'</div></div>';
+    });
+    c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';
+  }catch(e){c.innerHTML='<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';}
+}
+
 async function loadSpiritualContent(jsonPath, containerId, icon, voiceName, audioPath){
   const c=document.getElementById(containerId);
   try{
