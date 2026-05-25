@@ -151,10 +151,8 @@ function showTab(name,el){
     sabbat:        ()=>loadSpiritualContent('content/sabbat/'+TODAY+'.json','tab-sabbat','🕯️','Antoni — Sabbat','audio/sabbat/'+TODAY+'.mp3'),
     bulletin_soir: ()=>loadNewsBulletin('soir','tab-bulletin_soir'),
     priere_soir:   ()=>loadSpiritualContent('content/prayers/soir_'+TODAY+'.json','tab-priere_soir','🌙','Bella — Prière Soir','audio/prayers/soir_'+TODAY+'.mp3'),
-    gemini:        loadGemini,,monde:loadMonde,
-    priere:()=>loadDaily('prayers','tab-priere','🙏','Bella — voix féminine'),
-    sermon:()=>loadDaily('sermons','tab-sermon','📖','Antoni — pasteur'),
-    temoignage:()=>loadDaily('testimonies','tab-temoignage','❤️','Elli')};
+    gemini:        loadGemini
+};
   var c=document.getElementById('tab-'+name);
   if(loaders[name]&&!c.dataset.loaded){loaders[name]();c.dataset.loaded='1';}
 }
