@@ -1,0 +1,16 @@
+{
+  "date": "2026-05-25",
+  "title": "Météo du 25 May 2026",
+  "ottawa": {
+    "temp": 17,
+    "description": "Nuageux",
+    "humidity": 78,
+    "wind": 20.4
+  },
+  "pap": {
+    "temp": 31,
+    "description": "Peu nuageux",
+    "humidity": 58
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 25 May 2026 sur Radio Sources de Vie.\n\nÀ Ottawa, Canada: 17 degrés Celsius. Nuageux. Humidité: 78 pourcent. Vent: 20.4 kilomètres à l'heure.\n\nÀ Port-au-Prince, Haïti: 31 degrés Celsius. Peu nuageux. Humidité: 58 pourcent.\n\nQue Dieu bénisse votre journée où que vous soyez! Comme dit le Psaume 118 verset 24: C'est ici la journée que l'Éternel a faite: que nous soyons dans l'allégresse et dans la joie!"
+}
