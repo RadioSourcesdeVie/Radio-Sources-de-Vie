@@ -19,10 +19,9 @@ FEEDS = {
         {"url": "https://www.christianpost.com/rss/all",         "source": "Christian Post"},
     ],
     "haiti": [
-        {"url": "https://www.haitilibre.com/rssfeed.php",        "source": "Haiti Libre"},
-        {"url": "https://www.metropolehaiti.com/feed/",          "source": "Metropole Haiti"},
-        {"url": "https://www.alterpresse.org/rss.php",           "source": "AlterPresse"},
-        {"url": "https://lenouvelliste.com/rss/",                "source": "Le Nouvelliste"},
+        {"url": "https://news.google.com/rss/search?q=Haiti&hl=fr&gl=HT&ceid=HT:fr", "source": "Google News Haiti"},
+        {"url": "https://news.google.com/rss/search?q=Haiti+actualite&hl=fr",        "source": "Actualites Haiti"},
+        {"url": "https://www.haitiantimes.com/feed/",                                 "source": "Haitian Times"},
     ],
     "monde": [
         {"url": "https://feeds.bbci.co.uk/afrique/rss.xml",      "source": "BBC Afrique"},
@@ -30,8 +29,8 @@ FEEDS = {
         {"url": "https://news.un.org/feed/subscribe/fr/news/all/rss.xml", "source": "ONU Info"},
     ],
     "sport": [
-        {"url": "https://www.rfi.fr/fr/podcasts/sports/rss",     "source": "RFI Sport"},
-        {"url": "https://www.haitisports.com/feed/",             "source": "Haiti Sport"},
+        {"url": "https://news.google.com/rss/search?q=sport+football&hl=fr", "source": "Google Sport"},
+        {"url": "https://news.google.com/rss/search?q=Haiti+sport&hl=fr",    "source": "Haiti Sport Google"},
     ],
 }
 
