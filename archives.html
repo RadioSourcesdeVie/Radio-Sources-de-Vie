@@ -76,7 +76,9 @@ footer a{color:var(--gold);text-decoration:none}
     <div class="tab" onclick="showArchiveTab('prayer',this)">🙏 Prière</div>
     <div class="tab" onclick="showArchiveTab('sermon',this)">📖 Sermon</div>
     <div class="tab" onclick="showArchiveTab('testimony',this)">❤️ Témoignage</div>
-    <div class="tab" onclick="showArchiveTab('bulletin',this)">🤖 Bulletin</div>
+    <div class="tab" onclick="showArchiveTab('sabbat',this)">🕯️ Sabbat</div>
+    <div class="tab" onclick="showArchiveTab('resumes',this)">📰 Résumés</div>
+    <div class="tab" onclick="showArchiveTab('bulletin',this)">🤖 Gemini</div>
   </div>
 
   <div id="archive-content">
@@ -147,7 +149,7 @@ async function loadArchive(date){
     '<div class="loading"><span class="spinner"></span>Chargement...</div>';
 
   // Charger tous les contenus en parallèle
-  const [prayer, sermon, testimony, gemini] = await Promise.all([
+  const [prayer, sermon, testimony, gemini, resume_c, resume_h, resume_m, sabbat] = await Promise.all([
     fetchJSON(REPO+'/content/prayers/'+date+'.json'),
     fetchJSON(REPO+'/content/sermons/'+date+'.json'),
     fetchJSON(REPO+'/content/testimonies/'+date+'.json'),
@@ -252,6 +254,16 @@ function renderArchive(tab){
     }
   }
 
+
+  if((tab==='all'||tab==='resumes')){
+    if(resume_c){empty=false;html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">✝️</span><div><div class="archive-card-title">${resume_c.title||'Résumé Chrétien'}</div><div class="archive-card-date">${fmtDateFR(date)}</div></div></div><div class="archive-card-body">${resume_c.resume||''}</div><audio class="audio-mini" controls><source src="/audio/resumes/chretien_${date}.mp3" type="audio/mpeg"></audio></div>`;}
+    if(resume_h){empty=false;html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">🇭🇹</span><div><div class="archive-card-title">${resume_h.title||'Résumé Haïti'}</div><div class="archive-card-date">${fmtDateFR(date)}</div></div></div><div class="archive-card-body">${resume_h.resume||''}</div><audio class="audio-mini" controls><source src="/audio/resumes/haiti_${date}.mp3" type="audio/mpeg"></audio></div>`;}
+    if(resume_m){empty=false;html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">🌍</span><div><div class="archive-card-title">${resume_m.title||'Résumé Monde'}</div><div class="archive-card-date">${fmtDateFR(date)}</div></div></div><div class="archive-card-body">${resume_m.resume||''}</div><audio class="audio-mini" controls><source src="/audio/resumes/monde_${date}.mp3" type="audio/mpeg"></audio></div>`;}
+  }
+  if((tab==='all'||tab==='sabbat') && sabbat){
+    empty=false;
+    html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">🕯️</span><div><div class="archive-card-title">${sabbat.title||'Sabbat Nugget'}</div><div class="archive-card-date">${fmtDateFR(date)} — Antoni</div></div></div>${sabbat.verse?`<div class="verse-box">${sabbat.verse}</div>`:''}<div class="archive-card-body">${sabbat.nugget||sabbat.content||''}</div><audio class="audio-mini" controls><source src="/audio/sabbat/${date}.mp3" type="audio/mpeg"></audio></div>`;
+  }
   html += '</div>';
   c.innerHTML = empty
     ? '<div class="empty">Aucun contenu disponible pour cette date.</div>'
