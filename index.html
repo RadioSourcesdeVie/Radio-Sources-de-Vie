@@ -149,7 +149,7 @@ function showTab(name,el){
     priere_matin:  ()=>loadSpiritualContent('content/prayers/matin_'+TODAY+'.json','tab-priere_matin','🌅','Bella — Prière Matin','audio/prayers/matin_'+TODAY+'.mp3'),
     resume_chretien:()=>loadResume('chretien','tab-resume_chretien','✝️'),
     resume_haiti:  ()=>loadResume('haiti','tab-resume_haiti','🇭🇹'),
-    sport:         loadSportNews,
+    sport:         ()=>loadResume('sport','tab-sport','⚽'),
     sermon:        ()=>loadSpiritualContent('content/sermons/'+TODAY+'.json','tab-sermon','📖','Texte — Votre voix',null),
     temoignage:    ()=>loadSpiritualContent('content/testimonies/'+TODAY+'.json','tab-temoignage','❤️','Elli','audio/testimonies/'+TODAY+'.mp3'),
     sabbat:        ()=>loadSpiritualContent('content/sabbat/'+TODAY+'.json','tab-sabbat','🕯️','Antoni — Sabbat School','audio/sabbat/'+TODAY+'.mp3?t='+Date.now()),
