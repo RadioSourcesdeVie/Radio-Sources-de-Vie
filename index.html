@@ -97,21 +97,29 @@ footer a{color:var(--gold);text-decoration:none}
 
 <div class="section">
   <div class="tabs">
-    <div class="tab active" onclick="showTab('chretien',this)">✝️ Nouvelles chrétiennes</div>
+    <div class="tab active" onclick="showTab('priere_matin',this)">🌅 Prière Matin</div>
+    <div class="tab" onclick="showTab('bulletin_matin',this)">📻 Bulletin Matin</div>
+    <div class="tab" onclick="showTab('chretien',this)">✝️ Chrétien</div>
     <div class="tab" onclick="showTab('haiti',this)">🇭🇹 Haïti</div>
     <div class="tab" onclick="showTab('monde',this)">🌍 Monde</div>
-    <div class="tab" onclick="showTab('priere',this)">🙏 Prière</div>
+    <div class="tab" onclick="showTab('sport',this)">⚽ Sport</div>
     <div class="tab" onclick="showTab('sermon',this)">📖 Sermon</div>
     <div class="tab" onclick="showTab('temoignage',this)">❤️ Témoignage</div>
-    <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
+    <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
+    <div class="tab" onclick="showTab('bulletin_soir',this)">🌙 Bulletin Soir</div>
+    <div class="tab" onclick="showTab('priere_soir',this)">🌙 Prière Soir</div>
   </div>
-  <div id="tab-chretien" class="cards"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-haiti"    class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-monde"    class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-priere"   class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-sermon"   class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-temoignage" class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-gemini" class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement...</div></div>
+  <div id="tab-priere_matin"   class="cards"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-bulletin_matin" class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-chretien"       class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-haiti"          class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-monde"          class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-sport"          class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-sermon"         class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-temoignage"     class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-sabbat"         class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-bulletin_soir"  class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
+  <div id="tab-priere_soir"    class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
 </div>
 
 <footer>
@@ -133,7 +141,17 @@ function showTab(name,el){
   document.getElementById('tab-'+name).style.display='flex';
   document.getElementById('tab-'+name).style.flexDirection='column';
   el.classList.add('active');
-  var loaders={gemini:loadGemini,haiti:loadHaiti,monde:loadMonde,
+  var loaders={
+    priere_matin:  ()=>loadSpiritualContent('content/prayers/matin_'+TODAY+'.json','tab-priere_matin','🌅','Bella — Prière Matin','audio/prayers/matin_'+TODAY+'.mp3'),
+    bulletin_matin:()=>loadNewsBulletin('matin','tab-bulletin_matin'),
+    haiti:         loadHaiti,
+    sport:         loadSportNews,
+    sermon:        ()=>loadSpiritualContent('content/sermons/'+TODAY+'.json','tab-sermon','📖','Texte — Votre voix',null),
+    temoignage:    ()=>loadSpiritualContent('content/testimonies/'+TODAY+'.json','tab-temoignage','❤️','Elli','audio/testimonies/'+TODAY+'.mp3'),
+    sabbat:        ()=>loadSpiritualContent('content/sabbat/'+TODAY+'.json','tab-sabbat','🕯️','Antoni — Sabbat','audio/sabbat/'+TODAY+'.mp3'),
+    bulletin_soir: ()=>loadNewsBulletin('soir','tab-bulletin_soir'),
+    priere_soir:   ()=>loadSpiritualContent('content/prayers/soir_'+TODAY+'.json','tab-priere_soir','🌙','Bella — Prière Soir','audio/prayers/soir_'+TODAY+'.mp3'),
+    gemini:        loadGemini,,monde:loadMonde,
     priere:()=>loadDaily('prayers','tab-priere','🙏','Bella — voix féminine'),
     sermon:()=>loadDaily('sermons','tab-sermon','📖','Antoni — pasteur'),
     temoignage:()=>loadDaily('testimonies','tab-temoignage','❤️','Elli')};
@@ -235,6 +253,57 @@ async function loadWeather(){
 }
 
 
+
+async function loadSpiritualContent(jsonPath, containerId, icon, voiceName, audioPath){
+  const c=document.getElementById(containerId);
+  try{
+    const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(REPO+'/'+jsonPath);
+    const r=await fetch(proxy);
+    if(!r.ok)throw new Error();
+    const j=await r.json();
+    const d=JSON.parse(j.contents);
+    let audio = audioPath ? `<div class="audio-player"><div class="audio-label">🎙️ ${voiceName}</div><audio controls style="width:100%;height:36px"><source src="${REPO}/${audioPath}" type="audio/mpeg"></audio></div>` : '';
+    c.innerHTML=`<div class="spiritual-card">
+      <div class="card-meta">${icon} ${d.title||''}</div>
+      ${d.verse?`<div class="verse">${d.verse}</div>`:''}
+      <div class="card-body" style="line-height:1.8;white-space:pre-line">${d.content||''}</div>
+      ${d.reference?`<div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 ${d.reference}</div>`:''}
+      ${audio}
+    </div>`;
+  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Contenu non disponible.</div></div>';}
+}
+
+async function loadNewsBulletin(moment, containerId){
+  const c=document.getElementById(containerId);
+  try{
+    const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(REPO+'/content/bulletins/'+TODAY+'.json');
+    const r=await fetch(proxy);
+    if(!r.ok)throw new Error();
+    const j=await r.json();
+    const d=JSON.parse(j.contents);
+    const bulletin = d[moment];
+    c.innerHTML=`<div class="spiritual-card">
+      <div class="card-meta">📻 ${bulletin.title||''}</div>
+      <div class="card-body" style="line-height:1.8;white-space:pre-line">${bulletin.content||''}</div>
+    </div>`;
+  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Bulletin non disponible.</div></div>';}
+}
+
+async function loadSportNews(){
+  const c=document.getElementById('tab-sport');
+  try{
+    const proxy='https://api.allorigins.win/get?url='+encodeURIComponent(REPO+'/content/news/sport_'+TODAY+'.json');
+    const r=await fetch(proxy);
+    if(!r.ok)throw new Error();
+    const j=await r.json();
+    const d=JSON.parse(j.contents);
+    let html='';
+    (d.articles||[]).slice(0,5).forEach(a=>{
+      html+=`<div class="card"><div class="card-title"><a href="${a.link}" target="_blank">${a.title}</a></div><div class="card-body">${a.desc}</div><div class="card-meta">${a.source}</div></div>`;
+    });
+    c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles sport indisponibles.</div></div>';
+  }catch(e){c.innerHTML='<div class="card"><div class="card-body">Nouvelles sport indisponibles.</div></div>';}
+}
 async function loadGemini(){
   const c=document.getElementById('tab-gemini');
   try{
@@ -249,6 +318,7 @@ async function loadGemini(){
 }
 loadWeather();
 loadChretien();
+loadSpiritualContent('content/prayers/matin_'+TODAY+'.json','tab-priere_matin','🌅','Bella — Prière Matin','audio/prayers/matin_'+TODAY+'.mp3');
 </script>
 </body>
 </html>
