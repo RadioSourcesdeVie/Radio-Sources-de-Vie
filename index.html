@@ -8,12 +8,11 @@
 <style>
 :root{--gold:#C9A84C;--gold-light:#F0D080;--deep:#1A0A2E;--cream:#FAF3E0}
 *{margin:0;padding:0;box-sizing:border-box}
-body{background:var(--deep);color:var(--cream);font-family:'Lato',sans-serif;min-height:100vh}
+body{background:var(--deep);color:var(--cream);font-family:'Lato',sans-serif}
 header{background:linear-gradient(135deg,#0d0520,#1A0A2E,#2a0e1e);border-bottom:2px solid var(--gold);padding:0 1.5rem;position:sticky;top:0;z-index:100;display:flex;align-items:center;justify-content:space-between;height:64px}
 .logo-text{font-family:'Playfair Display',serif;font-size:1.1rem;color:var(--gold);font-weight:700}
 .logo-sub{font-size:.65rem;color:var(--gold-light);opacity:.8;letter-spacing:2px;text-transform:uppercase}
-.live-badge{display:flex;align-items:center;gap:8px;background:rgba(201,168,76,.15);border:1px solid var(--gold);border-radius:20px;padding:6px 14px;cursor:pointer;text-decoration:none;color:var(--gold);font-size:.85rem;font-weight:700;transition:all .3s}
-.live-badge:hover{background:rgba(201,168,76,.3)}
+.live-badge{display:flex;align-items:center;gap:8px;background:rgba(201,168,76,.15);border:1px solid var(--gold);border-radius:20px;padding:6px 14px;text-decoration:none;color:var(--gold);font-size:.85rem;font-weight:700}
 .live-dot{width:8px;height:8px;border-radius:50%;background:#e74c3c;animation:pulse 1.5s infinite}
 @keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(1.3)}}
 .hero{background:linear-gradient(180deg,#1A0A2E,#0d0520);padding:3rem 1.5rem 2rem;text-align:center;border-bottom:1px solid rgba(201,168,76,.2)}
@@ -23,7 +22,7 @@ header{background:linear-gradient(135deg,#0d0520,#1A0A2E,#2a0e1e);border-bottom:
 .player-title{font-size:.75rem;color:var(--gold);letter-spacing:2px;text-transform:uppercase;margin-bottom:1rem}
 audio{width:100%;height:40px}
 .section{padding:1.5rem;max-width:900px;margin:0 auto}
-.section-title{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--gold);border-left:3px solid var(--gold);padding-left:10px;margin-bottom:1rem;display:flex;align-items:center;gap:8px}
+.section-title{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--gold);border-left:3px solid var(--gold);padding-left:10px;margin-bottom:1rem}
 .weather-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
 .weather-card{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.2);border-radius:12px;padding:1rem;text-align:center}
 .weather-card .city{font-size:.75rem;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);margin-bottom:.3rem}
@@ -33,14 +32,16 @@ audio{width:100%;height:40px}
 .tab{flex-shrink:0;background:rgba(255,255,255,.05);border:1px solid rgba(201,168,76,.2);border-radius:20px;padding:6px 14px;font-size:.8rem;cursor:pointer;color:rgba(250,243,224,.7);transition:all .2s;white-space:nowrap}
 .tab.active,.tab:hover{background:rgba(201,168,76,.2);border-color:var(--gold);color:var(--gold)}
 .cards{display:flex;flex-direction:column;gap:.8rem}
-.card{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.15);border-radius:10px;padding:1rem;transition:border-color .2s}
+.card{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.15);border-radius:10px;padding:1rem}
 .card:hover{border-color:rgba(201,168,76,.4)}
 .card-title{font-family:'Playfair Display',serif;font-size:.95rem;font-weight:700;line-height:1.3}
 .card-meta{font-size:.72rem;color:var(--gold);opacity:.8;margin:.3rem 0}
 .card-body{font-size:.82rem;color:rgba(250,243,224,.7);line-height:1.5}
 .card a{color:var(--gold);text-decoration:none}
 .spiritual-card{background:linear-gradient(135deg,rgba(107,26,42,.3),rgba(26,10,46,.5));border:1px solid rgba(201,168,76,.3);border-radius:12px;padding:1.2rem}
-.spiritual-card .verse{font-family:'Playfair Display',serif;font-style:italic;font-size:.9rem;color:var(--gold-light);line-height:1.6;border-left:2px solid var(--gold);padding-left:10px;margin:.8rem 0}
+.verse{font-family:'Playfair Display',serif;font-style:italic;font-size:.9rem;color:var(--gold-light);line-height:1.6;border-left:2px solid var(--gold);padding-left:10px;margin:.8rem 0}
+.audio-player{margin-top:1rem;background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.2);border-radius:10px;padding:.8rem 1rem}
+.audio-label{font-size:.7rem;color:var(--gold);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.5rem;display:flex;align-items:center;gap:6px}
 .loading{text-align:center;padding:2rem;color:#888;font-size:.9rem}
 .spinner{display:inline-block;width:20px;height:20px;border:2px solid rgba(201,168,76,.3);border-top-color:var(--gold);border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -121,60 +122,116 @@ footer a{color:var(--gold);text-decoration:none}
 </footer>
 
 <script>
+const REPO = "https://raw.githubusercontent.com/RadioSourcesdeVie/Radio-Sources-de-Vie/main";
+const TODAY = new Date().toISOString().slice(0,10);
+
 function showTab(name,el){
   document.querySelectorAll('[id^=tab-]').forEach(t=>t.style.display='none');
   document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
   document.getElementById('tab-'+name).style.display='flex';
   document.getElementById('tab-'+name).style.flexDirection='column';
   el.classList.add('active');
-  var loaded={'haiti':loadHaiti,'monde':loadMonde,'priere':()=>loadDaily('prayers','tab-priere','🙏'),'sermon':()=>loadDaily('sermons','tab-sermon','📖'),'temoignage':()=>loadDaily('testimonies','tab-temoignage','❤️')};
-  var el2=document.getElementById('tab-'+name);
-  if(loaded[name]&&!el2.dataset.loaded){loaded[name]();el2.dataset.loaded='1';}
+  var loaders={haiti:loadHaiti,monde:loadMonde,
+    priere:()=>loadDaily('prayers','tab-priere','🙏','Bella — voix féminine'),
+    sermon:()=>loadDaily('sermons','tab-sermon','📖','Antoni — pasteur'),
+    temoignage:()=>loadDaily('testimonies','tab-temoignage','❤️','Elli')};
+  var c=document.getElementById('tab-'+name);
+  if(loaders[name]&&!c.dataset.loaded){loaders[name]();c.dataset.loaded='1';}
 }
+
 async function fetchRSS(url){
-  try{const r=await fetch('https://api.allorigins.win/get?url='+encodeURIComponent(url));const j=await r.json();return new DOMParser().parseFromString(j.contents,'application/xml');}catch(e){return null;}
-}
+  try{const r=await fetch('https://api.allorigins.win/get?url='+encodeURIComponent(url));
+  const j=await r.json();return new DOMParser().parseFromString(j.contents,'application/xml');}
+  catch(e){return null;}}
+
 function parseItems(xml,max=5){
   if(!xml)return[];
-  const items=[...xml.querySelectorAll('item')].slice(0,max);
-  return items.map(i=>({
+  return [...xml.querySelectorAll('item')].slice(0,max).map(i=>({
     title:i.querySelector('title')?.textContent||'Sans titre',
     desc:(i.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').slice(0,180),
     link:i.querySelector('link')?.textContent||'#',
-    date:i.querySelector('pubDate')?.textContent||'',
-    source:i.querySelector('source')?.textContent||''
-  }));
-}
-function fmtDate(s){if(!s)return'';try{return new Date(s).toLocaleDateString('fr-CA',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});}catch(e){return s.slice(0,16);}}
-function makeCard(item,icon='📰'){return`<div class="card"><div style="display:flex;align-items:flex-start;gap:10px;margin-bottom:.4rem"><span style="font-size:1.2rem">${icon}</span><span class="card-title"><a href="${item.link}" target="_blank">${item.title}</a></span></div><div class="card-meta">${fmtDate(item.date)}</div><div class="card-body">${item.desc}</div></div>`;}
+    date:i.querySelector('pubDate')?.textContent||''
+  }));}
+
+function fmtDate(s){if(!s)return'';try{return new Date(s).toLocaleDateString('fr-CA',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});}catch(e){return'';}}
+
+function makeCard(item,icon='📰'){
+  return`<div class="card">
+    <div style="display:flex;align-items:flex-start;gap:10px;margin-bottom:.4rem">
+      <span style="font-size:1.2rem">${icon}</span>
+      <span class="card-title"><a href="${item.link}" target="_blank">${item.title}</a></span>
+    </div>
+    <div class="card-meta">${fmtDate(item.date)}</div>
+    <div class="card-body">${item.desc}</div>
+  </div>`;}
+
+function makeAudioPlayer(type, voiceName){
+  const mp3=`${REPO}/audio/${type}/${TODAY}.mp3`;
+  return`<div class="audio-player">
+    <div class="audio-label">🎙️ Écouter — ${voiceName}</div>
+    <audio controls style="width:100%;height:36px">
+      <source src="${mp3}" type="audio/mpeg">
+    </audio>
+  </div>`;}
+
 async function loadRSS(feeds,containerId,icon){
   const c=document.getElementById(containerId);let html='';
-  for(const f of feeds){const xml=await fetchRSS(f.url);parseItems(xml,3).forEach(i=>html+=makeCard(i,icon));}
-  c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles indisponibles pour le moment.</div></div>';
-}
-function loadChretien(){loadRSS([{url:'https://www.christianpost.com/rss/all'},{url:'https://www.actualite-protestante.com/feed/'}],'tab-chretien','✝️');}
-function loadHaiti(){loadRSS([{url:'https://lenouvelliste.com/rss/'},{url:'https://www.alterpresse.org/rss.php'}],'tab-haiti','🇭🇹');}
-function loadMonde(){loadRSS([{url:'https://rss.rfi.fr/rfi/francais'},{url:'https://feeds.bbci.co.uk/afrique/rss.xml'}],'tab-monde','🌍');}
-async function loadDaily(type,containerId,icon){
+  for(const f of feeds){
+    const xml=await fetchRSS(f.url);
+    parseItems(xml,3).forEach(i=>html+=makeCard(i,icon));
+  }
+  c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';}
+
+function loadChretien(){loadRSS([
+  {url:'https://www.crosswalk.com/rss/'},
+  {url:'https://www.thegospelcoalition.org/feed/'}
+],'tab-chretien','✝️');}
+
+function loadHaiti(){loadRSS([
+  {url:'https://www.haitiantimes.com/feed/'},
+  {url:'https://www.haitilibre.com/rssfeed.php'}
+],'tab-haiti','🇭🇹');}
+
+function loadMonde(){loadRSS([
+  {url:'https://feeds.bbci.co.uk/afrique/rss.xml'},
+  {url:'https://www.france24.com/fr/rss'}
+],'tab-monde','🌍');}
+
+async function loadDaily(type,containerId,icon,voiceName){
   const c=document.getElementById(containerId);
-  const today=new Date().toISOString().slice(0,10);
   try{
-    const r=await fetch(`https://raw.githubusercontent.com/RadioSourcesdeVie/Radio-Sources-de-Vie/main/content/${type}/${today}.json`);
+    const r=await fetch(`${REPO}/content/${type}/${TODAY}.json`);
     if(!r.ok)throw new Error();
     const d=await r.json();
-    c.innerHTML=`<div class="spiritual-card"><div class="card-meta">${icon} ${fmtDate(d.date||today)}</div><div class="card-title" style="font-family:'Playfair Display',serif;font-size:1.1rem;margin-bottom:.5rem">${d.title||''}</div>${d.verse?`<div class="verse">${d.verse}</div>`:''}<div class="card-body" style="line-height:1.7">${d.content||''}</div>${d.reference?`<div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 ${d.reference}</div>`:''}</div>`;
-  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Contenu du jour non encore disponible.<br><br><em>Lancez auto_push.py pour générer le contenu.</em></div></div>';}
+    c.innerHTML=`<div class="spiritual-card">
+      <div class="card-meta">${icon} ${fmtDate(d.date||TODAY)}</div>
+      <div class="card-title" style="font-family:'Playfair Display',serif;font-size:1.1rem;margin-bottom:.5rem">${d.title||''}</div>
+      ${d.verse?`<div class="verse">${d.verse}</div>`:''}
+      <div class="card-body" style="line-height:1.7">${d.content||''}</div>
+      ${d.reference?`<div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 ${d.reference}</div>`:''}
+      ${makeAudioPlayer(type,voiceName)}
+    </div>`;
+  }catch(e){
+    c.innerHTML=`<div class="spiritual-card">
+      <div class="card-body">Contenu non disponible.<br><em>Lancez auto_push.py pour générer.</em></div>
+    </div>`;}
 }
+
 async function loadWeather(){
   try{
     const r=await fetch('weather.json?t='+Date.now());
     if(!r.ok)throw new Error();
     const d=await r.json();
-    if(d.ottawa){document.getElementById('wx-ottawa-temp').textContent=Math.round(d.ottawa.temp)+'°C';document.getElementById('wx-ottawa-desc').textContent=d.ottawa.description;}
-    if(d.pap){document.getElementById('wx-pap-temp').textContent=Math.round(d.pap.temp)+'°C';document.getElementById('wx-pap-desc').textContent=d.pap.description;}
+    if(d.ottawa){document.getElementById('wx-ottawa-temp').textContent=Math.round(d.ottawa.temp)+'°C';
+      document.getElementById('wx-ottawa-desc').textContent=d.ottawa.description;}
+    if(d.pap){document.getElementById('wx-pap-temp').textContent=Math.round(d.pap.temp)+'°C';
+      document.getElementById('wx-pap-desc').textContent=d.pap.description;}
     if(d.updated)document.getElementById('wx-updated').textContent='Mis à jour: '+fmtDate(d.updated);
-  }catch(e){document.getElementById('wx-ottawa-desc').textContent='Ottawa, ON';document.getElementById('wx-pap-desc').textContent='Port-au-Prince, HT';}
+  }catch(e){
+    document.getElementById('wx-ottawa-desc').textContent='Ottawa, ON';
+    document.getElementById('wx-pap-desc').textContent='Port-au-Prince, HT';}
 }
+
 loadWeather();
 loadChretien();
 </script>
