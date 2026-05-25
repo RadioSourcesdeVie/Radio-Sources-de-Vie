@@ -1,0 +1,16 @@
+{
+  "radio": "Radio Sources de Vie Chrétienne",
+  "base_url": "https://stirring-gelato-c72880.netlify.app",
+  "updated": "2026-05-25",
+  "feeds": {
+    "prayer_matin": "https://stirring-gelato-c72880.netlify.app/rss/prayer_matin.xml",
+    "prayer_soir": "https://stirring-gelato-c72880.netlify.app/rss/prayer_soir.xml",
+    "testimony": "https://stirring-gelato-c72880.netlify.app/rss/testimony.xml",
+    "sabbat": "https://stirring-gelato-c72880.netlify.app/rss/sabbat.xml",
+    "meteo": "https://stirring-gelato-c72880.netlify.app/rss/meteo.xml",
+    "resume_chretien": "https://stirring-gelato-c72880.netlify.app/rss/resume_chretien.xml",
+    "resume_haiti": "https://stirring-gelato-c72880.netlify.app/rss/resume_haiti.xml",
+    "resume_monde": "https://stirring-gelato-c72880.netlify.app/rss/resume_monde.xml",
+    "resume_sport": "https://stirring-gelato-c72880.netlify.app/rss/resume_sport.xml"
+  }
+}

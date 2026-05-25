@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Résumé Nouvelles Internationales — Radio Sources de Vie</title>
+    <description>Résumé des nouvelles internationales — Voix Charlotte</description>
+    <link>https://stirring-gelato-c72880.netlify.app</link>
+    <language>fr</language>
+    <lastBuildDate>Mon, 25 May 2026 17:52:28 +0000</lastBuildDate>
+    <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <item>
+      <title>L'essentiel du jour - 25 mai 2026</title>
+      <description>Résumé des nouvelles internationales — Voix Charlotte — 2026-05-25</description>
+      <pubDate>Mon, 25 May 2026 17:52:28 +0000</pubDate>
+      <enclosure url="https://stirring-gelato-c72880.netlify.app/audio/resumes/monde_2026-05-25.mp3" length="409644" type="audio/mpeg"/>
+      <guid>https://stirring-gelato-c72880.netlify.app/audio/resumes/monde_2026-05-25.mp3</guid>
+      <itunes:duration>00:01:00</itunes:duration>
+    </item>
+  </channel>
+</rss>

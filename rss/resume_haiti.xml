@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Résumé Nouvelles Haïti — Radio Sources de Vie</title>
+    <description>Résumé des nouvelles d'Haïti — Voix Charlotte</description>
+    <link>https://stirring-gelato-c72880.netlify.app</link>
+    <language>fr</language>
+    <lastBuildDate>Mon, 25 May 2026 17:52:28 +0000</lastBuildDate>
+    <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <item>
+      <title>Nouvelles d'Haïti: Célébrations, crises et débats sportifs</title>
+      <description>Résumé des nouvelles d'Haïti — Voix Charlotte — 2026-05-25</description>
+      <pubDate>Mon, 25 May 2026 17:52:28 +0000</pubDate>
+      <enclosure url="https://stirring-gelato-c72880.netlify.app/audio/resumes/haiti_2026-05-25.mp3" length="492817" type="audio/mpeg"/>
+      <guid>https://stirring-gelato-c72880.netlify.app/audio/resumes/haiti_2026-05-25.mp3</guid>
+      <itunes:duration>00:01:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
