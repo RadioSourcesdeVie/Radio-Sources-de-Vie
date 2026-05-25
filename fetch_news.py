@@ -9,91 +9,78 @@ except ImportError:
     sys.exit("pip install requests feedparser")
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
-
-HEADERS = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) Chrome/120.0 Safari/537.36",
-    "Accept": "application/rss+xml, application/xml, text/xml, */*",
-}
-
-# Proxy RSS2JSON qui contourne les blocages réseau
-RSS2JSON = "https://api.rss2json.com/v1/api.json?rss_url="
+HEADERS = {"User-Agent": "Mozilla/5.0 Chrome/120.0 Safari/537.36"}
 
 FEEDS = {
     "chretien": [
-        {"url": "https://www.crosswalk.com/rss/",                          "source": "Crosswalk"},
-        {"url": "https://www.thegospelcoalition.org/feed/",                "source": "Gospel Coalition"},
-        {"url": "https://www.christianitytoday.com/ct/rss.xml",           "source": "Christianity Today"},
+        {"url": "https://www.info-chretienne.com/feed/",         "source": "Info Chrétienne"},
+        {"url": "https://morningstarnews.org/feed/",             "source": "Morning Star News"},
+        {"url": "https://www.porteouverte.org/feed/",            "source": "Porte Ouverte"},
+        {"url": "https://www.christianpost.com/rss/all",         "source": "Christian Post"},
     ],
     "haiti": [
-        {"url": "https://www.haitilibre.com/rssfeed.php",                  "source": "Haiti Libre"},
-        {"url": "https://www.haitiantimes.com/feed/",                      "source": "Haitian Times"},
-        {"url": "https://ayibopost.com/feed/",                             "source": "Ayibo Post"},
+        {"url": "https://www.haitilibre.com/rssfeed.php",        "source": "Haiti Libre"},
+        {"url": "https://www.metropolehaiti.com/feed/",          "source": "Metropole Haiti"},
+        {"url": "https://www.alterpresse.org/rss.php",           "source": "AlterPresse"},
+        {"url": "https://lenouvelliste.com/rss/",                "source": "Le Nouvelliste"},
     ],
     "monde": [
-        {"url": "https://feeds.bbci.co.uk/afrique/rss.xml",               "source": "BBC Afrique"},
-        {"url": "https://www.france24.com/fr/rss",                        "source": "France 24"},
-        {"url": "https://www.voanews.com/api/zyrqmveitmqt",               "source": "VOA Afrique"},
+        {"url": "https://feeds.bbci.co.uk/afrique/rss.xml",      "source": "BBC Afrique"},
+        {"url": "https://www.france24.com/fr/rss",               "source": "France 24"},
+        {"url": "https://news.un.org/feed/subscribe/fr/news/all/rss.xml", "source": "ONU Info"},
+    ],
+    "sport": [
+        {"url": "https://www.rfi.fr/fr/podcasts/sports/rss",     "source": "RFI Sport"},
+        {"url": "https://www.haitisports.com/feed/",             "source": "Haiti Sport"},
     ],
 }
 
-def fetch_via_proxy(feed_conf, max_items=5):
-    """Essaie d'abord direct, puis via proxy RSS2JSON."""
+def fetch_feed(feed_conf, max_items=5):
     items = []
-    
-    # Essai 1: direct avec requests
+    # Essai 1: requests direct
     try:
-        r = requests.get(feed_conf["url"], headers=HEADERS, timeout=10)
+        r = requests.get(feed_conf["url"], headers=HEADERS, timeout=12)
         if r.status_code == 200:
             d = feedparser.parse(r.content)
             if d.entries:
-                return parse_feedparser(d, feed_conf["source"], max_items)
+                return parse_entries(d.entries[:max_items], feed_conf["source"])
     except Exception:
         pass
-    
-    # Essai 2: via proxy RSS2JSON
+    # Essai 2: proxy RSS2JSON
     try:
-        proxy_url = RSS2JSON + feed_conf["url"]
-        r = requests.get(proxy_url, timeout=10)
+        proxy = "https://api.rss2json.com/v1/api.json?rss_url=" + feed_conf["url"]
+        r = requests.get(proxy, timeout=12)
         if r.status_code == 200:
             data = r.json()
             if data.get("status") == "ok":
+                items = []
                 for item in data.get("items", [])[:max_items]:
                     desc = re.sub(r"<[^>]+>", "", item.get("description","")).strip()[:300]
-                    items.append({
-                        "title":  item.get("title", "Sans titre"),
-                        "link":   item.get("link", "#"),
-                        "desc":   desc,
-                        "date":   item.get("pubDate", ""),
-                        "source": feed_conf["source"],
-                    })
+                    items.append({"title": item.get("title","Sans titre"),
+                        "link": item.get("link","#"), "desc": desc,
+                        "date": item.get("pubDate",""), "source": feed_conf["source"]})
                 return items
     except Exception:
         pass
-    
-    # Essai 3: feedparser direct (fallback)
+    # Essai 3: feedparser direct
     try:
         d = feedparser.parse(feed_conf["url"])
         if d.entries:
-            return parse_feedparser(d, feed_conf["source"], max_items)
+            return parse_entries(d.entries[:max_items], feed_conf["source"])
     except Exception as e:
         print(f"  ⚠️  {feed_conf['source']}: {e}")
-    
     return items
 
-def parse_feedparser(d, source, max_items):
+def parse_entries(entries, source):
     items = []
-    for entry in d.entries[:max_items]:
+    for entry in entries:
         pub_date = ""
-        if hasattr(entry, "published_parsed") and entry.published_parsed:
+        if hasattr(entry,"published_parsed") and entry.published_parsed:
             pub_date = datetime(*entry.published_parsed[:6]).isoformat()
-        desc = re.sub(r"<[^>]+>", "", entry.get("summary","")).strip()[:300]
-        items.append({
-            "title":  entry.get("title", "Sans titre"),
-            "link":   entry.get("link", "#"),
-            "desc":   desc,
-            "date":   pub_date,
-            "source": source,
-        })
+        desc = re.sub(r"<[^>]+>","",entry.get("summary","")).strip()[:300]
+        items.append({"title": entry.get("title","Sans titre"),
+            "link": entry.get("link","#"), "desc": desc,
+            "date": pub_date, "source": source})
     return items
 
 def main():
@@ -103,7 +90,7 @@ def main():
         print(f"\n📡 {category}")
         articles = []
         for f in feeds:
-            items = fetch_via_proxy(f)
+            items = fetch_feed(f)
             articles.extend(items)
             total += len(items)
             print(f"  {'✅' if items else '⚠️ '} {f['source']}: {len(items)} articles")
@@ -114,17 +101,15 @@ def main():
     out_dir.mkdir(parents=True, exist_ok=True)
     for category, articles in all_news.items():
         out = out_dir / f"{category}_{TODAY}.json"
-        out.write_text(json.dumps({
-            "category": category, "date": TODAY,
-            "updated": datetime.utcnow().isoformat()+"Z",
-            "articles": articles
-        }, ensure_ascii=False, indent=2), encoding="utf-8")
+        out.write_text(json.dumps({"category":category,"date":TODAY,
+            "updated":datetime.utcnow().isoformat()+"Z","articles":articles},
+            ensure_ascii=False, indent=2), encoding="utf-8")
 
     Path("news_latest.json").write_text(json.dumps({
         "updated": datetime.utcnow().isoformat()+"Z",
         **{k: v[:5] for k,v in all_news.items()}
     }, ensure_ascii=False, indent=2), encoding="utf-8")
-    print(f"\n✅  {total} articles au total → news_latest.json")
+    print(f"\n✅  {total} articles → news_latest.json")
 
 if __name__ == "__main__":
     main()

@@ -1,49 +1,56 @@
 {
   "category": "monde",
   "date": "2026-05-25",
-  "updated": "2026-05-25T10:00:28.154566Z",
+  "updated": "2026-05-25T14:15:43.204034Z",
   "articles": [
+    {
+      "title": "🇸🇳 Sénégal : qui succédera à Ousmane Sonko ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-%F0%9F%87%B8%F0%9F%87%B3-s%C3%A9n%C3%A9gal-qui-succ%C3%A9dera-%C3%A0-ousmane-sonko",
+      "desc": "La course à la Primature est lancée au Sénégal, après le limogeage d'Ousmane Sonko. Le président Bassirou Diomaye Faye a immédiatement entamé des consultations pour lui trouver un successeur. Quel sera le profil du prochain chef de gouvernement ?\n \nRetrouvez l'analyse de Babacar Ndiaye, analyste pol",
+      "date": "2026-05-25T13:55:59",
+      "source": "France 24"
+    },
+    {
+      "title": "Derrière l'image : objectif Lune pour la Chine avec sa mission Shenzhou-23",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-derri%C3%A8re-l-image-objectif-lune-pour-la-chine-avec-sa-mission-shenzhou-23",
+      "desc": "La Chine a lancé son vaisseau habité Shenzhou-23 et a réussi à l'amarrer à une station spatiale tôt lundi, dans le cadre des ambitions de Pékin d'envoyer des humains sur la Lune d'ici 2030, ont rapporté les médias d'État.",
+      "date": "2026-05-25T13:54:13",
+      "source": "France 24"
+    },
+    {
+      "title": "Musique : Tayc dévoile son deuxième album très attendu",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-musique-tayc-d%C3%A9voile-son-deuxi%C3%A8me-album-tr%C3%A8s-attendu",
+      "desc": "Tayc sera en concert à Lyon, le vendredi 23 avril 2027. Dans le cadre de son Joÿa Tour, le chanteur de RnB portera sur scène les titres de son deuxième album solo, Joÿa, sorti en 2026.",
+      "date": "2026-05-25T13:52:58",
+      "source": "France 24"
+    },
+    {
+      "title": "Présidentielle en Colombie : la campagne s'achève avant l'élection du 31 mai",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-pr%C3%A9sidentielle-en-colombie-la-campagne-s-ach%C3%A8ve-avant-l-%C3%A9lection-du-31-mai",
+      "desc": "La campagne pour l'élection présidentielle du 31 mai en Colombie s'est achevée dimanche et la gauche, qui fait face à la droite conservatrice en plein retour de la violence armée, s'accroche jusqu'au dernier jour pour conserver le pouvoir.",
+      "date": "2026-05-25T13:51:51",
+      "source": "France 24"
+    },
+    {
+      "title": "Après trois mois de bras de fer entre l'Iran et les États-Unis, un accord bientôt scellé ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-apr%C3%A8s-trois-mois-de-bras-de-fer-entre-l-iran-et-les-%C3%A9tats-unis-un-accord-bient%C3%B4t-scell%C3%A9",
+      "desc": "L'Iran a fait état lundi de progrès dans les négociations avec les États-Unis pour mettre fin durablement à la guerre mais a écarté l'espoir d'un accord imminent, après des signaux contradictoires au cours des dernières 48 heures.",
+      "date": "2026-05-25T13:50:00",
+      "source": "France 24"
+    },
+    {
+      "title": "Une invasion américaine est-elle envisageable ? 3 scénarios possibles pour la crise cubaine",
+      "link": "https://www.bbc.com/afrique/articles/cgrpldexej2o?at_medium=RSS&at_campaign=rss",
+      "desc": "L'administration Trump a exercé une pression économique énorme sur le gouvernement communiste de l'île.",
+      "date": "2026-05-25T11:56:59",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Après la rupture, quelles perspectives pour Ousmane Sonko et Bassirou Diomaye Faye?",
       "link": "https://www.bbc.com/afrique/articles/cr5p16jlp3po?at_medium=RSS&at_campaign=rss",
       "desc": "La rupture entre le président sénégalais Bassirou Diomaye Faye et son Premier ministre Ousmane Sonko, ouvre une période d’incertitude majeure pour le Sénégal, entre risque de fracture interne au parti au pouvoir, recomposition politique et repositionnement des ambitions présidentielles en vue de 202",
       "date": "2026-05-25T09:57:08",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Bénin : le président Romuald Wadagni succède officiellement à Patrice Talon",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-b%C3%A9nin-le-pr%C3%A9sident-romuald-wadagni-succ%C3%A8de-officiellement-%C3%A0-patrice-talon",
-      "desc": "Au Bénin, Romuald Wadagni a officiellement été investi chef de l'État ce dimanche 24 mai. Il a prêté serment devant la Cour constitutionnelle lors d’une cérémonie qui s'est déroulée en présence de nombreuses figures de la scène politique béninoise ainsi que d'une quinzaine de délégations étrangères,",
-      "date": "2026-05-25T09:21:37",
-      "source": "France 24"
-    },
-    {
-      "title": "Spaceweek : le Sénégal veut être un hub africain de l'espace",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-spaceweek-le-s%C3%A9n%C3%A9gal-veut-%C3%AAtre-un-hub-africain-de-l-espace",
-      "desc": "Le Sénégal se positionne dans le secteur de l’astronomie et utilise de plus en plus les données issues de cette science pour son développement. Cette année les réflexions portent sur la défense. Les précisions de notre correspondant à Dakar Elimane Ndao.",
-      "date": "2026-05-25T09:18:15",
-      "source": "France 24"
-    },
-    {
-      "title": "En France, le \"dôme de chaleur\" continue de s'étendre : 18 départements placés en vigilance jaune",
-      "link": "https://www.france24.com/fr/france/20260525-en-france-le-d%C3%B4me-de-chaleur-continue-de-s-%C3%A9tendre-18-d%C3%A9partements-plac%C3%A9s-en-vigilance-jaune",
-      "desc": "Météo-France a placé lundi 18 départements en vigilance jaune, dont Paris et sa petite couronne, en raison de la vague de chaleur que connaît actuellement la France et qui devrait durer toute la semaine.",
-      "date": "2026-05-25T09:17:09",
-      "source": "France 24"
-    },
-    {
-      "title": "Drones militaires : une alliance européenne pour rattraper le retard",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260525-drones-militaires-une-alliance-europ%C3%A9enne-pour-rattraper-le-retard",
-      "desc": "La Commission européenne lance une alliance des drones avec l'Ukraine pour structurer une filière industrielle européenne. Objectif : produire plus vite, en plus grand nombre, et réduire les dépendances face aux États-Unis, à la Chine, à la Russie ou encore à l'Iran.",
-      "date": "2026-05-25T08:42:42",
-      "source": "France 24"
-    },
-    {
-      "title": "Mission spatiale Shenzhou-23 : la Chine dans la course vers la Lune",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260525-mission-spatiale-shenzhou-23-la-chine-dans-la-course-vers-la-lune",
-      "desc": "La Chine a lancé son vaisseau habité Shenzhou-23 et a réussi à l'amarrer à une station spatiale tôt lundi, dans le cadre des ambitions de Pékin d'envoyer des humains sur la Lune d'ici 2030, ont rapporté les médias d'État.",
-      "date": "2026-05-25T08:41:21",
-      "source": "France 24"
     },
     {
       "title": "Mohamed Salah – le parcours du « roi égyptien »",
@@ -60,11 +67,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "« Née avec un double utérus et un double vagin » : la vie d'Abigael Kendi face à une condition rare",
-      "link": "https://www.bbc.com/afrique/articles/c62xrq3r6k9o?at_medium=RSS&at_campaign=rss",
-      "desc": "Depuis 2020, Abigael fait face à une série de complications de santé liées à sa maladie, traversant une épreuve marquée par l'incertitude, la résilience et la nécessité de soins médicaux continus.",
-      "date": "2026-05-24T12:31:53",
-      "source": "BBC Afrique"
+      "title": "« J’espère vraiment que mes voisins et mes amis sont en vie » : Kyiv visée par des frappes russes massives",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158885",
+      "desc": "Quelque 90 missiles, dont un puissant missile balistique hypersonique, ainsi qu'une soixantaine de drones ont visé Kyiv dans la nuit de samedi à dimanche lors d’une attaque russe massive contre l’Ukraine. Le plus haut responsable de l’ONU dans le pays a appelé à mettre fin aux atteintes contre les c",
+      "date": "2026-05-24T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Raúl Castro, le dernier grand symbole de la révolution cubaine, est dans le collimateur des États-Unis",
@@ -72,6 +79,34 @@
       "desc": "Combattant révolutionnaire, chef militaire, successeur de Fidel et protagoniste du dégel avec Obama : tel a été le parcours du dirigeant cubain qui fait aujourd'hui face à des accusations aux États-Unis.",
       "date": "2026-05-24T09:00:21",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "À la clôture de l’Assemblée mondiale de la Santé, l’OMS alerte sur la vulnérabilité du monde face aux épidémies",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158884",
+      "desc": "Les récentes flambées d’Ebola et de hantavirus montrent que le monde reste vulnérable face à des maladies infectieuses à propagation rapide, a averti samedi le chef de l’Organisation mondiale de la santé (OMS), Tedros Adhanom Ghebreyesus, à la clôture de la 79e Assemblée mondiale de la Santé à Genèv",
+      "date": "2026-05-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Le Forum urbain mondial adopte l’Appel de Bakou à l’action face à la crise mondiale du logement",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158883",
+      "desc": "Le plus grand Forum urbain mondial jamais organisé – avec plus de 57.000 participants – s’est achevé vendredi à Bakou par un appel urgent à repenser la manière dont le monde loge ses populations. Une nouvelle feuille de route exhorte gouvernements, villes et communautés à agir ensemble face à une cr",
+      "date": "2026-05-22T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Afghanistan : l’ONU appelle les États à mettre fin aux retours forcés",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158877",
+      "desc": "Le chef des droits de l’homme de l’ONU a mis en garde, vendredi, contre la « tendance persistante » aux retours forcés de réfugiés et de demandeurs d’asile afghans depuis les pays d’accueil vers l’Afghanistan, en violation du droit international des droits de l’homme et du droit des réfugiés.",
+      "date": "2026-05-22T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ukraine : le coût humain de la guerre témoigne d’un mépris du droit international, affirme l'ONU au Conseil",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158882",
+      "desc": "Le Conseil de sécurité s'est réuni vendredi à la demande de la Russie, qui a accusé l’Ukraine d’avoir visé dans la nuit une résidence étudiante dans la région occupée de Louhansk, faisant selon Moscou six morts — dont des enfants — et des dizaines de blessés. Kyiv a nié avoir ciblé ce bâtiment civil",
+      "date": "2026-05-22T12:00:00",
+      "source": "ONU Info"
     }
   ]
 }
