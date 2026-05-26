@@ -7,7 +7,7 @@ import json
 from datetime import datetime
 from pathlib import Path
 
-BASE_URL = "https://stirring-gelato-c72880.netlify.app"
+BASE_URL = "https://www.radiosourcesdevie.org"
 TODAY = datetime.now().strftime("%Y-%m-%d")
 NOW_RFC = datetime.utcnow().strftime("%a, %d %b %Y %H:%M:%S +0000")
 
