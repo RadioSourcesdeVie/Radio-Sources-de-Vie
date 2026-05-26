@@ -3,6 +3,7 @@ cd "/c/Users/avena/Desktop/radio sources De Vie"
 source .env
 echo "📻 Radio Sources de Vie — $(date '+%d/%m/%Y a %Hh%M')"
 python fetch_weather.py --api-key "$OWM_KEY"
+python generate_meteo_audio.py --eleven-key "$ELEVEN_KEY"
 python fetch_news.py
 python generate_content.py --api-key "$ANTHROPIC_KEY" --type all
 python generate_sermon.py --api-key "$ANTHROPIC_KEY"
