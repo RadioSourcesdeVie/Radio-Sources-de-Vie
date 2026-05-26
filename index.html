@@ -3,364 +3,478 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Radio Sources de Vie Chrétienne</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<title>Radio Sources de Vie — Station Chrétienne</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--gold:#C9A84C;--gold-light:#F0D080;--deep:#1A0A2E;--cream:#FAF3E0}
 *{margin:0;padding:0;box-sizing:border-box}
-body{background:var(--deep);color:var(--cream);font-family:'Lato',sans-serif}
-header{background:linear-gradient(135deg,#0d0520,#1A0A2E,#2a0e1e);border-bottom:2px solid var(--gold);padding:0 1.5rem;position:sticky;top:0;z-index:100;display:flex;align-items:center;justify-content:space-between;height:64px}
-.logo-text{font-family:'Playfair Display',serif;font-size:1.1rem;color:var(--gold);font-weight:700}
-.logo-sub{font-size:.65rem;color:var(--gold-light);opacity:.8;letter-spacing:2px;text-transform:uppercase}
-.live-badge{display:flex;align-items:center;gap:8px;background:rgba(201,168,76,.15);border:1px solid var(--gold);border-radius:20px;padding:6px 14px;text-decoration:none;color:var(--gold);font-size:.85rem;font-weight:700}
-.live-dot{width:8px;height:8px;border-radius:50%;background:#e74c3c;animation:pulse 1.5s infinite}
-@keyframes pulse{0%,100%{opacity:1;transform:scale(1)}50%{opacity:.5;transform:scale(1.3)}}
-.hero{background:linear-gradient(180deg,#1A0A2E,#0d0520);padding:3rem 1.5rem 2rem;text-align:center;border-bottom:1px solid rgba(201,168,76,.2)}
-.hero h1{font-family:'Playfair Display',serif;font-size:clamp(1.6rem,5vw,3rem);font-weight:900;background:linear-gradient(135deg,var(--gold),var(--gold-light),var(--gold));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:.5rem;line-height:1.2}
-.hero p{color:rgba(250,243,224,.7);font-size:.95rem;max-width:500px;margin:0 auto 1.5rem}
-.player-box{background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.3);border-radius:16px;padding:1.2rem 1.5rem;max-width:480px;margin:0 auto}
-.player-title{font-size:.75rem;color:var(--gold);letter-spacing:2px;text-transform:uppercase;margin-bottom:1rem}
-audio{width:100%;height:40px}
-.section{padding:1.5rem;max-width:900px;margin:0 auto}
-.section-title{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--gold);border-left:3px solid var(--gold);padding-left:10px;margin-bottom:1rem}
-.weather-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem}
-.weather-card{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.2);border-radius:12px;padding:1rem;text-align:center}
-.weather-card .city{font-size:.75rem;letter-spacing:1.5px;text-transform:uppercase;color:var(--gold);margin-bottom:.3rem}
-.weather-card .temp{font-family:'Playfair Display',serif;font-size:2rem;font-weight:700}
-.weather-card .desc{font-size:.8rem;color:rgba(250,243,224,.6)}
-.tabs{display:flex;gap:4px;overflow-x:auto;margin-bottom:1rem;padding-bottom:4px}
-.tab{flex-shrink:0;background:rgba(255,255,255,.05);border:1px solid rgba(201,168,76,.2);border-radius:20px;padding:6px 14px;font-size:.8rem;cursor:pointer;color:rgba(250,243,224,.7);transition:all .2s;white-space:nowrap}
-.tab.active,.tab:hover{background:rgba(201,168,76,.2);border-color:var(--gold);color:var(--gold)}
-.cards{display:flex;flex-direction:column;gap:.8rem}
-.card{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.15);border-radius:10px;padding:1rem}
-.card:hover{border-color:rgba(201,168,76,.4)}
-.card-title{font-family:'Playfair Display',serif;font-size:.95rem;font-weight:700;line-height:1.3}
-.card-meta{font-size:.72rem;color:var(--gold);opacity:.8;margin:.3rem 0}
-.card-body{font-size:.82rem;color:rgba(250,243,224,.7);line-height:1.5}
-.card a{color:var(--gold);text-decoration:none}
-.spiritual-card{background:linear-gradient(135deg,rgba(107,26,42,.3),rgba(26,10,46,.5));border:1px solid rgba(201,168,76,.3);border-radius:12px;padding:1.2rem}
-.verse{font-family:'Playfair Display',serif;font-style:italic;font-size:.9rem;color:var(--gold-light);line-height:1.6;border-left:2px solid var(--gold);padding-left:10px;margin:.8rem 0}
-.audio-player{margin-top:1rem;background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.2);border-radius:10px;padding:.8rem 1rem}
-.audio-label{font-size:.7rem;color:var(--gold);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.5rem;display:flex;align-items:center;gap:6px}
-.loading{text-align:center;padding:2rem;color:#888;font-size:.9rem}
-.spinner{display:inline-block;width:20px;height:20px;border:2px solid rgba(201,168,76,.3);border-top-color:var(--gold);border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
+:root{--green:#2D6A4F;--green-dark:#1B4332;--green-light:#52B788;--green-pale:#D8F3DC;--gold:#B7791F;--white:#FFFFFF;--gray:#6B7280;--light:#F9FAFB;--text:#111827}
+body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white)}
+
+/* HEADER */
+header{background:var(--green-dark);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:70px;position:sticky;top:0;z-index:100;box-shadow:0 2px 10px rgba(0,0,0,0.2)}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-icon{width:42px;height:42px;background:var(--green-light);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.2rem}
+.logo-name{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--white);font-weight:700}
+.logo-sub{font-size:.7rem;color:rgba(255,255,255,.6);letter-spacing:1px}
+nav{display:flex;align-items:center;gap:1.5rem}
+nav a{color:rgba(255,255,255,.85);text-decoration:none;font-size:.9rem;font-weight:500;transition:color .2s}
+nav a:hover{color:var(--white)}
+.btn-live{background:#DC2626;color:var(--white);padding:8px 18px;border-radius:20px;font-size:.85rem;font-weight:600;text-decoration:none;display:flex;align-items:center;gap:6px;animation:pulse-red 2s infinite}
+@keyframes pulse-red{0%,100%{opacity:1}50%{opacity:.8}}
+
+/* HERO */
+.hero{background:linear-gradient(135deg,var(--green-dark) 0%,var(--green) 100%);padding:3rem 2rem;text-align:center;color:var(--white)}
+.hero-cross{font-size:2rem;margin-bottom:.5rem;opacity:.8}
+.hero h1{font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;margin-bottom:.8rem}
+.hero p{color:rgba(255,255,255,.8);font-size:1rem;max-width:550px;margin:0 auto 2rem}
+
+/* PLAYER */
+.player-card{background:var(--white);border-radius:16px;padding:1.5rem;max-width:500px;margin:0 auto;box-shadow:0 10px 40px rgba(0,0,0,0.2)}
+.player-segment{font-size:.75rem;color:var(--green);font-weight:600;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.3rem}
+.player-title{font-family:'Playfair Display',serif;font-size:1.1rem;color:var(--text);font-weight:700;margin-bottom:.3rem}
+.player-time{font-size:.75rem;color:var(--gray);margin-bottom:1rem}
+.player-controls{display:flex;align-items:center;gap:1rem;margin-bottom:.8rem}
+.btn-play{background:var(--green);color:var(--white);border:none;width:44px;height:44px;border-radius:50%;font-size:1rem;cursor:pointer;display:flex;align-items:center;justify-content:center;flex-shrink:0}
+.btn-play:hover{background:var(--green-dark)}
+audio{flex:1;height:36px}
+.player-next{font-size:.75rem;color:var(--gray);text-align:center}
+.player-next span{color:var(--green);font-weight:600}
+
+/* MÉTÉO */
+.meteo-bar{background:var(--green-pale);padding:.8rem 2rem;display:flex;align-items:center;justify-content:center;gap:3rem;flex-wrap:wrap}
+.meteo-item{display:flex;align-items:center;gap:8px;font-size:.9rem}
+.meteo-flag{font-size:1.1rem}
+.meteo-temp{font-weight:700;color:var(--green-dark);font-size:1.1rem}
+.meteo-desc{color:var(--gray);font-size:.8rem}
+.meteo-audio{display:flex;align-items:center;gap:8px;font-size:.8rem;color:var(--green)}
+
+/* SECTIONS */
+.section{padding:2.5rem 2rem;max-width:1100px;margin:0 auto}
+.section-title{font-family:'Playfair Display',serif;font-size:1.6rem;color:var(--green-dark);text-align:center;margin-bottom:.5rem}
+.section-sub{color:var(--gray);text-align:center;font-size:.9rem;margin-bottom:2rem}
+
+/* HORAIRE */
+.schedule-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem}
+.schedule-card{border:1.5px solid var(--green-pale);border-radius:12px;padding:1.2rem;transition:all .2s;cursor:pointer}
+.schedule-card:hover{border-color:var(--green-light);box-shadow:0 4px 15px rgba(45,106,79,.1)}
+.schedule-card.active{border-color:var(--green);background:var(--green-pale)}
+.schedule-time{font-size:.85rem;color:var(--gold);font-weight:700;margin-bottom:.4rem}
+.schedule-name{font-weight:600;color:var(--text);margin-bottom:.3rem;display:flex;align-items:center;gap:6px}
+.schedule-desc{font-size:.8rem;color:var(--gray)}
+
+/* TABS CONTENU */
+.tabs{display:flex;gap:6px;overflow-x:auto;padding-bottom:4px;margin-bottom:1.5rem;justify-content:center;flex-wrap:wrap}
+.tab{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;white-space:nowrap;font-weight:500}
+.tab:hover,.tab.active{background:var(--green);border-color:var(--green);color:var(--white)}
+
+/* CARDS CONTENU */
+.content-area{min-height:200px}
+.spiritual-card{background:var(--light);border:1.5px solid var(--green-pale);border-radius:12px;padding:1.5rem;margin-bottom:1rem}
+.spiritual-title{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--green-dark);font-weight:700;margin-bottom:.5rem}
+.spiritual-verse{font-style:italic;color:var(--green);border-left:3px solid var(--green-light);padding-left:10px;margin:.8rem 0;line-height:1.6;font-size:.9rem}
+.spiritual-text{color:var(--text);line-height:1.8;font-size:.9rem;white-space:pre-line}
+.spiritual-ref{font-size:.75rem;color:var(--gray);margin-top:.5rem}
+.audio-box{background:var(--white);border:1.5px solid var(--green-pale);border-radius:8px;padding:.8rem 1rem;margin-top:1rem;display:flex;align-items:center;gap:10px}
+.audio-label{font-size:.72rem;color:var(--green);font-weight:600;letter-spacing:1px;text-transform:uppercase;white-space:nowrap}
+audio.mini{flex:1;height:32px}
+
+/* NEWS CARDS */
+.news-card{background:var(--white);border:1.5px solid #E5E7EB;border-radius:10px;padding:1rem;margin-bottom:.8rem;transition:border-color .2s}
+.news-card:hover{border-color:var(--green-light)}
+.news-title{font-weight:600;color:var(--text);font-size:.92rem;margin-bottom:.3rem;line-height:1.4}
+.news-title a{color:var(--text);text-decoration:none}
+.news-title a:hover{color:var(--green)}
+.news-source{font-size:.72rem;color:var(--green);font-weight:600;margin-bottom:.3rem}
+.news-desc{font-size:.82rem;color:var(--gray);line-height:1.5}
+
+/* ARCHIVES */
+.archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:1rem}
+.archive-card{background:var(--green);border-radius:10px;padding:1.2rem;color:var(--white);cursor:pointer;transition:background .2s;display:flex;justify-content:space-between;align-items:center}
+.archive-card:hover{background:var(--green-dark)}
+.archive-info{}
+.archive-type{font-size:.72rem;opacity:.8;letter-spacing:1px;text-transform:uppercase;margin-bottom:.3rem}
+.archive-title{font-weight:600;font-size:.92rem}
+.archive-date{font-size:.75rem;opacity:.7;margin-top:.2rem}
+.archive-play{width:36px;height:36px;background:rgba(255,255,255,.2);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:.9rem;flex-shrink:0}
+
+/* DONS */
+.dons-section{background:var(--green-dark);padding:3rem 2rem;text-align:center;color:var(--white)}
+.dons-title{font-family:'Playfair Display',serif;font-size:1.8rem;margin-bottom:.8rem}
+.dons-text{color:rgba(255,255,255,.8);max-width:500px;margin:0 auto 2rem;font-size:.95rem;line-height:1.6}
+.dons-grid{display:flex;gap:1rem;justify-content:center;flex-wrap:wrap}
+.don-btn{background:var(--white);color:var(--green-dark);border:none;padding:12px 28px;border-radius:8px;font-weight:700;font-size:.95rem;cursor:pointer;transition:all .2s}
+.don-btn:hover{background:var(--green-pale)}
+.don-btn.custom{background:transparent;color:var(--white);border:2px solid rgba(255,255,255,.5)}
+.don-btn.custom:hover{background:rgba(255,255,255,.1)}
+
+/* FOOTER */
+footer{background:var(--green-dark);border-top:1px solid rgba(255,255,255,.1);padding:1.5rem 2rem;text-align:center;color:rgba(255,255,255,.6);font-size:.8rem}
+footer a{color:var(--green-light);text-decoration:none}
+footer strong{color:var(--white)}
+
+/* LOADING */
+.loading{text-align:center;padding:2rem;color:var(--gray)}
+.spinner{display:inline-block;width:20px;height:20px;border:2px solid var(--green-pale);border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
 @keyframes spin{to{transform:rotate(360deg)}}
-.divider{border:none;border-top:1px solid rgba(201,168,76,.15);margin:.5rem 0}
-.update-time{font-size:.72rem;color:#888;text-align:right;margin-top:.5rem}
-footer{margin-top:2rem;background:rgba(0,0,0,.4);border-top:1px solid rgba(201,168,76,.2);padding:1.5rem;text-align:center;font-size:.75rem;color:#888}
-footer a{color:var(--gold);text-decoration:none}
+
+.divider{border:none;border-top:1px solid #E5E7EB;margin:0}
+@media(max-width:600px){nav .nav-links{display:none}.section{padding:2rem 1rem}}
 </style>
 </head>
 <body>
+
+<!-- HEADER -->
 <header>
-  <div style="display:flex;align-items:center;gap:10px">
-    <span style="font-size:1.6rem">✝️</span>
-    <div><div class="logo-text">Radio Sources de Vie</div><div class="logo-sub">Chrétienne • Ottawa &amp; Haïti</div></div>
+  <div class="logo">
+    <div class="logo-icon">✝️</div>
+    <div>
+      <div class="logo-name">Radio Sources de Vie</div>
+      <div class="logo-sub">STATION CHRÉTIENNE</div>
+    </div>
   </div>
-  <a href="archives.html" style="color:var(--gold);text-decoration:none;font-size:.8rem;margin-right:12px;opacity:.8">📚 Archives</a><a class="live-badge" href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank">
-    <span class="live-dot"></span>EN DIRECT
-  </a>
+  <nav>
+    <a href="#player" class="nav-links">En Direct</a>
+    <a href="#horaire" class="nav-links">Horaire</a>
+    <a href="#archives" class="nav-links">Archive</a>
+    <a href="#dons" class="nav-links">À Propos</a>
+    <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank" class="btn-live">
+      <span>●</span> EN DIRECT
+    </a>
+  </nav>
 </header>
 
-<div class="hero">
-  <div style="font-size:2.5rem;margin-bottom:.5rem">✝</div>
-  <h1>Sources de Vie Chrétienne</h1>
-  <p>La Parole, la Prière &amp; les Nouvelles — pour la diaspora haïtienne et francophone</p>
-  <div class="player-box">
-    <div class="player-title">🎙️ Écouter en direct</div>
-    <audio controls autoplay>
-      <source src="https://stream.zeno.fm/sgnhqhl2oeevv" type="audio/mpeg">
-    </audio>
+<!-- HERO + PLAYER -->
+<div class="hero" id="player">
+  <div class="hero-cross">✝</div>
+  <h1>Écoutez les Sources de Vie</h1>
+  <p>Votre station de radio chrétienne dédiée à la proclamation de l'Évangile en français. Prières, sermons, et témoignages de foi diffusés 24/7.</p>
+  <div class="player-card">
+    <div class="player-segment" id="current-segment">🎙️ EN DIRECT</div>
+    <div class="player-title" id="current-title">Radio Sources de Vie</div>
+    <div class="player-time" id="current-time">En continu 24/7</div>
+    <div class="player-controls">
+      <audio controls autoplay id="main-player" style="width:100%;height:40px">
+        <source src="https://stream.zeno.fm/sgnhqhl2oeevv" type="audio/mpeg">
+      </audio>
+    </div>
+    <div class="player-next">Prochainement: <span id="next-segment">Chargement...</span></div>
   </div>
 </div>
 
-<div class="section">
-  <div class="section-title">🌡️ Météo</div>
-  <div class="weather-grid">
-    <div class="weather-card">
-      <div style="font-size:1.2rem">🇨🇦</div>
-      <div class="city">Ottawa</div>
-      <div class="temp" id="wx-ottawa-temp">--°</div>
-      <div class="desc" id="wx-ottawa-desc">Chargement…</div>
-    </div>
-    <div class="weather-card">
-      <div style="font-size:1.2rem">🇭🇹</div>
-      <div class="city">Port-au-Prince</div>
-      <div class="temp" id="wx-pap-temp">--°</div>
-      <div class="desc" id="wx-pap-desc">Chargement…</div>
+<!-- MÉTÉO -->
+<div class="meteo-bar">
+  <div class="meteo-item">
+    <span class="meteo-flag">🇨🇦</span>
+    <div>
+      <div style="font-size:.7rem;color:var(--gray);text-transform:uppercase;letter-spacing:1px">Ottawa</div>
+      <span class="meteo-temp" id="wx-ottawa-temp">--°C</span>
+      <span class="meteo-desc" id="wx-ottawa-desc"></span>
     </div>
   </div>
-  <div class="update-time" id="wx-updated"></div>
-  <div id="meteo-audio" style="margin-top:.8rem;background:rgba(201,168,76,.08);border:1px solid rgba(201,168,76,.2);border-radius:10px;padding:.8rem 1rem;display:none">
-    <div style="font-size:.7rem;color:var(--gold);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.5rem">🎙️ BELLA — MÉTÉO DU JOUR</div>
-    <audio controls style="width:100%;height:36px" id="meteo-audio-player"></audio>
+  <div class="meteo-item">
+    <span class="meteo-flag">🇭🇹</span>
+    <div>
+      <div style="font-size:.7rem;color:var(--gray);text-transform:uppercase;letter-spacing:1px">Port-au-Prince</div>
+      <span class="meteo-temp" id="wx-pap-temp">--°C</span>
+      <span class="meteo-desc" id="wx-pap-desc"></span>
+    </div>
+  </div>
+  <div class="meteo-audio" id="meteo-audio-box" style="display:none">
+    <span>🎙️ Météo audio:</span>
+    <audio controls style="height:28px;width:180px" id="meteo-player"></audio>
+  </div>
+</div>
+
+<!-- CONTENU PRINCIPAL -->
+<div class="section">
+  <div class="tabs">
+    <div class="tab active" onclick="showTab('priere_matin',this)">🌅 Prière Matin</div>
+    <div class="tab" onclick="showTab('resume_chretien',this)">✝️ Chrétien</div>
+    <div class="tab" onclick="showTab('resume_haiti',this)">🇭🇹 Haïti</div>
+    <div class="tab" onclick="showTab('resume_monde',this)">🌍 Monde</div>
+    <div class="tab" onclick="showTab('resume_sport',this)">⚽ Sport</div>
+    <div class="tab" onclick="showTab('sermon',this)">📖 Sermon</div>
+    <div class="tab" onclick="showTab('temoignage',this)">❤️ Témoignage</div>
+    <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
+    <div class="tab" onclick="showTab('priere_soir',this)">🌙 Prière Soir</div>
+    <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
+  </div>
+  <div class="content-area" id="content-area">
+    <div class="loading"><span class="spinner"></span>Chargement...</div>
   </div>
 </div>
 
 <hr class="divider">
 
-<div class="section">
-  <div class="tabs">
-    <div class="tab active" onclick="showTab('priere_matin',this)">🌅 Prière Matin</div>
-    <div class="tab" onclick="showTab('resume_chretien',this)">✝️ Résumé Chrétien</div>
-    <div class="tab" onclick="showTab('chretien',this)">✝️ Chrétien</div>
-    <div class="tab" onclick="showTab('resume_haiti',this)">🇭🇹 Résumé Haïti</div>
-    <div class="tab" onclick="showTab('monde',this)">🌍 Monde</div>
-    <div class="tab" onclick="showTab('sport',this)">⚽ Sport</div>
-    <div class="tab" onclick="showTab('sermon',this)">📖 Sermon</div>
-    <div class="tab" onclick="showTab('temoignage',this)">❤️ Témoignage</div>
-    <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
-    <div class="tab" onclick="showTab('resume_monde',this)">🌍 Résumé Monde</div>
-    <div class="tab" onclick="showTab('priere_soir',this)">🌙 Prière Soir</div>
+<!-- HORAIRE -->
+<div class="section" id="horaire">
+  <div class="section-title">Horaire de la Semaine</div>
+  <div class="section-sub">Tous les jours de 05:00 à 21:00</div>
+  <div class="schedule-grid">
+    <div class="schedule-card" onclick="showTab('priere_matin',document.querySelector('.tab'))">
+      <div class="schedule-time">05:00</div>
+      <div class="schedule-name">🙏 Prière du Matin</div>
+      <div class="schedule-desc">5-7 minutes • Français</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">07:00</div>
+      <div class="schedule-name">📰 Nouvelles Matin</div>
+      <div class="schedule-desc">5 minutes • Actualités Haïti & Monde</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">09:30</div>
+      <div class="schedule-name">✝️ Sermon Matin</div>
+      <div class="schedule-desc">Texte • Parole du Seigneur</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">12:00</div>
+      <div class="schedule-name">🙏 Prière Midi</div>
+      <div class="schedule-desc">EN DIRECT par vous • Prière partagée</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">17:00</div>
+      <div class="schedule-name">📰 Nouvelles Soir</div>
+      <div class="schedule-desc">5 minutes • Actualités du jour</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">18:00</div>
+      <div class="schedule-name">❤️ Témoignage</div>
+      <div class="schedule-desc">2 minutes • Histoire de foi</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">20:00</div>
+      <div class="schedule-name">✝️ Sermon Soir</div>
+      <div class="schedule-desc">Texte • Méditation spirituelle</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">21:00</div>
+      <div class="schedule-name">🙏 Prière Soir</div>
+      <div class="schedule-desc">5-7 minutes • Repos en Dieu</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">Chaque jour</div>
+      <div class="schedule-name">🕯️ Sabbat School Nugget</div>
+      <div class="schedule-desc">2 minutes • Leçon de l'école du sabbat</div>
+    </div>
   </div>
-  <div id="tab-priere_matin"   class="cards"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-resume_chretien" class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-chretien"       class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-resume_haiti" class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-monde"          class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-sport"          class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-sermon"         class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-temoignage"     class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-sabbat"         class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-resume_monde" class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
-  <div id="tab-priere_soir"    class="cards" style="display:none"><div class="loading"><span class="spinner"></span>Chargement…</div></div>
 </div>
 
+<hr class="divider">
+
+<!-- ARCHIVES -->
+<div class="section" id="archives">
+  <div class="section-title">Archive des Émissions</div>
+  <div class="section-sub">Écoutez les sermons et témoignages précédents</div>
+  <div class="archive-grid" id="archive-grid">
+    <div class="loading"><span class="spinner"></span>Chargement archives...</div>
+  </div>
+</div>
+
+<hr class="divider">
+
+<!-- DONS -->
+<div class="dons-section" id="dons">
+  <div class="dons-title">Soutenez Notre Mission</div>
+  <div class="dons-text">Radio Sources de Vie fonctionne grâce à la générosité de nos auditeurs. Aidez-nous à continuer la proclamation de l'Évangile à travers la radio.</div>
+  <div class="dons-grid">
+    <button class="don-btn" onclick="alert('Merci! Lien de don bientôt disponible.')">Donner 5$</button>
+    <button class="don-btn" onclick="alert('Merci! Lien de don bientôt disponible.')">Donner 10$</button>
+    <button class="don-btn" onclick="alert('Merci! Lien de don bientôt disponible.')">Donner 25$</button>
+    <button class="don-btn custom" onclick="alert('Merci! Lien de don bientôt disponible.')">Montant personnalisé</button>
+  </div>
+</div>
+
+<!-- FOOTER -->
 <footer>
-  <div style="font-size:1.5rem;margin-bottom:.5rem">✝</div>
-  <strong style="color:var(--gold)">Radio Sources de Vie Chrétienne</strong><br>
-  Ottawa, Canada • Diffusion mondiale<br><br>
+  <strong>Radio Sources de Vie Chrétienne</strong> • Ottawa, Canada • Diffusion mondiale<br><br>
   <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank">🎙️ Écouter en direct</a> &nbsp;|&nbsp;
+  <a href="archives.html">📚 Archives</a> &nbsp;|&nbsp;
   <a href="https://github.com/RadioSourcesdeVie/Radio-Sources-de-Vie" target="_blank">GitHub</a><br><br>
   <em>"Je suis le chemin, la vérité et la vie." — Jean 14:6</em>
 </footer>
 
 <script>
-const REPO = "";
 const TODAY = new Date().toISOString().slice(0,10);
 
-function showTab(name,el){
-  document.querySelectorAll('[id^=tab-]').forEach(t=>t.style.display='none');
-  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
-  document.getElementById('tab-'+name).style.display='flex';
-  document.getElementById('tab-'+name).style.flexDirection='column';
-  el.classList.add('active');
-  var loaders={
-    priere_matin:  ()=>loadSpiritualContent('content/prayers/matin_'+TODAY+'.json','tab-priere_matin','🌅','Bella — Prière Matin','audio/prayers/matin_'+TODAY+'.mp3'),
-    resume_chretien:()=>loadResume('chretien','tab-resume_chretien','✝️'),
-    resume_haiti:  ()=>loadResume('haiti','tab-resume_haiti','🇭🇹'),
-    sport:         ()=>loadResume('sport','tab-sport','⚽'),
-    sermon:        ()=>loadSpiritualContent('content/sermons/'+TODAY+'.json','tab-sermon','📖','Texte — Votre voix',null),
-    temoignage:    ()=>loadSpiritualContent('content/testimonies/'+TODAY+'.json','tab-temoignage','❤️','Elli','audio/testimonies/'+TODAY+'.mp3'),
-    sabbat:        ()=>loadSpiritualContent('content/sabbat/'+TODAY+'.json','tab-sabbat','🕯️','Antoni — Sabbat School','audio/sabbat/'+TODAY+'.mp3?t='+Date.now()),
-    resume_monde:  ()=>loadResume('monde','tab-resume_monde','🌍'),
-    priere_soir:   ()=>loadSpiritualContent('content/prayers/soir_'+TODAY+'.json','tab-priere_soir','🌙','Bella — Prière Soir','audio/prayers/soir_'+TODAY+'.mp3'),
-    gemini:        loadGemini
-};
-  var c=document.getElementById('tab-'+name);
-  if(loaders[name]&&!c.dataset.loaded){loaders[name]();c.dataset.loaded='1';}
+// SCHEDULE
+const SCHEDULE = [
+  {time:'05:00',name:'Prière du Matin',icon:'🙏',tab:'priere_matin'},
+  {time:'07:00',name:'Nouvelles Matin',icon:'📰',tab:'resume_chretien'},
+  {time:'09:30',name:'Sermon',icon:'✝️',tab:'sermon'},
+  {time:'12:00',name:'Prière Midi',icon:'🙏',tab:'priere_matin'},
+  {time:'17:00',name:'Nouvelles Soir',icon:'📰',tab:'resume_monde'},
+  {time:'18:00',name:'Témoignage',icon:'❤️',tab:'temoignage'},
+  {time:'20:00',name:'Sermon Soir',icon:'✝️',tab:'sermon'},
+  {time:'21:00',name:'Prière Soir',icon:'🙏',tab:'priere_soir'},
+];
+
+function getCurrentSegment(){
+  const now = new Date();
+  const h = now.getHours(), m = now.getMinutes();
+  const cur = h*60+m;
+  for(let i=SCHEDULE.length-1;i>=0;i--){
+    const [sh,sm]=SCHEDULE[i].time.split(':').map(Number);
+    if(cur>=sh*60+sm) return {current:SCHEDULE[i],next:SCHEDULE[(i+1)%SCHEDULE.length]};
+  }
+  return {current:SCHEDULE[0],next:SCHEDULE[1]};
 }
 
-async function fetchRSS(url){
-  try{const r=await fetch('https://api.allorigins.win/get?url='+encodeURIComponent(url));
-  const j=await r.json();return new DOMParser().parseFromString(j.contents,'application/xml');}
-  catch(e){return null;}}
+function updatePlayer(){
+  const {current,next}=getCurrentSegment();
+  document.getElementById('current-segment').textContent=current.icon+' '+current.name;
+  document.getElementById('current-title').textContent='Radio Sources de Vie — En Direct';
+  document.getElementById('current-time').textContent='Diffusion: '+current.time+' • En direct sur Zeno.fm';
+  document.getElementById('next-segment').textContent=next.icon+' '+next.name+' à '+next.time;
+}
 
-function parseItems(xml,max=5){
-  if(!xml)return[];
-  return [...xml.querySelectorAll('item')].slice(0,max).map(i=>({
-    title:i.querySelector('title')?.textContent||'Sans titre',
-    desc:(i.querySelector('description')?.textContent||'').replace(/<[^>]+>/g,'').slice(0,180),
-    link:i.querySelector('link')?.textContent||'#',
-    date:i.querySelector('pubDate')?.textContent||''
-  }));}
+// TABS
+const LOADERS = {
+  priere_matin:    ()=>loadSpiritual('/content/prayers/matin_'+TODAY+'.json','🌅','Bella — Prière Matin','/audio/prayers/matin_'+TODAY+'.mp3'),
+  priere_soir:     ()=>loadSpiritual('/content/prayers/soir_'+TODAY+'.json','🌙','Bella — Prière Soir','/audio/prayers/soir_'+TODAY+'.mp3'),
+  temoignage:      ()=>loadSpiritual('/content/testimonies/'+TODAY+'.json','❤️','Elli — Témoignage','/audio/testimonies/'+TODAY+'.mp3'),
+  sabbat:          ()=>loadSpiritual('/content/sabbat/'+TODAY+'.json','🕯️','Antoni — Sabbat School','/audio/sabbat/'+TODAY+'.mp3'),
+  sermon:          ()=>loadSpiritual('/content/sermons/'+TODAY+'.json','📖','Votre voix — Sermon',null),
+  resume_chretien: ()=>loadResume('chretien','✝️'),
+  resume_haiti:    ()=>loadResume('haiti','🇭🇹'),
+  resume_monde:    ()=>loadResume('monde','🌍'),
+  resume_sport:    ()=>loadResume('sport','⚽'),
+  gemini:          ()=>loadGemini(),
+};
 
-function fmtDate(s){if(!s)return'';try{return new Date(s).toLocaleDateString('fr-CA',{day:'numeric',month:'short',hour:'2-digit',minute:'2-digit'});}catch(e){return'';}}
-
-function makeCard(item,icon='📰'){
-  return`<div class="card">
-    <div style="display:flex;align-items:flex-start;gap:10px;margin-bottom:.4rem">
-      <span style="font-size:1.2rem">${icon}</span>
-      <span class="card-title"><a href="${item.link}" target="_blank">${item.title}</a></span>
-    </div>
-    <div class="card-meta">${fmtDate(item.date)}</div>
-    <div class="card-body">${item.desc}</div>
-  </div>`;}
-
-function makeAudioPlayer(type, voiceName){
-  const mp3=`${REPO}/audio/${type}/${TODAY}.mp3`;
-  return`<div class="audio-player">
-    <div class="audio-label">🎙️ Écouter — ${voiceName}</div>
-    <audio controls style="width:100%;height:36px">
-      <source src="${mp3}" type="audio/mpeg">
-    </audio>
-  </div>`;}
-
-async function loadRSS(feeds,containerId,icon){
-  const c=document.getElementById(containerId);let html='';
-  for(const f of feeds){
-    const xml=await fetchRSS(f.url);
-    parseItems(xml,3).forEach(i=>html+=makeCard(i,icon));
+const loaded={};
+function showTab(name,el){
+  document.querySelectorAll('.tab').forEach(t=>t.classList.remove('active'));
+  if(el) el.classList.add('active');
+  if(!loaded[name]){
+    loaded[name]=true;
+    document.getElementById('content-area').innerHTML='<div class="loading"><span class="spinner"></span>Chargement...</div>';
+    if(LOADERS[name]) LOADERS[name]();
   }
-  c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';}
+}
 
-function loadChretien(){loadNewsFromJSON('chretien','tab-chretien','✝️');} function loadChretienOLD(){loadRSS([
-  {url:'https://www.crosswalk.com/rss/'},
-  {url:'https://www.thegospelcoalition.org/feed/'}
-],'tab-chretien','✝️');}
+async function fetchJSON(path){
+  try{const r=await fetch(path+'?t='+Date.now());if(!r.ok)throw new Error();return await r.json();}
+  catch(e){return null;}
+}
 
-function loadHaiti(){loadNewsFromJSON('haiti','tab-haiti','🇭🇹');} function loadHaitiOLD(){loadRSS([
-  {url:'https://www.haitiantimes.com/feed/'},
-  {url:'https://www.haitilibre.com/rssfeed.php'}
-],'tab-haiti','🇭🇹');}
+async function loadSpiritual(jsonPath,icon,voiceLabel,mp3Path){
+  const d=await fetchJSON(jsonPath);
+  const c=document.getElementById('content-area');
+  if(!d){c.innerHTML='<div class="loading">Contenu non disponible pour aujourd\'hui.</div>';return;}
+  let audio=mp3Path?`<div class="audio-box"><span class="audio-label">🎙️ ${voiceLabel}</span><audio class="mini" controls><source src="${mp3Path}" type="audio/mpeg"></audio></div>`:'';
+  c.innerHTML=`<div class="spiritual-card">
+    <div class="spiritual-title">${d.title||''}</div>
+    ${d.verse?`<div class="spiritual-verse">${d.verse}</div>`:''}
+    <div class="spiritual-text">${d.content||d.nugget||''}</div>
+    ${d.reference?`<div class="spiritual-ref">📖 ${d.reference}</div>`:''}
+    ${audio}
+  </div>`;
+}
 
-function loadMonde(){loadNewsFromJSON('monde','tab-monde','🌍');} function loadMondeOLD(){loadRSS([
-  {url:'https://feeds.bbci.co.uk/afrique/rss.xml'},
-  {url:'https://www.france24.com/fr/rss'}
-],'tab-monde','🌍');}
-
-async function loadDaily(type,containerId,icon,voiceName){
-  const c=document.getElementById(containerId);
-  try{
-    const r=await fetch(`${REPO}/content/${type}/${TODAY}.json`);
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    c.innerHTML=`<div class="spiritual-card">
-      <div class="card-meta">${icon} ${fmtDate(d.date||TODAY)}</div>
-      <div class="card-title" style="font-family:'Playfair Display',serif;font-size:1.1rem;margin-bottom:.5rem">${d.title||''}</div>
-      ${d.verse?`<div class="verse">${d.verse}</div>`:''}
-      <div class="card-body" style="line-height:1.7">${d.content||''}</div>
-      ${d.reference?`<div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 ${d.reference}</div>`:''}
-      ${makeAudioPlayer(type,voiceName)}
+async function loadResume(cat,icon){
+  const d=await fetchJSON('/content/resumes/'+cat+'_'+TODAY+'.json');
+  const c=document.getElementById('content-area');
+  let html='';
+  if(d){
+    html+=`<div class="spiritual-card">
+      <div class="spiritual-title">${icon} ${d.title||''}</div>
+      <div class="spiritual-text">${d.resume||''}</div>
+      <div class="audio-box"><span class="audio-label">🎙️ Charlotte</span><audio class="mini" controls><source src="/audio/resumes/${cat}_${TODAY}.mp3" type="audio/mpeg"></audio></div>
     </div>`;
-  }catch(e){
-    c.innerHTML=`<div class="spiritual-card">
-      <div class="card-body">Contenu non disponible.<br><em>Lancez auto_push.py pour générer.</em></div>
-    </div>`;}
+  }
+  // Articles
+  const news=await fetchJSON('/content/news/'+cat+'_'+TODAY+'.json');
+  if(news&&news.articles){
+    news.articles.slice(0,8).forEach(a=>{
+      html+=`<div class="news-card">
+        <div class="news-source">${a.source}</div>
+        <div class="news-title"><a href="${a.link}" target="_blank">${a.title}</a></div>
+        <div class="news-desc">${a.desc}</div>
+      </div>`;
+    });
+  }
+  c.innerHTML=html||'<div class="loading">Nouvelles indisponibles.</div>';
+}
+
+async function loadGemini(){
+  const d=await fetchJSON('/content/gemini/'+TODAY+'.json');
+  const c=document.getElementById('content-area');
+  if(!d){c.innerHTML='<div class="loading">Bulletin non disponible.</div>';return;}
+  let html='';
+  if(d.bulletin) html+=`<div class="spiritual-card"><div class="spiritual-title">📻 Bulletin du jour</div><div class="spiritual-text">${d.bulletin}</div></div>`;
+  if(d.commentary) html+=`<div class="spiritual-card" style="margin-top:1rem"><div class="spiritual-title">✝️ ${d.commentary.title||'Commentaire'}</div>${d.commentary.verse?`<div class="spiritual-verse">${d.commentary.verse}</div>`:''}<div class="spiritual-text">${d.commentary.content||''}</div></div>`;
+  if(d.haiti_summary) html+=`<div class="spiritual-card" style="margin-top:1rem"><div class="spiritual-title">🇭🇹 Haïti & Diaspora</div><div class="spiritual-text">${d.haiti_summary}</div></div>`;
+  c.innerHTML=html||'<div class="loading">Bulletin non disponible.</div>';
 }
 
 async function loadWeather(){
-  try{
-    const r=await fetch('/weather.json?t='+Date.now());
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    if(d.ottawa){document.getElementById('wx-ottawa-temp').textContent=Math.round(d.ottawa.temp)+'°C';
-      document.getElementById('wx-ottawa-desc').textContent=d.ottawa.description;}
-    if(d.pap){document.getElementById('wx-pap-temp').textContent=Math.round(d.pap.temp)+'°C';
-      document.getElementById('wx-pap-desc').textContent=d.pap.description;}
-    if(d.updated)document.getElementById('wx-updated').textContent='Mis à jour: '+fmtDate(d.updated);
-    // Audio météo
-    const meteoMp3=`/audio/meteo/${TODAY}.mp3`;
-    const meteoDiv=document.getElementById('meteo-audio');
-    const meteoPlayer=document.getElementById('meteo-audio-player');
-    if(meteoDiv&&meteoPlayer){
-      meteoPlayer.src=meteoMp3;
-      meteoDiv.style.display='block';
+  const d=await fetchJSON('/weather.json');
+  if(!d) return;
+  if(d.ottawa){
+    document.getElementById('wx-ottawa-temp').textContent=Math.round(d.ottawa.temp)+'°C';
+    document.getElementById('wx-ottawa-desc').textContent=' — '+d.ottawa.description;
+  }
+  if(d.pap){
+    document.getElementById('wx-pap-temp').textContent=Math.round(d.pap.temp)+'°C';
+    document.getElementById('wx-pap-desc').textContent=' — '+d.pap.description;
+  }
+  const mp3='/audio/meteo/'+TODAY+'.mp3';
+  const box=document.getElementById('meteo-audio-box');
+  const player=document.getElementById('meteo-player');
+  if(box&&player){player.src=mp3;box.style.display='flex';}
+}
+
+async function loadArchives(){
+  const grid=document.getElementById('archive-grid');
+  const dates=[];
+  const today=new Date();
+  for(let i=0;i<7;i++){
+    const d=new Date(today);d.setDate(d.getDate()-i);
+    dates.push(d.toISOString().slice(0,10));
+  }
+  const types=[
+    {key:'sermons',label:'Sermon',icon:'✝️',audio:'audio/sermons'},
+    {key:'testimonies',label:'Témoignage',icon:'❤️',audio:'audio/testimonies'},
+    {key:'sabbat',label:'Sabbat Nugget',icon:'🕯️',audio:'audio/sabbat'},
+    {key:'prayers',label:'Prière Matin',icon:'🙏',audio:'audio/prayers',prefix:'matin_'},
+  ];
+  let html='';
+  for(const type of types){
+    for(const date of dates.slice(0,3)){
+      const prefix=type.prefix||'';
+      const d=await fetchJSON('/content/'+type.key+'/'+prefix+date+'.json');
+      if(d){
+        const fmtDate=new Date(date+'T12:00:00').toLocaleDateString('fr-CA',{day:'numeric',month:'long',year:'numeric'});
+        html+=`<div class="archive-card" onclick="playArchive('/${type.audio}/${prefix}${date}.mp3','${d.title||type.label}')">
+          <div class="archive-info">
+            <div class="archive-type">${type.icon} ${type.label}</div>
+            <div class="archive-title">${d.title||type.label}</div>
+            <div class="archive-date">${fmtDate}</div>
+          </div>
+          <div class="archive-play">▶</div>
+        </div>`;
+        break;
+      }
     }
-  }catch(e){
-    document.getElementById('wx-ottawa-desc').textContent='Ottawa, ON';
-    document.getElementById('wx-pap-desc').textContent='Port-au-Prince, HT';}
+  }
+  grid.innerHTML=html||'<div class="loading">Archives indisponibles.</div>';
 }
 
-
-
-
-async function loadResume(category, containerId, icon){
-  const c=document.getElementById(containerId);
-  try{
-    const r=await fetch('/content/resumes/'+category+'_'+TODAY+'.json?t='+Date.now());
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    const mp3='/audio/resumes/'+category+'_'+TODAY+'.mp3';
-    c.innerHTML=`<div class="spiritual-card">
-      <div class="card-meta">${icon} ${d.title||''}</div>
-      <div class="card-body" style="line-height:1.8;font-size:.9rem">${d.resume||''}</div>
-      <div class="audio-player" style="margin-top:1rem">
-        <div class="audio-label">🎙️ Charlotte — Résumé audio</div>
-        <audio controls style="width:100%;height:36px">
-          <source src="${mp3}" type="audio/mpeg">
-        </audio>
-      </div>
-    </div>
-    <div style="margin-top:.8rem" id="news-${category}">
-      <div class="loading"><span class="spinner"></span>Chargement articles...</div>
-    </div>`;
-    loadNewsFromJSON(category, 'news-'+category, icon);
-  }catch(e){c.innerHTML='<div class="card"><div class="card-body">Résumé indisponible.</div></div>';}
-}
-async function loadNewsFromJSON(category, containerId, icon){
-  const c=document.getElementById(containerId);
-  try{
-    const r=await fetch('/content/news/'+category+'_'+TODAY+'.json?t='+Date.now());
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    let html='';
-    (d.articles||[]).slice(0,8).forEach(a=>{
-      html+='<div class="card"><div style="display:flex;align-items:flex-start;gap:10px;margin-bottom:.4rem"><span style="font-size:1.2rem">'+icon+'</span><span class="card-title"><a href="'+a.link+'" target="_blank">'+a.title+'</a></span></div><div class="card-meta">'+a.source+'</div><div class="card-body">'+a.desc+'</div></div>';
-    });
-    c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';
-  }catch(e){c.innerHTML='<div class="card"><div class="card-body">Nouvelles indisponibles.</div></div>';}
+function playArchive(mp3,title){
+  const player=document.getElementById('main-player');
+  player.src=mp3;
+  player.play();
+  document.getElementById('current-title').textContent=title;
+  document.getElementById('current-segment').textContent='🎵 Archive';
+  window.scrollTo({top:0,behavior:'smooth'});
 }
 
-async function loadSpiritualContent(jsonPath, containerId, icon, voiceName, audioPath){
-  const c=document.getElementById(containerId);
-  try{
-    const r=await fetch('/'+jsonPath+'?t='+Date.now());
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    let audio = audioPath ? `<div class="audio-player"><div class="audio-label">🎙️ ${voiceName}</div><audio controls style="width:100%;height:36px"><source src="${REPO}/${audioPath}" type="audio/mpeg"></audio></div>` : '';
-    c.innerHTML=`<div class="spiritual-card">
-      <div class="card-meta">${icon} ${d.title||''}</div>
-      ${d.verse?`<div class="verse">${d.verse}</div>`:''}
-      <div class="card-body" style="line-height:1.8;white-space:pre-line">${d.content||''}</div>
-      ${d.reference?`<div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 ${d.reference}</div>`:''}
-      ${audio}
-    </div>`;
-  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Contenu non disponible.</div></div>';}
-}
-
-async function loadNewsBulletin(moment, containerId){
-  const c=document.getElementById(containerId);
-  try{
-    const r=await fetch('/content/bulletins/'+TODAY+'.json?t='+Date.now());
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    const bulletin = d[moment];
-    c.innerHTML=`<div class="spiritual-card">
-      <div class="card-meta">📻 ${bulletin.title||''}</div>
-      <div class="card-body" style="line-height:1.8;white-space:pre-line">${bulletin.content||''}</div>
-    </div>`;
-  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Bulletin non disponible.</div></div>';}
-}
-
-async function loadSportNews(){
-  const c=document.getElementById('tab-sport');
-  try{
-    const r=await fetch('/content/news/sport_'+TODAY+'.json?t='+Date.now());
-    if(!r.ok)throw new Error();
-    const d=await r.json();
-    let html='';
-    (d.articles||[]).slice(0,5).forEach(a=>{
-      html+=`<div class="card"><div class="card-title"><a href="${a.link}" target="_blank">${a.title}</a></div><div class="card-body">${a.desc}</div><div class="card-meta">${a.source}</div></div>`;
-    });
-    c.innerHTML=html||'<div class="card"><div class="card-body">Nouvelles sport indisponibles.</div></div>';
-  }catch(e){c.innerHTML='<div class="card"><div class="card-body">Nouvelles sport indisponibles.</div></div>';}
-}
-async function loadGemini(){
-  const c=document.getElementById('tab-gemini');
-  try{
-    const r=await fetch(REPO+'/content/gemini/'+TODAY+'.json');
-    const d=await r.json();
-    let html='';
-    if(d.bulletin)html+='<div class="spiritual-card"><div class="card-meta">📻 Bulletin du jour</div><div class="card-body" style="line-height:1.8;white-space:pre-line">'+d.bulletin+'</div></div>';
-    if(d.commentary)html+='<div class="spiritual-card" style="margin-top:.8rem"><div class="card-meta">✝️ Commentaire chrétien</div><div class="card-title" style="font-family:Playfair Display,serif;font-size:1.1rem;margin:.5rem 0">'+(d.commentary.title||'')+'</div><div class="verse">'+(d.commentary.verse||'')+'</div><div class="card-body" style="line-height:1.7">'+(d.commentary.content||'')+'</div><div style="font-size:.7rem;color:#888;margin-top:.4rem">📖 '+(d.commentary.reference||'')+'</div></div>';
-    if(d.haiti_summary)html+='<div class="spiritual-card" style="margin-top:.8rem"><div class="card-meta">🇭🇹 Haïti & Diaspora</div><div class="card-body" style="line-height:1.8;white-space:pre-line">'+d.haiti_summary+'</div></div>';
-    c.innerHTML=html||'<div class="card"><div class="card-body">Bulletin non disponible.</div></div>';
-  }catch(e){c.innerHTML='<div class="spiritual-card"><div class="card-body">Bulletin non disponible.<br><em>Lancez generate_gemini.py</em></div></div>';}
-}
+// INIT
+updatePlayer();
+setInterval(updatePlayer,60000);
 loadWeather();
-loadChretien();
-loadSpiritualContent('content/prayers/matin_'+TODAY+'.json','tab-priere_matin','🌅','Bella — Prière Matin','audio/prayers/matin_'+TODAY+'.mp3');
+loadArchives();
+showTab('priere_matin',document.querySelector('.tab'));
 </script>
 </body>
 </html>
