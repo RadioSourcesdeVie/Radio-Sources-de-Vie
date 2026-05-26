@@ -1,7 +1,7 @@
 {
   "radio": "Radio Sources de Vie Chrétienne",
   "base_url": "https://stirring-gelato-c72880.netlify.app",
-  "updated": "2026-05-25",
+  "updated": "2026-05-26",
   "feeds": {
     "prayer_matin": "https://stirring-gelato-c72880.netlify.app/rss/prayer_matin.xml",
     "prayer_soir": "https://stirring-gelato-c72880.netlify.app/rss/prayer_soir.xml",
