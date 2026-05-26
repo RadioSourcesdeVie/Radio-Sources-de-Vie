@@ -56,9 +56,9 @@ def main():
 
         try:
             msg = client.messages.create(
-                model="claude-haiku-4-5-20251001", max_tokens=400,
+                model="claude-haiku-4-5-20251001", max_tokens=600,
                 system=cat['system'],
-                messages=[{"role":"user","content":f"""Écris un résumé radio ATTRACTIF 60-80 mots {cat['desc']}.
+                messages=[{"role":"user","content":f"""Écris un résumé radio ATTRACTIF {cat['desc']}. Longueur selon les nouvelles disponibles: si peu de nouvelles importantes 60-80 mots (45 sec), si nouvelles normales 100-120 mots (1 min), si beaucoup de nouvelles importantes 150-180 mots (1 min 30). Adapte la longueur selon l'importance et la quantité des nouvelles.
 Articles:
 {articles}
 Commence par phrase accrocheuse, 2-3 nouvelles, termine positivement.
