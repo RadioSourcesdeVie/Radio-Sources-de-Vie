@@ -1,0 +1,21 @@
+{
+  "date": "2026-05-27",
+  "title": "Météo du 27 May 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 17.42,
+    "feels_like": 16.81,
+    "humidity": 61,
+    "description": "Nuageux",
+    "wind_kmh": 20.4
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 29.79,
+    "feels_like": 33.65,
+    "humidity": 66,
+    "description": "Nuageux",
+    "wind_kmh": 25.9
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 27 May 2026 sur Radio Sources de Vie.\nÀ Ottawa: 17 degrés Celsius. Nuageux.\nÀ Port-au-Prince: 30 degrés Celsius. Nuageux.\nQue Dieu bénisse votre journée! Psaume 118 verset 24: C'est ici la journée que l'Éternel a faite!"
+}
