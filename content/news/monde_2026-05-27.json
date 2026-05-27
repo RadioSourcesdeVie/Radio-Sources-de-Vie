@@ -1,7 +1,7 @@
 {
   "category": "monde",
   "date": "2026-05-27",
-  "updated": "2026-05-27T10:00:51.176976Z",
+  "updated": "2026-05-27T11:00:54.291615Z",
   "articles": [
     {
       "title": "À Gaza, des enfants troquent les fêtes de l’Aïd contre le travail de survie",
@@ -9,6 +9,20 @@
       "desc": "Sur la rue Al-Jalaa, au cœur de la ville de Gaza, Mohammad Ashour ne porte ni vêtements neufs ni jouets à l’approche de l’Aïd al-Adha. Une cafetière à la main, un sac sur le dos, il traverse les rues à la recherche de clients pour aider sa famille à survivre, dans une enclave ravagée par la guerre e",
       "date": "2026-05-27T12:00:00",
       "source": "ONU Info"
+    },
+    {
+      "title": "Qu'est-ce que l'uranium et comment est-il utilisé pour fabriquer des armes nucléaires et produire de l'énergie ?",
+      "link": "https://www.bbc.com/afrique/articles/cn9pp4w0jydo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les relations entre les États-Unis, Israël et l'Iran ont une nouvelle fois remis sur le tapis la question des armes nucléaires et le risque d'un recours à ces armes.",
+      "date": "2026-05-27T10:12:20",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mondial 2026 : pour Trump, \"c'est au monde de s'adapter aux États-Unis et pas l'inverse\"",
+      "link": "https://www.france24.com/fr/sports/20260527-mondial-2026-trump-etats-unis",
+      "desc": "La Coupe du monde 2026 sera celle de tous les superlatifs avec une édition à 48 équipes organisée conjointement par le Mexique, le Canada et les États-Unis. Ces derniers se taillent la part du lion avec un Donald Trump qui y voit une scène à son image. Analyse avec Kévin Veyssière, expert en géopoli",
+      "date": "2026-05-27T10:07:49",
+      "source": "France 24"
     },
     {
       "title": "En Nouvelle-Zélande, un fougueux couple de perruches contribue à préserver son espèce",
@@ -43,13 +57,6 @@
       "link": "https://www.france24.com/fr/france/20260527-france-24-momentanement-inaccessible-sur-ses-environnements-num%C3%A9riques",
       "desc": "Un incident technique empêche France 24 de vous proposer son antenne en direct sur ses environnements numériques et ses chaînes Youtube.",
       "date": "2026-05-27T06:06:05",
-      "source": "France 24"
-    },
-    {
-      "title": "\"Extension\" de la guerre dans le sud du Liban : \"Le traumatisme silencieux des Libanais\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260527-extension-de-la-guerre-au-liban-sud-le-traumatisme-silencieux-des-libanais",
-      "desc": "À la Une de la presse ce mercredi 27 mai : l'intensification des opérations de l'armée israélienne au sud du Liban et la détresse de la population libanaise ; les réactions des pays à majorité musulmane à la proposition de Donald Trump de normaliser leurs relations avec Israël en échange d'un possib",
-      "date": "2026-05-27T05:57:19",
       "source": "France 24"
     },
     {
@@ -99,13 +106,6 @@
       "link": "https://www.bbc.com/afrique/articles/cr5p16jlp3po?at_medium=RSS&at_campaign=rss",
       "desc": "Avec 132 voix sur 165, Ousmane Sonko, 51 ans, a été élu mardi président de l'Assemblée nationale du Sénégal, remplaçant El Malick Ndiaye qui a démissionné dimanche.",
       "date": "2026-05-26T10:36:10",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les Émirats arabes unis sont accusés de recruter des mercenaires colombiens pour combattre au Soudan, selon des groupes de défense des droits",
-      "link": "https://www.bbc.com/afrique/articles/cyv22113y80o?at_medium=RSS&at_campaign=rss",
-      "desc": "Human Rights Watch affirme que la société émirienne a également fait transiter des Colombiens par des bases militaires émiraties.",
-      "date": "2026-05-26T09:41:17",
       "source": "BBC Afrique"
     }
   ]
