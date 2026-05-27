@@ -40,12 +40,43 @@ ITEMS = [
     (f"content/meteo/{TODAY}.json",           f"audio/meteo/{TODAY}.mp3",           BELLA,  "Météo"),
 ]
 
+def generate_meteo_audio(eleven_key):
+    import subprocess
+    TODAY = datetime.now().strftime("%Y-%m-%d")
+    json_path = f"content/meteo/{TODAY}.json"
+    mp3_path = f"audio/meteo/{TODAY}.mp3"
+    if Path(mp3_path).exists():
+        print(f"⏭️  Météo: déjà générée")
+        return
+    # Générer weather.json d'abord si nécessaire
+    if not Path("weather.json").exists():
+        print("⚠️  weather.json manquant")
+        return
+    import json as json_module
+    from pathlib import Path as P
+    if not P(json_path).exists():
+        data = json_module.loads(P("weather.json").read_text(encoding="utf-8"))
+        ottawa = data.get("ottawa", {})
+        pap = data.get("pap", {})
+        date_fr = datetime.now().strftime("%d %B %Y")
+        text = f"Bonjour chers auditeurs, voici la météo du {date_fr} sur Radio Sources de Vie. À Ottawa: {round(ottawa.get('temp',0))} degrés Celsius. {ottawa.get('description','')}. À Port-au-Prince: {round(pap.get('temp',0))} degrés Celsius. {pap.get('description','')}. Que Dieu bénisse votre journée!"
+        meteo = {"date": TODAY, "title": f"Météo du {date_fr}", "ottawa": ottawa, "pap": pap, "text": text}
+        P(json_path).parent.mkdir(parents=True, exist_ok=True)
+        P(json_path).write_text(json_module.dumps(meteo, ensure_ascii=False, indent=2), encoding="utf-8")
+    data2 = json_module.loads(P(json_path).read_text(encoding="utf-8"))
+    text2 = data2.get("text","")
+    if text2:
+        print(f"🎤  Météo...")
+        kb = tts(text2, BELLA, mp3_path, eleven_key)
+        print(f"✅  Météo → {kb} KB")
+
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--eleven-key", required=True)
     args = parser.parse_args()
 
     print(f"\n🎙️ Génération audios quotidiens — {TODAY}\n")
+    generate_meteo_audio(args.eleven_key)
     total = 0
     for json_path, mp3_path, voice, label in ITEMS:
         if Path(mp3_path).exists():
