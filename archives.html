@@ -3,82 +3,99 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Archives — Radio Sources de Vie Chrétienne</title>
-<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+<title>Archives — Radio Sources de Vie</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
 <style>
-:root{--gold:#C9A84C;--gold-light:#F0D080;--deep:#1A0A2E;--cream:#FAF3E0}
 *{margin:0;padding:0;box-sizing:border-box}
-body{background:var(--deep);color:var(--cream);font-family:'Lato',sans-serif}
-header{background:linear-gradient(135deg,#0d0520,#1A0A2E,#2a0e1e);border-bottom:2px solid var(--gold);padding:0 1.5rem;position:sticky;top:0;z-index:100;display:flex;align-items:center;justify-content:space-between;height:64px}
-.logo-text{font-family:'Playfair Display',serif;font-size:1.1rem;color:var(--gold);font-weight:700}
-.logo-sub{font-size:.65rem;color:var(--gold-light);opacity:.8;letter-spacing:2px;text-transform:uppercase}
-.nav-links{display:flex;gap:12px;align-items:center}
-.nav-link{color:rgba(250,243,224,.7);text-decoration:none;font-size:.85rem;padding:6px 12px;border-radius:20px;border:1px solid transparent;transition:all .2s}
-.nav-link:hover,.nav-link.active{color:var(--gold);border-color:rgba(201,168,76,.3);background:rgba(201,168,76,.1)}
-.page-hero{background:linear-gradient(180deg,#1A0A2E,#0d0520);padding:2.5rem 1.5rem;text-align:center;border-bottom:1px solid rgba(201,168,76,.2)}
-.page-hero h1{font-family:'Playfair Display',serif;font-size:clamp(1.4rem,4vw,2.5rem);font-weight:900;background:linear-gradient(135deg,var(--gold),var(--gold-light),var(--gold));-webkit-background-clip:text;-webkit-text-fill-color:transparent;background-clip:text;margin-bottom:.5rem}
-.page-hero p{color:rgba(250,243,224,.6);font-size:.9rem}
-.section{padding:1.5rem;max-width:900px;margin:0 auto}
-.section-title{font-family:'Playfair Display',serif;font-size:1.1rem;color:var(--gold);border-left:3px solid var(--gold);padding-left:10px;margin-bottom:1rem}
+:root{--green:#2D6A4F;--green-dark:#1B4332;--green-light:#52B788;--green-pale:#D8F3DC;--gold:#B7791F;--white:#FFFFFF;--gray:#6B7280;--light:#F9FAFB;--text:#111827}
+body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white)}
+header{background:var(--green-dark);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:70px;position:sticky;top:0;z-index:100}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-icon{width:42px;height:42px;background:var(--green-light);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.2rem}
+.logo-name{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--white);font-weight:700}
+.logo-sub{font-size:.7rem;color:rgba(255,255,255,.6);letter-spacing:1px}
+nav a{color:rgba(255,255,255,.85);text-decoration:none;font-size:.9rem;font-weight:500;margin-left:1.5rem}
+nav a:hover{color:var(--white)}
+.btn-live{background:#DC2626;color:var(--white);padding:8px 18px;border-radius:20px;font-size:.85rem;font-weight:600;text-decoration:none}
+.hero{background:linear-gradient(135deg,var(--green-dark),var(--green));padding:2.5rem 2rem;text-align:center;color:var(--white)}
+.hero h1{font-family:'Playfair Display',serif;font-size:clamp(1.6rem,4vw,2.5rem);font-weight:900;margin-bottom:.5rem}
+.hero p{color:rgba(255,255,255,.8);font-size:.95rem}
+.section{padding:2rem;max-width:1100px;margin:0 auto}
+.section-title{font-family:'Playfair Display',serif;font-size:1.4rem;color:var(--green-dark);margin-bottom:1rem}
+
+/* DATE SELECTOR */
 .date-selector{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.5rem}
-.date-btn{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.2);border-radius:20px;padding:6px 14px;font-size:.8rem;cursor:pointer;color:rgba(250,243,224,.7);transition:all .2s;font-family:'Lato',sans-serif}
-.date-btn:hover,.date-btn.active{background:rgba(201,168,76,.2);border-color:var(--gold);color:var(--gold)}
-.archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(280px,1fr));gap:1rem}
-.archive-card{background:rgba(255,255,255,.04);border:1px solid rgba(201,168,76,.15);border-radius:12px;padding:1.2rem;transition:border-color .2s}
-.archive-card:hover{border-color:rgba(201,168,76,.4)}
-.archive-card-header{display:flex;align-items:center;gap:10px;margin-bottom:.8rem}
-.archive-icon{font-size:1.5rem}
-.archive-card-title{font-family:'Playfair Display',serif;font-size:1rem;font-weight:700;color:var(--gold-light)}
-.archive-card-date{font-size:.7rem;color:rgba(250,243,224,.5);margin-top:2px}
-.archive-card-body{font-size:.82rem;color:rgba(250,243,224,.7);line-height:1.6;margin-bottom:.8rem}
-.verse-box{font-family:'Playfair Display',serif;font-style:italic;font-size:.85rem;color:var(--gold-light);border-left:2px solid var(--gold);padding-left:8px;margin:.6rem 0;line-height:1.5}
-.audio-mini{width:100%;height:32px;margin-top:.6rem}
-.ref-badge{font-size:.7rem;color:rgba(250,243,224,.4);margin-top:.3rem}
-.loading{text-align:center;padding:3rem;color:#888}
-.spinner{display:inline-block;width:20px;height:20px;border:2px solid rgba(201,168,76,.3);border-top-color:var(--gold);border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
+.date-btn{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;font-family:'Inter',sans-serif;font-weight:500}
+.date-btn:hover,.date-btn.active{background:var(--green);border-color:var(--green);color:var(--white)}
+
+/* TABS */
+.tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1.5rem}
+.tab{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;white-space:nowrap;font-weight:500}
+.tab:hover,.tab.active{background:var(--green);border-color:var(--green);color:var(--white)}
+
+/* ARCHIVE GRID */
+.archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1rem}
+.archive-card{background:var(--light);border:1.5px solid var(--green-pale);border-radius:12px;padding:1.2rem;transition:all .2s}
+.archive-card:hover{border-color:var(--green-light);box-shadow:0 4px 15px rgba(45,106,79,.1)}
+.archive-type{font-size:.72rem;color:var(--green);font-weight:700;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.4rem}
+.archive-title{font-family:'Playfair Display',serif;font-size:1rem;color:var(--text);font-weight:700;margin-bottom:.3rem}
+.archive-date{font-size:.75rem;color:var(--gray);margin-bottom:.6rem}
+.archive-verse{font-style:italic;color:var(--green);border-left:3px solid var(--green-light);padding-left:8px;margin:.6rem 0;font-size:.82rem;line-height:1.5}
+.archive-text{font-size:.82rem;color:var(--gray);line-height:1.5;margin-bottom:.8rem}
+.audio-box{background:var(--white);border:1.5px solid var(--green-pale);border-radius:8px;padding:.6rem .8rem;display:flex;align-items:center;gap:8px}
+.audio-label{font-size:.68rem;color:var(--green);font-weight:600;letter-spacing:1px;text-transform:uppercase;white-space:nowrap}
+audio.mini{flex:1;height:28px}
+.news-item{background:var(--white);border:1.5px solid #E5E7EB;border-radius:8px;padding:.8rem;margin-bottom:.6rem}
+.news-source{font-size:.7rem;color:var(--green);font-weight:600;margin-bottom:.2rem}
+.news-title{font-weight:600;font-size:.85rem;color:var(--text)}
+.news-title a{color:var(--text);text-decoration:none}
+.news-title a:hover{color:var(--green)}
+.news-desc{font-size:.78rem;color:var(--gray);margin-top:.2rem;line-height:1.4}
+.empty{text-align:center;padding:2rem;color:var(--gray);font-style:italic;grid-column:1/-1}
+.loading{text-align:center;padding:2rem;color:var(--gray)}
+.spinner{display:inline-block;width:20px;height:20px;border:2px solid var(--green-pale);border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
 @keyframes spin{to{transform:rotate(360deg)}}
-.empty{text-align:center;padding:2rem;color:rgba(250,243,224,.4);font-style:italic}
-.bulletin-card{background:linear-gradient(135deg,rgba(107,26,42,.3),rgba(26,10,46,.5));border:1px solid rgba(201,168,76,.3);border-radius:12px;padding:1.2rem;grid-column:1/-1}
-.tabs{display:flex;gap:4px;flex-wrap:wrap;margin-bottom:1rem}
-.tab{flex-shrink:0;background:rgba(255,255,255,.05);border:1px solid rgba(201,168,76,.2);border-radius:20px;padding:6px 14px;font-size:.8rem;cursor:pointer;color:rgba(250,243,224,.7);transition:all .2s}
-.tab.active,.tab:hover{background:rgba(201,168,76,.2);border-color:var(--gold);color:var(--gold)}
-footer{margin-top:2rem;background:rgba(0,0,0,.4);border-top:1px solid rgba(201,168,76,.2);padding:1.5rem;text-align:center;font-size:.75rem;color:#888}
-footer a{color:var(--gold);text-decoration:none}
+footer{background:var(--green-dark);padding:1.5rem 2rem;text-align:center;color:rgba(255,255,255,.6);font-size:.8rem;margin-top:2rem}
+footer a{color:var(--green-light);text-decoration:none}
+footer strong{color:var(--white)}
 </style>
 </head>
 <body>
+
 <header>
-  <div style="display:flex;align-items:center;gap:10px">
-    <span style="font-size:1.4rem">✝️</span>
-    <div><div class="logo-text">Radio Sources de Vie</div><div class="logo-sub">Archives</div></div>
+  <div class="logo">
+    <div class="logo-icon">✝️</div>
+    <div>
+      <div class="logo-name">Radio Sources de Vie</div>
+      <div class="logo-sub">ARCHIVES</div>
+    </div>
   </div>
-  <div class="nav-links">
-    <a href="index.html" class="nav-link">🏠 Accueil</a>
-    <a href="archives.html" class="nav-link active">📚 Archives</a>
-    <a href="https://stream.zeno.fm/sgnhqhl2oeevv" class="nav-link" target="_blank">🎙️ Direct</a>
-  </div>
+  <nav>
+    <a href="index.html">🏠 Accueil</a>
+    <a href="index.html#horaire">Horaire</a>
+    <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank" class="btn-live">● EN DIRECT</a>
+  </nav>
 </header>
 
-<div class="page-hero">
+<div class="hero">
   <div style="font-size:2rem;margin-bottom:.5rem">📚</div>
-  <h1>Archives de la Radio</h1>
-  <p>Retrouvez tous les contenus spirituels et bulletins des jours précédents</p>
+  <h1>Archive des Émissions</h1>
+  <p>Retrouvez tous les contenus des 7 derniers jours</p>
 </div>
 
 <div class="section">
   <div class="section-title">📅 Sélectionner une date</div>
-  <div class="date-selector" id="date-selector">
-    <div class="loading"><span class="spinner"></span>Chargement des dates...</div>
-  </div>
+  <div class="date-selector" id="date-selector"></div>
 
   <div class="tabs" id="archive-tabs" style="display:none">
-    <div class="tab active" onclick="showArchiveTab('all',this)">📋 Tout</div>
-    <div class="tab" onclick="showArchiveTab('prayer',this)">🙏 Prière</div>
-    <div class="tab" onclick="showArchiveTab('sermon',this)">📖 Sermon</div>
-    <div class="tab" onclick="showArchiveTab('testimony',this)">❤️ Témoignage</div>
-    <div class="tab" onclick="showArchiveTab('sabbat',this)">🕯️ Sabbat</div>
-    <div class="tab" onclick="showArchiveTab('resumes',this)">📰 Résumés</div>
-    <div class="tab" onclick="showArchiveTab('bulletin',this)">🤖 Gemini</div>
+    <div class="tab active" onclick="showTab('all',this)">📋 Tout</div>
+    <div class="tab" onclick="showTab('prayers',this)">🙏 Prières</div>
+    <div class="tab" onclick="showTab('sermon',this)">📖 Sermon</div>
+    <div class="tab" onclick="showTab('testimony',this)">❤️ Témoignage</div>
+    <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
+    <div class="tab" onclick="showTab('meteo',this)">🌡️ Météo</div>
+    <div class="tab" onclick="showTab('resumes',this)">📰 Résumés</div>
+    <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
   </div>
 
   <div id="archive-content">
@@ -87,196 +104,216 @@ footer a{color:var(--gold);text-decoration:none}
 </div>
 
 <footer>
-  <div style="font-size:1.2rem;margin-bottom:.4rem">✝</div>
-  <strong style="color:var(--gold)">Radio Sources de Vie Chrétienne</strong><br>
+  <strong>Radio Sources de Vie Chrétienne</strong> • Ottawa, Canada<br><br>
   <a href="index.html">← Retour à l'accueil</a> &nbsp;|&nbsp;
   <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank">🎙️ Écouter en direct</a><br><br>
   <em>"Ta parole est une lampe à mes pieds." — Psaumes 119:105</em>
 </footer>
 
 <script>
-const REPO = "";
-const API  = "https://api.github.com/repos/RadioSourcesdeVie/Radio-Sources-de-Vie/contents";
 let currentTab = 'all';
-let currentDate = '';
+let currentData = {};
 
-function fmtDateFR(s){
-  if(!s)return'';
+// Générer les 7 derniers jours
+function getLast7Days(){
+  const days = [];
+  for(let i=0;i<7;i++){
+    const d = new Date();
+    d.setDate(d.getDate()-i);
+    days.push(d.toISOString().slice(0,10));
+  }
+  return days;
+}
+
+function fmtDate(s){
+  if(!s) return '';
   try{
-    const d=new Date(s+'T12:00:00');
-    return d.toLocaleDateString('fr-CA',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+    return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
   }catch(e){return s;}
 }
 
-async function loadDates(){
+function fmtShort(s){
+  if(!s) return '';
+  try{
+    return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'short',day:'numeric',month:'short'});
+  }catch(e){return s;}
+}
+
+async function fetchJSON(path){
+  try{
+    const r=await fetch(path+'?t='+Date.now());
+    if(!r.ok) return null;
+    return await r.json();
+  }catch(e){return null;}
+}
+
+// Initialiser les boutons de dates
+function initDates(){
+  const days = getLast7Days();
   const sel = document.getElementById('date-selector');
-  try {
-    // Récupérer les dates depuis le dossier prayers
-    const r = await fetch(API+'/content/prayers');
-    if(!r.ok) throw new Error();
-    const files = await r.json();
-    const dates = files
-      .filter(f => f.name.endsWith('.json'))
-      .map(f => f.name.replace('.json',''))
-      .sort().reverse();
-
-    if(!dates.length){ sel.innerHTML='<div class="empty">Aucune archive disponible</div>'; return; }
-
-    sel.innerHTML = dates.map(d =>
-      `<button class="date-btn" onclick="loadArchive('${d}')">${fmtDateFR(d)}</button>`
-    ).join('');
-
-    // Charger automatiquement la date la plus récente
-    loadArchive(dates[0]);
-    sel.querySelectorAll('.date-btn')[0].classList.add('active');
-  } catch(e) {
-    sel.innerHTML = '<div class="empty">Impossible de charger les dates.</div>';
-  }
+  sel.innerHTML = days.map((d,i) =>
+    `<button class="date-btn${i===0?' active':''}" onclick="loadArchive('${d}',this)">${fmtShort(d)}${i===0?' (Aujourd\'hui)':''}</button>`
+  ).join('');
+  // Charger aujourd'hui automatiquement
+  loadArchive(days[0], sel.querySelector('.date-btn'));
 }
 
-async function fetchJSON(url){
-  try{const r=await fetch(url);if(!r.ok)return null;return await r.json();}catch(e){return null;}
-}
-
-async function loadArchive(date){
-  currentDate = date;
-  document.querySelectorAll('.date-btn').forEach(b=>{
-    b.classList.toggle('active', b.textContent===fmtDateFR(date));
-  });
+async function loadArchive(date, btn){
+  // Mettre à jour bouton actif
+  document.querySelectorAll('.date-btn').forEach(b=>b.classList.remove('active'));
+  if(btn) btn.classList.add('active');
 
   document.getElementById('archive-tabs').style.display='flex';
   document.getElementById('archive-content').innerHTML=
     '<div class="loading"><span class="spinner"></span>Chargement...</div>';
 
   // Charger tous les contenus en parallèle
-  const [prayer, sermon, testimony, gemini, resume_c, resume_h, resume_m, sabbat] = await Promise.all([
-    fetchJSON(REPO+'/content/prayers/'+date+'.json'),
-    fetchJSON(REPO+'/content/sermons/'+date+'.json'),
-    fetchJSON(REPO+'/content/testimonies/'+date+'.json'),
-    fetchJSON(REPO+'/content/gemini/'+date+'.json'),
+  const [pMatin, pSoir, sermon, testimony, sabbat, meteo, gemini,
+         rChretien, rHaiti, rMonde, rSport] = await Promise.all([
+    fetchJSON('/content/prayers/matin_'+date+'.json'),
+    fetchJSON('/content/prayers/soir_'+date+'.json'),
+    fetchJSON('/content/sermons/'+date+'.json'),
+    fetchJSON('/content/testimonies/'+date+'.json'),
+    fetchJSON('/content/sabbat/'+date+'.json'),
+    fetchJSON('/content/meteo/'+date+'.json'),
+    fetchJSON('/content/gemini/'+date+'.json'),
+    fetchJSON('/content/resumes/chretien_'+date+'.json'),
+    fetchJSON('/content/resumes/haiti_'+date+'.json'),
+    fetchJSON('/content/resumes/monde_'+date+'.json'),
+    fetchJSON('/content/resumes/sport_'+date+'.json'),
   ]);
 
-  window._archiveData = {prayer, sermon, testimony, gemini, date};
-  renderArchive(currentTab);
+  currentData = {pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+                 rChretien,rHaiti,rMonde,rSport,date};
+  renderTab(currentTab);
 }
 
-function renderArchive(tab){
+function showTab(tab, el){
+  document.querySelectorAll('.tabs .tab').forEach(t=>t.classList.remove('active'));
+  if(el) el.classList.add('active');
   currentTab = tab;
-  const {prayer, sermon, testimony, gemini, date} = window._archiveData || {};
+  renderTab(tab);
+}
+
+function makeAudio(mp3Path, label){
+  return `<div class="audio-box">
+    <span class="audio-label">🎙️ ${label}</span>
+    <audio class="mini" controls>
+      <source src="${mp3Path}" type="audio/mpeg">
+    </audio>
+  </div>`;
+}
+
+function makeCard(type, icon, title, data, mp3Path, label){
+  if(!data) return '';
+  const text = data.content || data.nugget || data.text || data.resume || '';
+  return `<div class="archive-card">
+    <div class="archive-type">${icon} ${type}</div>
+    <div class="archive-title">${data.title || title}</div>
+    <div class="archive-date">${fmtDate(data.date || currentData.date)}</div>
+    ${data.verse ? `<div class="archive-verse">${data.verse}</div>` : ''}
+    <div class="archive-text">${text.slice(0,200)}${text.length>200?'...':''}</div>
+    ${data.reference ? `<div style="font-size:.72rem;color:var(--gray)">📖 ${data.reference}</div>` : ''}
+    ${mp3Path ? makeAudio(mp3Path, label) : ''}
+  </div>`;
+}
+
+function makeResumeCard(cat, icon, label, data){
+  if(!data) return '';
+  const date = currentData.date;
+  let html = `<div class="archive-card">
+    <div class="archive-type">${icon} Résumé ${label}</div>
+    <div class="archive-title">${data.title||''}</div>
+    <div class="archive-date">${fmtDate(date)}</div>
+    <div class="archive-text">${data.resume||''}</div>
+    ${makeAudio('/audio/resumes/'+cat+'_'+date+'.mp3','Charlotte')}
+  </div>`;
+  return html;
+}
+
+function renderTab(tab){
+  const {pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+         rChretien,rHaiti,rMonde,rSport,date} = currentData;
   const c = document.getElementById('archive-content');
   let html = '<div class="archive-grid">';
   let empty = true;
 
-  if((tab==='all'||tab==='prayer') && prayer){
+  const show = (t) => tab==='all' || tab===t;
+
+  if(show('prayers')){
+    const cm = makeCard('Prière Matin','🌅','Prière du Matin',pMatin,
+      pMatin ? '/audio/prayers/matin_'+date+'.mp3' : null, 'Bella');
+    const cs = makeCard('Prière Soir','🌙','Prière du Soir',pSoir,
+      pSoir ? '/audio/prayers/soir_'+date+'.mp3' : null, 'Bella');
+    if(cm||cs){empty=false; html+=cm+cs;}
+  }
+
+  if(show('sermon')){
+    const cs = makeCard('Sermon','📖','Sermon du jour',sermon,null,'');
+    if(cs){empty=false; html+=cs;}
+  }
+
+  if(show('testimony')){
+    const ct = makeCard('Témoignage','❤️','Témoignage',testimony,
+      testimony ? '/audio/testimonies/'+date+'.mp3' : null,'Elli');
+    if(ct){empty=false; html+=ct;}
+  }
+
+  if(show('sabbat')){
+    const cs = makeCard('Sabbat School','🕯️','Sabbat Nugget',sabbat,
+      sabbat ? '/audio/sabbat/'+date+'.mp3' : null,'Antoni');
+    if(cs){empty=false; html+=cs;}
+  }
+
+  if(show('meteo') && meteo){
     empty=false;
     html+=`<div class="archive-card">
-      <div class="archive-card-header">
-        <span class="archive-icon">🙏</span>
-        <div><div class="archive-card-title">${prayer.title||'Prière du jour'}</div>
-        <div class="archive-card-date">${fmtDateFR(date)} — Bella</div></div>
+      <div class="archive-type">🌡️ Météo</div>
+      <div class="archive-title">${meteo.title||'Météo du jour'}</div>
+      <div class="archive-date">${fmtDate(date)}</div>
+      <div class="archive-text">
+        🇨🇦 Ottawa: ${Math.round(meteo.ottawa?.temp||0)}°C — ${meteo.ottawa?.description||''}<br>
+        🇭🇹 Port-au-Prince: ${Math.round(meteo.pap?.temp||0)}°C — ${meteo.pap?.description||''}
       </div>
-      ${prayer.verse?`<div class="verse-box">${prayer.verse}</div>`:''}
-      <div class="archive-card-body">${(prayer.content||'').slice(0,200)}...</div>
-      ${prayer.reference?`<div class="ref-badge">📖 ${prayer.reference}</div>`:''}
-      <audio class="audio-mini" controls>
-        <source src="${REPO}/audio/prayers/${date}.mp3" type="audio/mpeg">
-      </audio>
+      ${makeAudio('/audio/meteo/'+date+'.mp3','Bella')}
     </div>`;
   }
 
-  if((tab==='all'||tab==='sermon') && sermon){
+  if(show('resumes')){
+    html += makeResumeCard('chretien','✝️','Chrétien',rChretien);
+    html += makeResumeCard('haiti','🇭🇹','Haïti',rHaiti);
+    html += makeResumeCard('monde','🌍','Monde',rMonde);
+    html += makeResumeCard('sport','⚽','Sport',rSport);
+    if(rChretien||rHaiti||rMonde||rSport) empty=false;
+  }
+
+  if(show('gemini') && gemini){
     empty=false;
-    html+=`<div class="archive-card">
-      <div class="archive-card-header">
-        <span class="archive-icon">📖</span>
-        <div><div class="archive-card-title">${sermon.title||'Sermon du jour'}</div>
-        <div class="archive-card-date">${fmtDateFR(date)} — Antoni</div></div>
-      </div>
-      ${sermon.verse?`<div class="verse-box">${sermon.verse}</div>`:''}
-      <div class="archive-card-body">${(sermon.content||'').slice(0,200)}...</div>
-      ${sermon.reference?`<div class="ref-badge">📖 ${sermon.reference}</div>`:''}
-      <audio class="audio-mini" controls>
-        <source src="${REPO}/audio/sermons/${date}.mp3" type="audio/mpeg">
-      </audio>
+    if(gemini.bulletin) html+=`<div class="archive-card">
+      <div class="archive-type">📻 Bulletin Gemini</div>
+      <div class="archive-title">Bulletin du ${fmtDate(date)}</div>
+      <div class="archive-text">${gemini.bulletin.slice(0,300)}...</div>
+    </div>`;
+    if(gemini.commentary) html+=`<div class="archive-card">
+      <div class="archive-type">✝️ Commentaire</div>
+      <div class="archive-title">${gemini.commentary.title||''}</div>
+      ${gemini.commentary.verse?`<div class="archive-verse">${gemini.commentary.verse}</div>`:''}
+      <div class="archive-text">${(gemini.commentary.content||'').slice(0,200)}...</div>
+    </div>`;
+    if(gemini.haiti_summary) html+=`<div class="archive-card">
+      <div class="archive-type">🇭🇹 Haïti Gemini</div>
+      <div class="archive-title">Résumé Haïti & Diaspora</div>
+      <div class="archive-text">${gemini.haiti_summary.slice(0,200)}...</div>
     </div>`;
   }
 
-  if((tab==='all'||tab==='testimony') && testimony){
-    empty=false;
-    html+=`<div class="archive-card">
-      <div class="archive-card-header">
-        <span class="archive-icon">❤️</span>
-        <div><div class="archive-card-title">${testimony.title||'Témoignage du jour'}</div>
-        <div class="archive-card-date">${fmtDateFR(date)} — Elli</div></div>
-      </div>
-      ${testimony.verse?`<div class="verse-box">${testimony.verse}</div>`:''}
-      <div class="archive-card-body">${(testimony.content||'').slice(0,200)}...</div>
-      ${testimony.reference?`<div class="ref-badge">📖 ${testimony.reference}</div>`:''}
-      <audio class="audio-mini" controls>
-        <source src="${REPO}/audio/testimonies/${date}.mp3" type="audio/mpeg">
-      </audio>
-    </div>`;
-  }
-
-  if((tab==='all'||tab==='bulletin') && gemini){
-    empty=false;
-    if(gemini.bulletin){
-      html+=`<div class="bulletin-card">
-        <div class="archive-card-header">
-          <span class="archive-icon">📻</span>
-          <div><div class="archive-card-title">Bulletin Gemini</div>
-          <div class="archive-card-date">${fmtDateFR(date)}</div></div>
-        </div>
-        <div class="archive-card-body" style="white-space:pre-line">${gemini.bulletin}</div>
-      </div>`;
-    }
-    if(gemini.commentary){
-      html+=`<div class="archive-card">
-        <div class="archive-card-header">
-          <span class="archive-icon">✝️</span>
-          <div><div class="archive-card-title">${gemini.commentary.title||'Commentaire chrétien'}</div>
-          <div class="archive-card-date">${fmtDateFR(date)}</div></div>
-        </div>
-        ${gemini.commentary.verse?`<div class="verse-box">${gemini.commentary.verse}</div>`:''}
-        <div class="archive-card-body">${gemini.commentary.content||''}</div>
-        ${gemini.commentary.reference?`<div class="ref-badge">📖 ${gemini.commentary.reference}</div>`:''}
-      </div>`;
-    }
-    if(gemini.haiti_summary){
-      html+=`<div class="archive-card">
-        <div class="archive-card-header">
-          <span class="archive-icon">🇭🇹</span>
-          <div><div class="archive-card-title">Haïti & Diaspora</div>
-          <div class="archive-card-date">${fmtDateFR(date)}</div></div>
-        </div>
-        <div class="archive-card-body" style="white-space:pre-line">${gemini.haiti_summary}</div>
-      </div>`;
-    }
-  }
-
-
-  if((tab==='all'||tab==='resumes')){
-    if(resume_c){empty=false;html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">✝️</span><div><div class="archive-card-title">${resume_c.title||'Résumé Chrétien'}</div><div class="archive-card-date">${fmtDateFR(date)}</div></div></div><div class="archive-card-body">${resume_c.resume||''}</div><audio class="audio-mini" controls><source src="/audio/resumes/chretien_${date}.mp3" type="audio/mpeg"></audio></div>`;}
-    if(resume_h){empty=false;html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">🇭🇹</span><div><div class="archive-card-title">${resume_h.title||'Résumé Haïti'}</div><div class="archive-card-date">${fmtDateFR(date)}</div></div></div><div class="archive-card-body">${resume_h.resume||''}</div><audio class="audio-mini" controls><source src="/audio/resumes/haiti_${date}.mp3" type="audio/mpeg"></audio></div>`;}
-    if(resume_m){empty=false;html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">🌍</span><div><div class="archive-card-title">${resume_m.title||'Résumé Monde'}</div><div class="archive-card-date">${fmtDateFR(date)}</div></div></div><div class="archive-card-body">${resume_m.resume||''}</div><audio class="audio-mini" controls><source src="/audio/resumes/monde_${date}.mp3" type="audio/mpeg"></audio></div>`;}
-  }
-  if((tab==='all'||tab==='sabbat') && sabbat){
-    empty=false;
-    html+=`<div class="archive-card"><div class="archive-card-header"><span class="archive-icon">🕯️</span><div><div class="archive-card-title">${sabbat.title||'Sabbat Nugget'}</div><div class="archive-card-date">${fmtDateFR(date)} — Antoni</div></div></div>${sabbat.verse?`<div class="verse-box">${sabbat.verse}</div>`:''}<div class="archive-card-body">${sabbat.nugget||sabbat.content||''}</div><audio class="audio-mini" controls><source src="/audio/sabbat/${date}.mp3" type="audio/mpeg"></audio></div>`;
-  }
   html += '</div>';
   c.innerHTML = empty
     ? '<div class="empty">Aucun contenu disponible pour cette date.</div>'
     : html;
 }
 
-function showArchiveTab(tab, el){
-  document.querySelectorAll('#archive-tabs .tab').forEach(t=>t.classList.remove('active'));
-  el.classList.add('active');
-  renderArchive(tab);
-}
-
-loadDates();
+initDates();
 </script>
 </body>
 </html>
