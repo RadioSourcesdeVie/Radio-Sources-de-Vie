@@ -1,14 +1,49 @@
 {
   "category": "monde",
   "date": "2026-05-27",
-  "updated": "2026-05-27T11:00:54.291615Z",
+  "updated": "2026-05-27T13:21:58.307748Z",
   "articles": [
+    {
+      "title": "Ligue des champions : le trio Campos, Enrique, Al-Khelaïfi fait des merveilles depuis trois ans",
+      "link": "https://www.france24.com/fr/sports/20260527-ligue-des-champions-trio-campos-enrique-al-khela%C3%AFfi-fait-merveilles-depuis-trois-ans",
+      "desc": "Qualifié en finale de ligue des champions pour la deuxième année de suite, une première pour un club français, le PSG profite de la bonne dynamique insufflée par les deux Luis (Campos et Enrique) ainsi que son président Nasser Al-Khelaïfi. Le changement de philosophie à la tête du club a été totalem",
+      "date": "2026-05-27T13:18:56",
+      "source": "France 24"
+    },
+    {
+      "title": "Ebola en RD Congo : un \"choc catastrophique entre maladie et conflit\", selon le chef de l'OMS",
+      "link": "https://www.france24.com/fr/afrique/20260527-ebola-en-rd-congo-un-choc-catastrophique-entre-maladie-et-conflit-selon-le-chef-de-l-oms",
+      "desc": "Alors que le conflit fait rage dans l'est de la République démocratique du Congo (RDC), il devient de plus en plus difficile de maîtriser l'épidémie d'Ebola. Le chef de l'Organisation mondiale de la santé (OMS) a appelé à un \"cessez-le-feu immédiat\".",
+      "date": "2026-05-27T12:49:37",
+      "source": "France 24"
+    },
+    {
+      "title": "Pourquoi la tour de Pise et d'autres bâtiments emblématiques penchent-ils sans s'effondrer ?",
+      "link": "https://www.bbc.com/afrique/articles/clyp511jyjyo?at_medium=RSS&at_campaign=rss",
+      "desc": "La tour de Pise est célèbre pour son inclinaison, mais ce n'est pas le seul monument à vaciller. Pourquoi certains bâtiments penchent-ils et comment peut-on les redresser ?",
+      "date": "2026-05-27T12:14:00",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Roland Garros : la chaleur écrasante modifie complètement les conditions de jeu",
+      "link": "https://www.france24.com/fr/sports/20260527-roland-garros-chaleur-extr%C3%AAme-modifie-compl%C3%A8tement-conditions-de-jeu",
+      "desc": "Le début du tournoi est marqué par la chaleur étouffante présente partout en France. Cela a pour effet de modifier drastiquement les échanges sur les courts : les balles rebondissent plus haut et vont plus vite, ce qui perturbe les joueurs et les joueuses. Un certain temps d'adaptation est nécessair",
+      "date": "2026-05-27T12:04:59",
+      "source": "France 24"
+    },
     {
       "title": "À Gaza, des enfants troquent les fêtes de l’Aïd contre le travail de survie",
       "link": "https://news.un.org/feed/view/fr/story/2026/05/1158894",
       "desc": "Sur la rue Al-Jalaa, au cœur de la ville de Gaza, Mohammad Ashour ne porte ni vêtements neufs ni jouets à l’approche de l’Aïd al-Adha. Une cafetière à la main, un sac sur le dos, il traverse les rues à la recherche de clients pour aider sa famille à survivre, dans une enclave ravagée par la guerre e",
       "date": "2026-05-27T12:00:00",
       "source": "ONU Info"
+    },
+    {
+      "title": "Nasa : l'impressionnant plan de base lunaire dévoilé par l'agence spatiale américaine",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260527-nasa-impressionnant-plan-base-lunaire-d%C3%A9voil%C3%A9-par-agence-spatiale-am%C3%A9ricaine",
+      "desc": "La NASA a dévoilé mardi un plan d'investissement massif pour établir, à moyen terme, une base habitable sur la Lune prévue pour les années 2030. L'agence spatiale a fait appel aux géants de la tech que sont Space X et Blue Origin appartenant respectivement aux milliardaires Elon Musk et Jeff Bezos p",
+      "date": "2026-05-27T11:42:22",
+      "source": "France 24"
     },
     {
       "title": "Qu'est-ce que l'uranium et comment est-il utilisé pour fabriquer des armes nucléaires et produire de l'énergie ?",
@@ -25,45 +60,10 @@
       "source": "France 24"
     },
     {
-      "title": "En Nouvelle-Zélande, un fougueux couple de perruches contribue à préserver son espèce",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260527-nouvelle-zelande-couple-de-perruches-malherbe-contribue-preservation-espece-kakariki-karaka",
-      "desc": "Nacho et Trixie ont donné naissance en Nouvelle-Zélande à 55 poussins, dont 33 cette année, permettant d'augmenter de plus de 10 % la population totale du Kakariki karaka, une espèce de perruche en danger d'extinction.",
-      "date": "2026-05-27T08:44:22",
-      "source": "France 24"
-    },
-    {
-      "title": "Financement libyen : en clôture du procès, la défense de Sarkozy fustige un \"roman grotesque\"",
-      "link": "https://www.france24.com/fr/france/20260527-financement-libyen-en-cl%C3%B4ture-du-proc%C3%A8s-la-d%C3%A9fense-de-sarkozy-fustige-un-roman-grotesque",
-      "desc": "La défense de Nicolas Sarkozy a fustigé mercredi, en ouverture de la dernière journée du procès libyen en appel consacrée aux plaidoiries des avocats de l'ex-chef de l'État, le \"roman grotesque\" des accusations prétendant que la campagne présidentielle 2007 de l'ancien président aurait été en partie",
-      "date": "2026-05-27T08:29:15",
-      "source": "France 24"
-    },
-    {
       "title": "La RD Congo demande le remboursement de ses billets achetés pour la Coupe du monde",
       "link": "https://www.bbc.com/afrique/articles/czr2xn32k72o?at_medium=RSS&at_campaign=rss",
       "desc": "Les supporters de la RD Congo qui souhaitent assister au retour de leur équipe à la Coupe du monde sont confrontés à un obstacle majeur alors que les États-Unis imposent des restrictions de voyage suite à la dernière épidémie d'Ebola.",
       "date": "2026-05-27T08:11:38",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Brésil : la déforestation baisse et atteint son plus bas niveau depuis 2019",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260527-bresil-deforestation-amazonie-sous-un-seuil-historique-en-2025",
-      "desc": "Un rapport de MapBiomas publié mercredi indique que la déforestation au Brésil en 2025 a baissé de 20,6 % par rapport à l'année précédente, atteignant un seuil historique. Celle-ci représente toutefois près de 985 000 hectares déboisés.",
-      "date": "2026-05-27T06:54:30",
-      "source": "France 24"
-    },
-    {
-      "title": "Le direct France 24 momentanément inaccessible sur ses environnements numériques",
-      "link": "https://www.france24.com/fr/france/20260527-france-24-momentanement-inaccessible-sur-ses-environnements-num%C3%A9riques",
-      "desc": "Un incident technique empêche France 24 de vous proposer son antenne en direct sur ses environnements numériques et ses chaînes Youtube.",
-      "date": "2026-05-27T06:06:05",
-      "source": "France 24"
-    },
-    {
-      "title": "« Le Sénégal est à un tournant » - Ahmadou Al Aminou Mohamed Lo, nouveau Premier ministre du Sénégal",
-      "link": "https://www.bbc.com/afrique/articles/cedpp4y8624o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le nouveau chef du gouvernement a  évoqué \"le contexte d'urgence\" dans lequel se trouve le Sénégal, citant les finances publiques, les conséquences des crises internationales sur les prix énergétiques et alimentaires ainsi que les tensions sociales et sécuritaires dans la sous-région.",
-      "date": "2026-05-26T14:08:08",
       "source": "BBC Afrique"
     },
     {
