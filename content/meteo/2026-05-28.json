@@ -1,5 +1,6 @@
 {
-  "updated": "2026-05-28T09:00:02.352728Z",
+  "date": "2026-05-28",
+  "title": "Météo du 28 May 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 13.85,
@@ -15,5 +16,6 @@
     "humidity": 83,
     "description": "Nuageux",
     "wind_kmh": 5.8
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 28 May 2026 sur Radio Sources de Vie. À Ottawa: 14 degrés Celsius. Nuageux. À Port-au-Prince: 23 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
