@@ -1,21 +1,70 @@
 {
   "category": "monde",
   "date": "2026-05-29",
-  "updated": "2026-05-29T11:00:48.692783Z",
+  "updated": "2026-05-29T16:00:49.283794Z",
   "articles": [
     {
-      "title": "En Ukraine, des Français à l'initiative pour sauver des vies sur le terrain",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-en-ukraine-des-fran%C3%A7ais-%C3%A0-l-initiative-pour-sauver-des-vies-sur-le-terrain",
-      "desc": "Depuis le début de la guerre en Ukraine, plusieurs initiatives ont vu le jour afin d'assurer de l'aide humanitaire dans le pays. L'organisation française Frontlines for Peace livre des ambulances aux services de médecines et aux organisations humanitaires en Ukraine. On en parle avec nos invités Jul",
-      "date": "2026-05-29T10:24:48",
+      "title": "Qui est Xenia Fedorova, accusée d'être la voix du Kremlin dans les médias Bolloré ?",
+      "link": "https://www.france24.com/fr/france/20260529-xenia-fedorova-chroniqueuse-cnews-propagande-kremlin-bollore-russie",
+      "desc": "L'ancienne directrice de la chaîne de propagande russe RT France, interdite par l'Union européenne, a rebondi dans la galaxie médiatique du milliardaire conservateur Vincent Bolloré. Mais son influence grandissante et ses positions pro-russes font grincer des dents jusqu'au Quai d'Orsay. Décryptage.",
+      "date": "2026-05-29T15:46:06",
       "source": "France 24"
     },
     {
-      "title": "Présidentielle en Colombie : la sécurité au cœur de la campagne",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-pr%C3%A9sidentielle-en-colombie-la-s%C3%A9curit%C3%A9-au-c%C5%93ur-de-la-campagne",
-      "desc": "Des affrontements entre deux groupes issus de l'ex-guérilla des Farc ont fait 48 morts dans le centre de la Colombie, à quelques jours de la présidentielle, plaçant l'enjeu de la sécurité au centre de la campagne. Récit d'Antoine Fenaux.",
-      "date": "2026-05-29T10:14:57",
+      "title": "Liban : Netanyahu dit que l'armée israélienne a traversé le fleuve Litani",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-liban-netanyahu-dit-que-l-arm%C3%A9e-isra%C3%A9lienne-a-travers%C3%A9-le-fleuve-litani",
+      "desc": "L'armée israélienne a traversé le fleuve Litani situé dans le sud du Liban, à une trentaine de kilomètres au nord de la frontière avec Israël, a affirmé le Premier ministre Benjamin Netanyahu, dans le cadre de l'intensification des opérations contre le Hezbollah soutenu par l'Iran.",
+      "date": "2026-05-29T15:33:01",
       "source": "France 24"
+    },
+    {
+      "title": "États-Unis : une femme amputée d'un bras arrêtée pour téléphone au volant",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-%C3%A9tats-unis-une-femme-amput%C3%A9e-d-un-bras-arr%C3%AAt%C3%A9e-pour-t%C3%A9l%C3%A9phone-au-volant",
+      "desc": "En Floride, une conductrice amputée de la main droite a été verbalisée pour avoir prétendument utilisé son téléphone au volant avec cette même main. Filmée par la caméra-piéton d’un policier, la scène est devenue virale et a conduit l’agent à demander l’annulation du procès-verbal.",
+      "date": "2026-05-29T15:28:50",
+      "source": "France 24"
+    },
+    {
+      "title": "Venezuela : Matthieu Pigasse choisi pour restructurer la dette vénézuélienne",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-venezuela-caracas-confie-sa-dette-au-banquier-fran%C3%A7ais-matthieu-pigasse",
+      "desc": "La restructuration de la dette vénézuélienne, convoitée par plusieurs banques, est finalement tombée dans l'escarcelle du banquier français Matthieu Pigasse. L'attribution du contrat à la société américaine suscite des interrogations sur le rôle joué dans le processus par un investisseur, Mauricio C",
+      "date": "2026-05-29T15:20:27",
+      "source": "France 24"
+    },
+    {
+      "title": "L'essentiel du procès libyen en appel : Sarkozy clame son innocence, dans un ultime cri de colère",
+      "link": "https://www.france24.com/fr/france/20260529-essentiel-proc%C3%A8s-libyen-appel-sarkozy-clame-innocence-col%C3%A8re-financement",
+      "desc": "Le procès en appel de l'affaire du financement libyen de la campagne présidentielle de Nicolas Sarkozy de 2007 s'est achevé cette semaine par une ultime prise de parole de l'ancien chef de l'État qui a demandé à la justice de l'innocenter, estimant ne pas avoir \"pas trahi la confiance des Français\".",
+      "date": "2026-05-29T15:20:14",
+      "source": "France 24"
+    },
+    {
+      "title": "Classement des performances les plus emblématiques en finale de la Ligue des champions",
+      "link": "https://www.bbc.com/afrique/articles/cy82d8ne10mo?at_medium=RSS&at_campaign=rss",
+      "desc": "Steven Gerrard à Istanbul ? Le doublé de Gareth Bale ? Teddy Sheringham ou Ole Gunnar Solskjaer ? Classement des meilleures performances en finale de la Ligue des champions.",
+      "date": "2026-05-29T14:29:22",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Protection des enfants en ligne : l’ONU plaide pour une approche globale au-delà des restrictions d’accès",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158904",
+      "desc": "Les interdictions générales des réseaux sociaux ne constituent pas une solution miracle à un problème aux multiples facettes, a alerté vendredi le Bureau des droits de l’homme de l’ONU, relevant que la protection des enfants en ligne doit être assurée de manière adéquate.",
+      "date": "2026-05-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L’ONU rend hommage aux Casques bleus et appelle à un regain d’investissement en faveur de la paix",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158903",
+      "desc": "Les soldats de la paix accomplissent leur mission à une époque périlleuse, marquée par des tensions mondiales croissantes et des ressources limitées. Le Secrétaire général de l’ONU, António Guterres, appelle ce vendredi à un soutien politique accru et à un appui financier fiable pour les « casques b",
+      "date": "2026-05-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Epidémie d’Ebola : une première guérison enregistrée en RDC, selon l’OMS",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158902",
+      "desc": "Un premier patient infecté par le virus responsable de l’épidémie d’Ebola en République démocratique du Congo (RDC) a été déclaré guéri mercredi, a indiqué vendredi l’agence sanitaire mondiale de l’ONU (OMS).",
+      "date": "2026-05-29T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "En 2026, quels pays africains ont le plus emprunté au FMI ?",
@@ -23,27 +72,6 @@
       "desc": "Le niveau élevé de la dette envers le Fonds monétaire international (FMI) et d'autres créanciers extérieurs pourrait faire peser des risques économiques importants à long terme sur les pays africains.",
       "date": "2026-05-29T10:13:07",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Ligue des champions : le PSG va tenter de conserver son titre",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-ligue-des-champions-le-psg-va-tenter-de-conserver-son-titre",
-      "desc": "Le Paris SG a l'opportunité inouïe de marquer l'histoire en remportant un deuxième titre d'affilée en Ligue des champions samedi contre Arsenal à Budapest et d'instaurer une domination durable sur le continent européen, comme aucun club français avant lui.",
-      "date": "2026-05-29T09:59:56",
-      "source": "France 24"
-    },
-    {
-      "title": "Roumanie : retour en images sur la chute d’un drone russe",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260529-roumanie-retour-en-images-sur-la-chute-d-un-drone-russe",
-      "desc": "Le président roumain Nicusor Dan a indiqué avoir convoqué le Conseil suprême national de Défense après la chute d'un drone qui a fait deux blessés dans un immeuble près de la frontière avec l'Ukraine.",
-      "date": "2026-05-29T09:55:03",
-      "source": "France 24"
-    },
-    {
-      "title": "Fally Ipupa, la trajectoire exceptionnelle de l'Aigle",
-      "link": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20260529-fally-ipupa-la-trajectoire-exceptionnelle-de-l-aigle",
-      "desc": "Rendez-vous avec la méga star congolaise Fally Ipupa pour refaire le match autour de ses deux Stade de France, les 2 et 3 mai derniers. Retour sur son incroyable itinéraire, les moyens mis en œuvre pour développer sa carrière internationale et ses futurs projets - dont l’O2 Arena de Londres prévu po",
-      "date": "2026-05-29T09:53:05",
-      "source": "France 24"
     },
     {
       "title": "Comment la frénésie de dépenses de l'Arabie saoudite a atteint la limite",
@@ -57,13 +85,6 @@
       "link": "https://www.bbc.com/afrique/articles/c93n4pe3v6eo?at_medium=RSS&at_campaign=rss",
       "desc": "L'idée selon laquelle certains types de musique apaisent différentes espèces animales est corroborée par de nombreuses études scientifiques, mais aussi par des cas spécifiques, comme celui de Margot, la chienne de l'éditrice photo de la BBC.",
       "date": "2026-05-28T17:05:12",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Un moteur qui s'est détaché comme une banane » : la pilote de ligne qui a sauvé la vie de ses passagers",
-      "link": "https://www.bbc.com/afrique/articles/cdepx9ex4xjo?at_medium=RSS&at_campaign=rss",
-      "desc": "Tammie Jo Shults avait l'habitude de défier toutes les chances, notamment lorsqu'elle a sauvé la vie de ses passagers d'avion",
-      "date": "2026-05-28T16:12:47",
       "source": "BBC Afrique"
     },
     {
@@ -84,27 +105,6 @@
       "title": "L’initiative « ONU 80 » entre dans une « nouvelle phase critique », affirme António Guterres",
       "link": "https://news.un.org/feed/view/fr/story/2026/05/1158900",
       "desc": "Le Secrétaire général de l’ONU, António Guterres, a présenté jeudi de nouvelles avancées l’initiative de réforme «&nbsp;ONU 80&nbsp;», un vaste projet de réforme et de restructuration destiné à rendre l’Organisation plus efficace, plus agile et mieux armée pour répondre aux défis mondiaux.",
-      "date": "2026-05-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "EN DIRECT - Le Conseil de sécurité se réunit d’urgence face à l’escalade des attaques russes en Ukraine",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158899",
-      "desc": "Le Conseil de sécurité de l’ONU se réunit jeudi sur l’Ukraine, à la demande de Kyiv et avec le soutien des membres européens du Conseil, après les frappes massives menées par la Russie dans la nuit du 23 au 24 mai. Le Secrétaire général António Guterres doit mettre en garde contre une escalade « sus",
-      "date": "2026-05-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Climat : le monde entre dans plusieurs années de chaleur quasi record",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158898",
-      "desc": "Alors qu’une vague de chaleur exceptionnelle frappe une grande partie de l’Europe depuis plusieurs jours, la planète devrait connaître de nouvelles années de chaleur record ou quasi record jusqu’en 2030, a averti jeudi l’ONU, estimant à 75 % la probabilité que la température moyenne mondiale dépasse",
-      "date": "2026-05-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Guerre en Ukraine : l'ONU met en garde contre une escalade dangereuse et appelle à la reprise des négociations",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158897",
-      "desc": "Le chef des droits de l’homme de l’ONU a mis en garde jeudi contre une nouvelle escalade des hostilités entre la Russie et l’Ukraine, alors que Moscou menace une nouvelle fois d’intensifier ses attaques.&nbsp;",
       "date": "2026-05-28T12:00:00",
       "source": "ONU Info"
     }
