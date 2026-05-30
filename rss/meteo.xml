@@ -5,15 +5,15 @@
     <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Fri, 29 May 2026 09:03:11 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2026 09:03:09 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Météo du 29 May 2026</title>
-      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-05-29</description>
-      <pubDate>Fri, 29 May 2026 09:03:11 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-05-29.mp3" length="240370" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-05-29.mp3</guid>
+      <title>Météo du 30 May 2026</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-05-30</description>
+      <pubDate>Sat, 30 May 2026 09:03:09 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-05-30.mp3" length="229085" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-05-30.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>

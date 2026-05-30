@@ -1,5 +1,6 @@
 {
-  "updated": "2026-05-30T09:00:01.935128Z",
+  "date": "2026-05-30",
+  "title": "Météo du 30 May 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 10.37,
@@ -15,5 +16,6 @@
     "humidity": 89,
     "description": "Nuageux",
     "wind_kmh": 5.7
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 30 May 2026 sur Radio Sources de Vie. À Ottawa: 10 degrés Celsius. Nuageux. À Port-au-Prince: 24 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
