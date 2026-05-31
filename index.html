@@ -179,10 +179,7 @@ footer strong{color:var(--white)}
       <span class="meteo-desc" id="wx-pap-desc"></span>
     </div>
   </div>
-  <div class="meteo-audio" id="meteo-audio-box" style="display:none">
-    <span>🎙️ Météo audio:</span>
-    <audio controls style="height:28px;width:180px" id="meteo-player"></audio>
-  </div>
+  <!-- météo audio déplacée dans onglet Météo -->
 </div>
 
 <!-- CONTENU PRINCIPAL -->
@@ -197,6 +194,7 @@ footer strong{color:var(--white)}
     <div class="tab" onclick="showTab('temoignage',this)">❤️ Témoignage</div>
     <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
     <div class="tab" onclick="showTab('priere_soir',this)">🌙 Prière Soir</div>
+    <div class="tab" onclick="showTab('meteo',this)">🌡️ Météo</div>
     <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
   </div>
   <div class="content-area" id="content-area">
@@ -343,6 +341,7 @@ const LOADERS = {
   resume_haiti:    ()=>loadResume('haiti','🇭🇹'),
   resume_monde:    ()=>loadResume('monde','🌍'),
   resume_sport:    ()=>loadResume('sport','⚽'),
+  meteo:           ()=>loadMeteoTab(),
   gemini:          ()=>loadGemini(),
 };
 
@@ -480,6 +479,56 @@ setInterval(updatePlayer,60000);
 loadWeather();
 loadArchives();
 showTab('priere_matin',document.querySelector('.tab'));
+
+function loadMeteoTab(){
+  const box=document.getElementById('content-area');
+  if(!box)return;
+  const mp3='/audio/meteo/'+TODAY+'.mp3';
+  box.innerHTML=`
+    <div style="max-width:600px;margin:0 auto;text-align:center;padding:2rem">
+      <div style="font-size:3rem;margin-bottom:1rem">🌡️</div>
+      <h2 style="font-family:var(--serif);color:var(--green-dark);margin-bottom:.5rem">Météo du Jour</h2>
+      <p style="color:var(--gray);margin-bottom:1.5rem">Ottawa & Port-au-Prince — ${new Date().toLocaleDateString('fr-CA',{weekday:'long',year:'numeric',month:'long',day:'numeric'})}</p>
+      <div style="background:var(--green-pale);border-radius:16px;padding:1.5rem;margin-bottom:1rem">
+        <p style="font-size:.8rem;color:var(--green);letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.8rem">🎙️ BELLA — MÉTÉO AUDIO</p>
+        <audio controls style="width:100%" src="${mp3}"
+          onerror="this.parentElement.innerHTML='<p style=color:var(--gray)>Audio météo non disponible pour aujourd\'hui</p>'">
+        </audio>
+      </div>
+      <div style="display:flex;gap:1rem;justify-content:center;flex-wrap:wrap">
+        <div style="background:white;border-radius:12px;padding:1rem 2rem;box-shadow:0 2px 8px rgba(0,0,0,.08)">
+          <div style="font-size:1.5rem">🇨🇦</div>
+          <div style="font-weight:700;color:var(--green-dark)" id="tab-ottawa-temp">--°C</div>
+          <div style="font-size:.8rem;color:var(--gray)" id="tab-ottawa-desc">Ottawa</div>
+        </div>
+        <div style="background:white;border-radius:12px;padding:1rem 2rem;box-shadow:0 2px 8px rgba(0,0,0,.08)">
+          <div style="font-size:1.5rem">🇭🇹</div>
+          <div style="font-weight:700;color:var(--green-dark)" id="tab-pap-temp">--°C</div>
+          <div style="font-size:.8rem;color:var(--gray)" id="tab-pap-desc">Port-au-Prince</div>
+        </div>
+      </div>
+    </div>`;
+  // Copier les données météo déjà chargées
+  const ot=document.getElementById('wx-ottawa-temp');
+  const od=document.getElementById('wx-ottawa-desc');
+  const pt=document.getElementById('wx-pap-temp');
+  const pd=document.getElementById('wx-pap-desc');
+  if(ot)document.getElementById('tab-ottawa-temp').textContent=ot.textContent;
+  if(od)document.getElementById('tab-ottawa-desc').textContent=od.textContent;
+  if(pt)document.getElementById('tab-pap-temp').textContent=pt.textContent;
+  if(pd)document.getElementById('tab-pap-desc').textContent=pd.textContent;
+}
+
+function donate(amount){
+  // PayPal — aucune inscription requise, paiement par carte possible
+  const email='VOTRE_VRAI_EMAIL@gmail.com'; // <-- changez ici
+  const desc='Don+Radio+Sources+de+Vie';
+  if(amount==='custom'){
+    window.open('https://www.paypal.com/paypalme/'+email.split('@')[0],'_blank');
+  } else {
+    window.open('https://www.paypal.com/donate?business='+encodeURIComponent(email)+'&amount='+amount+'&currency_code=CAD&item_name='+desc,'_blank');
+  }
+}
 </script>
 </body>
 </html>
