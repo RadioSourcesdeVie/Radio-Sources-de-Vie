@@ -1,14 +1,70 @@
 {
   "category": "monde",
   "date": "2026-05-31",
-  "updated": "2026-05-31T11:00:46.704817Z",
+  "updated": "2026-05-31T16:00:50.010677Z",
   "articles": [
     {
-      "title": "L'Arménie se prépare à des élections législatives déterminantes pour sa souveraineté",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260531-armenie-face-a-des-elections-legislatives-determinantes-pour-sa-souverainete-russie-nikol-pachinian",
-      "desc": "L'Arménie se rendra aux urnes le 7 juin pour des élections législatives s’annonçant comme un test décisif pour le Premier ministre Nikol Pachinian, à la recherche d’une large majorité pour affirmer la souveraineté de l'ancienne République soviétique face à la Russie et accélérer son rapprochement av",
-      "date": "2026-05-31T09:58:34",
+      "title": "Doublé européen du PSG : les joueurs ont atterri et prennent la direction du Champ-de-Mars",
+      "link": "https://www.france24.com/fr/sports/20260531-doubl%C3%A9-europeen-psg-ligue-des-champions-football-les-joueurs-atterris-paris-champ-de-mars-programme-vainqueurs",
+      "desc": "Les joueurs de l'équipe du Paris Saint-Germain, vainqueurs de la Ligue des champions, sont arrivés dimanche à l'aéroport de Roissy-Charles de Gaulle, selon une source aéroportuaire. Ils doivent se rendre sur le Champ-de-Mars à Paris, puis seront reçus par Emmanuel Macron à l'Élysée, avant de retrouv",
+      "date": "2026-05-31T15:39:13",
       "source": "France 24"
+    },
+    {
+      "title": "Le Maroc souhaite que les touristes visitent le Sahara occidental. Certains disent qu'il resserre son contrôle",
+      "link": "https://www.bbc.com/afrique/articles/cd9ppqzqpqxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le gouvernement marocain souhaite que davantage de vacanciers occidentaux visitent le territoire qu'il prétend posséder.",
+      "date": "2026-05-31T15:25:18",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Au Liban, Israël s'empare du château de Beaufort : \"un tournant décisif\" pour Benjamin Netanyahu",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260531-au-liban-isra%C3%ABl-s-empare-du-ch%C3%A2teau-de-beaufort-un-tournant-d%C3%A9cisif-pour-benjamin-netanyahu",
+      "desc": "L'armée israélienne a annoncé dimanche s'être emparée de l'emblématique forteresse médiévale de Beaufort, un \"tournant décisif\", selon Benjamin Netanyahu, de son offensive dans le sud du Liban. La France a demandé une réunion d'urgence du Conseil de sécurité des Nations Unies.",
+      "date": "2026-05-31T15:13:28",
+      "source": "France 24"
+    },
+    {
+      "title": "Guerre en Ukraine : la centrale nucléaire de Zaporijjia touchée par un drone, affirme l'AIEA",
+      "link": "https://www.france24.com/fr/europe/20260531-guerre-ukraine-centrale-nucl%C3%A9aire-zaporijjia-touch%C3%A9e-drone-affirme-aiea-territoire-occup%C3%A9-russie",
+      "desc": "La centrale nucléaire de Zaporijjia, située dans le sud de l'Ukraine et contrôlée par la Russie, a été frappée samedi par un drone, selon les informations de l'Agence internationale de l'énergie atomique (AIEA). L'un des bâtiments abritant une turbine aurait \"un trou dans son mur\", mais les niveaux ",
+      "date": "2026-05-31T14:52:03",
+      "source": "France 24"
+    },
+    {
+      "title": "Israël poursuit son offensive au Liban malgré la trêve",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260531-isra%C3%ABl-poursuit-son-offensive-au-liban-malgr%C3%A9-la-tr%C3%AAve",
+      "desc": "L'armée israélienne appelle à l'évacuation au Liban de toute la zone au sud du fleuve Zahrani. Le ministre de la Défense israélien, Israël Katz, a affirmé dimanche que l'armée s'était emparée de la forteresse médiévale de Beaufort, dans le sud du Liban, où elle a étendu ses opérations contre le Hezb",
+      "date": "2026-05-31T14:37:43",
+      "source": "France 24"
+    },
+    {
+      "title": "Surprises à Roland-Garros, vague de chaleur précoce, abrogation du Code noir : la semaine en images",
+      "link": "https://www.france24.com/fr/europe/20260531-surprises-%C3%A0-roland-garros-vague-de-chaleur-pr%C3%A9coce-abrogation-du-code-noir-la-semaine-en-images",
+      "desc": "Retour sur les temps forts de l'actualité de la semaine : la France écrasée par une vague de chaleur précoce, le jeune prodige français Moïse Kouamé fait des débuts fracassants à Roland-Garros, un drone russe s'écrase en Roumanie, Israël multiplie les frappes contre le sud-Liban, ou encore le Code n",
+      "date": "2026-05-31T13:54:35",
+      "source": "France 24"
+    },
+    {
+      "title": "Coup de chance : comment un obscur pharmacien britannique a accidentellement inventé des allumettes modernes",
+      "link": "https://www.bbc.com/afrique/articles/cqlp1wnlk4zo?at_medium=RSS&at_campaign=rss",
+      "desc": "En 1826, le pharmacien anglais John Walker a accidentellement inventé la première allumette à friction en grattant un mélange chimique séché contre une surface rugueuse. Bien que l'invention soit devenue omniprésente dans le monde entier, Walker n'a jamais breveté son idée et reste obscure.",
+      "date": "2026-05-31T12:45:45",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L’OMS exhorte les Etats à protéger les jeunes contre la dépendance au tabac et l’addiction nicotinique",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158912",
+      "desc": "A l’occasion de la Journée mondiale sans tabac, célébrée ce 31 mai, l’agence sanitaire mondiale de l’ONU (OMS) a dénoncé, dimanche « les tactiques de séduction » de l’industrie du tabac et de la nicotine qui conçoivent des produits pour enfermer les jeunes dans « le cycle de l’addiction nicotinique ",
+      "date": "2026-05-31T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Des chaussures empruntées, une joie empruntée : le football prospère dans les camps de Gaza",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158911",
+      "desc": "Les matchs organisés par un ancien joueur professionnel offrent un bref répit face à la dure réalité de la vie pour les milliers de personnes qui vivent dans des tentes surpeuplées, des écoles ou des bâtiments endommagés, dans le territoire palestinien occupé de Gaza, en ruines.",
+      "date": "2026-05-31T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Pourquoi Einstein ne voulait-il pas devenir président d'Israël ?",
@@ -16,34 +72,6 @@
       "desc": "Einstein estimait qu'il ne possédait ni les compétences politiques ni l'expérience nécessaires pour occuper un poste de chef de gouvernement.",
       "date": "2026-05-31T09:43:17",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Ligue des champions : le Paris Saint-Germain sacré aux dépens d'Arsenal",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260531-ligue-des-champions-le-paris-saint-germain-sacr%C3%A9-aux-d%C3%A9pens-d-arsenal",
-      "desc": "Le PSG entre dans la légende. Le club de la capitale a remporté une deuxième Ligue des champions d'affilée, en dominant les Gunners en finale à l'issue de la séance de tirs au but (1-1 a.p., 4 t.a.b à 3), samedi à Budapest.",
-      "date": "2026-05-31T09:19:19",
-      "source": "France 24"
-    },
-    {
-      "title": "Aukus : l’Australie ne recevra finalement que trois sous-marins nucléaires américains d’occasion",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260531-aukus-australie-trois-sous-marins-nucleaires-americains-occasion-france",
-      "desc": "L’Australie ne recevra finalement que des sous-marins nucléaires d’occasion des États-Unis dans le cadre du pacte de sécurité Aukus. Canberra attendait un submersible neuf parmi les trois promis par Washington. Un ajustement présenté comme plus \"rentable\" par le gouvernement australien.",
-      "date": "2026-05-31T08:23:15",
-      "source": "France 24"
-    },
-    {
-      "title": "En direct : l'armée israélienne hisse son drapeau sur le château stratégique de Beaufort, dans le sud du Liban",
-      "link": "https://www.france24.com/fr/moyen-orient/20260531-en-direct-iran-trump-israel-etats-unis-sud-liban-hezbollah-khamenei",
-      "desc": "Après avoir annoncé dimanche que son \"opération\" contre le Hezbollah \"est en train de s'étendre à d'autres zones\" du sud du Liban, l'armée israélienne s'est emparée ​du château de Beaufort, une forteresse stratégique protégée par l'Unesco. De son côté, Donald Trump a affirmé que l'Iran s'était engag",
-      "date": "2026-05-31T05:01:54",
-      "source": "France 24"
-    },
-    {
-      "title": "NBA : l'exploit des Spurs de Wembanyama contre OKC pour se hisser en finale face aux Knicks",
-      "link": "https://www.france24.com/fr/sports/20260531-nba-tombeurs-d-okc-wembanyama-et-les-spurs-en-finale-face-aux-knicks",
-      "desc": "Les San Antonio Spurs de Victor Wembanyama défieront les New York Knicks en finale NBA à la faveur de leur exploit samedi, un succès sur le parquet du Thunder d'Oklahoma City, tenant du titre, à l'issue d'un match 7 irrespirable (111-103). Le prodige français de 22 ans a une nouvelle fois été déterm",
-      "date": "2026-05-31T03:55:22",
-      "source": "France 24"
     },
     {
       "title": "5 techniques de respiration qui peuvent réduire le stress en quelques minutes et améliorer votre santé",
@@ -57,13 +85,6 @@
       "link": "https://www.bbc.com/afrique/articles/ce3pprn4rzdo?at_medium=RSS&at_campaign=rss",
       "desc": "Hannah Critchlow, neuroscientifique à l'université de Cambridge, se pose la question suivante : que se passerait-il si nous utilisions nos connaissances pour entraîner notre propre cerveau comme nous l'avons fait avec l'IA ?",
       "date": "2026-05-30T15:40:59",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Quelle est la prédiction de l'économiste allemand qui a correctement prédit le vainqueur de la Coupe du monde lors des trois dernières éditions ?",
-      "link": "https://www.bbc.com/afrique/articles/czd2ey1844yo?at_medium=RSS&at_campaign=rss",
-      "desc": "Joachim Klement, l'économiste allemand qui a prédit avec justesse les vainqueurs des trois dernières Coupes du monde, a publié ses pronostics pour la Coupe du monde de cette année.",
-      "date": "2026-05-30T13:07:32",
       "source": "BBC Afrique"
     },
     {
@@ -85,27 +106,6 @@
       "link": "https://news.un.org/feed/view/fr/story/2026/05/1158908",
       "desc": "Alors que les hostilités se poursuivent au sud Liban malgré la trêve, théoriquement en vigueur depuis le 17 avril dernier, le personnel de santé est confronté à « un nombre effroyable de morts et de blessés », a déploré samedi une agence des Nations Unies.&nbsp;",
       "date": "2026-05-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Une haute responsable de l’aide humanitaire exhorte les jeunes à « servir l’humanité » et à soutenir l’ONU",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158907",
-      "desc": "Une humanitaire chevronnée revient sur son travail au service des populations du monde entier alors qu’elle s’apprête à quitter les Nations Unies à la fin du mois.",
-      "date": "2026-05-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les procureurs américains enquêtent sur la FIFA au sujet des prix exorbitants des billets pour la Coupe du monde",
-      "link": "https://www.bbc.com/afrique/articles/cjepjdq9jd0o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'enquête vise à déterminer si la FIFA a manipulé les prix des billets, trompé les supporters sur les places attribuées et créé une pénurie artificielle de billets pour la Coupe du monde 2026 aux États-Unis.",
-      "date": "2026-05-30T10:43:19",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les cas de violences sexuelles liées aux conflits ont plus que doublé en 2025, met en garde l’ONU",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158906",
-      "desc": "Près de 10.000 cas de violences sexuelles liées aux conflits ont été recensés dans le monde l’année dernière - soit plus du double du chiffre de l’année précédente -, alors que le viol, l’esclavage sexuel et les enlèvements ont été utilisés comme armes de guerre en Afrique, au Moyen-Orient, en Europ",
-      "date": "2026-05-29T12:00:00",
       "source": "ONU Info"
     }
   ]
