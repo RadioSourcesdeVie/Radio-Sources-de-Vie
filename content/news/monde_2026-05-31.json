@@ -1,8 +1,29 @@
 {
   "category": "monde",
   "date": "2026-05-31",
-  "updated": "2026-05-31T09:00:52.043066Z",
+  "updated": "2026-05-31T11:00:46.704817Z",
   "articles": [
+    {
+      "title": "L'Arménie se prépare à des élections législatives déterminantes pour sa souveraineté",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260531-armenie-face-a-des-elections-legislatives-determinantes-pour-sa-souverainete-russie-nikol-pachinian",
+      "desc": "L'Arménie se rendra aux urnes le 7 juin pour des élections législatives s’annonçant comme un test décisif pour le Premier ministre Nikol Pachinian, à la recherche d’une large majorité pour affirmer la souveraineté de l'ancienne République soviétique face à la Russie et accélérer son rapprochement av",
+      "date": "2026-05-31T09:58:34",
+      "source": "France 24"
+    },
+    {
+      "title": "Pourquoi Einstein ne voulait-il pas devenir président d'Israël ?",
+      "link": "https://www.bbc.com/afrique/articles/c8e8nx8w500o?at_medium=RSS&at_campaign=rss",
+      "desc": "Einstein estimait qu'il ne possédait ni les compétences politiques ni l'expérience nécessaires pour occuper un poste de chef de gouvernement.",
+      "date": "2026-05-31T09:43:17",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ligue des champions : le Paris Saint-Germain sacré aux dépens d'Arsenal",
+      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260531-ligue-des-champions-le-paris-saint-germain-sacr%C3%A9-aux-d%C3%A9pens-d-arsenal",
+      "desc": "Le PSG entre dans la légende. Le club de la capitale a remporté une deuxième Ligue des champions d'affilée, en dominant les Gunners en finale à l'issue de la séance de tirs au but (1-1 a.p., 4 t.a.b à 3), samedi à Budapest.",
+      "date": "2026-05-31T09:19:19",
+      "source": "France 24"
+    },
     {
       "title": "Aukus : l’Australie ne recevra finalement que trois sous-marins nucléaires américains d’occasion",
       "link": "https://www.france24.com/fr/asie-pacifique/20260531-aukus-australie-trois-sous-marins-nucleaires-americains-occasion-france",
@@ -11,9 +32,9 @@
       "source": "France 24"
     },
     {
-      "title": "En direct : l'armée israélienne annonce étendre son offensive dans le sud du Liban \"à d'autres zones\"",
+      "title": "En direct : l'armée israélienne hisse son drapeau sur le château stratégique de Beaufort, dans le sud du Liban",
       "link": "https://www.france24.com/fr/moyen-orient/20260531-en-direct-iran-trump-israel-etats-unis-sud-liban-hezbollah-khamenei",
-      "desc": "L'armée israélienne a annoncé dimanche que son \"opération\" contre le mouvement pro-iranien Hezbollah \"est en train de s'étendre à d'autres zones\" après la traversée du fleuve Litani, dans le sud du Liban. De son côté, Donald Trump a affirmé que l'Iran s'était engagé à ne pas se doter de l'arme nuclé",
+      "desc": "Après avoir annoncé dimanche que son \"opération\" contre le Hezbollah \"est en train de s'étendre à d'autres zones\" du sud du Liban, l'armée israélienne s'est emparée ​du château de Beaufort, une forteresse stratégique protégée par l'Unesco. De son côté, Donald Trump a affirmé que l'Iran s'était engag",
       "date": "2026-05-31T05:01:54",
       "source": "France 24"
     },
@@ -22,20 +43,6 @@
       "link": "https://www.france24.com/fr/sports/20260531-nba-tombeurs-d-okc-wembanyama-et-les-spurs-en-finale-face-aux-knicks",
       "desc": "Les San Antonio Spurs de Victor Wembanyama défieront les New York Knicks en finale NBA à la faveur de leur exploit samedi, un succès sur le parquet du Thunder d'Oklahoma City, tenant du titre, à l'issue d'un match 7 irrespirable (111-103). Le prodige français de 22 ans a une nouvelle fois été déterm",
       "date": "2026-05-31T03:55:22",
-      "source": "France 24"
-    },
-    {
-      "title": "\"Légendaires\", \"invincibles\" : les héros du PSG rentrent à Paris pour fêter leur doublé européen",
-      "link": "https://www.france24.com/fr/sports/20260531-encens%C3%A9s-par-la-presse-les-h%C3%A9ros-du-psg-de-retour-%C3%A0-paris-pour-f%C3%AAter-leur-doubl%C3%A9-europ%C3%A9en",
-      "desc": "Salués par la presse nationale et internationale, les joueurs du PSG, auréolés d'un nouveau titre européen, reviennent à Paris dimanche. Ils fêteront leur deuxième victoire en Ligue des Champions au Champ de Mars, puis dans la soirée au Parc des Princes, après un passage par l'Élysée.",
-      "date": "2026-05-31T02:03:18",
-      "source": "France 24"
-    },
-    {
-      "title": "\"Deux, c'est légendaire !\" : les Parisiens savourent leur exploit historique",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260531-deux-c-est-l%C3%A9gendaire-les-parisiens-savourent-leur-exploit-historique",
-      "desc": "🏆\"Une c'est historique, et deux, c'est légendaire\" ! 🔥\n \n🔴🔵 Le PSG a réussi l'exploit de remporter deux Ligues des champions d'affilée au terme d'un match dantesque contre Arsenal, une grande fierté pour Marquinhos et ses joueurs. ⚽️",
-      "date": "2026-05-31T00:34:47",
       "source": "France 24"
     },
     {
@@ -100,13 +107,6 @@
       "desc": "Près de 10.000 cas de violences sexuelles liées aux conflits ont été recensés dans le monde l’année dernière - soit plus du double du chiffre de l’année précédente -, alors que le viol, l’esclavage sexuel et les enlèvements ont été utilisés comme armes de guerre en Afrique, au Moyen-Orient, en Europ",
       "date": "2026-05-29T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "PSG 1 - Arsenal 1 (4-3 TAB)- le Paris Saint Germain vainqueur de la Ligue des Champions 2026",
-      "link": "https://www.bbc.co.uk/afrique/live/cz72dnj7plxt?at_medium=RSS&at_campaign=rss",
-      "desc": "Revivez la finale de la Ligue des champions UEFA 2026 sur BBC News Afrique.",
-      "date": "",
-      "source": "BBC Afrique"
     }
   ]
 }
