@@ -1,20 +1,40 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Prière du Matin — Radio Sources de Vie</title>
     <description>Prière quotidienne du matin — Voix Bella</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Mon, 01 Jun 2026 09:03:09 +0000</lastBuildDate>
-    <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
-    <itunes:category text="Religion &amp; Spirituality"/>
+    <copyright>Radio Sources de Vie 2026</copyright>
+    <managingEditor>avenangar@gmail.com (Radio Sources de Vie)</managingEditor>
+    <webMaster>avenangar@gmail.com (Radio Sources de Vie)</webMaster>
+    <lastBuildDate>Mon, 01 Jun 2026 10:26:37 +0000</lastBuildDate>
+    <itunes:author>Radio Sources de Vie</itunes:author>
+    <itunes:summary>Prière du matin pour commencer la journée avec Dieu</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="https://www.radiosourcesdevie.org/icon.png"/>
+    <itunes:category text="Religion &amp; Spirituality">
+      <itunes:category text="Christianity"/>
+    </itunes:category>
+    <image>
+      <url>https://www.radiosourcesdevie.org/icon.png</url>
+      <title>Prière du Matin — Radio Sources de Vie</title>
+      <link>https://www.radiosourcesdevie.org</link>
+    </image>
     <item>
       <title>Prière du Matin — 2026-06-01</title>
       <description>Prière quotidienne du matin — Voix Bella — 2026-06-01</description>
-      <pubDate>Mon, 01 Jun 2026 09:03:09 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/prayers/matin_2026-06-01.mp3" length="945467" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/prayers/matin_2026-06-01.mp3</guid>
+      <link>https://www.radiosourcesdevie.org/audio/prayers/matin_2026-06-01.mp3</link>
+      <pubDate>Mon, 01 Jun 2026 10:26:37 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/prayers/matin_2026-06-01.mp3" length="243296" type="audio/mpeg"/>
+      <guid isPermaLink="false">prayer-matin-2026-06-01</guid>
+      <itunes:title>Prière du Matin — 2026-06-01</itunes:title>
+      <itunes:author>Radio Sources de Vie</itunes:author>
       <itunes:duration>00:01:00</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Prière du matin pour commencer la journée avec Dieu</itunes:summary>
     </item>
   </channel>
 </rss>
