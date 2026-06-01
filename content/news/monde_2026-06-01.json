@@ -1,35 +1,56 @@
 {
   "category": "monde",
   "date": "2026-06-01",
-  "updated": "2026-06-01T09:00:50.697037Z",
+  "updated": "2026-06-01T11:00:49.934865Z",
   "articles": [
     {
-      "title": "Liban : Israël envisage des bombardements \"sur tout le pays\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-liban-isra%C3%ABl-envisage-des-bombardements-sur-tout-le-pays",
-      "desc": "L'armée israélienne a intensifié son offensive au Sud-Liban en s'emparant de la forteresse stratégique de Beaufort, provoquant des frappes massives et le déplacement de plus d'un million de personnes face à un Hezbollah qui ne désarme pas et continue de se défendre. Devant cette escalade majeure et ",
-      "date": "2026-06-01T08:59:33",
+      "title": "Ebola en RD Congo : signes d’espoir à Bunia après la guérison de quatre infirmiers",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158914",
+      "desc": "Alors que la situation évolue « rapidement avec des cas et des décès signalés dans plusieurs zones de santé » de l’Est de la République démocratique du Congo (RDC), quatre infirmiers pris en charge pour recevoir des soins pour le virus Ebola, causé par la souche Bundibugyo, ont pu quitter un hôpital",
+      "date": "2026-06-01T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Erdogan : plus puissant que jamais ? Parlons-en avec Ayşegül Sert, Didier Billion et Samim Akgönül",
+      "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260601-erdogan-plus-puissant-que-jamais-parlons-en-avec-ay%C5%9Feg%C3%BCl-sert-didier-billion-et-samim-akg%C3%B6n%C3%BCl",
+      "desc": "En Turquie, l’offensive du pouvoir contre l’opposition semble être passée sous les radars médiatiques. Pourtant, un an après l’arrestation du maire d’Istanbul Ekrem Imamoglu, jamais Recep Tayyip Erdogan n’était allé si loin, semble-t-il, pour assoir sa mainmise sur le pays en écartant le chef désign",
+      "date": "2026-06-01T10:25:02",
       "source": "France 24"
     },
     {
-      "title": "Roland Garros : Jódar marche dans les pas de Nadal sur la terre battue parisienne",
-      "link": "https://www.france24.com/fr/sports/20260601-roland-garros-j%C3%B3dar-marche-dans-les-pas-nadal-sur-terre-battue-parisienne",
-      "desc": "À tout juste 19 ans, le prodige espagnol vient de se qualifier pour les quarts de finale de Roland-Garros, une performance qui rappelle un autre Rafael, lui aussi espagnol. En un an, Rafael Jódar a connu une montée en puissance remarquable en grimpant de la 896ᵉ place mondiale au top 30. Il est d'ai",
-      "date": "2026-06-01T08:49:07",
+      "title": "Faux comptes, fausse Pride… l'Arménie face à une désinformation tous azimuts avant les élections",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260601-faux-comptes-fausse-pride-arm%C3%A9nie-d%C3%A9sinformation-%C3%A9lections-nikol-pachinian-russie-lgbt",
+      "desc": "Les médias d’investigation arméniens ont démasqué de nombreuses campagnes de désinformation en ligne depuis le début du mois de mai, à l’approche des élections législatives du 7 juin. Parti au pouvoir, opposition et acteurs étrangers sont tous accusés d'en être à l'origine, malgré les risques pour l",
+      "date": "2026-06-01T10:23:57",
       "source": "France 24"
     },
     {
-      "title": "Marilyn Monroe : cent bougies et les honneurs d'Hollywood rendus à son icône",
-      "link": "https://www.france24.com/fr/culture/20260601-marilyn-monroe-cent-bougies-honneurs-hollywood-ic%C3%B4ne",
-      "desc": "Marilyn Monroe, star et icône du cinéma américain des années 1950 et 1960, aurait eu cent ans ce lundi 1ᵉʳ juin 2026. Au-delà de sa présence à l'écran, sa vie est un roman de militantisme et de conspiracies, symptôme de sa célébrité. Pour fêter son centenaire, Hollywood sera la scène d'un hommage, d",
-      "date": "2026-06-01T08:42:47",
+      "title": "Colombie : l'ultra-conservateur Abelardo de la Espriella crée la surprise et accède au second tour",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-colombie-l-ultra-conservateur-abelardo-de-la-espriella-cr%C3%A9e-la-surprise-et-acc%C3%A8de-au-second-tour",
+      "desc": "L'ultra-conservateur Abelardo de la Espriella, surnommé « le Tigre », a déjoué les pronostics en se qualifiant pour le second tour de la présidentielle face à Ivan Cepeda, le candidat de la gauche sortante. Alors que l'outsider de droite promet une guerre totale contre les cartels et des méga-prison",
+      "date": "2026-06-01T10:23:44",
       "source": "France 24"
     },
     {
-      "title": "Les Lyonnaises championnes, le PSG indétrônable, Wemby en finale : les infos sport du week-end",
-      "link": "https://www.france24.com/fr/sports/20260601-psg-ligue-champions-olympique-lyonnais-wemby-nba-infos-sports",
-      "desc": "Le PSG a remporté sa deuxième Ligue des champions d'affilée en battant Arsenal en finale. Les Lyonnaises ont décroché un 19ᵉ titre de championnes de France de football. Wemby a qualifié les San Antonio Spurs pour la finale NBA.",
-      "date": "2026-06-01T08:14:31",
+      "title": "Les débordements autour de la victoire du PSG à Paris, un terrain politique",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-les-d%C3%A9bordements-autour-de-la-victoire-du-psg-%C3%A0-paris-un-terrain-politique",
+      "desc": "Le ministre de l'Intérieur a fait état d'un bilan de plus de 890 arrestations et 178 forces de l'ordre blessées lors des festivités du week-end, une hausse de 45 % par rapport à 2025. Malgré ces violences, le gouvernement défend sa gestion de la sécurité tandis que les vives réactions de l'oppositio",
+      "date": "2026-06-01T10:00:28",
       "source": "France 24"
+    },
+    {
+      "title": "Moyen-Orient : le Koweït de nouveau visé par des attaques de missiles et de drones",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-moyen-orient-le-kowe%C3%AFt-de-nouveau-vis%C3%A9-par-des-attaques-de-missiles-et-de-drones",
+      "desc": "Pour la deuxième fois en moins d'une semaine, le Koweït a été la cible de frappes de missiles et de drones menées par Téhéran contre une base militaire américaine. Cette escalade, marquée par des tirs croisés entre Washington et l'Iran ce week-end, fragilise grandement les négociations en cours auto",
+      "date": "2026-06-01T09:59:57",
+      "source": "France 24"
+    },
+    {
+      "title": "Un réalisateur lauréat d'un Grammy explore le rôle de son grand-père nigérian dans la guerre du Biafra",
+      "link": "https://www.bbc.com/afrique/articles/cq5pnlypzvxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le cinéaste Meji Alabi réalise un documentaire historique de BBC Africa Eye consacré à la guerre civile au Nigeria.",
+      "date": "2026-06-01T09:00:27",
+      "source": "BBC Afrique"
     },
     {
       "title": "Comment Poutine est devenu le maître de l'image",
@@ -37,13 +58,6 @@
       "desc": "D'agent énigmatique du KGB à dirigeant en temps de guerre, c'est ainsi que Poutine a réinventé à plusieurs reprises son image et lui-même.",
       "date": "2026-06-01T08:05:46",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Le maire d'Issy-les-Moulineaux et ex-ministre André Santini est mort à l'âge de 85 ans",
-      "link": "https://www.france24.com/fr/france/20260601-le-maire-d-issy-les-moulineaux-et-ex-ministre-andr%C3%A9-santini-est-mort-%C3%A0-85-ans",
-      "desc": "L'ancien ministre français André Santini est mort à l'âge de 85 ans, a annoncé lundi un de ses adjoints. Maire depuis 1980 d'Issy-les-Moulineaux, près de Paris, il avait été réélu en mars, au terme d'une campagne de plusieurs mois menée depuis l'hôpital à la suite d'une chute.",
-      "date": "2026-06-01T07:33:09",
-      "source": "France 24"
     },
     {
       "title": "S'agit-il d'un nouveau type de diabète ? Les médecins préviennent qu'un diagnostic erroné nuit aux patients",
@@ -60,11 +74,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Coup de chance : comment un obscur pharmacien britannique a accidentellement inventé des allumettes modernes",
-      "link": "https://www.bbc.com/afrique/articles/cqlp1wnlk4zo?at_medium=RSS&at_campaign=rss",
-      "desc": "En 1826, le pharmacien anglais John Walker a accidentellement inventé la première allumette à friction en grattant un mélange chimique séché contre une surface rugueuse. Bien que l'invention soit devenue omniprésente dans le monde entier, Walker n'a jamais breveté son idée et reste obscure.",
-      "date": "2026-05-31T12:45:45",
-      "source": "BBC Afrique"
+      "title": "Sous les bombes, Kharkiv se construit déjà un avenir pacifique",
+      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158913",
+      "desc": "A Kharkiv, chaque journée commence dans l’incertitude : les sirènes d’alerte aérienne interrompent le sommeil ; les missiles frappent les quartiers résidentiels, les sites industriels et les routes. Les habitants, inquiets, se précipitent dans les stations de métro pendant les bombardements et les e",
+      "date": "2026-05-31T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "L’OMS exhorte les Etats à protéger les jeunes contre la dépendance au tabac et l’addiction nicotinique",
@@ -91,20 +105,6 @@
       "title": "Ebola en RD Congo : « Vous n’êtes pas seuls », rassure à Bunia le chef de l’OMS",
       "link": "https://news.un.org/feed/view/fr/story/2026/05/1158910",
       "desc": "« Vous n’êtes pas seuls dans cette épreuve ». A Bunia, dans l’Est de la République démocratique du Congo (RDC), le chef de l’agence sanitaire mondiale de l’ONU (OMS) a apporté, samedi, son soutien aux habitants de la capitale de la province de l’Ituri, épicentre de la 17e épidémie d’Ebola dans ce pa",
-      "date": "2026-05-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "RD Congo : le chef de l’OMS à Bunia en Ituri, épicentre de l’épidémie d’Ebola",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158909",
-      "desc": "Le chef de l’agence sanitaire mondiale de l’ONU (OMS) est arrivé ce samedi 30 mai 2026 à Bunia, chef-lieu de la province de l’Ituri, épicentre de l’épidémie d’Ebola qui progresse dans l’est de la République démocratique du Congo (RDC) et qui touche aussi l’Ouganda voisin.&nbsp;",
-      "date": "2026-05-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Au Liban, le système de santé sous pression après une vague de frappes meurtrières",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158908",
-      "desc": "Alors que les hostilités se poursuivent au sud Liban malgré la trêve, théoriquement en vigueur depuis le 17 avril dernier, le personnel de santé est confronté à « un nombre effroyable de morts et de blessés », a déploré samedi une agence des Nations Unies.&nbsp;",
       "date": "2026-05-30T12:00:00",
       "source": "ONU Info"
     }
