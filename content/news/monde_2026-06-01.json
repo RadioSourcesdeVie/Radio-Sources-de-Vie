@@ -1,49 +1,70 @@
 {
   "category": "monde",
   "date": "2026-06-01",
-  "updated": "2026-06-01T11:00:49.934865Z",
+  "updated": "2026-06-01T16:00:49.751911Z",
   "articles": [
     {
-      "title": "Ebola en RD Congo : signes d’espoir à Bunia après la guérison de quatre infirmiers",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158914",
-      "desc": "Alors que la situation évolue « rapidement avec des cas et des décès signalés dans plusieurs zones de santé » de l’Est de la République démocratique du Congo (RDC), quatre infirmiers pris en charge pour recevoir des soins pour le virus Ebola, causé par la souche Bundibugyo, ont pu quitter un hôpital",
+      "title": "\"TechXit\" : pourquoi Peter Thiel mise sur l’Argentine de Javier Milei",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260601-techxit-pourquoi-peter-thiel-mise-sur-argentine-javier-milei-anarcho-capitaliste-libertarien",
+      "desc": "Le controversé patron de Palantir, Peter Thiel, va temporairement élire domicile en Argentine, ont appris plusieurs médias. Pour ce libertarien de droite autoproclamé, l’expérience économique radicale de Javier Milei convient davantage que le modèle trumpien aux États-Unis. Un déménagement qui en di",
+      "date": "2026-06-01T15:56:33",
+      "source": "France 24"
+    },
+    {
+      "title": "Bien mâcher les aliments renforce le cerveau",
+      "link": "https://www.bbc.com/afrique/articles/cvgzyxm11ymo?at_medium=RSS&at_campaign=rss",
+      "desc": "Mâcher davantage peut apporter de nombreux avantages, allant de l'amélioration de la digestion et de la réduction de l'apport calorique, à la diminution du stress et de l'anxiété, en passant par l'amélioration des capacités cognitives grâce à une meilleure mémoire et une capacité d'attention accrue.",
+      "date": "2026-06-01T15:56:28",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Au Liban, la forteresse de Beaufort, un lieu symbolique des conflits dans la région",
+      "link": "https://www.france24.com/fr/moyen-orient/20260601-liban-forteresse-beaufort-lieu-symbole-conflits-r%C3%A9gion-isra%C3%ABl-guerre",
+      "desc": "L'armée israélienne a annoncé dimanche s'être emparée de la forteresse de Beaufort dans le cadre de l'intensification de son offensive dans le Sud-Liban. Ce château est le symbole des guerres qui ont marqué la région, des croisades du Moyen Âge aux occupations israéliennes.",
+      "date": "2026-06-01T15:25:41",
+      "source": "France 24"
+    },
+    {
+      "title": "Kenya, huit élèves interpellés après l’incendie d’un pensionnat",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-kenya-huit-%C3%A9l%C3%A8ves-interpell%C3%A9s-apr%C3%A8s-l-incendie-d-un-pensionnat",
+      "desc": "Au Kenya, huit filles ont été arrêtées, soupçonnées d'être impliquées dans l'incendie dévastateur d’un pensionnat. Au moins seize étudiantes ont été tuées dans l'incendie qui a ravagé un dortoir de l’Utumishi Girls Academy. Les familles attendent toujours l'identification de certaines des victimes.",
+      "date": "2026-06-01T15:15:01",
+      "source": "France 24"
+    },
+    {
+      "title": "Des mois après la répression en Iran, la traque sans relâche des manifestants",
+      "link": "https://www.france24.com/fr/moyen-orient/20260601-en-iran-la-traque-des-manifestants-de-janvier-se-poursuit-prison-enfants-peine-de-mort-pendaison-gardiens-revolution-arrestation-ong-bilan-victime-repression",
+      "desc": "Exécutions, condamnations à mort, détentions de mineurs… Des mois après la répression des soulèvements de décembre 2025 et janvier 2026, les autorités en Iran continuent de traquer les manifestants, tandis que des familles cherchent toujours, en ce lundi 1er juin, à connaître le sort de leurs proche",
+      "date": "2026-06-01T15:08:28",
+      "source": "France 24"
+    },
+    {
+      "title": "Liban : le drapeau israélien flotte au-dessus de la forteresse de Beaufort",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-liban-le-drapeau-isra%C3%A9lien-flotte-au-dessus-de-la-forteresse-de-beaufort",
+      "desc": "L'armée israélienne a annoncé dimanche s'être emparée de l'emblématique forteresse médiévale de Beaufort. Un \"tournant décisif\", selon Benjamin Netanyahu, dans son offensive dans le sud du Liban, où elle se dit déterminée à \"écraser\" le Hezbollah. Lundi, le Hezbollah affirmait quant à lui continuer ",
+      "date": "2026-06-01T15:05:40",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment un Africain réduit en esclavage et naufragé est devenu le premier grand explorateur des États-Unis",
+      "link": "https://www.bbc.com/afrique/articles/cm2pq9gj5e8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Il y a près de 500 ans, un Marocain a parcouru des milliers de kilomètres à pied, de la Floride à la côte Pacifique, devenant ainsi le premier étranger connu à avoir vu l'Ouest américain.",
+      "date": "2026-06-01T12:24:01",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Afghanistan : le silence ne vaut pas consentement au mariage des enfants, fustige un comité de l’ONU",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158915",
+      "desc": "Des experts indépendants des Nations Unies ont condamné, lundi, les autorités de facto de l’Afghanistan, déplorant l’adoption d’un nouveau décret qui légitime le mariage des enfants et assimile le silence d’une fille à un consentement, qualifiant cette mesure de violation grave et systématique du dr",
       "date": "2026-06-01T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Erdogan : plus puissant que jamais ? Parlons-en avec Ayşegül Sert, Didier Billion et Samim Akgönül",
-      "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260601-erdogan-plus-puissant-que-jamais-parlons-en-avec-ay%C5%9Feg%C3%BCl-sert-didier-billion-et-samim-akg%C3%B6n%C3%BCl",
-      "desc": "En Turquie, l’offensive du pouvoir contre l’opposition semble être passée sous les radars médiatiques. Pourtant, un an après l’arrestation du maire d’Istanbul Ekrem Imamoglu, jamais Recep Tayyip Erdogan n’était allé si loin, semble-t-il, pour assoir sa mainmise sur le pays en écartant le chef désign",
-      "date": "2026-06-01T10:25:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Faux comptes, fausse Pride… l'Arménie face à une désinformation tous azimuts avant les élections",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260601-faux-comptes-fausse-pride-arm%C3%A9nie-d%C3%A9sinformation-%C3%A9lections-nikol-pachinian-russie-lgbt",
-      "desc": "Les médias d’investigation arméniens ont démasqué de nombreuses campagnes de désinformation en ligne depuis le début du mois de mai, à l’approche des élections législatives du 7 juin. Parti au pouvoir, opposition et acteurs étrangers sont tous accusés d'en être à l'origine, malgré les risques pour l",
-      "date": "2026-06-01T10:23:57",
-      "source": "France 24"
-    },
-    {
-      "title": "Colombie : l'ultra-conservateur Abelardo de la Espriella crée la surprise et accède au second tour",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-colombie-l-ultra-conservateur-abelardo-de-la-espriella-cr%C3%A9e-la-surprise-et-acc%C3%A8de-au-second-tour",
-      "desc": "L'ultra-conservateur Abelardo de la Espriella, surnommé « le Tigre », a déjoué les pronostics en se qualifiant pour le second tour de la présidentielle face à Ivan Cepeda, le candidat de la gauche sortante. Alors que l'outsider de droite promet une guerre totale contre les cartels et des méga-prison",
-      "date": "2026-06-01T10:23:44",
-      "source": "France 24"
-    },
-    {
-      "title": "Les débordements autour de la victoire du PSG à Paris, un terrain politique",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-les-d%C3%A9bordements-autour-de-la-victoire-du-psg-%C3%A0-paris-un-terrain-politique",
-      "desc": "Le ministre de l'Intérieur a fait état d'un bilan de plus de 890 arrestations et 178 forces de l'ordre blessées lors des festivités du week-end, une hausse de 45 % par rapport à 2025. Malgré ces violences, le gouvernement défend sa gestion de la sécurité tandis que les vives réactions de l'oppositio",
-      "date": "2026-06-01T10:00:28",
-      "source": "France 24"
-    },
-    {
-      "title": "Moyen-Orient : le Koweït de nouveau visé par des attaques de missiles et de drones",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260601-moyen-orient-le-kowe%C3%AFt-de-nouveau-vis%C3%A9-par-des-attaques-de-missiles-et-de-drones",
-      "desc": "Pour la deuxième fois en moins d'une semaine, le Koweït a été la cible de frappes de missiles et de drones menées par Téhéran contre une base militaire américaine. Cette escalade, marquée par des tirs croisés entre Washington et l'Iran ce week-end, fragilise grandement les négociations en cours auto",
-      "date": "2026-06-01T09:59:57",
-      "source": "France 24"
+      "title": "Ebola en RDC : signes d’espoir à Bunia après la guérison de quatre infirmiers",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158914",
+      "desc": "Alors que la situation évolue « rapidement avec des cas et des décès signalés dans plusieurs zones de santé » de l’Est de la République démocratique du Congo (RDC), quatre infirmiers pris en charge pour recevoir des soins pour le virus Ebola, causé par la souche Bundibugyo, ont pu quitter un hôpital",
+      "date": "2026-06-01T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Un réalisateur lauréat d'un Grammy explore le rôle de son grand-père nigérian dans la guerre du Biafra",
@@ -57,13 +78,6 @@
       "link": "https://www.bbc.com/afrique/articles/cp8p0pjek1po?at_medium=RSS&at_campaign=rss",
       "desc": "D'agent énigmatique du KGB à dirigeant en temps de guerre, c'est ainsi que Poutine a réinventé à plusieurs reprises son image et lui-même.",
       "date": "2026-06-01T08:05:46",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "S'agit-il d'un nouveau type de diabète ? Les médecins préviennent qu'un diagnostic erroné nuit aux patients",
-      "link": "https://www.bbc.com/afrique/articles/ce8p50qq0jmo?at_medium=RSS&at_campaign=rss",
-      "desc": "On pense que le diabète de type 5 est provoqué par de longues périodes de mauvaise alimentation, en particulier pendant l'enfance et l'adolescence. Mais les experts ne parviennent pas à s'entendre sur son existence.",
-      "date": "2026-05-31T17:14:12",
       "source": "BBC Afrique"
     },
     {
@@ -92,20 +106,6 @@
       "link": "https://news.un.org/feed/view/fr/story/2026/05/1158911",
       "desc": "Les matchs organisés par un ancien joueur professionnel offrent un bref répit face à la dure réalité de la vie pour les milliers de personnes qui vivent dans des tentes surpeuplées, des écoles ou des bâtiments endommagés, dans le territoire palestinien occupé de Gaza, en ruines.",
       "date": "2026-05-31T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Pourquoi Einstein ne voulait-il pas devenir président d'Israël ?",
-      "link": "https://www.bbc.com/afrique/articles/c8e8nx8w500o?at_medium=RSS&at_campaign=rss",
-      "desc": "Einstein estimait qu'il ne possédait ni les compétences politiques ni l'expérience nécessaires pour occuper un poste de chef de gouvernement.",
-      "date": "2026-05-31T09:43:17",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ebola en RD Congo : « Vous n’êtes pas seuls », rassure à Bunia le chef de l’OMS",
-      "link": "https://news.un.org/feed/view/fr/story/2026/05/1158910",
-      "desc": "« Vous n’êtes pas seuls dans cette épreuve ». A Bunia, dans l’Est de la République démocratique du Congo (RDC), le chef de l’agence sanitaire mondiale de l’ONU (OMS) a apporté, samedi, son soutien aux habitants de la capitale de la province de l’Ituri, épicentre de la 17e épidémie d’Ebola dans ce pa",
-      "date": "2026-05-30T12:00:00",
       "source": "ONU Info"
     }
   ]
