@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Nouvelles Monde — Radio Sources de Vie</title>
-    <description>Résumé des nouvelles mondiales du jour</description>
+    <title>Résumé Nouvelles Internationales — Radio Sources de Vie</title>
+    <description>Résumé des nouvelles internationales — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <copyright>Radio Sources de Vie 2026</copyright>
-    <managingEditor>avenangar@gmail.com (Radio Sources de Vie)</managingEditor>
-    <webMaster>avenangar@gmail.com (Radio Sources de Vie)</webMaster>
-    <lastBuildDate>Mon, 01 Jun 2026 10:26:37 +0000</lastBuildDate>
-    <itunes:author>Radio Sources de Vie</itunes:author>
-    <itunes:summary>Actualités mondiales du jour</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://www.radiosourcesdevie.org/icon.png"/>
-    <itunes:category text="Religion &amp; Spirituality">
-      <itunes:category text="Christianity"/>
-    </itunes:category>
-    <image>
-      <url>https://www.radiosourcesdevie.org/icon.png</url>
-      <title>Nouvelles Monde — Radio Sources de Vie</title>
-      <link>https://www.radiosourcesdevie.org</link>
-    </image>
+    <lastBuildDate>Tue, 02 Jun 2026 09:03:11 +0000</lastBuildDate>
+    <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Nouvelles Monde — 2026-06-01</title>
-      <description>Résumé des nouvelles mondiales du jour — 2026-06-01</description>
-      <link>https://www.radiosourcesdevie.org/audio/resumes/monde_2026-06-01.mp3</link>
-      <pubDate>Mon, 01 Jun 2026 10:26:37 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/monde_2026-06-01.mp3" length="243296" type="audio/mpeg"/>
-      <guid isPermaLink="false">monde-2026-06-01</guid>
-      <itunes:title>Nouvelles Monde — 2026-06-01</itunes:title>
-      <itunes:author>Radio Sources de Vie</itunes:author>
+      <title>Monde: visas refusés, crises migratoires et tensions sanitaires</title>
+      <description>Résumé des nouvelles internationales — Voix Charlotte — 2026-06-02</description>
+      <pubDate>Tue, 02 Jun 2026 09:03:11 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/monde_2026-06-02.mp3" length="534613" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/monde_2026-06-02.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Actualités mondiales du jour</itunes:summary>
     </item>
   </channel>
 </rss>
