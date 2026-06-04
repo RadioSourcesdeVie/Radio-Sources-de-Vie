@@ -1,5 +1,6 @@
 {
-  "updated": "2026-06-04T09:00:02.308469Z",
+  "date": "2026-06-04",
+  "title": "Météo du 04 June 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 13.21,
@@ -15,5 +16,6 @@
     "humidity": 84,
     "description": "Partiellement nuageux",
     "wind_kmh": 5.7
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 04 June 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Nuageux. À Port-au-Prince: 24 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
 }

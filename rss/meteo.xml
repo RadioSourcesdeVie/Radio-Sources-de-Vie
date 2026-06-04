@@ -1,40 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0"
-  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
-  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Météo Radio Sources de Vie</title>
+    <title>Météo Ottawa & Port-au-Prince — Radio Sources de Vie</title>
     <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <copyright>Radio Sources de Vie 2026</copyright>
-    <managingEditor>avenangar@gmail.com (Radio Sources de Vie)</managingEditor>
-    <webMaster>avenangar@gmail.com (Radio Sources de Vie)</webMaster>
-    <lastBuildDate>Wed, 03 Jun 2026 09:30:41 +0000</lastBuildDate>
-    <itunes:author>Radio Sources de Vie</itunes:author>
-    <itunes:summary>Météo quotidienne Ottawa et Port-au-Prince</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="https://www.radiosourcesdevie.org/icon.png"/>
-    <itunes:category text="Religion &amp; Spirituality">
-      <itunes:category text="Christianity"/>
-    </itunes:category>
-    <image>
-      <url>https://www.radiosourcesdevie.org/icon.png</url>
-      <title>Météo Radio Sources de Vie</title>
-      <link>https://www.radiosourcesdevie.org</link>
-    </image>
+    <lastBuildDate>Thu, 04 Jun 2026 09:03:06 +0000</lastBuildDate>
+    <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Météo du 3 juin 2026</title>
-      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-06-03</description>
-      <link>https://www.radiosourcesdevie.org/audio/meteo/2026-06-03.mp3</link>
-      <pubDate>Wed, 03 Jun 2026 09:30:41 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-06-03.mp3" length="258760" type="audio/mpeg"/>
-      <guid isPermaLink="false">meteo-2026-06-03</guid>
-      <itunes:title>Météo du 3 juin 2026</itunes:title>
-      <itunes:author>Radio Sources de Vie</itunes:author>
+      <title>Météo du 04 June 2026</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-06-04</description>
+      <pubDate>Thu, 04 Jun 2026 09:03:06 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-06-04.mp3" length="254999" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-06-04.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:summary>Météo Ottawa et Port-au-Prince pour le 3 juin 2026</itunes:summary>
     </item>
   </channel>
 </rss>
