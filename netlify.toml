@@ -1,0 +1,18 @@
+[build]
+  publish = "."
+
+[[headers]]
+  for = "/content/*"
+  [headers.values]
+    Content-Type = "application/json"
+
+[[headers]]
+  for = "/rss/*"
+  [headers.values]
+    Content-Type = "application/xml"
+
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  conditions = {Role = ["admin"]}
