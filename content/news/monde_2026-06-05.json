@@ -1,69 +1,90 @@
 {
   "category": "monde",
   "date": "2026-06-05",
-  "updated": "2026-06-05T11:00:49.986058Z",
+  "updated": "2026-06-05T16:00:49.677086Z",
   "articles": [
     {
-      "title": "Cette vidéo ne prouve pas que des soldats israéliens ont saccagé une église",
-      "link": "https://www.france24.com/fr/moyen-orient/20260605-cette-vid%C3%A9o-ne-prouve-pas-que-des-soldats-isra%C3%A9liens-ont-saccag%C3%A9-une-%C3%A9glise",
-      "desc": "Une vidéo partagée massivement sur les réseaux sociaux et censée montrer des soldats israéliens saccager une église au Liban a suscité de vives réactions. Mais certains éléments remettent en question l’authenticité des images.",
-      "date": "2026-06-05T10:40:57",
+      "title": "Mondial de foot selon Donald Trump : vous n'êtes pas les bienvenus",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20260605-mondial-de-foot-selon-donald-trump-vous-n-%C3%AAtes-pas-les-bienvenus",
+      "desc": "À quelques jours du coup d'envoi de la Coupe du monde de football en Amérique du Nord, rarement le climat aura été aussi hostile envers les spectateurs étrangers. De nombreux supporters, notamment ceux venus du continent africain soutenir leurs équipes, ne sont manifestement pas les bienvenus. Pour ",
+      "date": "2026-06-05T15:15:47",
       "source": "France 24"
     },
     {
-      "title": "Disparition de Lyhanna :  identification en cours d'un corps découvert dans le Gers",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260605-disparition-de-lyhanna-identification-en-cours-d-un-corps-d%C3%A9couvert-dans-le-gers",
-      "desc": "Un corps identifié comme étant probablement celui de Lyhanna, une collégienne de 11 ans disparue depuis le 29 mai, a été retrouvé dans le Gers, ce qu'une autopsie devra confirmer. Les critiques s'intensifient sur les éventuelles failles judiciaires dans cette affaire, le suspect ayant fait l'objet d",
-      "date": "2026-06-05T10:32:16",
+      "title": "Un village opte pour le tout-solaire face à la montée des factures de l'énergie",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-le-reportage/20260605-un-village-opte-pour-le-tout-solaire-face-%C3%A0-la-mont%C3%A9e-des-factures-de-l-%C3%A9nergie",
+      "desc": "Une électricité verte, 30 % moins chère et sans impôts supplémentaires : c'est possible, grâce au solaire. Dès 2011, la commune d'Escourse (dans les Landes) a investi 1,2 million d'euros dans le solaire. Et aujourd'hui, ça paie. Particuliers, mais aussi commerces, associations et éclairage public so",
+      "date": "2026-06-05T15:10:39",
       "source": "France 24"
     },
     {
-      "title": "Pacte européen sur la migration et l'asile \"contraire à nos intérêts stratégiques\" en France ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260605-pacte-europ%C3%A9en-sur-la-migration-et-l-asile-contraire-%C3%A0-nos-int%C3%A9r%C3%AAts-strat%C3%A9giques-en-france",
-      "desc": "Vendredi 12 juin, le pacte européen sur la migration et l’asile entre en vigueur en France. Les représentants du Parlement européen et des États membres se sont entendus sur un règlement visant à accélérer les retours de migrants en situation irrégulière et de créer des centres d’accueil hors de l'U",
-      "date": "2026-06-05T10:29:05",
-      "source": "France 24"
-    },
-    {
-      "title": "Disparition de Lyhanna dans le Gers : dysfonctionnements de la justice française ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260605-disparition-de-lyhanna-dans-le-gers-dysfonctionnements-de-la-justice-fran%C3%A7aise",
-      "desc": "Un corps identifié comme étant probablement celui de Lyhanna, une collégienne de 11 ans disparue depuis le 29 mai, a été retrouvé dans le Gers, ce qu'une autopsie devra confirmer. Sébastien Lecornu réunit ce vendredi les ministres de l'Intérieur et de la Justice pour évoquer d'éventuels dysfonctionn",
-      "date": "2026-06-05T10:25:33",
-      "source": "France 24"
-    },
-    {
-      "title": "Des chevaux \"célestes\" élevés au rang de divinités au Turkménistan",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260605-des-chevaux-c%C3%A9lestes-%C3%A9lev%C3%A9s-au-rang-de-divinit%C3%A9s-par-le-pouvoir-au-turkm%C3%A9nistan",
-      "desc": "Au Turkménistan, les chevaux de la race Akhal-Teké sont considérés comme des dieux. La famille Berdymoukhamedov, au pouvoir depuis une vingtaine d'années, exploite l'image de ces animaux pour tenter d'améliorer l'image du pays.",
-      "date": "2026-06-05T10:15:05",
-      "source": "France 24"
-    },
-    {
-      "title": "« Votre avion fait un écart de 1 600 km » : la guerre invisible du GPS qui perturbe le transport aérien",
-      "link": "https://www.bbc.com/afrique/articles/c4g81pedj6vo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'usurpation d'identité GPS, qui perturbe les signaux satellites et embrouille les avions, est de plus en plus répandue, selon les données.",
-      "date": "2026-06-05T08:24:40",
+      "title": "Iyad Ag Ghaly : Pourquoi le Mali a mis sa tête à prix avec d'autres chefs du JNIM et du FLA",
+      "link": "https://www.bbc.com/afrique/articles/c8jvj3gv8k3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les autorités maliennes ont annoncé jeudi une prime pouvant aller jusqu’à 2 milliards FCFA pour la capture d’Iyad Ag Ghaly, le chef du groupe djihadiste sahélien JNIM, certains de ses collaborateurs et des membres du groupe séparatiste FLA.",
+      "date": "2026-06-05T15:02:22",
       "source": "BBC Afrique"
     },
     {
-      "title": "Comment les agents de santé en RD Congo soignent le virus Ebola et assurent leur sécurité",
-      "link": "https://www.bbc.com/afrique/articles/c0m2e301w8ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Il n'existe actuellement aucun médicament approuvé ciblant le Bundibugyo, l'espèce d'Ebola responsable de cette épidémie.",
-      "date": "2026-06-04T16:30:25",
+      "title": "Fuite d'air à bord de l'ISS : possible évacuation des astronautes, dont la Française Sophie Adenot",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260605-fuite-air-bord-iss-possible-%C3%A9vacuation-astronautes-dont-fran%C3%A7aise-sophie-adenot-nasa",
+      "desc": "",
+      "date": "2026-06-05T14:58:37",
+      "source": "France 24"
+    },
+    {
+      "title": "Fuite d'air à bord de l'ISS : les astronautes peuvent finalement regagner la station",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260605-fuite-air-bord-iss-possible-%C3%A9vacuation-astronautes-dont-fran%C3%A7aise-sophie-adenot-nasa",
+      "desc": "Après avoir reçu, vendredi, l'ordre de la Nasa de se préparer à une éventuelle évacuation en raison de l'aggravation d'une fuite d'air à bord, les astronautes de la Station spatiale internationale vont finalement pouvoir regagner l'intérieur de l'ISS, a déclaré un porte-parole de la Nasa à l'AFP.",
+      "date": "2026-06-05T14:54:56",
+      "source": "France 24"
+    },
+    {
+      "title": "Flottille pour Gaza : une enquête ouverte à Paris pour \"tortures\" et \"crime de guerre\"",
+      "link": "https://www.france24.com/fr/moyen-orient/20260605-flottille-pour-gaza-enqu%C3%AAte-ouverte-paris-tortures-crime-de-guerre-israel",
+      "desc": "",
+      "date": "2026-06-05T14:44:05",
+      "source": "France 24"
+    },
+    {
+      "title": "La police de New York enquête sur des vidéos montrant des hommes sortant des égouts de la ville",
+      "link": "https://www.bbc.com/afrique/articles/cx212grpenjo?at_medium=RSS&at_campaign=rss",
+      "desc": "La police de New York mène actuellement une enquête suite à la diffusion, ces dernières semaines, de nombreuses vidéos montrant des groupes de personnes entrant et sortant du réseau d'égouts de la ville.",
+      "date": "2026-06-05T14:41:20",
       "source": "BBC Afrique"
     },
     {
-      "title": "« Un monde parallèle » : ces personnes perdues dans des rêveries addictives",
-      "link": "https://www.bbc.com/afrique/articles/c0l236npxr3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Certaines personnes rêvent pendant des heures, se remémorant un seul scénario pendant des décennies, et cela peut être extrêmement bouleversant. Voici comment savoir quand votre rêverie est allée trop loin.",
-      "date": "2026-06-04T15:00:46",
+      "title": "Coupe du monde 2026 : ce qu'il faut retenir des listes définitives des joueurs sélectionnés par les 48 équipes",
+      "link": "https://www.bbc.com/afrique/articles/cqjpgr5v0veo?at_medium=RSS&at_campaign=rss",
+      "desc": "A quelques jours du coup d'envoi de la Coupe du Monde 2026 aux États-Unis, au Canada et au Mexique, les 48 sélections qualifiées ont dévoilé leurs listes définitives.",
+      "date": "2026-06-05T13:44:59",
       "source": "BBC Afrique"
     },
     {
-      "title": "La lycéenne qui est devenue championne du monde à 14 ans",
-      "link": "https://www.bbc.com/afrique/articles/c2l24jekvzeo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'Égyptienne Farida Khalil a battu des concurrentes deux fois plus âgées qu'elle pour devenir championne du monde de pentathlon moderne à l'âge de 14 ans, après la refonte de cette discipline.",
-      "date": "2026-06-04T13:38:07",
+      "title": "Près de 50 personnes meurent de soif dans le désert du Sahara après la panne d'un camion",
+      "link": "https://www.bbc.com/afrique/articles/cx212p0pk7vo?at_medium=RSS&at_campaign=rss",
+      "desc": "Seuls deux ont survécu après avoir parcouru plus de 50 km à travers le désert pour alerter les autorités.",
+      "date": "2026-06-05T12:22:51",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Au Liban, les besoins humanitaires explosent",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158941",
+      "desc": "Alors que les hostilités entre Israël et le Hezbollah se poursuivent malgré l’annonce d’un cessez-le-feu conditionnel, l’ONU a lancé, vendredi, un appel de fonds supplémentaires de 331,5 millions de dollars pour venir en aide à 1,4 million de personnes au Liban.",
+      "date": "2026-06-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Haïti : la violence fait grimper le nombre de déplacés à un niveau record",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158940",
+      "desc": "Un nombre record de près de 1,5 million de personnes ont été forcées de fuir les violences des gangs en Haïti pour trouver refuge ailleurs dans le pays, a indiqué vendredi une agence des Nations Unies, relevant que plus de la moitié des déplacés sont des femmes et des filles.",
+      "date": "2026-06-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "« Par la grâce de Dieu » : les mineurs persévèrent alors que les diamants synthétiques bouleversent le marché",
+      "link": "https://www.bbc.com/afrique/articles/c07247kl1jjo?at_medium=RSS&at_campaign=rss",
+      "desc": "La popularité croissante des diamants synthétiques accentue la pression sur ceux qui recherchent les pierres précieuses naturelles.",
+      "date": "2026-06-05T11:13:32",
       "source": "BBC Afrique"
     },
     {
@@ -86,27 +107,6 @@
       "desc": "En visite à Strasbourg, le responsable de l’ONU en matière de droits humains dénonce la multiplication des poursuites, du harcèlement et des violences visant les défenseurs de l’environnement. Un paradoxe, selon lui, au moment où l’urgence climatique s’aggrave sur le continent européen.",
       "date": "2026-06-04T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "L’IA menace les ressources en eau et en énergie",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158934",
-      "desc": "L'ONU estime que l’intelligence artificielle (IA) devrait faire doubler la consommation d’énergie et d’eau des centres de données d’ici 2030, menaçant les ressources naturelles de milliards de personnes alors que les géants de l’IA s’apprêtent à entrer en bourse pour financer leurs investissements c",
-      "date": "2026-06-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Chaque année, les aliments insalubres coûtent la vie à 1,5 million de personnes dans le monde",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158933",
-      "desc": "Bactéries, virus, parasites, substances chimiques nocives… Les aliments insalubres provoquent chaque année 1,5 million de décès dans le monde, touchant plus particulièrement les enfants de moins de cinq ans, a alerté jeudi l’Organisation mondiale de la Santé (OMS).",
-      "date": "2026-06-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Abdoulaye Wade : un siècle d'histoire vivante, voici les temps forts d'une vie pour le changement",
-      "link": "https://www.bbc.com/afrique/articles/cp9wkz284yjo?at_medium=RSS&at_campaign=rss",
-      "desc": "Il y a cent ans naissait l'une des figures les plus marquantes de la vie politique sénégalaise. Opposant historique à Léopold Sédar Senghor puis à Abdou Diouf, Abdoulaye Wade aura longtemps incarné la persévérance politique avant de parvenir, en 2000, à la tête de l'État. Son centenaire est célébré ",
-      "date": "2026-06-04T11:42:46",
-      "source": "BBC Afrique"
     }
   ]
 }
