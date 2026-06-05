@@ -1,4 +1,5 @@
-/content/:file  /content/:file  200
-/audio/:file    /audio/:file    200
-/rss/:file      /rss/:file      200
-/*              /index.html     200
+/content/*  /content/:splat  200
+/audio/*    /audio/:splat    200
+/rss/*      /rss/:splat      200
+/weather.json  /weather.json  200
+/*  /index.html  200
