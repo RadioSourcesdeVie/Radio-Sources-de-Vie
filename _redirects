@@ -1,0 +1,4 @@
+/content/*  /content/:splat  200
+/audio/*    /audio/:splat    200
+/rss/*      /rss/:splat      200
+/*          /index.html      200
