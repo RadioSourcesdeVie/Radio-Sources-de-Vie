@@ -5,8 +5,8 @@
   "feeds": {
     "prayer_matin": "https://www.radiosourcesdevie.org/rss/prayer_matin.xml",
     "prayer_soir": "https://www.radiosourcesdevie.org/rss/prayer_soir.xml",
+    "sermon": "https://www.radiosourcesdevie.org/rss/sermon.xml",
     "testimony": "https://www.radiosourcesdevie.org/rss/testimony.xml",
-    "sabbat": "https://www.radiosourcesdevie.org/rss/sabbat.xml",
     "meteo": "https://www.radiosourcesdevie.org/rss/meteo.xml",
     "resume_chretien": "https://www.radiosourcesdevie.org/rss/resume_chretien.xml",
     "resume_haiti": "https://www.radiosourcesdevie.org/rss/resume_haiti.xml",
