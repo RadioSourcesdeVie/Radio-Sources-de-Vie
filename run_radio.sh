@@ -12,6 +12,7 @@ python generate_gemini.py
 python generate_resumes.py --api-key "$ANTHROPIC_KEY" --eleven-key "$ELEVEN_KEY"
 python generate_audio.py
 python generate_rss.py
+git pull origin main --no-edit
 git add -A
 git commit -m "Radio $(date '+%d/%m/%Y %Hh%M')"
 git push origin main
