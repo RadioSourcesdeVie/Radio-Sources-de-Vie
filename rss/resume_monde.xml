@@ -1,19 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Résumé Nouvelles Internationales — Radio Sources de Vie</title>
-    <description>Résumé des nouvelles internationales — Voix Charlotte</description>
+    <title>Résumé Nouvelles Monde — Radio Sources de Vie</title>
+    <description>Résumé des nouvelles mondiales — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Sat, 06 Jun 2026 09:03:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 18:47:29 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Tensions au Moyen-Orient, adieu à Bernadette Chirac</title>
-      <description>Résumé des nouvelles internationales — Voix Charlotte — 2026-06-06</description>
-      <pubDate>Sat, 06 Jun 2026 09:03:09 +0000</pubDate>
+      <title>Tensions au Moyen-Orient, adieu à Bernadette Chirac — 2026-06-06</title>
+      <description>Résumé des nouvelles mondiales — Voix Charlotte — 2026-06-06</description>
+      <pubDate>Sat, 06 Jun 2026 18:47:29 +0000</pubDate>
       <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/monde_2026-06-06.mp3" length="514551" type="audio/mpeg"/>
       <guid>https://www.radiosourcesdevie.org/audio/resumes/monde_2026-06-06.mp3</guid>
+      <itunes:duration>00:01:00</itunes:duration>
+    </item>
+    <item>
+      <title>Météo du 06 June 2026 — 2026-06-06</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-06-06</description>
+      <pubDate>Sat, 06 Jun 2026 18:47:29 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-06-06.mp3" length="248311" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-06-06.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
