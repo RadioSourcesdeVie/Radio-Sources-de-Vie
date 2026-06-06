@@ -1,34 +1,48 @@
 {
   "category": "monde",
   "date": "2026-06-06",
-  "updated": "2026-06-06T09:00:48.425330Z",
+  "updated": "2026-06-06T11:00:47.805720Z",
   "articles": [
     {
-      "title": "Bombardements des Etats-Unis en Iran : Téhéran cible des bases \"ennemies\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-bombardements-des-etats-unis-en-iran-t%C3%A9h%C3%A9ran-cible-des-bases-ennemies",
-      "desc": "Notre correspondant Siavosh Ghazi décrypte la situation.",
-      "date": "2026-06-06T08:55:25",
+      "title": "Une bouteille de vin, un pari et un mécanicien automobile : comment un nouvel appareil d'accouchement a été inventé",
+      "link": "https://www.bbc.com/afrique/articles/cn4pe4x8pgyo?at_medium=RSS&at_campaign=rss",
+      "desc": "L'OdonAssist est un appareil gonflable conçu pour faciliter les accouchements vaginaux lorsque l'accouchement est interrompu et pour réduire les risques de blessures pour la mère et le bébé.",
+      "date": "2026-06-06T10:50:38",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "En images : \"Bernie\" Chirac, la grande traversée politique",
+      "link": "https://www.france24.com/fr/france/20260606-en-images-bernie-chirac-la-grande-travers%C3%A9e-politique",
+      "desc": "Décédée le 5 juin, Bernadette Chirac, née Bernadette Chodron de Courcel, aura été la seule première dame à avoir elle-même exercé un mandat politique sur son nom propre, celui de conseillère générale de Corrèze, département où elle a été élue sans discontinuer de 1979 à 2015.",
+      "date": "2026-06-06T10:39:27",
       "source": "France 24"
     },
     {
-      "title": "Bernadette Chirac, veuve de l'ancien président français, est décédée à l'âge de 93 ans",
-      "link": "https://www.france24.com/fr/france/20260606-bernadette-chirac-veuve-du-pr%C3%A9sident-chirac-est-d%C3%A9c%C3%A9d%C3%A9e-%C3%A0-l-%C3%A2ge-de-93-ans",
-      "desc": "",
-      "date": "2026-06-06T08:54:12",
+      "title": "\"Trump est en train de détruire les États-Unis\" selon Anne Deysine, américaniste",
+      "link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20260606-trump-est-en-train-de-d%C3%A9truire-les-%C3%A9tats-unis-selon-anne-deysine-am%C3%A9ricaniste",
+      "desc": "Anne Deysine est juriste et américaniste. Au micro de Judith, elle revient sur le parcours qui l'a menée à devenir professeur émérite de l'université Paris-Nanterre et à créer et diriger pendant vingt ans un Master d'affaires Internationales. Justice, démocratie, financements de campagnes électorale",
+      "date": "2026-06-06T10:27:24",
       "source": "France 24"
     },
     {
-      "title": "Bernadette Chirac, veuve de l'ancien président français, est décédée à l'âge de 93 ans",
-      "link": "https://www.france24.com/fr/france/20260606-bernadette-chirac-veuve-du-pr%C3%A9sident-chirac-est-d%C3%A9c%C3%A9d%C3%A9e-%C3%A0-l-%C3%A2ge-de-93-ans",
-      "desc": "Bernadette Chirac, veuve de l'ancien président de la République Jacques Chirac, est décédée à l'âge de 93 ans, a annoncé samedi sa fille à l'AFP.",
-      "date": "2026-06-06T08:52:18",
+      "title": "Décès de Bernadette Chirac : Macron salue \"une grande dame de coeur\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-d%C3%A9c%C3%A8s-de-bernadette-chirac-macron-salue-une-grande-dame-de-coeur",
+      "desc": "Jean Garrigues, Historien et ancien président du Comité d'histoire parlementaire et politique, est notre invité.",
+      "date": "2026-06-06T09:51:27",
       "source": "France 24"
     },
     {
-      "title": "Guerre au Moyen-Orient : Beyrouth somme l'Iran de ne plus intervenir au Liban",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-guerre-au-moyen-orient-beyrouth-somme-l-iran-de-ne-plus-intervenir-au-liban",
-      "desc": "Elena Volochine est en direct de Beyrouth, Liban.",
-      "date": "2026-06-06T08:51:24",
+      "title": "Coupe du monde de football 2026 : du changement dans les règles",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-coupe-du-monde-de-football-2026-du-changement-dans-les-r%C3%A8gles",
+      "desc": "Le Mondial 2026, le plus important de l'histoire avec 48 équipes engagées, se déroulera du 11 juin au 19 juillet aux Etats-Unis, au Canada et au Mexique. Le président de la Fifa, Gianni Infantino, avait annoncé en mars un \"tout premier spectacle à la mi-temps d'une finale de la Coupe du monde\", sans",
+      "date": "2026-06-06T09:49:17",
+      "source": "France 24"
+    },
+    {
+      "title": "Elections en Arménie : les électeurs, proies de la désinformation russe",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260606-elections-en-arm%C3%A9nie-les-%C3%A9lecteurs-proies-de-la-d%C3%A9sinformation-russe",
+      "desc": "Notre correspondante Taline Oundjian analyse la situation.",
+      "date": "2026-06-06T09:37:35",
       "source": "France 24"
     },
     {
@@ -37,13 +51,6 @@
       "desc": "Casi cinco años después de la prohibición de la educación en Afganistán, las jóvenes afirman que han tenido que despedirse de sus sueños.",
       "date": "2026-06-06T07:53:53",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Marie-Antoinette, première influenceuse de l'histoire ? À Fontainebleau, on lui écrit encore",
-      "link": "https://www.france24.com/fr/culture/20260606-marie-antoinette-premiere-influenceuse-histoire-fontainebleau-on-ecrit-encore-lettres-reine-france-louis-xvi",
-      "desc": "Deux cent quarante ans après leur dernier séjour dans l'édifice, Louis XVI et Marie-Antoinette sont à l'honneur au château de Fontainebleau. La reine de France, guillotinée en 1793, suscite tout particulièrement l'engouement des visiteurs. Plus de deux siècles après sa mort, elle fait l'objet d'une ",
-      "date": "2026-06-06T07:44:55",
-      "source": "France 24"
     },
     {
       "title": "Comment un figuier a permis à une survivante de découvrir la prison secrète où elle a été torturée",
@@ -57,13 +64,6 @@
       "link": "https://www.bbc.com/afrique/articles/c8jvj3gv8k3o?at_medium=RSS&at_campaign=rss",
       "desc": "Les autorités maliennes ont annoncé jeudi une prime pouvant aller jusqu’à 2 milliards FCFA pour la capture d’Iyad Ag Ghaly, le chef du groupe djihadiste sahélien JNIM, certains de ses collaborateurs et des membres du groupe séparatiste FLA.",
       "date": "2026-06-05T15:02:22",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La police de New York enquête sur des vidéos montrant des hommes sortant des égouts de la ville",
-      "link": "https://www.bbc.com/afrique/articles/cx212grpenjo?at_medium=RSS&at_campaign=rss",
-      "desc": "La police de New York mène actuellement une enquête suite à la diffusion, ces dernières semaines, de nombreuses vidéos montrant des groupes de personnes entrant et sortant du réseau d'égouts de la ville.",
-      "date": "2026-06-05T14:41:20",
       "source": "BBC Afrique"
     },
     {
