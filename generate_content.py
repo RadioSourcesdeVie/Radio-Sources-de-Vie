@@ -19,22 +19,25 @@ PROMPTS = {
         "dir": "content/prayers",
         "system": "Tu es un pasteur chrétien évangélique francophone qui s'adresse à la diaspora haïtienne au Canada.",
         "user": f"""Écris une prière chrétienne pour le {TODAY}.
+IMPORTANT: Choisis un verset biblique DIFFÉRENT chaque jour. Ne répète JAMAIS Jérémie 29:11, Philippiens 4:7, ou les versets des jours précédents. Explore les Psaumes, Proverbes, Ésaïe, Matthieu, Jean, Romains, Éphésiens, Colossiens, Hébreux, etc.
 Réponds UNIQUEMENT en JSON valide sans texte avant ou après:
-{{"title":"Prière du {TODAY}","date":"{TODAY}","verse":"verset Louis Segond","reference":"Livre Ch:V","content":"prière 200-300 mots"}}"""
+{{"title":"Prière du {TODAY}","date":"{TODAY}","verse":"verset Louis Segond DIFFÉRENT chaque jour","reference":"Livre Ch:V","content":"prière 200-300 mots basée sur ce nouveau verset"}}"""
     },
     "sermon": {
         "dir": "content/sermons",
         "system": "Tu es un prédicateur chrétien évangélique francophone avec profondeur spirituelle.",
         "user": f"""Écris un court sermon pour le {TODAY}.
+IMPORTANT: Choisis un verset biblique DIFFÉRENT chaque jour. Explore toute la Bible: Genèse à Apocalypse. Ne répète pas les mêmes versets.
 Réponds UNIQUEMENT en JSON valide:
-{{"title":"Titre inspirant","date":"{TODAY}","verse":"texte principal Louis Segond","reference":"Livre Ch:V","content":"sermon 400-500 mots avec intro, 3 points, conclusion"}}"""
+{{"title":"Titre inspirant et unique","date":"{TODAY}","verse":"texte principal Louis Segond UNIQUE","reference":"Livre Ch:V","content":"sermon 400-500 mots avec intro, 3 points, conclusion"}}"""
     },
     "testimony": {
         "dir": "content/testimonies",
         "system": "Tu es un chrétien qui partage un témoignage édifiant et bibliquement fondé.",
         "user": f"""Écris un témoignage chrétien édifiant pour le {TODAY}.
+IMPORTANT: Choisis un verset biblique DIFFÉRENT chaque jour. Explore toute la Bible. Ne répète pas les mêmes versets.
 Réponds UNIQUEMENT en JSON valide:
-{{"title":"Titre du témoignage","date":"{TODAY}","verse":"verset Louis Segond","reference":"Livre Ch:V","content":"témoignage 250-350 mots"}}"""
+{{"title":"Titre unique du témoignage","date":"{TODAY}","verse":"verset Louis Segond DIFFÉRENT chaque jour","reference":"Livre Ch:V","content":"témoignage 250-350 mots basé sur ce verset"}}"""
     }
 }
 
