@@ -5,15 +5,15 @@
     <description>Résumé sportif du jour — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Fri, 05 Jun 2026 09:03:08 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 06 Jun 2026 09:03:09 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Les Alouettes explosent de joie en prolongation!</title>
-      <description>Résumé sportif du jour — Voix Charlotte — 2026-06-05</description>
-      <pubDate>Fri, 05 Jun 2026 09:03:08 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-06-05.mp3" length="529180" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-06-05.mp3</guid>
+      <title>Le foot haïtien en pleine effervescence!</title>
+      <description>Résumé sportif du jour — Voix Charlotte — 2026-06-06</description>
+      <pubDate>Sat, 06 Jun 2026 09:03:09 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-06-06.mp3" length="448932" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-06-06.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
