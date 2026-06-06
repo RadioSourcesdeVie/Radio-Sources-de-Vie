@@ -97,7 +97,7 @@ rss_dir.mkdir(exist_ok=True)
 print(f"\n📡 Génération flux RSS ({filter_type}) — {TODAY}\n")
 
 for seg in segments:
-    if seg["group"] == "news" and meteo_seg:
+    if seg["key"] == "resume_chretien" and meteo_seg:
         rss_content = make_rss(seg, extra_items=[meteo_seg])
     else:
         rss_content = make_rss(seg)
