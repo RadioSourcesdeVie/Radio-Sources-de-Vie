@@ -1,21 +1,49 @@
 {
   "category": "monde",
   "date": "2026-06-07",
-  "updated": "2026-06-07T16:00:49.907360Z",
+  "updated": "2026-06-07T21:00:50.040022Z",
   "articles": [
     {
-      "title": "Au 100e jour de la guerre, les Etats-Unis abattent des drones iraniens",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-au-100e-jour-de-la-guerre-les-etats-unis-abattent-des-drones-iraniens",
-      "desc": "L'armée américaine a annoncé avoir abattu deux drones d'attaque iraniens qui menaçaient selon elle le trafic maritime dans le détroit d'Ormuz, aucune solution ne se profilant pour mettre fin à la guerre au Moyen-Orient qui entre dimanche dans son 100ème jour.",
-      "date": "2026-06-07T14:51:17",
+      "title": "Focus JTA Sénégal : Sonko reprend le Pastef, Diomaye gouverne seul",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-focus-jta-s%C3%A9n%C3%A9gal-sonko-reprend-le-pastef-diomaye-gouverne-seul",
+      "desc": "Moins de deux ans après leur accession au pouvoir, le tandem Bassirou Diomaye Faye-Ousmane Sonko a explosé. Après plusieurs mois de tensions, le président sénégalais a limogé son Premier ministre. Ce week-end, Ousmane Sonko a été réélu à la tête du Pastef lors du premier congrès du parti depuis sa c",
+      "date": "2026-06-07T20:28:39",
       "source": "France 24"
     },
     {
-      "title": "Guerre au Moyen-Orient : Israël bombarde la banlieue sud de Beyrouth",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-guerre-au-moyen-orient-isra%C3%ABl-bombarde-la-banlieue-sud-de-beyrouth",
-      "desc": "Stéphane Amar, correspondant France24 à Jérusalem, décrypte la situation.",
-      "date": "2026-06-07T14:39:09",
+      "title": "🔴 En direct : Israël signale des tirs de missiles iraniens, les premiers depuis le cessez-le-feu",
+      "link": "https://www.france24.com/fr/moyen-orient/20260607-guerre-au-moyen-orient-les-%C3%A9tats-unis-disent-avoir-abattu-deux-drones-iraniens",
+      "desc": "",
+      "date": "2026-06-07T19:45:31",
       "source": "France 24"
+    },
+    {
+      "title": "Taline Papazian: \"la Russie veut une relation de vassalité avec les pays de l'ex-URSS\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260607-taline-papazian-la-russie-veut-une-relation-de-vassalit%C3%A9-avec-les-pays-de-l-ex-urss",
+      "desc": "Premières législatives en Arménie depuis la défaite arménienne dans le Haut-Karabakh face à l'Azerbaïdjan. Le Premier Ministre sortant Nikol Pachinian est bien décidé à tourner la page, et à diversifier ses alliances, se tournant notamment vers l'Europe. La Russie voit cela d'un très mauvais œil et ",
+      "date": "2026-06-07T19:29:01",
+      "source": "France 24"
+    },
+    {
+      "title": "Roland-Garros : Alexander Zverev décroche enfin son premier titre du Grand Chelem",
+      "link": "https://www.france24.com/fr/sports/20260607-roland-garros-alexander-zverev-d%C3%A9croche-enfin-son-premier-titre-du-grand-chelem",
+      "desc": "",
+      "date": "2026-06-07T17:45:49",
+      "source": "France 24"
+    },
+    {
+      "title": "Roland-Garros : Alexander Zverev décroche enfin son premier titre du Grand Chelem",
+      "link": "https://www.france24.com/fr/sports/20260607-roland-garros-alexander-zverev-d%C3%A9croche-enfin-son-premier-titre-du-grand-chelem",
+      "desc": "L'Allemand Alexander Zverev – n°3 mondial – a décroché dimanche son premier titre majeur à Roland-Garros au terme d'une lutte de plus de quatre heures face à l'Italien Flavio Cobolli qui n'a pas démérité.",
+      "date": "2026-06-07T17:45:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Abula : comment ce sport indigène du Nigeria nourrit de grandes ambitions",
+      "link": "https://www.bbc.com/afrique/articles/cm2pmrx6gn1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Né d'un concept yoruba associant différents aliments dans un repas équilibré, l'Abula ambitionne de passer du statut de loisir local à celui de sport mondialement reconnu.",
+      "date": "2026-06-07T16:31:59",
+      "source": "BBC Afrique"
     },
     {
       "title": "Complots, lettres d'amour et remèdes : les secrets médiévaux révélés par l'IA",
@@ -23,27 +51,6 @@
       "desc": "Et si l'intelligence artificielle permettait de faire parler des documents restés muets pendant des siècles ? Des lettres d'amour codées aux intrigues diplomatiques secrètes, en passant par des manuscrits mystérieux conservés dans les archives du monde entier, l'IA aide aujourd'hui les chercheurs à ",
       "date": "2026-06-07T14:21:29",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Ebola : l'américain soigné en Allemagne guéri, vigilance maximale en RDC",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-ebola-le-patient-am%C3%A9ricain-gu%C3%A9ri-en-allemagne-vigilance-maximale-en-rdc",
-      "desc": "L'Américain hospitalisé à Berlin, à la demande des Etats-Unis, après avoir contracté le virus Ebola en République démocratique du Congo (RDC) et les cinq membres de sa famille ont quitté samedi l'hôpital \"en bonne santé\", a annoncé ce dernier.",
-      "date": "2026-06-07T14:18:08",
-      "source": "France 24"
-    },
-    {
-      "title": "Mort de Lyhanna : \"ce meurtre aurait certainement pu être évité\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-mort-de-lyhanna-ce-meurtre-aurait-certainement-pu-%C3%AAtre-%C3%A9vit%C3%A9",
-      "desc": "Carine Durrieu-Diebolt, Avocate spécialisée dans les droit des victimes de violences sexuelles, est notre invitée.",
-      "date": "2026-06-07T14:11:44",
-      "source": "France 24"
-    },
-    {
-      "title": "Le pape Léon acclamé par plus d'un million de personnes à Madrid",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-le-pape-l%C3%A9on-acclam%C3%A9-par-plus-d-un-million-de-personnes-%C3%A0-madrid",
-      "desc": "Plus d'un million de personnes se sont massées dans les rues et ​sur les places de Madrid dimanche pour apercevoir le pape Léon XIII, qui a célébré une messe en plein air au deuxième jour de son voyage d'une ​semaine en Espagne.",
-      "date": "2026-06-07T14:08:52",
-      "source": "France 24"
     },
     {
       "title": "Pourrons-nous un jour avoir des bébés dans l'espace ?",
@@ -57,13 +64,6 @@
       "link": "https://www.bbc.com/afrique/articles/c99l9k289nzo?at_medium=RSS&at_campaign=rss",
       "desc": "Le tournoi fait suite à une période de relations tendues entre les États-Unis, le Canada et le Mexique.",
       "date": "2026-06-07T08:19:35",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ce qu'une avancée en matière de perte de cheveux pourrait signifier pour les femmes comme moi",
-      "link": "https://www.bbc.com/afrique/articles/c202v0e47g9o?at_medium=RSS&at_campaign=rss",
-      "desc": "Alors que les scientifiques se rapprochent de nouveaux traitements contre la perte de cheveux, Victoria Derbyshire examine ce que de telles avancées pourraient signifier pour les femmes.",
-      "date": "2026-06-06T14:31:35",
       "source": "BBC Afrique"
     },
     {
