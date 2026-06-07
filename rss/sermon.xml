@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
   <channel>
-    <title>Témoignage — Radio Sources de Vie</title>
-    <description>Témoignage chrétien quotidien — Voix Elli</description>
+    <title>Sermon — Radio Sources de Vie</title>
+    <description>Sermon quotidien</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
     <lastBuildDate>Sun, 07 Jun 2026 09:03:06 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>La fidélité de Dieu dans les moments d'incertitude — 2026-06-07</title>
-      <description>Témoignage chrétien quotidien — Voix Elli — 2026-06-07</description>
+      <title>La Puissance Transformatrice de la Grâce Divine — 2026-06-07</title>
+      <description>Sermon quotidien — 2026-06-07</description>
       <pubDate>Sun, 07 Jun 2026 09:03:06 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/testimonies/2026-06-07.mp3" length="1742097" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/testimonies/2026-06-07.mp3</guid>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-06-07.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-06-07.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
