@@ -1,49 +1,56 @@
 {
   "category": "monde",
   "date": "2026-06-07",
-  "updated": "2026-06-07T11:00:48.132278Z",
+  "updated": "2026-06-07T16:00:49.907360Z",
   "articles": [
+    {
+      "title": "Au 100e jour de la guerre, les Etats-Unis abattent des drones iraniens",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-au-100e-jour-de-la-guerre-les-etats-unis-abattent-des-drones-iraniens",
+      "desc": "L'armée américaine a annoncé avoir abattu deux drones d'attaque iraniens qui menaçaient selon elle le trafic maritime dans le détroit d'Ormuz, aucune solution ne se profilant pour mettre fin à la guerre au Moyen-Orient qui entre dimanche dans son 100ème jour.",
+      "date": "2026-06-07T14:51:17",
+      "source": "France 24"
+    },
+    {
+      "title": "Guerre au Moyen-Orient : Israël bombarde la banlieue sud de Beyrouth",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-guerre-au-moyen-orient-isra%C3%ABl-bombarde-la-banlieue-sud-de-beyrouth",
+      "desc": "Stéphane Amar, correspondant France24 à Jérusalem, décrypte la situation.",
+      "date": "2026-06-07T14:39:09",
+      "source": "France 24"
+    },
+    {
+      "title": "Complots, lettres d'amour et remèdes : les secrets médiévaux révélés par l'IA",
+      "link": "https://www.bbc.com/afrique/articles/c78k3j3xjj7o?at_medium=RSS&at_campaign=rss",
+      "desc": "Et si l'intelligence artificielle permettait de faire parler des documents restés muets pendant des siècles ? Des lettres d'amour codées aux intrigues diplomatiques secrètes, en passant par des manuscrits mystérieux conservés dans les archives du monde entier, l'IA aide aujourd'hui les chercheurs à ",
+      "date": "2026-06-07T14:21:29",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ebola : l'américain soigné en Allemagne guéri, vigilance maximale en RDC",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-ebola-le-patient-am%C3%A9ricain-gu%C3%A9ri-en-allemagne-vigilance-maximale-en-rdc",
+      "desc": "L'Américain hospitalisé à Berlin, à la demande des Etats-Unis, après avoir contracté le virus Ebola en République démocratique du Congo (RDC) et les cinq membres de sa famille ont quitté samedi l'hôpital \"en bonne santé\", a annoncé ce dernier.",
+      "date": "2026-06-07T14:18:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Mort de Lyhanna : \"ce meurtre aurait certainement pu être évité\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-mort-de-lyhanna-ce-meurtre-aurait-certainement-pu-%C3%AAtre-%C3%A9vit%C3%A9",
+      "desc": "Carine Durrieu-Diebolt, Avocate spécialisée dans les droit des victimes de violences sexuelles, est notre invitée.",
+      "date": "2026-06-07T14:11:44",
+      "source": "France 24"
+    },
+    {
+      "title": "Le pape Léon acclamé par plus d'un million de personnes à Madrid",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-le-pape-l%C3%A9on-acclam%C3%A9-par-plus-d-un-million-de-personnes-%C3%A0-madrid",
+      "desc": "Plus d'un million de personnes se sont massées dans les rues et ​sur les places de Madrid dimanche pour apercevoir le pape Léon XIII, qui a célébré une messe en plein air au deuxième jour de son voyage d'une ​semaine en Espagne.",
+      "date": "2026-06-07T14:08:52",
+      "source": "France 24"
+    },
     {
       "title": "Pourrons-nous un jour avoir des bébés dans l'espace ?",
       "link": "https://www.bbc.com/afrique/articles/c936rdlpdezo?at_medium=RSS&at_campaign=rss",
       "desc": "La NASA souhaite que les humains vivent sur la Lune d'ici 2032, mais nous devons d'abord surmonter le défi de la reproduction dans l'espace.",
       "date": "2026-06-07T10:26:22",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Liban : les affrontements se poursuivent, Aoun dénonce l'impunité d'Israël",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-liban-les-affrontements-se-poursuivent-aoun-d%C3%A9nonce-l-impunit%C3%A9-d-isra%C3%ABl",
-      "desc": "Elena Volochine décrypte la situation.",
-      "date": "2026-06-07T10:21:45",
-      "source": "France 24"
-    },
-    {
-      "title": "Un nourrisson palestinien tué par des tirs israéliens en Cisjordanie",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-un-nourrisson-palestinien-tu%C3%A9-par-des-tirs-isra%C3%A9liens-en-cisjordanie",
-      "desc": "Des tirs de l'armée israélienne ont tué vendredi un nourrisson palestinien et blessé ses parents dans le sud de la Cisjordanie occupée, a rapporté le ministère de la Santé palestinien, l'armée reconnaissant avoir ouvert le feu sur un véhicule de civils.",
-      "date": "2026-06-07T10:19:55",
-      "source": "France 24"
-    },
-    {
-      "title": "Sagrada Familia : la Tour de Jésus-Christ inaugurée dans 3 jours par le Pape",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-sagrada-familia-la-tour-de-j%C3%A9sus-christ-inaugur%C3%A9e-dans-3-jours-par-le-pape",
-      "desc": "Léon XIV se rendra à Barcelone, où il célébrera mercredi une messe à la Sagrada Familia, devenue depuis quelques mois l'église la plus haute du monde.",
-      "date": "2026-06-07T10:15:03",
-      "source": "France 24"
-    },
-    {
-      "title": "Liban : Beyrouth condamne les attaques israéliennes \"incessantes\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-liban-beyrouth-condamne-les-attaques-isra%C3%A9liennes-incessantes",
-      "desc": "Les affrontements se poursuivent au Liban malgré les pourparlers à Washington, une frappe dans le sud du pays ayant tué samedi trois soldats libanais, tandis que l'armée israélienne a annoncé la mort de deux de ses militaires.",
-      "date": "2026-06-07T10:12:54",
-      "source": "France 24"
-    },
-    {
-      "title": "Ouverture des bureaux de vote en Arménie pour les élections législatives",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260607-ouverture-des-bureaux-de-vote-en-arm%C3%A9nie-pour-les-%C3%A9lections-l%C3%A9gislatives",
-      "desc": "Les bureaux de vote ont ouvert dimanche en Arménie pour les élections législatives, un scrutin à valeur de test pour l'orientation pro-européenne du Premier ministre Nikol Pachinian.",
-      "date": "2026-06-07T10:10:29",
-      "source": "France 24"
     },
     {
       "title": "Les États-Unis, le Mexique et le Canada peuvent-ils mettre de côté leurs différences en organisant conjointement la Coupe du monde ?",
@@ -64,13 +71,6 @@
       "link": "https://www.bbc.com/afrique/articles/cx21w21wjk3o?at_medium=RSS&at_campaign=rss",
       "desc": "Alors que la rupture entre Bassirou Diomaye Faye et Ousmane Sonko semble désormais consommée, de nombreuses questions se posent sur l'avenir des relations entre l'exécutif et le législatif, incarnés par les deux hommes, anciens compagnons politiques devenus aujourd'hui des adversaires.",
       "date": "2026-06-06T11:27:33",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Une bouteille de vin, un pari et un mécanicien automobile : comment un nouvel appareil d'accouchement a été inventé",
-      "link": "https://www.bbc.com/afrique/articles/cn4pe4x8pgyo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'OdonAssist est un appareil gonflable conçu pour faciliter les accouchements vaginaux lorsque l'accouchement est interrompu et pour réduire les risques de blessures pour la mère et le bébé.",
-      "date": "2026-06-06T10:50:38",
       "source": "BBC Afrique"
     },
     {
