@@ -1,28 +1,77 @@
 {
   "category": "monde",
   "date": "2026-06-08",
-  "updated": "2026-06-08T11:00:56.710374Z",
+  "updated": "2026-06-08T16:01:01.549305Z",
   "articles": [
     {
-      "title": "Philippines : un puissant séisme de magnitude 7,8 fait au moins 15 morts",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-philippines-un-puissant-s%C3%A9isme-de-magnitude-7-8-fait-au-moins-15-morts",
-      "desc": "Un puissant séisme de magnitude 7,8 dans le sud des Philippines a fait au moins quinze morts, selon les autorités, et provoqué l'effondrement de nombreux bâtiments lundi matin, jour de la rentrée scolaire dans cet archipel d'Asie du sud-est.",
-      "date": "2026-06-08T10:59:14",
+      "title": "Affaire Lyhanna : \"dysfonctionnements\" ou manque de moyens de la justice en France ?",
+      "link": "https://www.france24.com/fr/france/20260608-affaire-lyhanna-dysfonctionnements-ou-manque-de-moyens-de-la-justice-en-france",
+      "desc": "Depuis la découverte du corps de Lyhanna et les révélations sur les plaintes restées lettres mortes visant le principal suspect, le ministre de la Justice Gérald Darmanin a évoqué des \"dysfonctionnements\" et le non-respect des circulaires pour expliquer le drame. Associations et syndicats de magistr",
+      "date": "2026-06-08T15:48:52",
       "source": "France 24"
     },
     {
-      "title": "Je t'aime, moi non plus : Trump va assister au match 3 des finales NBA, une présence historique",
-      "link": "https://www.france24.com/fr/sports/20260608-trump-nba-knicks-finale-madison-new-york",
-      "desc": "Supporter de longue date des New York Knicks, Donald Trump a confirmé qu'il assisterait lundi soir au premier match des finales NBA à New York depuis 1999 – une présence qui va entraîner un renforcement considérable des mesures de sécurité. Le président a une relation contrastée avec la NBA, dont le",
-      "date": "2026-06-08T10:48:47",
+      "title": "En Ukraine, des drones dopés à l'IA",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-en-ukraine-des-drones-dop%C3%A9s-%C3%A0-l-ia",
+      "desc": "La cellule des Observateurs de France 24 a analysé des vidéos de l'armée ukrainienne qui montrent des drones en action. Certains modèles utiliseraient l'intelligence artificielle pour se déplacer et repérer sa cible, ce qui pose des questions d'utilisation de l'IA en temps de guerre mais aussi du dé",
+      "date": "2026-06-08T15:29:54",
       "source": "France 24"
     },
     {
-      "title": "Affaire Lyhanna : un fiasco judiciaire",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-affaire-lyhanna-un-fiasco-judiciaire",
-      "desc": "Après l’affaire Lyhanna et les révélations sur des plaintes pour violences sexuelles visant le principal suspect, Gérald Darmanin réunit les procureurs généraux pour exiger une révision de l’ensemble des plaintes concernant des enfants victimes, soit environ 70.000 dossiers. Cette mobilisation inter",
-      "date": "2026-06-08T10:21:12",
+      "title": "RD Congo: Hadja Labib commissaire de l'UE à la coopération internationale en visite à Bunia",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260608-rd-congo-hadja-labib-commissaire-de-l-ue-%C3%A0-la-coop%C3%A9ration-internationale-en-visite-%C3%A0-bunia",
+      "desc": "En RD Congo, direction Bunia en Ituri… La province reste l’épicentre de l’épidémie d’Ebola. 86 personnes y sont décédées… 488 cas confirmés y ont été recensé. Ces chiffres sont provisoires car tout le monde ne peut pas encore être testé, les autorités congolaises ne communiquent plus les cas suspect",
+      "date": "2026-06-08T15:24:03",
       "source": "France 24"
+    },
+    {
+      "title": "Israël et l'Iran cessent leurs attaques après un premier échange de feu depuis avril",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-isra%C3%ABl-et-l-iran-cessent-leurs-attaques-apr%C3%A8s-un-premier-%C3%A9change-de-feu-depuis-avril",
+      "desc": "⁠L'armée iranienne a annoncé lundi que sa première vague d'attaques contre Israël depuis le cessez-le-feu d'avril était désormais terminée, tout en menaçant de reprendre les frappes si Israël poursuivait ses attaques contre le Liban.",
+      "date": "2026-06-08T15:21:23",
+      "source": "France 24"
+    },
+    {
+      "title": "Escalade Iran-Israël : le Liban au cœur des tensions",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-escalade-iran-isra%C3%ABl-le-liban-au-c%C5%93ur-des-tensions",
+      "desc": "Au Moyen-Orient, l’Iran et Israël ont échangé dans la nuit leurs premières frappes directes depuis la trêve conclue il y a deux mois, avant que les deux pays n’annoncent vouloir cesser les attaques. Pour Jean-Loup Samaan, expert associé à l’Institut Montaigne, ces échanges sont surtout un rappel mut",
+      "date": "2026-06-08T15:14:45",
+      "source": "France 24"
+    },
+    {
+      "title": "Visas de dernière minute et camp d'entraînement émouvant : le parcours insolite de l'Iran vers la Coupe du monde",
+      "link": "https://www.bbc.com/afrique/articles/cy49dewz04no?at_medium=RSS&at_campaign=rss",
+      "desc": "La participation de l'Iran est devenue l'une des histoires les plus complexes du tournoi de football.",
+      "date": "2026-06-08T14:10:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Un vaccin « premier au monde » conçu par une intelligence artificielle",
+      "link": "https://www.bbc.com/afrique/articles/c8r8rm643xmo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des scientifiques de Cambridge affirment avoir testé pour la première fois un vaccin conçu par l'IA.",
+      "date": "2026-06-08T12:02:40",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "EN DIRECT - Réunion du Conseil de sécurité sur l'Afghanistan",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158949",
+      "desc": "Alors que l'ONU a fait part dimanche de sa préoccupation face à de multiples arrestations de femmes à Hérat, dans l'ouest de l'Afghanistan, pour «&nbsp;prétendue non-conformité aux exigences vestimentaires&nbsp;», le Conseil de sécurité se réunit lundi matin sur la situation dans le pays. Suivez les",
+      "date": "2026-06-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Et si les décombres devenaient le moteur de la reconstruction ?",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158948",
+      "desc": "Conflits et catastrophes produisent chaque année des montagnes de décombres qui entravent le relèvement des populations. Pourtant, ces gravats pourraient faire partie de la solution. Dans de nouvelles lignes directrices, le Bureau des Nations Unies pour les services d’appui aux projets (UNOPS) montr",
+      "date": "2026-06-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L’océan en péril, l’humanité en danger",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158944",
+      "desc": "L’océan recouvre plus de 70 % de la planète ; il régule le climat, préserve la biodiversité et soutient les économies et les cultures du monde entier. Il constitue le fondement de la vie sur Terre.",
+      "date": "2026-06-08T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Les chiffres de la \"Coupe du monde la plus polluante\"",
@@ -30,20 +79,6 @@
       "desc": "La Coupe du monde 2026, organisée dans toute l'Amérique du Nord et réunissant jusqu'à 48 équipes, devrait générer des distances à parcourir et des émissions sans précédent. Certains fans sont prêts à produire plusieurs tonnes de CO2 simplement en suivant leurs équipes. Le tournoi pourrait atteindre ",
       "date": "2026-06-08T09:54:31",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Nouvelle flambée de tensions entre l’Iran et Israël",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260608-nouvelle-flamb%C3%A9e-de-tensions-entre-l-iran-et-isra%C3%ABl",
-      "desc": "Israël a mené dans la nuit des frappes contre plusieurs cibles militaires et énergétiques en Iran, après des tirs de missiles iraniens visant notamment Tel-Aviv et Jérusalem. Téhéran affirme avoir riposté aux récents bombardements israéliens sur la banlieue sud de Beyrouth et menace désormais d’inte",
-      "date": "2026-06-08T09:46:54",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : arrivée chaotique de l'Irak aux États-Unis, la politique de visas en question",
-      "link": "https://www.france24.com/fr/sports/20260608-mondial-2026-arrivee-irak-etats-unis-visa-ecosse",
-      "desc": "Visas restreints pour assister à la Coupe du monde aux États-Unis, nouveaux épisodes. Lors de l'arrivée de la sélection irakienne sur le sol américain, son attaquant star, Aymen Hussein, a été retenu plusieurs heures à la douane. Quant à son photographe officiel, il a été interdit d'entrée dans le p",
-      "date": "2026-06-08T09:35:07",
-      "source": "France 24"
     },
     {
       "title": "Abula : comment ce sport indigène du Nigeria nourrit de grandes ambitions",
@@ -60,20 +95,6 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Pourrons-nous un jour avoir des bébés dans l'espace ?",
-      "link": "https://www.bbc.com/afrique/articles/c936rdlpdezo?at_medium=RSS&at_campaign=rss",
-      "desc": "La NASA souhaite que les humains vivent sur la Lune d'ici 2032, mais nous devons d'abord surmonter le défi de la reproduction dans l'espace.",
-      "date": "2026-06-07T10:26:22",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les États-Unis, le Mexique et le Canada peuvent-ils mettre de côté leurs différences en organisant conjointement la Coupe du monde ?",
-      "link": "https://www.bbc.com/afrique/articles/c99l9k289nzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le tournoi fait suite à une période de relations tendues entre les États-Unis, le Canada et le Mexique.",
-      "date": "2026-06-07T08:19:35",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Des combats de nuit aux matchs de football : le quotidien des Casques bleus sénégalais de la MINUSCA",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1158946",
       "desc": "La nuit est tombée sur l’est de la République centrafricaine. À Zémio, à quelques heures de l’élection présidentielle de décembre 2025, les rebelles de la milice AAKG lancent une offensive pour s’emparer de la ville et faire dérailler le scrutin.",
@@ -84,27 +105,6 @@
       "title": "Ebola : l’Afrique mobilise 518 millions de dollars pour stopper l’épidémie",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1158945",
       "desc": "Face à la propagation continue de l’épidémie d’Ebola causée par le virus Bundibugyo, les autorités sanitaires africaines et les Nations Unies ont lancé un vaste plan de riposte visant à renforcer la préparation et la réponse sur l’ensemble du continent.",
-      "date": "2026-06-05T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan du Sud : la spirale des violences à Jonglei provoque un exode massif",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158939",
-      "desc": "La recrudescence de l’insécurité et l’augmentation des déplacements de population dans l’État de Jonglei, dans l’est du Soudan du Sud, exposent des milliers de personnes à un grave danger, a alerté vendredi l’Agence des Nations Unies pour les réfugiés (HCR).",
-      "date": "2026-06-05T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Le prix ultime de la paix : l’ONU rend hommage aux Casques bleus tombés en mission",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158942",
-      "desc": "La cérémonie avait commencé depuis quelques minutes à peine lorsque le souvenir de la guerre s’est imposé dans le silence qui régnait sur la pelouse du siège des Nations Unies.",
-      "date": "2026-06-05T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Au Liban, les besoins humanitaires explosent",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158941",
-      "desc": "Alors que les hostilités entre Israël et le Hezbollah se poursuivent malgré l’annonce d’un cessez-le-feu conditionnel, l’ONU a lancé, vendredi, un appel de fonds supplémentaires de 331,5 millions de dollars pour venir en aide à 1,4 million de personnes au Liban.",
       "date": "2026-06-05T12:00:00",
       "source": "ONU Info"
     }
