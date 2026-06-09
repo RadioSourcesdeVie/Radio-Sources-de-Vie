@@ -11,6 +11,7 @@ TODAY = datetime.now().strftime("%Y-%m-%d")
 MODEL = "eleven_multilingual_v2"
 BELLA = "EXAVITQu4vr4xnSDxMaL"
 ANTONI = "ErXwobaYiN019PkySvjV"
+ELLI = "MF3mGyEYCl7XYWbV9V6O"
 
 def tts(text, voice, out_path, eleven_key):
     r = requests.post(
@@ -36,7 +37,8 @@ def build_text(data):
 ITEMS = [
     (f"content/prayers/matin_{TODAY}.json",  f"audio/prayers/matin_{TODAY}.mp3",  BELLA,  "Prière Matin"),
     (f"content/prayers/soir_{TODAY}.json",   f"audio/prayers/soir_{TODAY}.mp3",   BELLA,  "Prière Soir"),
-    (f"content/sabbat/{TODAY}.json",          f"audio/sabbat/{TODAY}.mp3",          ANTONI, "Sabbat Nugget"),
+    (f"content/testimonies/{TODAY}.json",     f"audio/testimonies/{TODAY}.mp3",     ELLI,   "Témoignage"),
+    (f"content/sermons/{TODAY}.json",         f"audio/sermons/{TODAY}.mp3",         ANTONI, "Sermon"),
     (f"content/meteo/{TODAY}.json",           f"audio/meteo/{TODAY}.mp3",           BELLA,  "Météo"),
 ]
 
@@ -96,7 +98,7 @@ def main():
         except Exception as e:
             print(f"❌  {label}: {e}")
 
-    print(f"\n✅  {total}/4 audios générés")
+    print(f"\n✅  {total}/5 audios générés")
 
 if __name__ == "__main__":
     main()
