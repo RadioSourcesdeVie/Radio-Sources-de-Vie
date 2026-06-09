@@ -13,15 +13,15 @@ HEADERS = {"User-Agent": "Mozilla/5.0 Chrome/120.0 Safari/537.36"}
 
 FEEDS = {
     "chretien": [
-        {"url": "https://www.info-chretienne.com/feed/",         "source": "Info Chrétienne"},
         {"url": "https://morningstarnews.org/feed/",             "source": "Morning Star News"},
         {"url": "https://www.porteouverte.org/feed/",            "source": "Porte Ouverte"},
-        {"url": "https://www.christianpost.com/rss/all",         "source": "Christian Post"},
+        {"url": "https://www.evangeliques.info/feed/",           "source": "Évangéliques Info"},
+        {"url": "https://www.chretiens.info/feed/",              "source": "Chrétiens Info"},
+        {"url": "https://news.google.com/rss/search?q=chr%C3%A9tien+%C3%A9glise&hl=fr", "source": "Google Actualités Chrétiennes"},
     ],
     "haiti": [
         {"url": "https://news.google.com/rss/search?q=Haiti&hl=fr&gl=HT&ceid=HT:fr", "source": "Google News Haiti"},
         {"url": "https://news.google.com/rss/search?q=Haiti+actualite&hl=fr",        "source": "Actualites Haiti"},
-        {"url": "https://www.haitiantimes.com/feed/",                                 "source": "Haitian Times"},
     ],
     "monde": [
         {"url": "https://feeds.bbci.co.uk/afrique/rss.xml",      "source": "BBC Afrique"},
