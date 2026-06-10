@@ -1,42 +1,56 @@
 {
   "category": "monde",
   "date": "2026-06-10",
-  "updated": "2026-06-10T11:00:14.483987Z",
+  "updated": "2026-06-10T16:00:16.452548Z",
   "articles": [
     {
-      "title": "Philippines : les secouristes poursuivent leurs efforts après un séisme meurtrier",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-philippines-les-secouristes-poursuivent-leurs-efforts-apr%C3%A8s-un-s%C3%A9isme-meurtrier",
-      "desc": "Des blessés soignés dehors en pleine chaleur, des secours ralentis par les répliques et des accès coupés : au lendemain du puissant séisme qui a frappé le sud des Philippines faisant au moins 41 morts, des milliers de personnes sont toujours déplacées mardi. La secousse de magnitude 7,8 qui s'est pr",
-      "date": "2026-06-10T10:56:55",
+      "title": "Qui va gagner la Coupe du monde ? Les experts de la BBC font leurs prédictions",
+      "link": "https://www.bbc.com/afrique/articles/c992r7n0pyyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Qui va gagner, qui pourrait créer la surprise ? Les experts de la BBC prédisent ce qui se passera lors de la Coupe du monde 2026.",
+      "date": "2026-06-10T15:43:49",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La foule se presse alors que le pape va bénir la Sagrada Familia",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-la-foule-se-presse-alors-que-le-pape-va-b%C3%A9nir-la-sagrada-familia",
+      "desc": "\"C’est comme si c’était Dieu, l’Esprit saint.\" À Barcelone, la foule se presse pour assister à la bénédiction de la Sagrada Familia par le pape Leon XIV. Notre correspondante Maude Petit-Jové s’est rendue sur place.",
+      "date": "2026-06-10T15:40:34",
       "source": "France 24"
     },
     {
-      "title": "La Patrouile de France survole la statue de la Liberté à New York",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-la-patrouile-de-france-survole-la-statue-de-la-libert%C3%A9-%C3%A0-new-york",
-      "desc": "Un survol à haute valeur symbolique. La patrouille de France a fait son show dans le ciel de New York, suivie de son traditionnel panache bleu blanc et rouge. La formation d'élite de l'aviation française a survolé la Statue de la Liberté, un cadeau de la France aux États-Unis, qui célèbrent les 250 ",
-      "date": "2026-06-10T10:54:50",
+      "title": "Madagascar : le Savika, un sport national où les hommes se mesurent aux zébus",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-madagascar-le-savika-un-sport-national-o%C3%B9-les-hommes-se-mesurent-aux-z%C3%A9bus",
+      "desc": "À Madagascar, le Savika, discipline traditionnelle malgache, met à l’honneur des hommes se mesurant aux zébus. Le but est de s'accrocher le plus longtemps possible sur le dos d'un zébu lâché dans l'arène. Madagascar aimerait inscrire cette discipline au patrimoine culturel immatériel de l'UNESCO.",
+      "date": "2026-06-10T15:39:40",
       "source": "France 24"
     },
     {
-      "title": "Reprise des frappes américaines en Iran : seule option de Donald Trump ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-reprise-des-frappes-am%C3%A9ricaines-en-iran-seule-option-de-donald-trump",
-      "desc": "Nouvelle escalade ces dernières heures au Moyen Orient. L'Iran a frappé la Jordanie, le Bahreïn et le Koweït… pays du Golfe accusés de porter la responsabilité morale des frappes américaines sur le sol iranien. Washington présente ces bombardements comme des représailles après qu'un de ses hélicoptè",
-      "date": "2026-06-10T10:52:44",
+      "title": "Martinique : La jeunesse entre départ forcé et dilemme du retour",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-martinique-la-jeunesse-entre-d%C3%A9part-forc%C3%A9-et-dilemme-du-retour",
+      "desc": "La Martinique est souvent perçue via le prisme du tourisme, avec sa mer turquoise et ses plages de cocotiers. Mais derrière l’image de carte postale, se cache une toute autre réalité. Malvina Raud est journaliste à ENTR, elle revient de l’île, où elle a rencontré des jeunes qui l’ont aidé à comprend",
+      "date": "2026-06-10T15:16:20",
       "source": "France 24"
     },
     {
-      "title": "52 ans plus tard, Haïti de retour à la Coupe du Monde de football",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-52-ans-plus-tard-ha%C3%AFti-de-retour-%C3%A0-la-coupe-du-monde-de-football",
-      "desc": "La Coupe du Monde 2026 commencera demain et une équipe va faire son retour dans la compétition après 52 ans d’absence… celle d’Haïti. L’équipe est entraînée par un français et aucun de ses joueurs ne joue dans le pays. Récit de Victor Faubert.",
-      "date": "2026-06-10T10:51:07",
+      "title": "Guerre en Ukraine : pourquoi des camions russes arborent un camouflage zébré",
+      "link": "https://www.france24.com/fr/europe/20260610-guerre-ukraine-camions-russes-camouflage-z%C3%A9br%C3%A9-dazzle",
+      "desc": "Des images partagées par des blogueurs militaires montrent l’utilisation par les forces russes d’un camouflage à bandes blanches et noires sur leurs camions. Un dispositif qui vise à tromper les systèmes de reconnaissance par IA des drones ukrainiens et témoigne de l’adaptation constante des tactiqu",
+      "date": "2026-06-10T15:07:02",
       "source": "France 24"
     },
     {
-      "title": "\"Je suis un prisonnier d'opinion\" : à Bakou, l'opposant Karimli jugé pour \"tentative de coup d'État\"",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260610-azerba%C3%AFdjan-opposant-ali-karimli-jug%C3%A9-bakou-tentative-coup-%C3%A9tat-r%C3%A9gime-aliev-je-suis-prisonnier-opinion",
-      "desc": "Ali Karimli, chef du Parti du front populaire d’Azerbaïdjan (PFPA) et figure centrale de l’opposition dans ce pays depuis plus de 30 ans, est jugé mercredi à Bakou pour \"tentative de coup d’État\". Depuis sa prison, celui que l'on compare souvent à Alexeï Navalny a accepté de répondre aux questions d",
-      "date": "2026-06-10T10:45:32",
+      "title": "Mondial 2026 : Le silence de la FIFA à propos de la politique de Trump interogge",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260610-mondial-2026-le-silence-de-la-fifa-%C3%A0-propos-de-la-politique-de-trump-interogge",
+      "desc": "Les tensions géopolitiques à l’international pèsent sur la Coupe du monde de football. Visas bloqués, supporters interdits... À la veille du coup de sifflet, certaines nationalités sont mal menées. Hier, un arbitre Somalien a été refoulé du pays. Aujourd'hui, c’est la fédération iranienne qui a anno",
+      "date": "2026-06-10T15:05:59",
       "source": "France 24"
+    },
+    {
+      "title": "Pourquoi Henry Ford a instauré la semaine de travail de cinq jours il y a 100 ans",
+      "link": "https://www.bbc.com/afrique/articles/c621gzx4wgzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Après avoir été adopté par le magnat, le système s'est généralisé. Aux États-Unis, la semaine de travail a été ramenée à 44 heures en 1938, puis à 40 heures deux ans plus tard.",
+      "date": "2026-06-10T14:38:42",
+      "source": "BBC Afrique"
     },
     {
       "title": "Quand est-ce qu'une équipe africaine remportera la Coupe du monde ?",
@@ -50,20 +64,6 @@
       "link": "https://www.bbc.com/afrique/articles/c0qyzlnz17do?at_medium=RSS&at_campaign=rss",
       "desc": "Un billion de dollars équivaut à mille milliards de dollars. Si quelqu'un dépensait un million de dollars par jour, il lui faudrait plus de 2 700 ans pour dépenser un billion de dollars.",
       "date": "2026-06-10T07:52:36",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Voilà à quoi ressemble la vie dans l'un des endroits les plus humides et les plus chauds de la planète",
-      "link": "https://www.bbc.com/afrique/articles/cwy0lnx550go?at_medium=RSS&at_campaign=rss",
-      "desc": "À quoi ressemble une journée à 48 °C ? Pour ceux pour qui la chaleur extrême est une réalité quotidienne, bien des choses ont changé.",
-      "date": "2026-06-09T16:53:50",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Sperme de saumon, fientes d'oiseaux… pourquoi ces soins de la peau improbables séduisent-ils ?",
-      "link": "https://www.bbc.com/afrique/articles/cly72372467o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'utilisation de substances exotiques suscite de plus en plus d'intérêt, mais des études montrent que l'efficacité de toutes ces pratiques n'est pas prouvée.",
-      "date": "2026-06-09T13:12:04",
       "source": "BBC Afrique"
     },
     {
