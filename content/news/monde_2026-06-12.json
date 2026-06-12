@@ -1,27 +1,48 @@
 {
   "category": "monde",
   "date": "2026-06-12",
-  "updated": "2026-06-12T16:00:15.818851Z",
+  "updated": "2026-06-12T21:00:16.014156Z",
   "articles": [
     {
-      "title": "VSS : la France face aux dysfonctionnements de sa justice",
-      "link": "https://www.france24.com/fr/%C3%A9missions/actuelles/20260612-vss-la-france-face-aux-dysfonctionnements-de-sa-justice",
-      "desc": "C'est une France sous le choc qui découvre l'ampleur des dysfonctionnements de sa justice. La mort de la petite Lyhanna, onze ans, a pris le pays aux tripes lorsque le profil du principal suspect a été connu… Jérôme Barella, père de famille \"sans histoire\" traînait en réalité plaintes et signalement",
-      "date": "2026-06-12T15:40:48",
+      "title": "Guerre en Iran, affaire Lyhanna et une Coupe du Monde controversée",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260612-guerre-en-iran-affaire-lyhanna-et-une-coupe-du-monde-controvers%C3%A9e",
+      "desc": "Les États-Unis et l’Iran affichent leur optimisme et assurent n’avoir jamais été aussi proches d’un accord. En France, l’affaire Lyhanna, cette fillette de 11 ans retrouvée morte dans le Gers, provoque une vive émotion et une colère grandissante contre les dysfonctionnements de la justice. Enfin, l’",
+      "date": "2026-06-12T18:12:42",
       "source": "France 24"
     },
     {
-      "title": "Îles Canaries : le pape Léon XIV rencontre des migrants",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-%C3%AEles-canaries-le-pape-l%C3%A9on-xiv-rencontre-des-migrants",
-      "desc": "Le pape Léon XIV met en garde contre un \"naufrage silencieux\" qui menace les migrants après leur arrivée dans un nouveau pays, qualifiant l'indifférence mondiale face aux décès en mer d'\"échec pour la famille humaine\" lors d'une visite historique dans un centre d'accueil des îles Canaries.",
-      "date": "2026-06-12T15:26:49",
+      "title": "Les voitures chinoises envahissent les marchés du Moyen-Orient",
+      "link": "https://www.bbc.com/afrique/articles/cz691dyz0yxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les voitures chinoises gagnent des parts de marché dans tout le Moyen-Orient. Qu'est-ce qui attire les gens vers ces marques relativement inconnues, et ont-ils des plaintes à formuler ?",
+      "date": "2026-06-12T17:34:56",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Amel Bent, la voix de la lumière",
+      "link": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20260612-amel-bent-la-voix-de-la-lumi%C3%A8re",
+      "desc": "Rendez-vous avec la star de la chanson Amel Bent. En vingt ans de carrière, Amel a écoulé plus d’un million d’albums et récolté de nombreux trophées. Avec sa capacité à fédérer tant le monde de la variété que celui de la musique urbaine, elle a su s’imposer comme l’une des figures principales de la ",
+      "date": "2026-06-12T17:30:06",
       "source": "France 24"
     },
     {
-      "title": "Mondial 2026 : par peur de violences, des villes françaises édictent des couvre-feux",
-      "link": "https://www.france24.com/fr/france/20260612-mondial-2026-par-peur-violences-villes-fran%C3%A7aises-%C3%A9dictent-couvre-feux-clermont-ferrand-toulouse-orl%C3%A9ans",
-      "desc": "Par craintes de débordements après certaines rencontres considérées comme \"à risque\", de grandes villes comme Toulouse et Clermont-Ferrand ont prévu d'instaurer des couvre-feux pour les mineurs non accompagnés lors du Mondial. D'autres maires ne veulent pas de fan zones dans leurs communes.",
-      "date": "2026-06-12T15:12:19",
+      "title": "Introduction de SpaceX en bourse : l'opération qui bat tous les records",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20260612-introduction-de-spacex-en-bourse-l-op%C3%A9ration-qui-bat-tous-les-records",
+      "desc": "C'est une opération sans équivalent dans l'histoire de la finance. L'entreprise spatiale californienne SpaceX – création et propriété d'Elon Musk – fait ses premiers pas sur le marché d'actions américain avec des chiffres stratosphériques : 555 millions d'actions et une valorisation estimée entre 1 ",
+      "date": "2026-06-12T17:13:05",
+      "source": "France 24"
+    },
+    {
+      "title": "Edi Rama parle \"d'ingérence iranienne\" contre le projet immobilier des Trump",
+      "link": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20260612-edi-rama-parle-d-ing%C3%A9rence-iranienne-contre-le-projet-immobilier-des-trump",
+      "desc": "Cette semaine, nous recevons Edi Rama, Premier ministre albanais. Il commente les manifestations qui secouent son pays contre la construction d'un complexe hôtelier de luxe lié à la famille Trump.",
+      "date": "2026-06-12T17:03:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Accord \"imminent\" avec l’Iran ? Trump brouille les pistes avec ses revirements incessants",
+      "link": "https://www.france24.com/fr/moyen-orient/20260612-accord-imminent-avec-l-iran-trump-brouille-les-pistes-avec-ses-revirements-incessants",
+      "desc": "Après avoir affirmé la veille qu'un accord avec l'Iran pourrait être signé dans les prochains jours pour mettre fin à la guerre, Donald Trump a changé de ton vendredi, accusant Téhéran de mentir. Une séquence qui résume à elle seule les profondes incertitudes entourant les négociations et leurs chan",
+      "date": "2026-06-12T16:43:46",
       "source": "France 24"
     },
     {
@@ -32,25 +53,25 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Les échappées de Kaboul : pédaler c’est résister",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-les-%C3%A9chapp%C3%A9es-de-kaboul-p%C3%A9daler-c-est-r%C3%A9sister",
-      "desc": "\"Les Échappées de Kaboul\" : le documentaire revient sur l'évacuation secrète de 41 cyclistes #afghanes après la prise de pouvoir des talibans en août 2021.\n \n🚵‍♀️ Portées par un élan de solidarité d’ONG, de philanthropes, de personnalités politiques et sportives, 125 personnes ont pu fuir le pays da",
-      "date": "2026-06-12T14:42:20",
-      "source": "France 24"
-    },
-    {
-      "title": "Moyen-Orient : l’Iran évoque des progrès significatifs vers un accord avec Washington",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260612-moyen-orient-l-iran-%C3%A9voque-des-progr%C3%A8s-significatifs-vers-un-accord-avec-washington",
-      "desc": "Téhéran se montre prudent mais affirme qu’une grande partie de l’accord avec Washington serait déjà finalisée. Le cessez-le-feu au Liban et le déblocage d’avoirs iraniens semblent avancer, mais les questions du nucléaire et du détroit d’Ormuz restent à régler, comme l'explique le correspondant de Fr",
-      "date": "2026-06-12T14:38:39",
-      "source": "France 24"
-    },
-    {
       "title": "Qui sont les détenteurs des records de la Coupe du monde ?",
       "link": "https://www.bbc.com/afrique/articles/c78y945j536o?at_medium=RSS&at_campaign=rss",
       "desc": "L'équipe Ask Me Anything de BBC Sport examine les détenteurs de records de l'histoire de la Coupe du monde à l'approche du tournoi de 2026",
       "date": "2026-06-12T12:27:24",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "En Ukraine, le bilan des victimes civiles atteint un niveau inédit depuis quatre ans",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158985",
+      "desc": "La guerre tue de plus en plus loin du front ukrainien. Avec plus de 2&nbsp;000 victimes civiles en un seul mois, le pays enregistre son bilan le plus lourd depuis avril 2022, au lendemain de l'invasion russe à grande échelle.",
+      "date": "2026-06-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ebola en RDC : l’UNICEF redoute une hausse des cas chez les enfants alors que l’épidémie s’étend",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158983",
+      "desc": "Alors que la souche Bundibugyo continue de se propager dans l’est de la République démocratique du Congo (RDC), davantage d’enfants pourraient être touchés par l’épidémie d’Ebola dans les jours à venir, ont mis en garde vendredi des agences des Nations Unies.",
+      "date": "2026-06-12T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Haïti ouvre ses premiers refuges pour femmes face à l’explosion des violences sexuelles",
@@ -86,27 +107,6 @@
       "desc": "Alors que les femmes ne représentent encore qu’un tiers des chercheurs dans le monde, cinq scientifiques ont reçu jeudi au siège de l’UNESCO à Paris le Prix international L’Oréal-UNESCO « Pour les femmes et la science » 2026.&nbsp;",
       "date": "2026-06-11T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Face à la montée des discours de haine, l’ONU mise sur les chefs traditionnels",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158978",
-      "desc": "Les génocides ne commencent pas par des massacres. Ils commencent par des mots. Des mots qui divisent, qui désignent des ennemis, qui déshumanisent. Des mots qui circulent d'abord dans les conversations, puis sur les réseaux sociaux, avant parfois de dégénérer en violences bien réelles.",
-      "date": "2026-06-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "« Les droits humains font partie de notre ADN » : l’ONU lance une alliance pour contrer les menaces croissantes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158980",
-      "desc": "Le Haut-Commissariat des Nations Unies aux droits de l’homme (HCDH) a lancé une Alliance mondiale pour les droits humains, une vaste coalition visant à placer cette question au cœur de la prise de décision, alors que les niveaux de conflit atteignent des sommets historiques dans un contexte d’aggrav",
-      "date": "2026-06-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Téléchargez votre tableau mural des matches de la Coupe du monde 2026",
-      "link": "https://www.bbc.com/afrique/articles/cql1rzd1ygro?at_medium=RSS&at_campaign=rss",
-      "desc": "Téléchargez gratuitement votre tableau mural de la Coupe du monde 2026 et suivez chaque match et tous les résultats du plus grand tournoi de football.",
-      "date": "2026-06-10T16:52:02",
-      "source": "BBC Afrique"
     }
   ]
 }
