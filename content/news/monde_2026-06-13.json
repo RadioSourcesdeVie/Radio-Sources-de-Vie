@@ -1,14 +1,56 @@
 {
   "category": "monde",
   "date": "2026-06-13",
-  "updated": "2026-06-13T11:00:16.056667Z",
+  "updated": "2026-06-13T16:00:18.182985Z",
   "articles": [
     {
-      "title": "Coupe du monde 2026 : Premier point historique pour le Canada",
-      "link": "https://www.france24.com/fr/sports/20260613-coupe-du-monde-2026-premier-point-historique-pour-le-canada",
-      "desc": "Le Canada a décroché un résultat symbolique pour lancer sa Coupe du monde à domicile, en partageant les points avec la Bosnie-Herzégovine (1-1). Jovo Lukic a ouvert le score pour les Bosniens à la 21e minute. Soutenus par leur public à Toronto, les Canadiens ont longtemps poussé avant d’égaliser grâ",
-      "date": "2026-06-13T10:22:23",
+      "title": "Pourquoi la maîtrise du « squat asiatique » est essentielle pour notre santé ?",
+      "link": "https://www.bbc.com/afrique/articles/cr47lqkkgwzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des vidéos montrant des touristes s'essayant à la position accroupie à l'asiatique fleurissent sur Internet, mais selon les experts, l'engouement pour cette posture soulève une question plus large concernant l'importance de conserver une bonne mobilité en vieillissant.",
+      "date": "2026-06-13T15:52:49",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Lutte contre les violences sexuelles : Comment protéger les enfants en France ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260613-lutte-contre-les-violences-sexuelles-comment-prot%C3%A9ger-les-enfants-en-france",
+      "desc": "Le deuil et la détresse de la famille de la petite Lyhanna. \"Nous ne disons pas au revoir à un symbole ou à une lutte, mais à une enfant de 11 ans et demi\", ces mots prononcés par le maire de Fleurance, étaient aussi adressés aux parents de la jeune fille. Une question se pose aujourd’hui : sommes-n",
+      "date": "2026-06-13T15:04:18",
       "source": "France 24"
+    },
+    {
+      "title": "Confusions autour des tractations américano-iraniennes : l'Iran exclut un accord dans les 24 heures",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-confusions-autour-des-tractations-am%C3%A9ricano-iraniennens-l-iran-exclut-un-accord-dans-les-24-heure",
+      "desc": "L'Iran a exclu samedi toute signature dans les prochaines 24 heures d'un protocole d'accord avec les Etats-Unis pour mettre fin durablement à la guerre au Moyen-Orient, selon l'agence de presse gouvernementale Irna.",
+      "date": "2026-06-13T14:52:41",
+      "source": "France 24"
+    },
+    {
+      "title": "Combats de MMA, stars absentes et polémiques : l'étrange anniversaire de Donald Trump",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260613-combats-mma-stars-absentes-pol%C3%A9miques-%C3%A9trange-anniversaire-donald-trump",
+      "desc": "Officiellement organisée pour célébrer les 250 ans de l'indépendance américaine, la soirée d'anniversaire de Donald Trump, prévue dimanche, ressemble davantage à une démonstration politique grandeur nature. En transformant la Maison Blanche en arène de MMA et en remplaçant un concert boudé par les a",
+      "date": "2026-06-13T14:30:51",
+      "source": "France 24"
+    },
+    {
+      "title": "🔴 En direct : l'Iran exclut toute signature d'un accord avec les États-Unis dans les prochaines 24 heures",
+      "link": "https://www.france24.com/fr/moyen-orient/20260613-en-direct-moyen-orient-iran-etats-unis-accord-paix-drones-detroit-ormuz-trump",
+      "desc": "",
+      "date": "2026-06-13T13:21:47",
+      "source": "France 24"
+    },
+    {
+      "title": "Violences sexuelles sur mineurs : la Ciivise évalue l'action du gouvernement",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-violences-sexuelles-sur-mineurs-la-ciivise-%C3%A9value-l-action-du-gouvernement",
+      "desc": "En France, toutes les trois minutes, un enfant est victime de violences. En plein débat sur les moyens mis en œuvre en France contre les violences sexuelles sur les mineurs, après la mort de Lyhanna, la Ciivise rend lundi une évaluation très attendue sur la façon dont le gouvernement a mis en œuvre ",
+      "date": "2026-06-13T12:54:34",
+      "source": "France 24"
+    },
+    {
+      "title": "Assassinats, exécutions de masse, tortures : le top 5 des régimes les plus sanglants d'Afrique",
+      "link": "https://www.bbc.com/afrique/articles/c07ygkp2kzvo?at_medium=RSS&at_campaign=rss",
+      "desc": "En Afrique, les noms d’Idi Amin Dada, Mengistu Hailé Mariam, Omar el-Béchir, Hissène Habré et Charles Taylor ont marqué les esprits par la violence de leurs régimes, entre les années 1970 et les années 2000.",
+      "date": "2026-06-13T12:46:16",
+      "source": "BBC Afrique"
     },
     {
       "title": "Comment la FIFA gagne des milliards de dollars à chaque Coupe du monde",
@@ -16,34 +58,6 @@
       "desc": "La FIFA enregistrera des recettes record grâce à la Coupe du monde 2026, en grande partie grâce aux prix élevés des billets, qui ont été vivement critiqués.",
       "date": "2026-06-13T09:32:50",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Présidentielle au Pérou : le candidat de gauche, Roberto Sánchez, propose un recomptage des votes",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-pr%C3%A9sidentielle-au-p%C3%A9rou-le-candidat-de-gauche-roberto-s%C3%A1nchez-propose-un-recomptage-des-votes",
-      "desc": "Le candidat de gauche Roberto Sánchez a proposé vendredi à sa rivale de droite Keiko Fujimori de réclamer ensemble de recompter tous les bulletins du second tour de l'élection présidentielle au Pérou, où ils sont au coude-à-coude, mais le camp de cette dernière a décliné l'offre.",
-      "date": "2026-06-13T09:24:29",
-      "source": "France 24"
-    },
-    {
-      "title": "Élections générales en Guinée : plusieurs partis politiques rejettent les résultats provisoires",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-%C3%A9lections-g%C3%A9n%C3%A9rales-en-guin%C3%A9e-plusieurs-partis-politiques-rejettent-les-r%C3%A9sultats",
-      "desc": "En Guinée, plusieurs partis politiques rejettent les résultats provisoires du double scrutin législatif et communal du 31 mai dernier. Ces formations politiques face à la presse ce matin, dénoncent de nombreuses irrégularités et accusent les autorités électorales d’avoir favorisé la mouvance préside",
-      "date": "2026-06-13T09:22:28",
-      "source": "France 24"
-    },
-    {
-      "title": "RD Congo : Fayulu et Sesanga blessés après un sit-in contre la réforme constitutionnelle",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-rd-congo-fayulu-et-sesanga-bless%C3%A9s-apr%C3%A8s-un-sit-in-contre-la-r%C3%A9forme-constitutionnelle",
-      "desc": "La tension monte en République démocratique du Congo. Plusieurs opposants ont été blessés à Kinshasa lors d'une manifestation contre le projet de réforme constitutionnelle porté par la majorité présidentielle. L'opposition accuse le président Félix Tshisekedi de vouloir ouvrir la voie à un troisième",
-      "date": "2026-06-13T09:17:57",
-      "source": "France 24"
-    },
-    {
-      "title": "Attaques de colons en Cisjordanie occupée : les agriculteurs palestiniens ciblés",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260613-attaques-de-colons-en-cisjordanie-occup%C3%A9e-les-agriculteurs-palestiniens-cibl%C3%A9s",
-      "desc": "Depuis les attentats du 7 octobre 2023, les violences des colons contre les Palestiniens en Cisjordanie ont fortement augmenté. L'ONU a recensé six attaques en moyenne par jour ces derniers mois. Les éleveurs et les agriculteurs sont les principales victimes.",
-      "date": "2026-06-13T08:49:43",
-      "source": "France 24"
     },
     {
       "title": "Les voitures chinoises envahissent les marchés du Moyen-Orient",
@@ -57,13 +71,6 @@
       "link": "https://www.bbc.com/afrique/articles/c4gywdl3l0wo?at_medium=RSS&at_campaign=rss",
       "desc": "Rosana dit que son mari lui tenait des propos très durs chaque fois qu’ils se disputaient, mais elle, elle les prenait à la légère.",
       "date": "2026-06-12T15:01:15",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Qui sont les détenteurs des records de la Coupe du monde ?",
-      "link": "https://www.bbc.com/afrique/articles/c78y945j536o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'équipe Ask Me Anything de BBC Sport examine les détenteurs de records de l'histoire de la Coupe du monde à l'approche du tournoi de 2026",
-      "date": "2026-06-12T12:27:24",
       "source": "BBC Afrique"
     },
     {
@@ -93,13 +100,6 @@
       "desc": "Moins d’argent, moins de prévention, plus de risques. Un nouveau rapport de l’ONU alerte sur les conséquences d’une chute sans précédent de l’aide internationale : recul du dépistage, accès aux traitements fragilisé et programmes de prévention amputés dans les pays les plus touchés. Au point de fair",
       "date": "2026-06-12T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Sept astuces pour mieux manger",
-      "link": "https://www.bbc.com/afrique/articles/cj0grjjvmmpo?at_medium=RSS&at_campaign=rss",
-      "desc": "Et si manger sainement commençait par mieux comprendre nos sens ? Bien avant la première bouchée, notre cerveau juge déjà les aliments à travers leur apparence, leur odeur, leur texture ou encore les sons qui les accompagnent.",
-      "date": "2026-06-12T10:20:48",
-      "source": "BBC Afrique"
     },
     {
       "title": "Prix L’Oréal-UNESCO : cinq chercheuses distinguées pour des avancées majeures en santé et environnement",
