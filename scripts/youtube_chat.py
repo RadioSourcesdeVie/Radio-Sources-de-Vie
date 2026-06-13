@@ -40,8 +40,15 @@ def mettre_en_queue(song_id):
 
 def traiter_commande(auteur, texte):
     texte = texte.strip()
-    if texte.lower().startswith("!request"):
-        recherche = texte[8:].strip()
+    bas = texte.lower()
+    prefixes = ["!request", "request", "!req", "req", "!mizik", "mizik"]
+    prefixe_trouve = None
+    for p in prefixes:
+        if bas.startswith(p):
+            prefixe_trouve = p
+            break
+    if prefixe_trouve:
+        recherche = texte[len(prefixe_trouve):].strip()
         if not recherche:
             print("  " + auteur + " a tape !request sans titre.")
             return
