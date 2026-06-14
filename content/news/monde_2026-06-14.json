@@ -1,34 +1,55 @@
 {
   "category": "monde",
   "date": "2026-06-14",
-  "updated": "2026-06-14T11:00:15.189592Z",
+  "updated": "2026-06-14T16:00:17.153366Z",
   "articles": [
     {
-      "title": "Présidentielle en Colombie : le candidat de la droite dure, Abelardo de la Espriella, donné favori",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-pr%C3%A9sidentielle-en-colombie-le-candidat-de-la-droite-dure-donn%C3%A9-favori-dans-les-sondages",
-      "desc": "La Colombie se prépare à un duel décisif au second tour de la présidentielle qui se tiendra le week-end du 21 juin. Arrivé en tête du 1er tour, le candidat de droite dure Abelardo de la Espriella affrontera le sénateur de gauche Ivan Cepeda.",
-      "date": "2026-06-14T10:40:54",
+      "title": "Pourquoi la vague mexicaine n'est probablement pas mexicaine et pourquoi certaines équipes veulent l'interdire",
+      "link": "https://www.bbc.com/afrique/articles/cwy0j22jllxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Mexico tente de battre le record du monde de la plus grande vague humaine jamais enregistrée.",
+      "date": "2026-06-14T15:41:22",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Début du Mondial, le pape à la Sagrada Familia, xénophobie en Afrique du Sud : la semaine en images",
+      "link": "https://www.france24.com/fr/culture/20260614-en-images-mondial-pape-sagrada-familia-xenophobie-afrique-du-sud-la-semaine-en-images",
+      "desc": "Retour sur les temps forts de l'actualité de la semaine : le coup d'envoi du Mondial 2026 co-organisé par le Mexique, le Canada et les États-Unis, la visite du pape en Espagne ou encore les suites des violences xénophobes qui secouent l'Afrique du Sud.",
+      "date": "2026-06-14T14:39:40",
       "source": "France 24"
     },
     {
-      "title": "Frappes israéliennes incessantes dans le sud du Liban",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-frappes-isra%C3%A9liennes-incessantes-dans-le-sud-du-liban",
-      "desc": "L'armée israélienne a émis dimanche deux ordres d'évacuation visant une trentaine de villages du sud du Liban, avant des frappes prévues contre le Hezbollah pro-iranien, malgré la trêve en vigueur.",
-      "date": "2026-06-14T10:02:08",
+      "title": "Tournoi de sumo à Paris, l'arme lourde du Japon ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-tournoi-de-sumo-%C3%A0-paris-l-arme-lourde-du-japon",
+      "desc": "Trente ans après leur dernière venue en France, les maîtres du sumo débarquent à Paris pour un grand tournoi exhibition, un événement rarissime en dehors du Japon.",
+      "date": "2026-06-14T14:27:23",
       "source": "France 24"
     },
     {
-      "title": "Présidentielle 2027 : en meeting, Glucksmann veut \"ramener la gauche au pouvoir\"",
-      "link": "https://www.france24.com/fr/france/20260614-pr%C3%A9sidentielle-2027-en-meeting-glucksmann-veut-ramener-la-gauche-au-pouvoir",
-      "desc": "Raphaël Glucksmann, ⁠président du ​parti Place publique, a appelé samedi la gauche à ​proposer une alternative crédible en 2027 lors de son premier meeting d'ampleur avant l'élection présidentielle de l'an prochain.",
-      "date": "2026-06-14T09:38:54",
+      "title": "Au Liban, une série de frappes israéliennes sur la banlieue sud de Beyrouth dimanche",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-au-liban-une-s%C3%A9rie-de-frappes-isra%C3%A9liennes-sur-la-banlieue-sud-de-beyrouth-dimanche",
+      "desc": "Israël a frappé la banlieue sud de Beyrouth dimanche pour la deuxième fois en une semaine, ainsi que le sud du Liban, en riposte à des tirs du Hezbollah pro-iranien sur le nord d'Israël.",
+      "date": "2026-06-14T13:18:46",
       "source": "France 24"
     },
     {
-      "title": "RER, métro, tramway : les lignes perturbées si vous visitez Paris cet été",
-      "link": "https://www.france24.com/fr/france/20260614-rer-m%C3%A9tro-tramway-les-lignes-perturb%C3%A9es-si-vous-visitez-paris-cet-%C3%A9t%C3%A9",
-      "desc": "Touristes de passage à Paris ou habitants d’Île-de-France devront composer avec de nombreuses perturbations dans les transports cet été. RER, métro, Transilien, tramway : voici les lignes touchées par les travaux en juillet et en août, et les trajets à anticiper avant de se déplacer.",
-      "date": "2026-06-14T09:27:37",
+      "title": "Une étude britannique suggère que gifler les enfants pourrait entraîner une baisse de leurs résultats aux examens du certificat général",
+      "link": "https://www.bbc.com/afrique/articles/c1wyq4e2q7do?at_medium=RSS&at_campaign=rss",
+      "desc": "Une étude menée par l'University College London indique que la fessée donnée aux enfants « n'apporte absolument aucun bénéfice ».",
+      "date": "2026-06-14T13:00:01",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "\"Adieu mon amour\" : les dernières lettres de fusillés par les nazis enfin remises à leur famille",
+      "link": "https://www.france24.com/fr/europe/20260614-adieu-amour-dernieres-lettres-fusilles-par-nazis-enfin-remises-famille-archives-allemagne-seconde-guerre-mondiale",
+      "desc": "Il aura fallu attendre 80 ans après la fin de la Seconde Guerre mondiale pour que des lettres retrouvées dans les dossiers d'exécution de victimes des persécutions nazies soient enfin lues par leurs proches. Conservées par les archives de Munich, elles n'avaient jamais été remises aux familles. Cert",
+      "date": "2026-06-14T12:56:20",
+      "source": "France 24"
+    },
+    {
+      "title": "Humanoïdes, IA, souveraineté numérique... VivaTech fait son retour sur les Champs Elysées à Paris",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-humano%C3%AFdes-ia-souverainet%C3%A9-num%C3%A9rique-vivatech-fait-son-retour-sur-les-champs-elys%C3%A9es-%C3%A0-paris",
+      "desc": "L'intelligence artificielle, les robots et la souveraineté numérique face aux géants technologiques américains et chinois seront au centre de la 10e édition du salon VivaTech, plus grand événement européen de la tech, qui s'ouvre à Paris mercredi.",
+      "date": "2026-06-14T12:49:14",
       "source": "France 24"
     },
     {
@@ -36,27 +57,6 @@
       "link": "https://www.bbc.com/afrique/articles/cn8qjw4yqypo?at_medium=RSS&at_campaign=rss",
       "desc": "Un groupe de scientifiques de renommée mondiale met en garde la FIFA, estimant que ses mesures actuelles de protection contre la chaleur pour la Coupe du monde masculine de 2026 sont « insuffisantes » et pourraient exposer les joueurs à des risques graves.",
       "date": "2026-06-14T09:12:07",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ebola en RD Congo : comment s'organise la riposte à Bunia, dans la province de l'Ituri ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260614-ebola-en-rd-congo-comment-s-organise-la-riposte-%C3%A0-bunia-dans-la-province-de-l-ituri",
-      "desc": "En RD Congo, l’épidémie d’Ebola continue de se propager dans la province de l’Ituri. À Bunia, l’équipe de riposte tente de tracer les cas contacts pour limiter la propagation du virus.",
-      "date": "2026-06-14T09:04:20",
-      "source": "France 24"
-    },
-    {
-      "title": "La technologie révolutionnaire avec laquelle les scientifiques ont détecté la formation d'un tsunami en temps réel et qui peut sauver des milliers de vies",
-      "link": "https://www.bbc.com/afrique/articles/cwyvwgq1kvqo?at_medium=RSS&at_campaign=rss",
-      "desc": "L’étude des changements atmosphériques provoqués par les tsunamis augmente les espoirs de pouvoir les détecter en haute mer, avant qu’ils n’atteignent une grande altitude et ne frappent les côtes.",
-      "date": "2026-06-13T17:25:31",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Pourquoi la maîtrise du « squat asiatique » est essentielle pour notre santé ?",
-      "link": "https://www.bbc.com/afrique/articles/cr47lqkkgwzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des vidéos montrant des touristes s'essayant à la position accroupie à l'asiatique fleurissent sur Internet, mais selon les experts, l'engouement pour cette posture soulève une question plus large concernant l'importance de conserver une bonne mobilité en vieillissant.",
-      "date": "2026-06-13T15:52:49",
       "source": "BBC Afrique"
     },
     {
