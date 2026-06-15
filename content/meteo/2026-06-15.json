@@ -3,19 +3,19 @@
   "title": "Météo du 15 June 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 12.64,
-    "feels_like": 12.47,
-    "humidity": 96,
-    "description": "Ciel dégagé",
-    "wind_kmh": 13.3
+    "temp": 14.85,
+    "feels_like": 14.77,
+    "humidity": 91,
+    "description": "Peu nuageux",
+    "wind_kmh": 1.6
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 24.26,
-    "feels_like": 24.8,
-    "humidity": 79,
+    "temp": 28.4,
+    "feels_like": 30.45,
+    "humidity": 63,
     "description": "Couvert",
-    "wind_kmh": 4.6
+    "wind_kmh": 7.0
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 15 June 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Ciel dégagé. À Port-au-Prince: 24 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 15 June 2026 sur Radio Sources de Vie. À Ottawa: 15 degrés Celsius. Peu nuageux. À Port-au-Prince: 28 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
