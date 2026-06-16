@@ -1,27 +1,48 @@
 {
   "category": "monde",
   "date": "2026-06-16",
-  "updated": "2026-06-16T09:00:17.346998Z",
+  "updated": "2026-06-16T11:00:14.287298Z",
   "articles": [
     {
-      "title": "Mondial 2026 : les Bleus ouvrent leur compétition face au Sénégal",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260616-mondial-2026-les-bleus-ouvrent-leur-comp%C3%A9tition-face-au-s%C3%A9n%C3%A9gal",
-      "desc": "L’équipe de France fait son entrée en lice dans la Coupe du monde face au Sénégal. Les Bleus veulent éviter un remake du match d’ouverture de la Coupe du monde 2002 (défaite 1-0).",
-      "date": "2026-06-16T08:58:33",
+      "title": "Mondial-2026 : Costinha analyse les Bleus avant le choc contre le Sénégal",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-mondial-2026-costinha-analyse-les-bleus-avant-le-choc-contre-le-s%C3%A9n%C3%A9gal",
+      "desc": "À quelques heures de France-Sénégal, Costinha, ancien milieu de terrain du Portugal et ex-international, revient sur les forces de l’équipe de France au Mondial 2026, le débat autour de son animation offensive et le statut de favori des Bleus dans la compétition.",
+      "date": "2026-06-16T10:32:53",
       "source": "France 24"
     },
     {
-      "title": "L'Iran, l'équipe \"la plus maltraitée\" du Mondial selon son sélectionneur",
-      "link": "https://www.france24.com/fr/sports/20260616-iran-maltraitee-mondial-etats-unis-guerre",
-      "desc": "L'entraîneur iranien Amir Ghalenoei a déclaré lundi que son équipe était \"maltraitée\" en raison de changements à la dernière minute dans les horaires de voyage, dus aux tensions entre l'Iran et les États-Unis. D'après lui, ces mauvaises conditions ont affecté les performances de ses joueurs qui n'on",
-      "date": "2026-06-16T08:47:40",
+      "title": "Qui est Vozinha, le gardien de but capverdien qui a tenu en échec l'Espagne et quels sont ses liens particuliers avec le Brésil?",
+      "link": "https://www.bbc.com/afrique/articles/cvglw2l1jvjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Lors du premier match de la sélection africaine à la Coupe du monde 2026, Vozinha a réalisé de superbes arrêts et a reçu le trophée du meilleur joueur du match ; sur les réseaux sociaux, il a gagné des milliers d'abonnés, principalement brésiliens.",
+      "date": "2026-06-16T10:14:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mondial-2026 : les Bleus entrent en lice contre le Sénégal",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-mondial-2026-les-bleus-entrent-en-lice-contre-le-s%C3%A9n%C3%A9gal",
+      "desc": "C'est le \"D-Day\" dans le New Jersey pour les Bleus, en quête d'une troisième étoile, et qui vont faire leurs débuts dans le tournoi à 21h00 (15h00 locale) avec des retrouvailles corsées face aux Sénégalais qui les avaient battus en ouverture de l'édition 2002.",
+      "date": "2026-06-16T10:00:02",
       "source": "France 24"
     },
     {
-      "title": "Le gardien capverdien Vozinha, héros inattendu du début du Mondial 2026",
-      "link": "https://www.france24.com/fr/sports/20260616-gardien-cap-vert-vozinha-espagne-mondial-historique",
-      "desc": "Les Coupes du monde sont souvent le théâtre d’histoires extraordinaires, et l’édition 2026 tient déjà la sienne. Celle de Vozinha, le gardien du Cap-Vert, qui a largement contribué à l’exploit retentissant lundi de sa sélection face à l’Espagne (0-0). À 40 ans, pour sa première apparition dans la co",
-      "date": "2026-06-16T08:39:24",
+      "title": "Mondial 2026 : France 24 à New York pour couvrir le premier match des Bleus",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260616-france-24-%C3%A0-new-york-pour-couvrir-le-premier-match-des-bleus",
+      "desc": "L'équipe de France, emmenée par sa ligne d'attaque magique Mbappé-Dembélé-Olise, débute son aventure au Mondial-2026 en se frottant au Sénégal. Pour l’occasion, les envoyés spéciaux de France 24 ont fait le déplacement à New York.",
+      "date": "2026-06-16T09:39:58",
+      "source": "France 24"
+    },
+    {
+      "title": "Dans la Syrie post-Assad, les déplacés attendent la reconstruction",
+      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260616-dans-la-syrie-post-assad-les-d%C3%A9plac%C3%A9s-attendent-la-reconstruction",
+      "desc": "La Syrie est particulièrement impactée par la baisse de l’aide humanitaire mondiale, notamment américaine. Dans le nord-ouest du pays, des centaines de milliers de déplacés vivent toujours dans des abris de fortune. A la chute du régime, ils espéraient pouvoir rentrer chez eux. Mais en voyant leurs ",
+      "date": "2026-06-16T09:12:53",
+      "source": "France 24"
+    },
+    {
+      "title": "IA : le choc Anthropic relance la bataille de la souveraineté",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260616-ia-le-choc-anthropic-relance-la-bataille-de-la-souverainet%C3%A9",
+      "desc": "L’interdiction d’accès aux modèles les plus avancés d’Anthropic a créé une onde de choc en Europe. Alors que Paris annonce 655 millions d’euros supplémentaires pour l’intelligence artificielle. L’épisode rappelle la dépendance du continent aux technologies américaines.",
+      "date": "2026-06-16T09:01:01",
       "source": "France 24"
     },
     {
@@ -30,20 +51,6 @@
       "desc": "L'annonce d'un accord avec l'Iran a été un cadeau d'anniversaire bienvenu pour le président, mais son succès ou son échec pourrait bien dépendre des détails.",
       "date": "2026-06-16T08:24:38",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "IA : la France va investir 655 millions d'euros supplémentaires pour accélérer sa \"révolution\"",
-      "link": "https://www.france24.com/fr/france/20260616-ia-la-france-va-investir-655-millions-d-euros-suppl%C3%A9mentaires-pour-acc%C3%A9l%C3%A9rer-sa-r%C3%A9volution",
-      "desc": "À la veille de l'ouverture du salon VivaTech, dédié aux nouvelles technologies, à Paris, le Premier ministre a annoncé mardi un investissement supplémentaire de 655 millions d'euros dans l’intelligence artificielle. Ces fonds doivent notamment renforcer les infrastructures, la recherche, les entrepr",
-      "date": "2026-06-16T06:17:16",
-      "source": "France 24"
-    },
-    {
-      "title": "France-Sénégal 2002 : le jour où les Lions de la Teranga ont fait tomber les champions du monde",
-      "link": "https://www.france24.com/fr/sports/20260616-france-senegal-mondial-2002-victoire-historique-remake",
-      "desc": "Pour la deuxième fois de leur histoire, la France et le Sénégal vont s'affronter mardi en Coupe du monde. Il y a 24 ans, les Lions de la Teranga avaient créé la sensation en Corée du Sud en battant les Bleus, champions du monde et d'Europe en titre.",
-      "date": "2026-06-16T05:01:51",
-      "source": "France 24"
     },
     {
       "title": "Bette Graham, la secrétaire qui a fait fortune parce qu'elle a commis trop d'erreurs",
@@ -65,13 +72,6 @@
       "desc": "De hauts responsables des Nations Unies haussent le ton face à la recrudescence des violences xénophobes en Afrique du Sud. Tandis que le chef de l’OMS dénonce une « trahison tragique » de l’héritage de liberté du pays, le chef des droits de l’homme de l’ONU souligne le rôle de la pauvreté et des in",
       "date": "2026-06-15T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Ce que l'on sait de l'accord de paix entre  les États-Unis et l'Iran et l'annonce par Trump de la réouverture du détroit d'Ormuz",
-      "link": "https://www.bbc.com/afrique/articles/czx5n0gllz2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le Premier ministre pakistanais a annoncé que la signature devrait avoir lieu vendredi prochain en Suisse.",
-      "date": "2026-06-15T07:54:00",
-      "source": "BBC Afrique"
     },
     {
       "title": "De l'exil à la médiation : le combat d'une jeune femme pour la paix en Centrafrique",
