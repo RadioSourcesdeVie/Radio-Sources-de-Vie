@@ -1,8 +1,29 @@
 {
   "category": "monde",
   "date": "2026-06-17",
-  "updated": "2026-06-17T09:00:17.898892Z",
+  "updated": "2026-06-17T11:00:15.591833Z",
   "articles": [
+    {
+      "title": "\"Surréaliste\" : les propriétaires du yacht britannique visé par des tirs de semonce russes témoignent",
+      "link": "https://www.france24.com/fr/europe/20260617-surr%C3%A9aliste-propri%C3%A9taires-yacht-britannique-vis%C3%A9-tirs-semonce-russes-t%C3%A9moignent-manche",
+      "desc": "Le ministère britannique de la Défense a ouvert une enquête mardi, après qu'un navire de guerre russe eut tiré plusieurs coups de semonce alors qu'il naviguait dans la Manche, à proximité d'un yacht immatriculé au Royaume-Uni. Les propriétaires du bateau de plaisance se sont confiés à la BBC, affirm",
+      "date": "2026-06-17T10:02:19",
+      "source": "France 24"
+    },
+    {
+      "title": "Moyen-Orient : Israël continue de frapper le Liban dans le sud du pays",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-moyen-orient-isra%C3%ABl-continue-de-frapper-le-liban-dans-le-sud-du-pays",
+      "desc": "Des frappes israéliennes ont touché le sud du Liban à nouveau dans la région de Nabatiyeh malgré l'accord conclu entre Téhéran et Washington, censé concerner ce front libanais. Une situation qui pourrait mettre en péril l'accord de paix conclu entre les États-Unis et l'Iran qui n'est pas encore offi",
+      "date": "2026-06-17T09:38:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : la France réussit son entrée en lice face au Sénégal",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-mondial-2026-la-france-r%C3%A9ussit-son-entr%C3%A9e-en-lice-face-au-s%C3%A9n%C3%A9gal",
+      "desc": "L'équipe de France s'est rassurée mardi soir pour son premier match de Coupe du monde face au Sénégal. Les Bleus se sont imposés 3-1 avec un doublé de Kylian Mbappé, qui a réveillé ses co-équipiers après une première mi-temps compliquée.",
+      "date": "2026-06-17T09:38:00",
+      "source": "France 24"
+    },
     {
       "title": "France Médias Monde au cœur de VivaTech, rendez-vous de l'innovation",
       "link": "https://www.france24.com/fr/%C3%A9co-tech/20260617-france-m%C3%A9dias-monde-vivatech-rendez-vous-innovation-programme-ia-tech",
@@ -11,39 +32,18 @@
       "source": "France 24"
     },
     {
+      "title": "Le musée du Louvre est à \"bout de souffle\", prévient son président",
+      "link": "https://www.france24.com/fr/culture/20260617-le-mus%C3%A9e-du-louvre-est-%C3%A0-bout-de-souffle-pr%C3%A9vient-son-pr%C3%A9sident",
+      "desc": "Le président du Louvre, Christophe Leribault, alerte sur l'état du plus grand musée du monde, qu'il juge \"à bout de souffle\". Après le vol des joyaux de la Couronne en octobre, les failles de sécurité et les infrastructures vieillissantes sont au cœur de ses préoccupations.",
+      "date": "2026-06-17T08:41:09",
+      "source": "France 24"
+    },
+    {
       "title": "Le cauchemar politique que représente pour Netanyahou l'accord conclu entre les États-Unis et l'Iran",
       "link": "https://www.bbc.com/afrique/articles/ce8ky73k0ypo?at_medium=RSS&at_campaign=rss",
       "desc": "L'accord de cessez-le-feu conclu par Donald Trump avec l'Iran place le Premier ministre israélien face à un nouveau dilemme politique et sécuritaire, écrit la correspondante de la BBC au Moyen-Orient.",
       "date": "2026-06-17T08:38:06",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Espionnage par IA : Vladimir Poutine \"considère Internet comme une menace\"",
-      "link": "https://www.france24.com/fr/europe/20260617-espionnage-ia-vladimir-poutine-consid%C3%A8re-internet-comme-menace",
-      "desc": "Selon le Financial Times, les services de sécurité russes ont temporairement désactivé un système de surveillance dédié à la protection de Vladimir Poutine et son entourage, à la suite de l'assassinat de l'ayatollah Ali Khamenei en février. La raison : ce système favoriserait l'espionnage. Un incide",
-      "date": "2026-06-17T07:41:25",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : l'Autriche vient à bout d'une courageuse Jordanie",
-      "link": "https://www.france24.com/fr/sports/20260617-mondial-2026-autriche-vient-%C3%A0-bout-courageuse-jordanie-ali-olwan",
-      "desc": "L'Autriche a battu la Jordanie (3-1) dans un match serré mais ouvert. La Jordanie a marqué le premier but de son histoire en Coupe du monde, signé par le talentueux Ali Olwan, mais n'a pas réussi à créer la surprise face à une équipe autrichienne sereine.",
-      "date": "2026-06-17T07:23:32",
-      "source": "France 24"
-    },
-    {
-      "title": "Mort de Jeffrey Epstein : \"La thèse du suicide est la plus plausible\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260617-mort-de-jeffrey-epstein-la-th%C3%A8se-du-suicide-est-la-plus-plausible",
-      "desc": "À la Une de la presse ce mercredi 17 juin : la décision des pays du G7 d'intensifier la pression sur la Russie, perçue comme une victoire pour le président Macron, alors que les forces ukrainiennes reprennent la main sur le terrain ; l'assassinat d'un artiste et opposant à Vladimir Poutine en Pologn",
-      "date": "2026-06-17T05:52:04",
-      "source": "France 24"
-    },
-    {
-      "title": "Coupe du monde : démarrage idéal pour Kylian Mbappé et les Bleus",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260617-coupe-monde-d%C3%A9marrage-id%C3%A9al-kylian-mbapp%C3%A9-et-bleus-senegal-norvege-irak-messi-neymar",
-      "desc": "L'équipe de France s'est imposée face au Sénégal pour son entrée en lice dans la Coupe du monde (3-1). Avec un doublé et 58 buts au total, Kylian Mbappé est désormais le meilleur buteur de l'histoire de l'équipe de France.",
-      "date": "2026-06-17T05:34:01",
-      "source": "France 24"
     },
     {
       "title": "Comment les prisons soviétiques ont diffusé un « langage de voleurs » secret, aujourd'hui parlé par des millions de personnes",
