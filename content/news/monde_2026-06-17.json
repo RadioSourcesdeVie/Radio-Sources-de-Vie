@@ -1,34 +1,41 @@
 {
   "category": "monde",
   "date": "2026-06-17",
-  "updated": "2026-06-17T16:00:17.662948Z",
+  "updated": "2026-06-17T21:00:15.623394Z",
   "articles": [
     {
-      "title": "Guerre au Moyen-Orient : un accord qui vaut des milliards de dollars pour Téhéran",
-      "link": "https://www.france24.com/fr/moyen-orient/20260617-guerre-moyen-orient-accord-vaut-milliards-dollars-pour-t%C3%A9h%C3%A9ran",
-      "desc": "Le détail du protocole d’entente signé par les États-Unis et l’Iran a été dévoilé par plusieurs médias. À quelques jours de la signature officielle de ce document qui doit servir de feuille de route pour les négociations de paix, ce texte semble aller dans le sens de l’Iran. Surtout d’un point de vu",
-      "date": "2026-06-17T15:54:16",
+      "title": "\"Biolabs\" en Ukraine : Tulsi Gabbard relance la rumeur",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20260617-biolabs-en-ukraine-tulsi-gabbard-relance-la-rumeur",
+      "desc": "Tulsi Gabbard, la directrice démissionnaire du renseignement américain l’assure : l’Ukraine possède des laboratoires de recherche biologique dangereux. Elle affirme avoir déclassifié des documents qui en confirment l'existence. Sauf qu'ils ne prouvent rien. De quoi relancer une rumeur propagée par l",
+      "date": "2026-06-17T20:06:23",
       "source": "France 24"
     },
     {
-      "title": "IA, Iran, Ukraine : Emmanuel Macron fait le bilan du G7",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-ia-iran-ukraine-emmanuel-macron-fait-le-bilan-du-g7",
-      "desc": "Le président français Emmanuel Macron s'est félicité ce mercredi d'un \"succès\" et d'un \"moment d'unité\" au sommet du G7 qui s'est tenu à Évian-les-Bains, après des mois de \"désaccords\". Regardez sa prise de parole en replay.",
-      "date": "2026-06-17T15:42:56",
+      "title": "Le concert de LFI pour la Fête de la musique interdit par la préfecture de police de Paris",
+      "link": "https://www.france24.com/fr/france/20260617-concert-lfi-f%C3%AAte-musique-interdit-pr%C3%A9fecture-police-paris-r%C3%A9publique",
+      "desc": "Le préfet de police de Paris a interdit mercredi le concert gratuit organisé dimanche prochain par La France insoumise à l'occasion de la Fête de la musique, invoquant notamment la participation du Comité Adama, de sa fondatrice Assa Traoré et du rappeur Médine. Le parti a immédiatement annoncé un r",
+      "date": "2026-06-17T19:44:50",
       "source": "France 24"
     },
     {
-      "title": "Cisjordanie occupée : deux mosquées incendiées par des colons israéliens",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260617-cisjordanie-occup%C3%A9e-deux-mosqu%C3%A9es-incendi%C3%A9es-par-des-colons-isra%C3%A9liens",
-      "desc": "Dans la nuit, deux mosquées ont été visées par des attaques attribuées à des colons israéliens.Les lieux de culte palestiniens sont devenus des cibles récurrentes d’attaques menées par des colons israéliens, alors que la présence de ceux-ci continue de s’étendre en Cisjordanie occupée. À l’extérieur",
-      "date": "2026-06-17T15:04:48",
+      "title": "Ce que contient l'accord négocié entre l'Iran et les États-Unis",
+      "link": "https://www.france24.com/fr/moyen-orient/20260617-ce-que-contient-accord-n%C3%A9goci%C3%A9-entre-iran-%C3%A9tats-unis",
+      "desc": "Les États-Unis ont dévoilé mercredi le texte du protocole d'accord conclu avec l'Iran, avant la signature officielle du document prévue vendredi. Dans ces quatorze points, Téhéran s'engage notamment, a minima, à diluer ses stocks d'uranium enrichi dans le cadre de négociations à mener sous 60 jours.",
+      "date": "2026-06-17T19:24:49",
       "source": "France 24"
     },
     {
-      "title": "Mondial 2026 : la Croatie espère jouer un nouveau tour à l’Angleterre",
-      "link": "https://www.france24.com/fr/sports/20260617-mondial-2026-croatie-angleterre-jouer-tour-2018-revanche",
-      "desc": "Le groupe L de la Coupe du monde s’ouvre avec une affiche alléchante : Angleterre - Croatie. Les deux sélections s’étaient affrontées lors de la demi-finale du Mondial 2018, qui s’était soldée par une victoire des coéquipiers de Luka Modric en prolongation. Les Three Lions auront à cœur de faire oub",
-      "date": "2026-06-17T14:53:44",
+      "title": "Angleterre - Croatie en direct : les équipes dos à dos, suivez la 2e mi-temps",
+      "link": "https://www.france24.com/fr/sports/20260617-angleterre-croatie-live-direct-coupe-monde",
+      "desc": "L'Angleterre d'Harry Kane affronte la Croatie de Luka Modric dans le groupe L de la Coupe du monde. Qui des Three Lions ou des Vatreni va l'emporter ? Suivez le match en direct grâce à notre live commenté.",
+      "date": "2026-06-17T19:00:07",
+      "source": "France 24"
+    },
+    {
+      "title": "Coupe du monde : la RD Congo écrit son histoire en tenant en échec le Portugal et Ronaldo",
+      "link": "https://www.france24.com/fr/sports/20260617-coupe-monde-rd-congo-portugal-ronaldo",
+      "desc": "",
+      "date": "2026-06-17T18:59:24",
       "source": "France 24"
     },
     {
@@ -39,16 +46,37 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Russie, IA, \"confiance\" en Trump... Ce qu'il faut retenir du discours de Macron en clôture du G7",
-      "link": "https://www.france24.com/fr/europe/20260617-en-direct-suivez-discours-cl%C3%B4ture-sommet-g7-emmanuel-macron-donald-trump",
-      "desc": "Lors d'une conférence de presse de clôture mercredi, au dernier jour du sommet du G7 organisé en France, Emmanuel Macron a notamment évoqué une \"remobilisation\" du Groupe des sept \"extrêmement importante\" pour accroître la pression sur la Russie. Il a également appelé à \"mieux réguler\" l'intelligenc",
-      "date": "2026-06-17T14:30:48",
-      "source": "France 24"
+      "title": "Désertification : les pâturages, ces écosystèmes oubliés dont dépend une personne sur quatre",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159011",
+      "desc": "Lorsqu'il est question de protéger la planète, les regards se tournent volontiers vers l'Amazonie, les récifs coralliens ou les glaciers. Bien plus rarement vers les vastes étendues d'herbes qui couvrent pourtant la moitié des terres émergées.",
+      "date": "2026-06-17T12:00:00",
+      "source": "ONU Info"
     },
     {
-      "title": "EN DIRECT - Débat au Conseil de sécurité sur les femmes et la paix",
+      "title": "Liban : l’ONU s’inquiète d’une reprise des violences dans le sud",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159006",
+      "desc": "Malgré une baisse relative de l’intensité des combats dans le sud du Liban, les Casques bleus de la Force intérimaire des Nations Unies dans ce pays, la FINUL, continuent d’observer d’importantes activités militaires israéliennes dans leur zone d’opérations, a indiqué mercredi l’ONU.",
+      "date": "2026-06-17T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L’ONU alerte sur une aggravation de la faim dans 13 pays",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159005",
+      "desc": "Les crises alimentaires risquent de s’aggraver dans plusieurs régions du monde au cours des prochains mois, prévient l’ONU dans un nouveau rapport publié mercredi.",
+      "date": "2026-06-17T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Trente ans après le traité d'Ottawa, l’ONU met en garde contre un retour des mines antipersonnel",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159007",
+      "desc": "Près de trente ans après l’adoption de la Convention d’Ottawa sur l'interdiction des mines antipersonnel, l’ONU s’inquiète d’un affaiblissement de l’engagement international contre ces engins qui continuent de tuer et de mutiler des civils bien après la fin des conflits.&nbsp;",
+      "date": "2026-06-17T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Les femmes : premières à payer le prix de la guerre, dernières à négocier la paix",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1159008",
-      "desc": "Le Conseil de sécurité organise, mercredi matin, un débat sur les femmes, la paix et la sécurité internationale, en présence de Sima Sami Bahous, la directrice d’ONU Femmes, Leymah Gbowee, prix Nobel de la paix et présidente de la fondation Gbowee Peace Foundation-Africa (GPFA), et Kaavya Asoka, dir",
+      "desc": "Les femmes sont partout dans les conflits : parmi les personnes déplacées, les victimes de violences sexuelles, les responsables d'associations qui distribuent l'aide ou tentent de maintenir un semblant de cohésion sociale. Mais lorsqu'il s'agit de négocier la paix, elles sont mises sur la touche.",
       "date": "2026-06-17T12:00:00",
       "source": "ONU Info"
     },
@@ -67,37 +95,9 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Haïti : la nouvelle force anti-gangs entend reprendre le contrôle de Port-au-Prince",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159004",
-      "desc": "Sur le boulevard du 15 Octobre, dans l'est de Port-au-Prince, les « tap-tap », ces taxi collectifs chamarrés emblématiques d’Haïti, circulent entre les étals de fruits et les échoppes de fortune. Une foule de passants se presse le long de cette artère animée de la capitale haïtienne.&nbsp;",
-      "date": "2026-06-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "La production de poisson atteint un nouveau sommet, mais des menaces se profilent",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159003",
-      "desc": "L'aquaculture fournit désormais la majeure partie du poisson consommé, révèle un rapport majeur de la FAO, mais la hausse des températures et la surpêche menacent l'avenir du secteur.",
-      "date": "2026-06-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Sécheresse, chaleur, canicule : l’enfance sous pression",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1158998",
-      "desc": "Les sécheresses, les chaleurs extrêmes et les vagues de chaleur, qui constituent la combinaison d’aléas la plus répandue, mettent en danger des millions d’enfants à travers le monde, selon le dernier rapport de l’UNICEF sur le climat publié mardi.",
-      "date": "2026-06-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Liban : le calme revient, mais la prudence reste de mise",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159002",
-      "desc": "Depuis l’annonce ce week-end d’un accord entre les Etats-Unis et l’Iran pour mettre fin au conflit qui les oppose, la violence a nettement diminué dans le sud du Liban, où s’affrontent Israël et le Hezbollah pro-iranien, mais les violations de l’espace aérien et les échanges de tirs se poursuivent, ",
-      "date": "2026-06-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Portugal - RD Congo : Coupe du monde 2026 - Groupe K",
+      "title": "Portugal 1 - 1 RD Congo : Coupe du monde 2026 - Groupe K",
       "link": "https://www.bbc.co.uk/afrique/live/cn941zgr78yt?at_medium=RSS&at_campaign=rss",
-      "desc": "Suivez le commentaire du match Portugal - RD Congo de la Coupe du Monde 2026. Le Score, les buts, les temps forts, les analyses et les réactions du premier match du Groupe K.",
+      "desc": "Revivez le commentaire du match Portugal - RD Congo de la Coupe du Monde 2026. Le Score, les buts, les temps forts, les analyses et les réactions du premier match du Groupe K.",
       "date": "",
       "source": "BBC Afrique"
     },
