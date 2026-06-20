@@ -1,69 +1,76 @@
 {
   "category": "monde",
   "date": "2026-06-20",
-  "updated": "2026-06-20T11:00:15.254427Z",
+  "updated": "2026-06-20T16:00:17.442308Z",
   "articles": [
     {
-      "title": "Marc Trévidic livre un diagnostic sans concession sur la justice française",
-      "link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20260620-marc-tr%C3%A9vidic-livre-un-diagnostic-sans-concession-sur-la-justice-fran%C3%A7aise",
-      "desc": "Toutes les semaines, Judith Grimaldi reçoit un invité dans son émission \"Avec Judith\". Cette fois-ci, c'est Marc Trévidic, ancien juge antiterroriste et magistrat à la cour d’appel de Versailles, livre un regard sans concession sur l’état de la justice française. Entre protection de l’enfance, monté",
-      "date": "2026-06-20T10:46:12",
+      "title": "Le système Epstein et les ramifications françaises : \"Society\" enquête sur le milliardaire américain",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260620-le-syst%C3%A8me-epstein-et-les-ramifications-fran%C3%A7aises-society-enqu%C3%AAte-sur-le-milliardaire-am%C3%A9ricain",
+      "desc": "Dans votre magazine cette semaine, on s'intéresse à cet ouvrage : \"Epstein, ce que vous n'avez jamais lu\".\n \nUne enquête signée Frédéric Mansuy et Emmanuelle Andreani,\n \nElle est co-rédactrice en chef chez \"Society\" et notre invitée dans cette édition.",
+      "date": "2026-06-20T15:48:13",
       "source": "France 24"
     },
     {
-      "title": "En Ukraine, l'essor des drones intercepteurs",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-en-ukraine-l-essor-des-drones-intercepteurs",
-      "desc": "Ces quatre dernières années, l'Ukraine s'est adaptée aux menaces et aux attaques russes. Depuis un an, Kiev déploie une nouvelle arme redoutable : le drone intercepteur, un petit engin kamikaze qui coûte à peine plus de 2 000 euros. Une technologie que le pays propose à présent à ses alliés, des Éta",
-      "date": "2026-06-20T10:36:42",
+      "title": "Reprise des frappes au Liban : \"Israël utilise le Hezbollah comme variable d'ajustement\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-reprise-des-frappes-au-liban-isra%C3%ABl-utilise-le-hezbollah-comme-variable-d-ajustement",
+      "desc": "Les frappes ont repris au Liban malgré un cessez-le-feu signé entre le Hezbollah et Israël. En réaction, l'Iran a annoncé \"fermer\" à nouveau le détroit d'Ormuz. Nous en parlons avec notre chroniqueur Gauthier Rybinski. \"Les Américains voulaient tellement avoir un accord, et notamment Donald Trump po",
+      "date": "2026-06-20T15:24:27",
       "source": "France 24"
+    },
+    {
+      "title": "Le détroit d'Ormuz à nouveau fermé : l'accord entre Téhéran et Washington compromis ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-le-d%C3%A9troit-d-ormuz-a-nouveau-ferm%C3%A9-l-accord-entre-t%C3%A9h%C3%A9ran-et-washington-compromis",
+      "desc": "L'armée américaine a dit rester \"vigilante\" samedi 20 juin pour appliquer l'accord de cessez-le-feu avec l'Iran, après l'annonce par Téhéran de la nouvelle fermeture du détroit d'Ormuz en représailles aux frappes israéliennes au Liban. Nous en parlons avec notre correspondant à Washington Matthieu M",
+      "date": "2026-06-20T15:23:00",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment les gens vivent avec l'ours le plus meurtrier au monde",
+      "link": "https://www.bbc.com/afrique/articles/czr6y4v8re2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les ours lippus sont les ours les plus dangereux au monde. À mesure que leur habitat se réduit, les communautés forestières indiennes trouvent des moyens de cohabiter avec eux.",
+      "date": "2026-06-20T15:22:18",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L'Iran dit \"fermer\" à nouveau Ormuz en représailles aux attaques israéliennes au Liban",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-l-iran-dit-fermer-%C3%A0-nouveau-ormuz-en-repr%C3%A9sailles-aux-attaques-isra%C3%A9liennes-au-liban",
+      "desc": "L'Iran a annoncé samedi \"fermer\" à nouveau le stratégique détroit d'Ormuz, en représailles aux meurtrières attaques israéliennes au Liban qui violent, selon lui, les termes de son protocole d'accord avec les États-Unis en vue de la fin du conflit au Moyen-Orient. Nous en parlons avec notre correspon",
+      "date": "2026-06-20T14:53:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Canicule : la Fête de la musique va-t-elle être annulée ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-canicule-la-f%C3%AAte-de-la-musique-va-t-elle-%C3%AAtre-annul%C3%A9e",
+      "desc": "À Nanterre déjà, la Fête de la musique a été annulée. Alors que la température va monter à 36 degrés ce dimanche, elle est pour l'instant maintenue à Paris.",
+      "date": "2026-06-20T14:52:17",
+      "source": "France 24"
+    },
+    {
+      "title": "Le pénis peut révéler votre état de santé : voici les signaux à surveiller",
+      "link": "https://www.bbc.com/afrique/articles/cq619y5mvm7o?at_medium=RSS&at_campaign=rss",
+      "desc": "Longtemps considérés comme un simple problème lié à la vie sexuelle, les troubles de l’érection pourraient en réalité être un indicateur précoce de l’état de santé général des hommes. Touchant une grande partie des hommes de plus de 40 ans, ces troubles restent pourtant largement sous-déclarés en ra",
+      "date": "2026-06-20T13:22:27",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Rituels et prières : les supporters recherchent une intervention spirituelle pour leur équipe à la Coupe du monde",
+      "link": "https://www.bbc.com/afrique/articles/c17y5vq2w1wo?at_medium=RSS&at_campaign=rss",
+      "desc": "Comment les supporters utilisent les rituels, la prière et la religion pour aider leurs équipes à remporter la victoire.",
+      "date": "2026-06-20T12:11:29",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "À Kampala, le basket redonne espoir aux réfugiés congolais",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159023",
+      "desc": "Lorsque Stéphane Kulimushi, âgé de 19 ans, observe le terrain de basket de Kampala où il entraîne de jeunes réfugiés, il voit bien plus que de simples joueurs.",
+      "date": "2026-06-20T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Qu'est-ce que l'Iran et les États-Unis tirent de cet accord et pourquoi les deux parties pourraient avoir du mal à le respecter ?",
       "link": "https://www.bbc.com/afrique/articles/clyegrm8n76o?at_medium=RSS&at_campaign=rss",
       "desc": "L'Iran sort du premier chapitre de la guerre plus fort que ce à quoi beaucoup s'attendaient, mais son prochain défi pourrait être plus difficile, écrit Amir Azimi du service persan de la BBC.",
       "date": "2026-06-20T10:08:32",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Mondial 2026 : les Allemands déçus par le prix de la bière",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-mondial-2026-les-allemands-d%C3%A9%C3%A7us-par-le-prix-de-la-bi%C3%A8re",
-      "desc": "Les supporters allemands ne plaisantent pas avec la bière : les spectateurs de la Coupe du Monde trouvent les prix bien trop élevés. \"La bière est essentielle dans la vie !\", souligne l'un d'entre eux.",
-      "date": "2026-06-20T09:48:23",
-      "source": "France 24"
-    },
-    {
-      "title": "L'Europe frappée par sa seconde canicule, aggravation ce week-end",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-l-europe-frapp%C3%A9e-par-sa-seconde-canicule-aggravation-ce-week-end",
-      "desc": "L'été démarre de façon extrême pour des dizaines de millions d'Européens, avec une nouvelle vague de canicule liée au changement climatique qui frappe vendredi le Vieux Continent, de l'Espagne au Royaume-Uni, et va s'accentuer ce week-end, notamment en France.",
-      "date": "2026-06-20T09:47:31",
-      "source": "France 24"
-    },
-    {
-      "title": "Colère de l'Italie après des critiques attribuées à Trump contre Meloni",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260620-col%C3%A8re-de-l-italie-apr%C3%A8s-des-critiques-attribu%C3%A9es-%C3%A0-trump-contre-meloni",
-      "desc": "L'Italie a vivement réagi vendredi 19 juin aux critiques du président américain Donald Trump contre la Première ministre Giorgia Meloni rapportées dans les médias, son chef de la diplomatie annulant sa visite aux États-Unis.",
-      "date": "2026-06-20T09:46:17",
-      "source": "France 24"
-    },
-    {
-      "title": "« L'architecte de Dieu » : c'est ainsi que Gaudí imaginait la Sagrada Familia, la plus haute église du monde et une merveille d'ingénierie",
-      "link": "https://www.bbc.com/afrique/articles/c8x2qgdwzepo?at_medium=RSS&at_campaign=rss",
-      "desc": "La conception des arches centenaires qui a inspiré Antoni Gaudí pour la Sagrada Familia de Barcelone confère à cette église une hauteur inégalée au monde.",
-      "date": "2026-06-19T16:49:47",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Le plus grand exploit de l'humanité en matière d'exploration » : le vaisseau spatial qui a bouleversé notre vision du système solaire",
-      "link": "https://www.bbc.com/afrique/articles/crelwnnpwq9o?at_medium=RSS&at_campaign=rss",
-      "desc": "Près de 50 ans après son lancement, l'une des sondes jumelles Voyager est sur le point d'atteindre une distance d'un jour-lumière de nous et continue de transmettre de précieuses données.",
-      "date": "2026-06-19T14:47:23",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Coupe du monde 2026 : quel bilan pour les dix équipes africaines après la première journée ?",
-      "link": "https://www.bbc.com/afrique/articles/cddl26ge4zgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Deux victoires, quatre matchs nuls et quatre défaites : les dix représentants africains engagés à la Coupe du monde 2026 ont connu une première journée contrastée.",
-      "date": "2026-06-19T14:03:01",
       "source": "BBC Afrique"
     },
     {
@@ -98,13 +105,6 @@
       "title": "RDC : la peur d’Ebola éloigne les femmes enceintes des hôpitaux",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1159021",
       "desc": "Le virus tue. La peur aussi. En République démocratique du Congo (RDC), de plus en plus de femmes enceintes évitent les centres de santé par crainte d’Ebola. L’agence de l’ONU en charge des questions de santé sexuelle et reproductive (UNFPA) redoute une crise silencieuse : celle des mères et des nou",
-      "date": "2026-06-19T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Un enfant tué par jour à Gaza : le cessez-le-feu, « une illusion cruelle et meurtrière »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159020",
-      "desc": "Présenté depuis des mois comme un temps de répit, le cessez-le-feu en vigueur à Gaza n’a pas mis fin aux morts d’enfants. Depuis son annonce en octobre 2025, 265 enfants palestiniens ont été tués dans l’ensemble de l'enclave, a déploré vendredi une agence des Nations Unies, qualifiant cette trêve « ",
       "date": "2026-06-19T12:00:00",
       "source": "ONU Info"
     }
