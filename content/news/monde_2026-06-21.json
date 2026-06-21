@@ -1,41 +1,48 @@
 {
   "category": "monde",
   "date": "2026-06-21",
-  "updated": "2026-06-21T09:00:16.376916Z",
+  "updated": "2026-06-21T11:00:14.784167Z",
   "articles": [
     {
-      "title": "Les négociations entre l'Iran et les États-Unis vont démarrer en Suisse",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260621-les-n%C3%A9gociations-entre-l-iran-et-les-%C3%A9tats-unis-vont-d%C3%A9marrer-en-suisse",
-      "desc": "Les discussions entre les États-Unis et l'Iran pour trouver une paix durable au Moyen-Orient doivent débuter dimanche matin dans un hôtel de luxe des Alpes suisses, quatre jours après la signature d'un protocole d'accord, déjà malmené, pour mettre fin aux hostilités.",
-      "date": "2026-06-21T08:40:36",
+      "title": "Mondial 2026 : face à la Norvège, le Sénégal veut faire oublier la défaite et les polémiques",
+      "link": "https://www.france24.com/fr/sports/20260621-mondial-2026-senegal-defaite-polemiques",
+      "desc": "Battu d'entrée par l'équipe de France, le Sénégal doit se relancer lors de son deuxième match contre la Norvège. Primes non payées, contrat du sélectionneur en suspens, camp de base critiqué… Les problèmes s'accumulent, mais il faut aussi composer avec les polémiques qui se sont multipliées en plein",
+      "date": "2026-06-21T10:52:52",
       "source": "France 24"
     },
     {
-      "title": "Présidentielle en Colombie : qui est le candidat de gauche Ivan Cepeda ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260621-pr%C3%A9sidentielle-en-colombie-qui-est-le-candidat-de-gauche-ivan-cepeda",
-      "desc": "Le sénateur Ivan Cepeda, 63 ans, bénéficie de la popularité de l'allié Petro, notamment parmi les classes populaires reconnaissantes pour la réduction de la pauvreté, les salaires plus élevés et une baisse du chômage dans l'un des pays les plus inégalitaires au monde. Le philosophe et défenseur des ",
-      "date": "2026-06-21T08:26:23",
+      "title": "Les Bleus, une équipe de France \"pas si française\", une polémique vieille comme le foot",
+      "link": "https://www.france24.com/fr/sports/20260621-bleus-pas-francais-racisme-equipe-mondial",
+      "desc": "L'équipe de France est régulièrement pointée du doigt par certains observateurs qui jugent qu'en raison du nombre de joueurs d'origine africaine qui la composent, elle ne serait pas \"assez française\". Une polémique qui n'a rien de neuf, la sélection nationale étant, depuis ses débuts, la cible d'att",
+      "date": "2026-06-21T10:49:00",
       "source": "France 24"
     },
     {
-      "title": "NTG : le parlement européen autorise les \"nouveaux OGM\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260621-ntg-le-parlement-europ%C3%A9en-autorise-les-nouveaux-ogm",
-      "desc": "Un règlement sur de nouvelles techniques de modifications génétiques des plantes, dites NTG, a été adopté au Parlement européen ce mercredi. \"On va permettre à des multinationales de commercialiser sur le marché européen des plantes OGM sans aucune traçabilité. Les agriculteurs ne sauront pas qu'ils",
-      "date": "2026-06-21T08:22:53",
+      "title": "La distribution de carburant suspendue en Crimée après une attaque ukrainienne de drones",
+      "link": "https://www.france24.com/fr/europe/20260621-russie-distribution-carburant-suspendue-en-crim%C3%A9e-apr%C3%A8s-attaque-ukraine-drones",
+      "desc": "La Crimée a été visée samedi par une nouvelle attaque de drones ukrainiens qui a fait cinq morts et endommagé plusieurs infrastructures énergétiques. La distribution de carburant a été interrompue dans les stations-services et une partie de la péninsule a été privée d'électricité. L'attaque répond à",
+      "date": "2026-06-21T09:59:32",
       "source": "France 24"
     },
     {
-      "title": "🔴 En direct : les médiateurs pakistanais et J.D. Vance en Suisse pour des pourparlers avec l'Iran",
-      "link": "https://www.france24.com/fr/moyen-orient/20260621-en-direct-le-vice-pr%C3%A9sident-am%C3%A9ricain-j-d-vance-arrive-en-suisse-pour-des-pourparlers-avec-l-iran",
-      "desc": "",
-      "date": "2026-06-21T08:14:24",
+      "title": "Mondial 2026 : faux espoir pour la Côte d'Ivoire, rattrapée par l'Allemagne",
+      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260621-mondial-2026-faux-espoir-pour-la-c%C3%B4te-d-ivoire-rattrap%C3%A9e-par-l-allemagne",
+      "desc": "Après avoir ouvert le score grâce à Franck Kessié, les Éléphants de Côte d'Ivoire ont laissé l'Allemagne repasser devant. Une seconde victoire pour la Mannschaft qui lui garantit aussi un retour en phase finale du tournoi, une première depuis 2014. Malgré la défaite, les Éléphants gardent une chance",
+      "date": "2026-06-21T09:45:05",
       "source": "France 24"
     },
     {
-      "title": "Fête de la musique : l'alcool interdit dans les départements en vigilance rouge canicule",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260621-f%C3%AAte-de-la-musique-l-alcool-interdit-dans-les-d%C3%A9partements-en-vigilance-rouge-canicule",
-      "desc": "La consommation d'alcool pour la Fête de la musique dimanche sera interdite sur la voie publique dans les 35 départements placés en vigilance rouge canicule et \"consigne est donnée\" de ne pas en proposer dans les évènements organisés par l'État, a annoncé samedi le gouvernement.",
-      "date": "2026-06-21T07:30:43",
+      "title": "Pourquoi l'Iran considère son accord avec les États-Unis comme une victoire",
+      "link": "https://www.bbc.com/afrique/articles/c862j7z9dpeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Pour de nombreux Iraniens, la question n'est pas de savoir si cet accord est synonyme de victoire, mais s'il permet d'atténuer la crise économique et de réduire la crainte d'une nouvelle guerre.",
+      "date": "2026-06-21T09:13:05",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Un journaliste d'Al Jazeera tué à Gaza dans une frappe israélienne",
+      "link": "https://www.france24.com/fr/moyen-orient/20260621-journaliste-al-jazeera-tu%C3%A9-%C3%A0-gaza-frappe-israel",
+      "desc": "Un journaliste d'Al Jazeera a été tué dans la bande de Gaza par une frappe israélienne, a annoncé la chaîne samedi, portant à 12 le nombre de ses employés tués depuis le début de la guerre en octobre 2023. La chaîne d'information qatarie a dénoncé dans un communiqué un \"meurtre délibéré\" commis par ",
+      "date": "2026-06-21T09:05:50",
       "source": "France 24"
     },
     {
@@ -50,13 +57,6 @@
       "link": "https://www.bbc.com/afrique/articles/cq619y5mvm7o?at_medium=RSS&at_campaign=rss",
       "desc": "Longtemps considérés comme un simple problème lié à la vie sexuelle, les troubles de l’érection pourraient en réalité être un indicateur précoce de l’état de santé général des hommes. Touchant une grande partie des hommes de plus de 40 ans, ces troubles restent pourtant largement sous-déclarés en ra",
       "date": "2026-06-20T13:22:27",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Rituels et prières : les supporters recherchent une intervention spirituelle pour leur équipe à la Coupe du monde",
-      "link": "https://www.bbc.com/afrique/articles/c17y5vq2w1wo?at_medium=RSS&at_campaign=rss",
-      "desc": "Comment les supporters utilisent les rituels, la prière et la religion pour aider leurs équipes à remporter la victoire.",
-      "date": "2026-06-20T12:11:29",
       "source": "BBC Afrique"
     },
     {
