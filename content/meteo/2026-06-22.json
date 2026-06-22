@@ -1,5 +1,6 @@
 {
-  "updated": "2026-06-22T09:00:02.275529Z",
+  "date": "2026-06-22",
+  "title": "Météo du 22 June 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 14.38,
@@ -15,5 +16,6 @@
     "humidity": 74,
     "description": "Peu nuageux",
     "wind_kmh": 8.5
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 22 June 2026 sur Radio Sources de Vie. À Ottawa: 14 degrés Celsius. Couvert. À Port-au-Prince: 25 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
 }
