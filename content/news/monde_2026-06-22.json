@@ -1,35 +1,49 @@
 {
   "category": "monde",
   "date": "2026-06-22",
-  "updated": "2026-06-22T09:00:17.057625Z",
+  "updated": "2026-06-22T11:00:16.191211Z",
   "articles": [
     {
-      "title": "Congé maternité en Inde : une avancée illusoire",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260622-cong%C3%A9-maternit%C3%A9-en-inde-une-avanc%C3%A9e-illusoire",
-      "desc": "En 2025, la Cour suprême indienne a déclaré que le congé maternité constitue un droit fondamental pour toutes les femmes actives. L’Inde figure parmi les pays au monde où les femmes ont droit à 26 semaines de congé maternité rémunéré, applicable pour un maximum de deux enfants. Mais il reste encore ",
-      "date": "2026-06-22T08:42:19",
+      "title": "Royaume-Uni : Le Premier ministre Keir Starmer démissionne",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-royaume-uni-le-premier-ministre-keir-starmer-d%C3%A9missionne",
+      "desc": "Après plusieurs jours despéculations, le premier ministre Keir Starmer a annoncé qu'il allait démissionner. Il était notamment tenu responsable de la déroute historique de son parti aux élections locales début mai, qui avaient profité au parti d’extrême droite Reform UK. Il a précisé qu'il resterait",
+      "date": "2026-06-22T10:31:36",
       "source": "France 24"
     },
     {
-      "title": "Mondial 2026 : l'Algérie et la Jordanie jouent leur survie",
-      "link": "https://www.france24.com/fr/sports/20260622-mondial-2026-alg%C3%A9rie-et-la-jordanie-jouent-leur-survie",
-      "desc": "L'Algérie et la Jordanie s'affrontent mardi matin à San Francisco dans une rencontre qui pourrait être fatale pour le perdant. Les deux équipes ayant perdu leur premier match de poules, contre l'Argentine et l'Autriche respectivement, seuls un nul ou une victoire assureraient la survie dans ce group",
-      "date": "2026-06-22T08:41:49",
+      "title": "Royaume-Uni : le Premier ministre Keir Starmer annonce sa démission",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-royaume-uni-le-premier-ministre-keir-starmer-annonce-sa-d%C3%A9mission",
+      "desc": "Moins de deux ans après son arrivée au pouvoir, le Premier ministre travailliste Keir Starmer a annoncé lundi sa démission après des mois de pression, précisant qu'il resterait en poste jusqu'à la désignation de son successeur à la tête du Labour.",
+      "date": "2026-06-22T09:53:12",
       "source": "France 24"
     },
     {
-      "title": "Le Premier ministre britannique Keir Starmer annonce sa démission",
-      "link": "https://www.france24.com/fr/europe/20260622-en-direct-le-premier-ministre-britannique-keir-starmer-annonce-sa-d%C3%A9mission",
-      "desc": "",
-      "date": "2026-06-22T08:39:27",
+      "title": "Guerre au Moyen-Orient : fin du premier cycle des pourparlers États-Unis/Iran en Suisse",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-guerre-au-moyen-orient-fin-du-premier-cycle-des-pourparlers-%C3%A9tats-unis-iran-en-suisse",
+      "desc": "⁠Un premier cycle de pourparlers ⁠de paix entre les ​Etats-Unis et l'Iran s'est achevé lundi en Suisse, ont rapporté des médiateurs, après un démarrage tendu ​marqué par des menaces de part et d'autre.",
+      "date": "2026-06-22T09:50:29",
       "source": "France 24"
     },
     {
-      "title": "En direct : le Premier ministre britannique Keir Starmer annonce sa démission",
-      "link": "https://www.france24.com/fr/europe/20260622-en-direct-le-premier-ministre-britannique-keir-starmer-annonce-sa-d%C3%A9mission",
-      "desc": "Sur la sellette depuis plusieurs semaines, le Premier ministre britannique Keir Starmer a finalement annoncé lundi sa démission. Le Royaume-Uni va donc connaître son septième Premier ministre en dix ans, une instabilité sans précédent dans l'histoire moderne de ce pays. Suivez en dire la situation p",
-      "date": "2026-06-22T08:38:14",
+      "title": "Liban : des habitants inspectent les dégâts à Nabatiyé",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-liban-des-habitants-inspectent-les-d%C3%A9g%C3%A2ts-%C3%A0-nabatiy%C3%A9",
+      "desc": "\"Nabatiyé est une ville dévastée\", déclare Mohammed Salloum, un habitant venu inspecter son magasin endommagé, après qu'Israël a ordonné à ses forces de cesser les combats dans le sud du Liban. \"La ville reprendra vie dans deux ou trois mois après cette catastrophe, mais le plus important, c'est que",
+      "date": "2026-06-22T09:49:43",
       "source": "France 24"
+    },
+    {
+      "title": "Colombie : le candidat de droite De La Espriella remporte la présidentielle",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260622-colombie-le-candidat-de-droite-de-la-espriella-remporte-la-pr%C3%A9sidentielle",
+      "desc": "Le candidat de droite Abelardo De La Espriella a remporté de ⁠justesse l'élection présidentielle rganisée ​dimanche en Colombie, selon un premier décompte des voix, les électeurs ayant misé sur sa promesse, soutenue par Donald Trump, de lutter contre la criminalité et de renforcer l'économie.",
+      "date": "2026-06-22T09:49:05",
+      "source": "France 24"
+    },
+    {
+      "title": "Keir Starmer démissionne de ses fonctions de Premier ministre et de chef du Parti travailliste",
+      "link": "https://www.bbc.com/afrique/articles/cgmd220j2y1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Dans une déclaration faite devant le 10 Downing Street, le Premier ministre a déclaré que chacune des décisions qu'il avait prises depuis son entrée en fonction visait à « donner la priorité au pays que j'aime ».",
+      "date": "2026-06-22T09:31:39",
+      "source": "BBC Afrique"
     },
     {
       "title": "Investissements industriels en Afrique : Voici le top 6 des pays qui se démarquent le plus",
@@ -37,13 +51,6 @@
       "desc": "Alors que les tensions géostratégiques continuent d'influencer les dynamiques économiques à travers le monde, les experts tablent sur la souveraineté économique soutenue par un secteur industriel endogène comme un impératif de stabilité.",
       "date": "2026-06-22T07:50:30",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "La canicule s'amplifie encore en France, 49 départements en vigilance rouge",
-      "link": "https://www.france24.com/fr/france/20260622-france-canicule-vigilance-rouge",
-      "desc": "Les chaleurs étouffantes qui frappent le pays depuis près d'une semaine \"montent d'un cran\", lundi, avec 49 départements et 35 millions de Français placés en vigilance rouge canicule par Météo France. Cette situation pousse notamment les autorités à fermer ou à réorganiser près de 2 000 établissemen",
-      "date": "2026-06-22T07:02:37",
-      "source": "France 24"
     },
     {
       "title": "L'escadron de femmes pilotes qui a aidé à vaincre les nazis - avec des avions en bois",
@@ -64,13 +71,6 @@
       "link": "https://www.bbc.com/afrique/articles/cq61926p9r6o?at_medium=RSS&at_campaign=rss",
       "desc": "Des matchs plus intenses et les progrès de la médecine et des sciences du sport ont transformé la physiologie des joueurs d'élite, selon des experts.",
       "date": "2026-06-21T11:34:50",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Pourquoi l'Iran considère son accord avec les États-Unis comme une victoire",
-      "link": "https://www.bbc.com/afrique/articles/c862j7z9dpeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Pour de nombreux Iraniens, la question n'est pas de savoir si cet accord est synonyme de victoire, mais s'il permet d'atténuer la crise économique et de réduire la crainte d'une nouvelle guerre.",
-      "date": "2026-06-21T09:13:05",
       "source": "BBC Afrique"
     },
     {
