@@ -212,7 +212,7 @@ function makeCard(type, icon, title, data, mp3Path, label){
     <div class="archive-title">${data.title || title}</div>
     <div class="archive-date">${fmtDate(data.date || currentData.date)}</div>
     ${data.verse ? `<div class="archive-verse">${data.verse}</div>` : ''}
-    <div class="archive-text">${text.slice(0,200)}${text.length>200?'...':''}</div>
+    <div class="archive-text">${text}</div>
     ${data.reference ? `<div style="font-size:.72rem;color:var(--gray)">📖 ${data.reference}</div>` : ''}
     ${mp3Path ? makeAudio(mp3Path, label) : ''}
   </div>`;
@@ -292,18 +292,18 @@ function renderTab(tab){
     if(gemini.bulletin) html+=`<div class="archive-card">
       <div class="archive-type">📻 Bulletin Gemini</div>
       <div class="archive-title">Bulletin du ${fmtDate(date)}</div>
-      <div class="archive-text">${gemini.bulletin.slice(0,300)}...</div>
+      <div class="archive-text">${gemini.bulletin}</div>
     </div>`;
     if(gemini.commentary) html+=`<div class="archive-card">
       <div class="archive-type">✝️ Commentaire</div>
       <div class="archive-title">${gemini.commentary.title||''}</div>
       ${gemini.commentary.verse?`<div class="archive-verse">${gemini.commentary.verse}</div>`:''}
-      <div class="archive-text">${(gemini.commentary.content||'').slice(0,200)}...</div>
+      <div class="archive-text">${( gemini.commentary.content||'')}</div>
     </div>`;
     if(gemini.haiti_summary) html+=`<div class="archive-card">
       <div class="archive-type">🇭🇹 Haïti Gemini</div>
       <div class="archive-title">Résumé Haïti & Diaspora</div>
-      <div class="archive-text">${gemini.haiti_summary.slice(0,200)}...</div>
+      <div class="archive-text">${gemini.haiti_summary}</div>
     </div>`;
   }
 
