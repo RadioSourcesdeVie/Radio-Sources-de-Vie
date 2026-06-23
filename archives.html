@@ -11,7 +11,7 @@
 body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white)}
 header{background:var(--green-dark);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:70px;position:sticky;top:0;z-index:100}
 .logo{display:flex;align-items:center;gap:12px}
-.logo-icon{width:42px;height:42px;background:var(--green-light);border-radius:50%;display:flex;align-items:center;justify-content:center;font-size:1.2rem}
+.logo img{width:46px;height:46px;border-radius:50%;object-fit:cover}
 .logo-name{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--white);font-weight:700}
 .logo-sub{font-size:.7rem;color:rgba(255,255,255,.6);letter-spacing:1px}
 nav a{color:rgba(255,255,255,.85);text-decoration:none;font-size:.9rem;font-weight:500;margin-left:1.5rem}
@@ -22,36 +22,37 @@ nav a:hover{color:var(--white)}
 .hero p{color:rgba(255,255,255,.8);font-size:.95rem}
 .section{padding:2rem;max-width:1100px;margin:0 auto}
 .section-title{font-family:'Playfair Display',serif;font-size:1.4rem;color:var(--green-dark);margin-bottom:1rem}
-
-/* DATE SELECTOR */
 .date-selector{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.5rem}
 .date-btn{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;font-family:'Inter',sans-serif;font-weight:500}
 .date-btn:hover,.date-btn.active{background:var(--green);border-color:var(--green);color:var(--white)}
-
-/* TABS */
 .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1.5rem}
 .tab{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;white-space:nowrap;font-weight:500}
 .tab:hover,.tab.active{background:var(--green);border-color:var(--green);color:var(--white)}
+.archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.2rem}
 
-/* ARCHIVE GRID */
-.archive-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1rem}
-.archive-card{background:var(--light);border:1.5px solid var(--green-pale);border-radius:12px;padding:1.2rem;transition:all .2s}
-.archive-card:hover{border-color:var(--green-light);box-shadow:0 4px 15px rgba(45,106,79,.1)}
-.archive-type{font-size:.72rem;color:var(--green);font-weight:700;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.4rem}
-.archive-title{font-family:'Playfair Display',serif;font-size:1rem;color:var(--text);font-weight:700;margin-bottom:.3rem}
-.archive-date{font-size:.75rem;color:var(--gray);margin-bottom:.6rem}
-.archive-verse{font-style:italic;color:var(--green);border-left:3px solid var(--green-light);padding-left:8px;margin:.6rem 0;font-size:.82rem;line-height:1.5}
-.archive-text{font-size:.82rem;color:var(--gray);line-height:1.5;margin-bottom:.8rem}
-.audio-box{background:var(--white);border:1.5px solid var(--green-pale);border-radius:8px;padding:.6rem .8rem;display:flex;align-items:center;gap:8px}
+/* CARD */
+.archive-card{background:var(--white);border:1.5px solid var(--green-pale);border-radius:16px;padding:1.5rem;transition:all .25s;display:flex;flex-direction:column}
+.archive-card:hover{border-color:var(--green-light);box-shadow:0 6px 20px rgba(45,106,79,.12);transform:translateY(-2px)}
+.archive-type{font-size:.72rem;color:var(--green);font-weight:700;letter-spacing:1.5px;text-transform:uppercase;margin-bottom:.5rem}
+.archive-title{font-family:'Playfair Display',serif;font-size:1.05rem;color:var(--text);font-weight:700;margin-bottom:.3rem;line-height:1.4}
+.archive-date{font-size:.75rem;color:var(--gray);margin-bottom:.7rem}
+.archive-verse{font-style:italic;color:var(--green);border-left:3px solid var(--green-light);padding-left:10px;margin:.7rem 0;font-size:.82rem;line-height:1.5}
+.archive-excerpt{font-size:.85rem;color:var(--gray);line-height:1.6;margin-bottom:1rem;flex:1;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical;overflow:hidden}
+.read-more{display:inline-flex;align-items:center;gap:6px;background:var(--green);color:var(--white);padding:9px 18px;border-radius:8px;text-decoration:none;font-size:.82rem;font-weight:600;transition:background .2s;align-self:flex-start;margin-top:auto}
+.read-more:hover{background:var(--green-dark)}
+.audio-mini{background:var(--light);border:1.5px solid var(--green-pale);border-radius:8px;padding:.5rem .8rem;display:flex;align-items:center;gap:8px;margin-bottom:.8rem}
 .audio-label{font-size:.68rem;color:var(--green);font-weight:600;letter-spacing:1px;text-transform:uppercase;white-space:nowrap}
 audio.mini{flex:1;height:28px}
-.news-item{background:var(--white);border:1.5px solid #E5E7EB;border-radius:8px;padding:.8rem;margin-bottom:.6rem}
+.meteo-row{display:flex;gap:1rem;margin-bottom:.8rem}
+.meteo-item{flex:1;background:var(--light);border-radius:8px;padding:.6rem;text-align:center}
+.meteo-item .temp{font-size:1.3rem;font-weight:700;color:var(--green-dark)}
+.meteo-item .desc{font-size:.72rem;color:var(--gray)}
+.news-item{background:var(--light);border:1.5px solid #E5E7EB;border-radius:8px;padding:.7rem;margin-bottom:.5rem}
 .news-source{font-size:.7rem;color:var(--green);font-weight:600;margin-bottom:.2rem}
 .news-title{font-weight:600;font-size:.85rem;color:var(--text)}
 .news-title a{color:var(--text);text-decoration:none}
 .news-title a:hover{color:var(--green)}
-.news-desc{font-size:.78rem;color:var(--gray);margin-top:.2rem;line-height:1.4}
-.empty{text-align:center;padding:2rem;color:var(--gray);font-style:italic;grid-column:1/-1}
+.empty{text-align:center;padding:3rem;color:var(--gray);font-style:italic;grid-column:1/-1}
 .loading{text-align:center;padding:2rem;color:var(--gray)}
 .spinner{display:inline-block;width:20px;height:20px;border:2px solid var(--green-pale);border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin-right:8px;vertical-align:middle}
 @keyframes spin{to{transform:rotate(360deg)}}
@@ -64,7 +65,7 @@ footer strong{color:var(--white)}
 
 <header>
   <div class="logo">
-    <div class="logo-icon">✝️</div>
+    <img src="RSDV_Zeno_Logo_2.png" alt="Radio Sources de Vie">
     <div>
       <div class="logo-name">Radio Sources de Vie</div>
       <div class="logo-sub">ARCHIVES</div>
@@ -86,7 +87,6 @@ footer strong{color:var(--white)}
 <div class="section">
   <div class="section-title">📅 Sélectionner une date</div>
   <div class="date-selector" id="date-selector"></div>
-
   <div class="tabs" id="archive-tabs" style="display:none">
     <div class="tab active" onclick="showTab('all',this)">📋 Tout</div>
     <div class="tab" onclick="showTab('prayers',this)">🙏 Prières</div>
@@ -97,7 +97,6 @@ footer strong{color:var(--white)}
     <div class="tab" onclick="showTab('resumes',this)">📰 Résumés</div>
     <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
   </div>
-
   <div id="archive-content">
     <div class="empty">Sélectionnez une date ci-dessus</div>
   </div>
@@ -114,7 +113,6 @@ footer strong{color:var(--white)}
 let currentTab = 'all';
 let currentData = {};
 
-// Générer les 7 derniers jours
 function getLast7Days(){
   const days = [];
   for(let i=0;i<7;i++){
@@ -127,16 +125,14 @@ function getLast7Days(){
 
 function fmtDate(s){
   if(!s) return '';
-  try{
-    return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
-  }catch(e){return s;}
+  try{ return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'long',day:'numeric',month:'long',year:'numeric'}); }
+  catch(e){return s;}
 }
 
 function fmtShort(s){
   if(!s) return '';
-  try{
-    return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'short',day:'numeric',month:'short'});
-  }catch(e){return s;}
+  try{ return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'short',day:'numeric',month:'short'}); }
+  catch(e){return s;}
 }
 
 async function fetchJSON(path){
@@ -147,29 +143,33 @@ async function fetchJSON(path){
   }catch(e){return null;}
 }
 
-// Initialiser les boutons de dates
+function excerpt(text, n=150){
+  if(!text) return '';
+  return text.length > n ? text.slice(0,n).trimEnd()+'…' : text;
+}
+
+function articleLink(type, date){
+  return `article.html?type=${type}&date=${date}`;
+}
+
 function initDates(){
   const days = getLast7Days();
   const sel = document.getElementById('date-selector');
   sel.innerHTML = days.map((d,i) =>
     `<button class="date-btn${i===0?' active':''}" onclick="loadArchive('${d}',this)">${fmtShort(d)}${i===0?' (Aujourd\'hui)':''}</button>`
   ).join('');
-  // Charger aujourd'hui automatiquement
   loadArchive(days[0], sel.querySelector('.date-btn'));
 }
 
 async function loadArchive(date, btn){
-  // Mettre à jour bouton actif
   document.querySelectorAll('.date-btn').forEach(b=>b.classList.remove('active'));
   if(btn) btn.classList.add('active');
-
   document.getElementById('archive-tabs').style.display='flex';
   document.getElementById('archive-content').innerHTML=
     '<div class="loading"><span class="spinner"></span>Chargement...</div>';
 
-  // Charger tous les contenus en parallèle
-  const [pMatin, pSoir, sermon, testimony, sabbat, meteo, gemini,
-         rChretien, rHaiti, rMonde, rSport] = await Promise.all([
+  const [pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+         rChretien,rHaiti,rMonde,rSport] = await Promise.all([
     fetchJSON('/content/prayers/matin_'+date+'.json'),
     fetchJSON('/content/prayers/soir_'+date+'.json'),
     fetchJSON('/content/sermons/'+date+'.json'),
@@ -183,52 +183,51 @@ async function loadArchive(date, btn){
     fetchJSON('/content/resumes/sport_'+date+'.json'),
   ]);
 
-  currentData = {pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
-                 rChretien,rHaiti,rMonde,rSport,date};
+  currentData={pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+               rChretien,rHaiti,rMonde,rSport,date};
   renderTab(currentTab);
 }
 
-function showTab(tab, el){
+function showTab(tab,el){
   document.querySelectorAll('.tabs .tab').forEach(t=>t.classList.remove('active'));
   if(el) el.classList.add('active');
-  currentTab = tab;
+  currentTab=tab;
   renderTab(tab);
 }
 
-function makeAudio(mp3Path, label){
-  return `<div class="audio-box">
-    <span class="audio-label">🎙️ ${label}</span>
-    <audio class="mini" controls>
-      <source src="${mp3Path}" type="audio/mpeg">
-    </audio>
-  </div>`;
-}
-
-function makeCard(type, icon, title, data, mp3Path, label){
+function makeCard(typeKey, icon, typeLabel, data, date, hasAudio){
   if(!data) return '';
   const text = data.content || data.nugget || data.text || data.resume || '';
   return `<div class="archive-card">
-    <div class="archive-type">${icon} ${type}</div>
-    <div class="archive-title">${data.title || title}</div>
-    <div class="archive-date">${fmtDate(data.date || currentData.date)}</div>
+    <div class="archive-type">${icon} ${typeLabel}</div>
+    <div class="archive-title">${data.title || typeLabel}</div>
+    <div class="archive-date">${fmtDate(data.date || date)}</div>
     ${data.verse ? `<div class="archive-verse">${data.verse}</div>` : ''}
-    <div class="archive-text">${text}</div>
-    ${data.reference ? `<div style="font-size:.72rem;color:var(--gray)">📖 ${data.reference}</div>` : ''}
-    ${mp3Path ? makeAudio(mp3Path, label) : ''}
+    <div class="archive-excerpt">${excerpt(text)}</div>
+    <a href="${articleLink(typeKey, date)}" class="read-more">Lire la suite →</a>
   </div>`;
 }
 
-function makeResumeCard(cat, icon, label, data){
-  if(!data) return '';
-  const date = currentData.date;
-  let html = `<div class="archive-card">
-    <div class="archive-type">${icon} Résumé ${label}</div>
-    <div class="archive-title">${data.title||''}</div>
+function makeMeteoCard(meteo, date){
+  if(!meteo) return '';
+  return `<div class="archive-card">
+    <div class="archive-type">🌡️ Météo</div>
+    <div class="archive-title">${meteo.title || 'Météo du jour'}</div>
     <div class="archive-date">${fmtDate(date)}</div>
-    <div class="archive-text">${data.resume||''}</div>
-    ${makeAudio('/audio/resumes/'+cat+'_'+date+'.mp3','Charlotte')}
+    <div class="meteo-row">
+      <div class="meteo-item">
+        <div>🇨🇦 Ottawa</div>
+        <div class="temp">${Math.round(meteo.ottawa?.temp||0)}°C</div>
+        <div class="desc">${meteo.ottawa?.description||''}</div>
+      </div>
+      <div class="meteo-item">
+        <div>🇭🇹 Port-au-Prince</div>
+        <div class="temp">${Math.round(meteo.pap?.temp||0)}°C</div>
+        <div class="desc">${meteo.pap?.description||''}</div>
+      </div>
+    </div>
+    <a href="${articleLink('meteo', date)}" class="read-more">Voir détails →</a>
   </div>`;
-  return html;
 }
 
 function renderTab(tab){
@@ -237,73 +236,46 @@ function renderTab(tab){
   const c = document.getElementById('archive-content');
   let html = '<div class="archive-grid">';
   let empty = true;
-
   const show = (t) => tab==='all' || tab===t;
 
   if(show('prayers')){
-    const cm = makeCard('Prière Matin','🌅','Prière du Matin',pMatin,
-      pMatin ? '/audio/prayers/matin_'+date+'.mp3' : null, 'Bella');
-    const cs = makeCard('Prière Soir','🌙','Prière du Soir',pSoir,
-      pSoir ? '/audio/prayers/soir_'+date+'.mp3' : null, 'Bella');
-    if(cm||cs){empty=false; html+=cm+cs;}
-  }
-
-  if(show('sermon')){
-    const cs = makeCard('Sermon','📖','Sermon du jour',sermon,null,'');
+    const cm = makeCard('priere-matin','🌅','Prière Matin',pMatin,date,true);
+    const cs = makeCard('priere-soir','🌙','Prière Soir',pSoir,date,true);
+    if(cm){empty=false; html+=cm;}
     if(cs){empty=false; html+=cs;}
   }
-
+  if(show('sermon')){
+    const cs = makeCard('sermon','📖','Sermon',sermon,date,false);
+    if(cs){empty=false; html+=cs;}
+  }
   if(show('testimony')){
-    const ct = makeCard('Témoignage','❤️','Témoignage',testimony,
-      testimony ? '/audio/testimonies/'+date+'.mp3' : null,'Elli');
+    const ct = makeCard('temoignage','❤️','Témoignage',testimony,date,true);
     if(ct){empty=false; html+=ct;}
   }
-
   if(show('sabbat')){
-    const cs = makeCard('Sabbat School','🕯️','Sabbat Nugget',sabbat,
-      sabbat ? '/audio/sabbat/'+date+'.mp3' : null,'Antoni');
+    const cs = makeCard('sabbat','🕯️','Sabbat School',sabbat,date,true);
     if(cs){empty=false; html+=cs;}
   }
-
   if(show('meteo') && meteo){
     empty=false;
-    html+=`<div class="archive-card">
-      <div class="archive-type">🌡️ Météo</div>
-      <div class="archive-title">${meteo.title||'Météo du jour'}</div>
-      <div class="archive-date">${fmtDate(date)}</div>
-      <div class="archive-text">
-        🇨🇦 Ottawa: ${Math.round(meteo.ottawa?.temp||0)}°C — ${meteo.ottawa?.description||''}<br>
-        🇭🇹 Port-au-Prince: ${Math.round(meteo.pap?.temp||0)}°C — ${meteo.pap?.description||''}
-      </div>
-      ${makeAudio('/audio/meteo/'+date+'.mp3','Bella')}
-    </div>`;
+    html+=makeMeteoCard(meteo,date);
   }
-
   if(show('resumes')){
-    html += makeResumeCard('chretien','✝️','Chrétien',rChretien);
-    html += makeResumeCard('haiti','🇭🇹','Haïti',rHaiti);
-    html += makeResumeCard('monde','🌍','Monde',rMonde);
-    html += makeResumeCard('sport','⚽','Sport',rSport);
-    if(rChretien||rHaiti||rMonde||rSport) empty=false;
+    const cards = [
+      makeCard('chretien','✝️','Nouvelles Chrétiennes',rChretien,date,true),
+      makeCard('haiti','🇭🇹','Nouvelles Haïti',rHaiti,date,true),
+      makeCard('monde','🌍','Nouvelles Monde',rMonde,date,true),
+      makeCard('sport','⚽','Nouvelles Sport',rSport,date,true),
+    ].filter(Boolean);
+    if(cards.length){empty=false; html+=cards.join('');}
   }
-
   if(show('gemini') && gemini){
     empty=false;
     if(gemini.bulletin) html+=`<div class="archive-card">
-      <div class="archive-type">📻 Bulletin Gemini</div>
+      <div class="archive-type">📻 Bulletin</div>
       <div class="archive-title">Bulletin du ${fmtDate(date)}</div>
-      <div class="archive-text">${gemini.bulletin}</div>
-    </div>`;
-    if(gemini.commentary) html+=`<div class="archive-card">
-      <div class="archive-type">✝️ Commentaire</div>
-      <div class="archive-title">${gemini.commentary.title||''}</div>
-      ${gemini.commentary.verse?`<div class="archive-verse">${gemini.commentary.verse}</div>`:''}
-      <div class="archive-text">${( gemini.commentary.content||'')}</div>
-    </div>`;
-    if(gemini.haiti_summary) html+=`<div class="archive-card">
-      <div class="archive-type">🇭🇹 Haïti Gemini</div>
-      <div class="archive-title">Résumé Haïti & Diaspora</div>
-      <div class="archive-text">${gemini.haiti_summary}</div>
+      <div class="archive-excerpt">${excerpt(gemini.bulletin)}</div>
+      <a href="${articleLink('gemini-bulletin',date)}" class="read-more">Lire la suite →</a>
     </div>`;
   }
 

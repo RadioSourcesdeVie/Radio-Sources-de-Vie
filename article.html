@@ -1,0 +1,227 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Article — Radio Sources de Vie</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--green:#2D6A4F;--green-dark:#1B4332;--green-light:#52B788;--green-pale:#D8F3DC;--gold:#B7791F;--white:#FFFFFF;--gray:#6B7280;--light:#F9FAFB;--text:#111827}
+body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white)}
+header{background:var(--green-dark);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:70px;position:sticky;top:0;z-index:100}
+.logo{display:flex;align-items:center;gap:12px}
+.logo img{width:46px;height:46px;border-radius:50%;object-fit:cover}
+.logo-name{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--white);font-weight:700}
+.logo-sub{font-size:.7rem;color:rgba(255,255,255,.6);letter-spacing:1px}
+nav a{color:rgba(255,255,255,.85);text-decoration:none;font-size:.9rem;font-weight:500;margin-left:1.5rem}
+nav a:hover{color:var(--white)}
+.btn-live{background:#DC2626;color:var(--white);padding:8px 18px;border-radius:20px;font-size:.85rem;font-weight:600;text-decoration:none}
+
+.article-hero{background:linear-gradient(135deg,var(--green-dark),var(--green));padding:3rem 2rem;color:var(--white);text-align:center}
+.article-type{font-size:.8rem;font-weight:700;letter-spacing:2px;text-transform:uppercase;color:var(--green-pale);margin-bottom:1rem}
+.article-hero h1{font-family:'Playfair Display',serif;font-size:clamp(1.6rem,4vw,2.8rem);font-weight:900;line-height:1.2;margin-bottom:1rem;max-width:800px;margin-left:auto;margin-right:auto}
+.article-hero .date{font-size:.9rem;color:rgba(255,255,255,.7)}
+.gold-bar{width:60px;height:3px;background:#c8952a;border-radius:2px;margin:1.5rem auto}
+
+.article-body{max-width:760px;margin:0 auto;padding:3rem 2rem}
+.verse-block{background:var(--green-pale);border-left:4px solid var(--green);padding:1.2rem 1.5rem;border-radius:0 12px 12px 0;margin-bottom:2rem}
+.verse-block p{font-style:italic;color:var(--green-dark);font-family:'Playfair Display',serif;font-size:1.05rem;line-height:1.7}
+.verse-block cite{font-size:.8rem;color:var(--green);font-style:normal;font-weight:600;margin-top:.5rem;display:block}
+
+.article-text{font-size:1rem;line-height:1.85;color:#374151}
+.article-text p{margin-bottom:1.2rem}
+.article-text strong{color:var(--green-dark)}
+
+.audio-section{background:var(--light);border:1.5px solid var(--green-pale);border-radius:16px;padding:1.5rem;margin:2rem 0;display:flex;align-items:center;gap:1rem}
+.audio-icon{font-size:2rem}
+.audio-info{flex:1}
+.audio-info strong{display:block;font-size:.85rem;color:var(--green-dark);margin-bottom:.3rem}
+.audio-info span{font-size:.75rem;color:var(--gray)}
+audio{width:100%;margin-top:.5rem;height:36px}
+
+.back-btn{display:inline-flex;align-items:center;gap:8px;background:var(--green);color:var(--white);padding:12px 24px;border-radius:10px;text-decoration:none;font-weight:600;font-size:.9rem;margin-bottom:2rem;transition:background .2s}
+.back-btn:hover{background:var(--green-dark)}
+
+.reference{display:inline-flex;align-items:center;gap:6px;background:var(--green-pale);color:var(--green-dark);padding:6px 14px;border-radius:20px;font-size:.8rem;font-weight:600;margin-top:1rem}
+
+.loading{text-align:center;padding:4rem;color:var(--gray)}
+.spinner{display:inline-block;width:30px;height:30px;border:3px solid var(--green-pale);border-top-color:var(--green);border-radius:50%;animation:spin .8s linear infinite;margin-bottom:1rem}
+@keyframes spin{to{transform:rotate(360deg)}}
+
+.meteo-grid{display:grid;grid-template-columns:1fr 1fr;gap:1rem;margin:1rem 0}
+.meteo-card{background:var(--light);border:1.5px solid var(--green-pale);border-radius:12px;padding:1.2rem;text-align:center}
+.meteo-card .flag{font-size:2rem;margin-bottom:.5rem}
+.meteo-card .temp{font-size:2rem;font-weight:700;color:var(--green-dark)}
+.meteo-card .desc{font-size:.85rem;color:var(--gray);margin-top:.3rem}
+.meteo-card .city{font-size:.8rem;font-weight:600;color:var(--green);margin-bottom:.3rem}
+
+footer{background:var(--green-dark);padding:1.5rem 2rem;text-align:center;color:rgba(255,255,255,.6);font-size:.8rem;margin-top:3rem}
+footer a{color:var(--green-light);text-decoration:none}
+footer strong{color:var(--white)}
+
+@media(max-width:600px){
+  .audio-section{flex-direction:column;text-align:center}
+  .meteo-grid{grid-template-columns:1fr}
+  .article-body{padding:2rem 1rem}
+}
+</style>
+</head>
+<body>
+
+<header>
+  <div class="logo">
+    <img src="RSDV_Zeno_Logo_2.png" alt="Radio Sources de Vie">
+    <div>
+      <div class="logo-name">Radio Sources de Vie</div>
+      <div class="logo-sub">ARCHIVES</div>
+    </div>
+  </div>
+  <nav>
+    <a href="index.html">🏠 Accueil</a>
+    <a href="archives.html">📚 Archives</a>
+    <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank" class="btn-live">● EN DIRECT</a>
+  </nav>
+</header>
+
+<div id="article-hero" class="article-hero">
+  <div class="loading">
+    <div class="spinner"></div>
+    <p>Chargement de l'article...</p>
+  </div>
+</div>
+
+<div class="article-body">
+  <a href="archives.html" class="back-btn">← Retour aux archives</a>
+  <div id="article-content">
+  </div>
+</div>
+
+<footer>
+  <strong>Radio Sources de Vie Chrétienne</strong> • Ottawa, Canada<br><br>
+  <a href="index.html">← Retour à l'accueil</a> &nbsp;|&nbsp;
+  <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank">🎙️ Écouter en direct</a><br><br>
+  <em>"Ta parole est une lampe à mes pieds." — Psaumes 119:105</em>
+</footer>
+
+<script>
+function getParams(){
+  const p = new URLSearchParams(window.location.search);
+  return {type: p.get('type'), date: p.get('date')};
+}
+
+function fmtDate(s){
+  if(!s) return '';
+  try{
+    return new Date(s+'T12:00:00').toLocaleDateString('fr-CA',{weekday:'long',day:'numeric',month:'long',year:'numeric'});
+  }catch(e){return s;}
+}
+
+async function fetchJSON(path){
+  try{
+    const r = await fetch(path+'?t='+Date.now());
+    if(!r.ok) return null;
+    return await r.json();
+  }catch(e){return null;}
+}
+
+const typeConfig = {
+  'priere-matin': {icon:'🌅', label:'Prière Matin', voice:'BELLA', jsonPath:(d)=>`/content/prayers/matin_${d}.json`, mp3Path:(d)=>`/audio/prayers/matin_${d}.mp3`},
+  'priere-soir':  {icon:'🌙', label:'Prière Soir',  voice:'BELLA', jsonPath:(d)=>`/content/prayers/soir_${d}.json`,  mp3Path:(d)=>`/audio/prayers/soir_${d}.mp3`},
+  'sermon':       {icon:'📖', label:'Sermon',        voice:'ANTONI',jsonPath:(d)=>`/content/sermons/${d}.json`,        mp3Path:null},
+  'temoignage':   {icon:'❤️', label:'Témoignage',   voice:'ELLI',  jsonPath:(d)=>`/content/testimonies/${d}.json`,    mp3Path:(d)=>`/audio/testimonies/${d}.mp3`},
+  'sabbat':       {icon:'🕯️', label:'Sabbat School',voice:'ANTONI',jsonPath:(d)=>`/content/sabbat/${d}.json`,         mp3Path:(d)=>`/audio/sabbat/${d}.mp3`},
+  'meteo':        {icon:'🌡️', label:'Météo',        voice:'BELLA', jsonPath:(d)=>`/content/meteo/${d}.json`,          mp3Path:(d)=>`/audio/meteo/${d}.mp3`},
+  'chretien':     {icon:'✝️', label:'Nouvelles Chrétiennes', voice:'CHARLOTTE', jsonPath:(d)=>`/content/resumes/chretien_${d}.json`, mp3Path:(d)=>`/audio/resumes/chretien_${d}.mp3`},
+  'haiti':        {icon:'🇭🇹', label:'Nouvelles Haïti',  voice:'CHARLOTTE', jsonPath:(d)=>`/content/resumes/haiti_${d}.json`,    mp3Path:(d)=>`/audio/resumes/haiti_${d}.mp3`},
+  'monde':        {icon:'🌍', label:'Nouvelles Monde',  voice:'CHARLOTTE', jsonPath:(d)=>`/content/resumes/monde_${d}.json`,    mp3Path:(d)=>`/audio/resumes/monde_${d}.mp3`},
+  'sport':        {icon:'⚽', label:'Nouvelles Sport',  voice:'CHARLOTTE', jsonPath:(d)=>`/content/resumes/sport_${d}.json`,    mp3Path:(d)=>`/audio/resumes/sport_${d}.mp3`},
+};
+
+async function loadArticle(){
+  const {type, date} = getParams();
+  if(!type || !date){
+    document.getElementById('article-hero').innerHTML = '<div class="loading"><p>Article introuvable.</p></div>';
+    return;
+  }
+
+  const cfg = typeConfig[type];
+  if(!cfg){
+    document.getElementById('article-hero').innerHTML = '<div class="loading"><p>Type inconnu.</p></div>';
+    return;
+  }
+
+  const data = await fetchJSON(cfg.jsonPath(date));
+
+  // Hero
+  document.title = (data?.title || cfg.label) + ' — Radio Sources de Vie';
+  document.getElementById('article-hero').innerHTML = `
+    <div class="article-type">${cfg.icon} ${cfg.label}</div>
+    <h1>${data?.title || cfg.label}</h1>
+    <div class="date">${fmtDate(date)}</div>
+    <div class="gold-bar"></div>
+  `;
+
+  // Content
+  let html = '';
+
+  if(!data){
+    html = '<p style="color:var(--gray);font-style:italic">Contenu non disponible pour cette date.</p>';
+  } else if(type === 'meteo'){
+    html = `
+      <div class="meteo-grid">
+        <div class="meteo-card">
+          <div class="flag">🇨🇦</div>
+          <div class="city">Ottawa, Canada</div>
+          <div class="temp">${Math.round(data.ottawa?.temp||0)}°C</div>
+          <div class="desc">${data.ottawa?.description||''}</div>
+        </div>
+        <div class="meteo-card">
+          <div class="flag">🇭🇹</div>
+          <div class="city">Port-au-Prince</div>
+          <div class="temp">${Math.round(data.pap?.temp||0)}°C</div>
+          <div class="desc">${data.pap?.description||''}</div>
+        </div>
+      </div>
+    `;
+  } else {
+    if(data.verse){
+      html += `<div class="verse-block">
+        <p>${data.verse}</p>
+        ${data.reference ? `<cite>— ${data.reference}</cite>` : ''}
+      </div>`;
+    }
+    const text = data.content || data.nugget || data.text || data.resume || '';
+    if(text){
+      const paragraphs = text.split(/\n\n+/).map(p => p.trim()).filter(Boolean);
+      html += '<div class="article-text">' + paragraphs.map(p => `<p>${p}</p>`).join('') + '</div>';
+    }
+    if(data.reference && !data.verse){
+      html += `<div class="reference">📖 ${data.reference}</div>`;
+    }
+  }
+
+  // Audio
+  if(cfg.mp3Path){
+    const mp3 = cfg.mp3Path(date);
+    html += `
+      <div class="audio-section">
+        <div class="audio-icon">🎙️</div>
+        <div class="audio-info">
+          <strong>Écouter l'audio</strong>
+          <span>Voix : ${cfg.voice}</span>
+          <audio controls>
+            <source src="${mp3}" type="audio/mpeg">
+          </audio>
+        </div>
+      </div>
+    `;
+  }
+
+  document.getElementById('article-content').innerHTML = html;
+}
+
+loadArticle();
+</script>
+</body>
+</html>
