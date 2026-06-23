@@ -1,69 +1,90 @@
 {
   "category": "monde",
   "date": "2026-06-23",
-  "updated": "2026-06-23T11:00:15.806230Z",
+  "updated": "2026-06-23T16:00:16.779892Z",
   "articles": [
     {
-      "title": "Mondial 2026 : L'Algérie reste en lice pour les seizièmes de finale",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260623-mondial-2026-l-alg%C3%A9rie-reste-en-lice-pour-les-seizi%C3%A8mes-de-finale-1",
-      "desc": "L'Algérie s'est imposée 2-1 face à la Jordanie lors de son deuxième match de poule du Coupe du Monde.  Ils préservent ainsi leurs chances de se qualifier aux seizièmes de finale du Mondial.",
-      "date": "2026-06-23T10:37:12",
+      "title": "Comment Donald Trump s’est pris les pieds dans le bassin réfléchissant de Washington",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260623-comment-donald-trump-pris-pieds-dans-bassin-r%C3%A9fl%C3%A9chissant-washington-algues-250-ans-etats-unis",
+      "desc": "Le chantier de l'épuration de l'eau du célèbre bassin réfléchissant au pied du Lincoln Memorial à Washington est en train de tourner au cauchemar politique pour Donald Trump, qui s'y est personnellement investi. C'est une remise en cause de ses compétences premières : celles d'un magnat de l’immobil",
+      "date": "2026-06-23T15:08:59",
       "source": "France 24"
     },
     {
-      "title": "Gaza : une commission de l’ONU accuse Israël de cibler les enfants palestiniens",
-      "link": "https://www.france24.com/fr/moyen-orient/20260623-gaza-une-commission-de-l-onu-accuse-isra%C3%ABl-de-cibler-les-enfants-palestiniens",
-      "desc": "Une commission d’enquête mandatée par l’ONU a accusé mardi Israël de \"cibler\" les enfants palestiniens dans la bande de Gaza, estimant que ces actes s’inscrivent dans le cadre d'un génocide en cours. Israël, qui a qualifié ces accusations de \"diffamatoires\", a reproché au rapport d’ignorer les exact",
-      "date": "2026-06-23T10:31:42",
+      "title": "États-Unis : Tulsi Gabbard sous l'emprise d'une secte ? Les révélations du Washington Post",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260623-%C3%A9tats-unis-tulsi-gabbard-sous-l-emprise-d-une-secte-les-r%C3%A9v%C3%A9lations-du-washington-post",
+      "desc": "L’ancienne cheffe du renseignement, Tulsi Gabbard, aurait-elle été influencée par une secte ? C'est ce qu'affirme une enquête publiée par le Washington Post. Les explications de Matthieu Mabin, correspondant France 24 à Washington.",
+      "date": "2026-06-23T15:02:14",
       "source": "France 24"
+    },
+    {
+      "title": "Les Fausses Notes du Brexit",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260623-les-fausses-notes-du-brexit",
+      "desc": "Dix ans après le référendum qui a bouleversé le Royaume-Uni, quel est l'impact du Brexit sur l'une de ses plus grandes richesses : sa musique ?\n \nDe Liverpool à Paris, Sonia Patricelli part à la rencontre de celles et ceux qui font vivre la scène musicale britannique. Artistes confirmés, groupes éme",
+      "date": "2026-06-23T15:01:10",
+      "source": "France 24"
+    },
+    {
+      "title": "Canicule en France : la tour Eiffel ferme plus tôt que prévu",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260623-canicule-en-france-la-tour-eiffel-ferme-plus-t%C3%B4t-que-pr%C3%A9vu",
+      "desc": "La tour Eiffel a fermé ce mardi dès 16H00 et le musée du Louvre fera de même de mercredi jusqu'à samedi en raison de la canicule, ont annoncé leurs directions.",
+      "date": "2026-06-23T15:00:15",
+      "source": "France 24"
+    },
+    {
+      "title": "Côte d'Ivoire : le gouvernement veut ouvrir une nouvelle ère dans l'organisation des élections",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260623-c%C3%B4te-d-ivoire-le-gouvernement-veut-ouvrir-une-nouvelle-%C3%A8re-dans-l-organisation-des-%C3%A9lections",
+      "desc": "En l’absence d’échéances électorales immédiates, la Côte d’Ivoire prend le temps de la réflexion. Quel système électoral construire pour l’avenir ? Après la dissolution de la Commission électorale indépendante, critiquée lors du dernier scrutin, la classe politique planche désormais sur une nouvelle",
+      "date": "2026-06-23T14:42:01",
+      "source": "France 24"
+    },
+    {
+      "title": "Qui est Andy Burnham, le principal candidat au poste de Premier ministre britannique ?",
+      "link": "https://www.bbc.com/afrique/articles/cx26pyn2l2vo?at_medium=RSS&at_campaign=rss",
+      "desc": "Andy Burnham a échoué à deux reprises à la direction du parti travailliste, mais avec la démission de Keir Starmer, il pourrait désormais être en lice pour devenir le prochain Premier ministre britannique.",
+      "date": "2026-06-23T14:39:40",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "« Tout ce que je fais, c'est pour toi » : comment la tragédie familiale motive Diomande",
+      "link": "https://www.bbc.com/afrique/articles/cdxd0rne6lzo?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC Sport explique à quel point le jeune Ivoirien Yan Diomande est déterminé à réussir la Coupe du monde en l'honneur de sa sœur.",
+      "date": "2026-06-23T12:35:40",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ebola en RDC : l’épidémie gagne du terrain, la faim s’aggrave",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159043",
+      "desc": "La crise alimentaire continue de s’aggraver dans l’est de la République démocratique du Congo (RDC), alors que le nombre de zones de santé touchées par l’épidémie d’Ebola est passé de 29 à 33 cette semaine. Parmi elles, six sont désormais classées en phase d’urgence alimentaire.&nbsp;",
+      "date": "2026-06-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Climat : le chef de l’ONU dévoile sa feuille de route pour sortir des énergies fossiles",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159041",
+      "desc": "Alors qu’une vague de chaleur meurtrière continue de frapper l’Europe mardi, le Secrétaire général de l’ONU, António Guterres, a lancé un vibrant appel en faveur d’une action mondiale plus ambitieuse face au changement climatique causé par les combustibles fossiles, afin d’éviter des dommages irréve",
+      "date": "2026-06-23T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Primes impayées et problèmes alimentaires : que se passe-t-il dans l'équipe du Sénégal ?",
-      "link": "https://www.bbc.co.uk/afrique/articles/cj4gyxeepgpo?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/afrique/articles/cj4gyxeepgpo?at_medium=RSS&at_campaign=rss",
       "desc": "Le début de la Coupe du monde au Sénégal a été éclipsé par une série de problèmes survenus en coulisses.",
       "date": "2026-06-23T10:27:39",
       "source": "BBC Afrique"
     },
     {
-      "title": "Avec les migrants qui tentent de traverser la Manche",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260623-avec-les-migrants-qui-tentent-de-traverser-la-manche",
-      "desc": "Sur une plage de Gravelines, dans le nord de la France, nos reporters ont assisté à une scène révélatrice de la pression migratoire actuelle : un groupe de migrants tente en vain d’embarquer sur une embarcation déjà pleine en route vers le Royaume-Uni. Reportage de Pauline Godart, Claire Paccalin et",
-      "date": "2026-06-23T10:00:56",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : la Colombie se tient sur ses gardes avant d'affronter la RD Congo",
-      "link": "https://www.france24.com/fr/sports/20260623-mondial-2026-la-colombie-se-tient-sur-ses-gardes-avant-d-affronter-la-rd-congo",
-      "desc": "La Colombie joue contre la RD Congo, mercredi, au stade Akron de Guadalajara, pour la deuxième journée du groupe K. Les Cafeteros tenteront de capitaliser sur leur bon début de campagne face à l'Ouzbékistan, tout en restant sur leurs garde face aux Léopards qui ont su trouver les ressources pour jou",
-      "date": "2026-06-23T10:00:51",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : Mbappé talonne Messi au classement des meilleurs buteurs de la compétition",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260623-mondial-2026-mbapp%C3%A9-talonne-messi-au-classement-des-meilleurs-buteurs-de-la-comp%C3%A9tition",
-      "desc": "Lionel Messi, auteur d'un doublé lundi contre l'Autriche, est devenu à 38 ans le meilleur buteur de l'histoire de la Coupe du monde avec ses 17e et 18e réalisations, effaçant le record détenu depuis 2014 par l'ancien international allemand Miroslav Klose (16 buts).",
-      "date": "2026-06-23T09:47:04",
-      "source": "France 24"
-    },
-    {
       "title": "« Nous voulons gagner, mais nous méprisons la République islamique » : le dilemme de certains fans de football iraniens",
-      "link": "https://www.bbc.co.uk/afrique/articles/cwyk0ljy3pno?at_medium=RSS&at_campaign=rss",
+      "link": "https://www.bbc.com/afrique/articles/cwyk0ljy3pno?at_medium=RSS&at_campaign=rss",
       "desc": "En Iran, le football est devenu un miroir des divisions du pays. Alors que la sélection nationale fait jusque-là une Coupe du monde 2026 honorable, elle se retrouve au cœur d’un débat qui dépasse largement le terrain. Certains supporters voient l’équipe nationale comme un symbole du régime qu’ils dé",
       "date": "2026-06-23T08:27:44",
       "source": "BBC Afrique"
     },
     {
-      "title": "Moment de dégel : Niamey et Cotonou sur la voie de la réouverture de leurs frontières",
-      "link": "https://www.bbc.co.uk/afrique/articles/c4gyq49z5djo?at_medium=RSS&at_campaign=rss",
+      "title": "Réouverture de la frontière Bénin-Niger : vers la fin d'un blocage ?",
+      "link": "https://www.bbc.com/afrique/articles/c4gyq49z5djo?at_medium=RSS&at_campaign=rss",
       "desc": "Après trois ans de tension ayant entrainé un blocus frontalier entre les deux pays, le Niger et le Bénin laissent entrevoir une réouverture prochaine de leurs frontières communes.",
       "date": "2026-06-22T17:18:45",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "\"Notre vision du monde est déformée par des cartes qui placent l'Europe et les États-Unis au sommet. En réalité, il n'y a ni haut ni bas.\"",
-      "link": "https://www.bbc.co.uk/afrique/articles/cg7np483knvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Los mapas no solo nos aportan información geográfica, sino que nos ofrecen una visión del mundo, son una fotografía de un momento en la historia y de las personas que lo vivieron, cuenta el escritor noruego Thomas Reinertsen Berg.",
-      "date": "2026-06-22T13:59:40",
       "source": "BBC Afrique"
     },
     {
@@ -86,27 +107,6 @@
       "desc": "Quarante-cinq ans après l’apparition des premiers cas de sida, la communauté internationale doit renouveler son engagement pour mettre fin au VIH comme menace de santé publique d’ici 2030. C’est le message lancé lundi à New York par le chef de l’ONU lors d’une réunion de haut niveau de l’Assemblée g",
       "date": "2026-06-22T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Myanmar : la baisse de l’aide internationale aggrave les souffrances des civils",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159030",
-      "desc": "Alors que la situation au Myanmar s’aggrave après cinq ans de violences liées au conflit, la baisse de l’aide internationale ne fait qu’aggraver les souffrances de millions de personnes, affirme le Haut-Commissariat des Nations Unies aux droits de l’homme (HCDH) dans un rapport publié jeudi.",
-      "date": "2026-06-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Migrants : un expert de l’ONU appelle les États à ne pas externaliser leurs devoirs",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159033",
-      "desc": "Un expert indépendant des Nations Unies s’est déclaré lundi préoccupé par la multiplication, à travers le monde, des politiques d’externalisation de la migration et de l’asile, par lesquelles des États confient à d’autres pays une partie de leurs responsabilités en matière de gestion des flux migrat",
-      "date": "2026-06-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Keir Starmer démissionne de ses fonctions de Premier ministre et de chef du Parti travailliste",
-      "link": "https://www.bbc.co.uk/afrique/articles/cgmd220j2y1o?at_medium=RSS&at_campaign=rss",
-      "desc": "Dans une déclaration faite devant le 10 Downing Street, le Premier ministre a déclaré que chacune des décisions qu'il avait prises depuis son entrée en fonction visait à « donner la priorité au pays que j'aime ».",
-      "date": "2026-06-22T09:31:39",
-      "source": "BBC Afrique"
     }
   ]
 }
