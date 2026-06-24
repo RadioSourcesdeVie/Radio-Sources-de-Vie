@@ -1,49 +1,63 @@
 {
   "category": "monde",
   "date": "2026-06-24",
-  "updated": "2026-06-24T09:00:16.797088Z",
+  "updated": "2026-06-24T11:00:17.356385Z",
   "articles": [
+    {
+      "title": "Une athlète, un accident, une voix",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159048",
+      "desc": "Petite fille, elle se dit très timide. On la met souvent à l’écart, les garçons affirmant être « plus forts et plus intelligents ». Personne, sauf sa famille, ne croit en elle. Elle devra se battre pour se faire une place dans le sport comme dans la vie.",
+      "date": "2026-06-24T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "La France écrasée par la canicule : quelle réponse face à la crise climatique ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260624-la-france-%C3%A9cras%C3%A9e-par-la-canicule-quelle-r%C3%A9ponse-face-%C3%A0-la-crise-climatique",
+      "desc": "La France suffoque et les températures atteignent, voire dépassent, les 40°C par endroit dans le pays. La journée du 23 juin a été la plus chaude jamais enregistrée sur le territoire et les trois quarts du pays sont en vigilance rouge. Et pourtant, les climatologues avaient prévus et prévenus que ce",
+      "date": "2026-06-24T10:41:10",
+      "source": "France 24"
+    },
+    {
+      "title": "Mode : le foot a-t-il plié le game ? Parlons-en avec David Bellion, Pierre Maturana et Stella Jean",
+      "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260624-mode-le-foot-a-t-il-pli%C3%A9-le-game-parlons-en-avec-david-bellion-pierre-maturana-et-stella-jean",
+      "desc": "Né il y a un demi-siècle en Grande-Bretagne, le costume du parfait footballeur a beaucoup évolué au fil du temps. Certains de ces imprimés sont liés, bien sûr, aux plus grandes pages de l'histoire du ballon rond, aux victoires comme aux drames. Mais comme la pratique du football, ce maillot s'est dé",
+      "date": "2026-06-24T10:32:13",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : endeuillé, Didier Deschamps rentre en France quelques jours",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-mondial-2026-endeuill%C3%A9-didier-deschamps-rentre-en-france-quelques-jours",
+      "desc": "Triste nouvelle pour le sélectionneur de l'équipe de France. Didier Deschamps a appris mardi le décès de sa mère, Ginette. À l’entraînement, les Bleus ont observé une minute de silence en sa mémoire. Le sélectionneur est rentré en France pour assister à ses obsèques et manquera donc le match France-",
+      "date": "2026-06-24T10:25:18",
+      "source": "France 24"
+    },
+    {
+      "title": "Mariage insolite: Des jumeaux épousent des jumelles lors d'un joyeux mariage conjoint au Nigéria",
+      "link": "https://www.bbc.com/afrique/articles/ckg02v5nllvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les frères jumeaux Taiwo et Kehinde Oguntoye se confient à la BBC après leur mariage avec deux sœurs jumelles.",
+      "date": "2026-06-24T10:20:07",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Donald Trump acculé par un vote du Sénat sur l'Iran",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-donald-trumpnaccul%C3%A9-par-un-vote-du-s%C3%A9nat-sur-l-iran",
+      "desc": "Le Sénat américain a adopté une résolution demandant le retrait des forces américaines engagées contre l'Iran, grâce au soutien de quatre sénateurs républicains aux côtés des démocrates. Bien que non contraignant juridiquement, ce vote constitue un camouflet politique pour le président Donald Trump ",
+      "date": "2026-06-24T10:19:22",
+      "source": "France 24"
+    },
+    {
+      "title": "Canicule : comment les travailleurs s'adaptent aux fortes chaleurs",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-canicule-comment-les-travailleurs-s-adaptent-aux-fortes-chaleurs",
+      "desc": "Sous des températures qui dépassent parfois les 40 degrés, impossible pour certains métiers de s'arrêter. Dans les vignes, les boulangeries ou sur les chantiers, les travailleurs s'organisent pour limiter les risques liés à la chaleur. Début de journée avancé, pauses à l'ombre et litres d'eau consom",
+      "date": "2026-06-24T10:15:11",
+      "source": "France 24"
+    },
     {
       "title": "Coupe du monde : les maillots africains les plus iconiques à travers l'histoire - quel est le plus emblématique ?",
       "link": "https://www.bbc.com/afrique/articles/cjdgzpxpgv7o?at_medium=RSS&at_campaign=rss",
       "desc": "Voici une sélection de maillots africains parmi les plus marquants, mêlant impact visuel, héritage culturel et forte empreinte en Coupe du monde.",
       "date": "2026-06-24T08:31:26",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Travail sous la canicule : faut-il instaurer un \"congé climatique\" ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260624-travail-sous-la-canicule-faut-il-instaurer-un-cong%C3%A9-climatique",
-      "desc": "Alors que la France connaît une vague de chaleur exceptionnelle, la question des conditions de travail des salariés exposés revient au premier plan. Les partenaires sociaux se réunissent ce mercredi au ministère du Travail, tandis que les écologistes proposent la création d'un \"congé climatique\".",
-      "date": "2026-06-24T08:20:37",
-      "source": "France 24"
-    },
-    {
-      "title": "Israël et le Liban engagent des discussions sur un transfert de zones à l'armée libanaise",
-      "link": "https://www.france24.com/fr/moyen-orient/20260624-israel-liban-discutent-un-transfert-de-zones-arm%C3%A9e-libanaise-guerre-usa",
-      "desc": "Israël et le Liban discutent d'un dispositif prévoyant le déploiement de l'armée libanaise dans certaines zones du sud du Liban actuellement contrôlées par l'armée israélienne. Cette initiative, soutenue par les États-Unis, est au coeur du nouveau cycle de discussions entamé mardi à Washington.",
-      "date": "2026-06-24T08:17:28",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : résultats, articles et temps forts de la nuit",
-      "link": "https://www.france24.com/fr/sports/20260624-mondial-2026-r%C3%A9sultats-articles-et-temps-forts-de-la-nuit",
-      "desc": "Cristiano Ronaldo fait taire les critiques, l'Angleterre frustrée, la Colombie qualifiée de justesse... Retrouvez les résultats des matches disputés dans la nuit, les temps forts et les derniers articles de France 24 sur la Coupe du monde 2026.",
-      "date": "2026-06-24T06:08:46",
-      "source": "France 24"
-    },
-    {
-      "title": "Coupe du monde : le Portugal se relance grâce à un grand Cristiano Ronaldo",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260624-coupe-du-monde-le-portugal-se-relance-gr%C3%A2ce-%C3%A0-un-grand-cristiano-ronaldo",
-      "desc": "Cristiano Ronaldo a répondu aux critiques de la meilleure manière mardi face à l’Ouzbékistan (5-0). Auteur d’un doublé, l’attaquant de 41 ans a porté son pays vers sa première victoire dans ce Mondial. L’équipe, en particulier Ronaldo, était vivement critiquée au pays depuis son match nul inaugural ",
-      "date": "2026-06-24T06:04:43",
-      "source": "France 24"
-    },
-    {
-      "title": "Visite des Taliban à Bruxelles: \"Une faute politique et morale majeure\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260624-visite-des-taliban-%C3%A0-bruxelles-une-faute-politique-et-morale-majeure",
-      "desc": "A la Une de la presse, ce mercredi 24 juin, la colère après la visite d’une délégation talibane à Bruxelles, pour organiser le renvoi de ressortissants afghans. Les réactions aux accusations d’une commission de l’ONU, qui affirme qu’Israël «cible» délibérément les enfants de Gaza. Un retour sur l’an",
-      "date": "2026-06-24T05:48:53",
-      "source": "France 24"
     },
     {
       "title": "Retrait de la CPI : le Niger passe aux actes",
@@ -60,11 +74,18 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Qui est Andy Burnham, le principal candidat au poste de Premier ministre britannique ?",
-      "link": "https://www.bbc.com/afrique/articles/cx26pyn2l2vo?at_medium=RSS&at_campaign=rss",
-      "desc": "Andy Burnham a échoué à deux reprises à la direction du parti travailliste, mais avec la démission de Keir Starmer, il pourrait désormais être en lice pour devenir le prochain Premier ministre britannique.",
-      "date": "2026-06-23T14:39:40",
-      "source": "BBC Afrique"
+      "title": "Détroit d’Ormuz : l’ONU lance l’évacuation de milliers de marins bloqués",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159049",
+      "desc": "Après des mois d’incertitude et de tensions dans le golfe Persique, l’Organisation maritime internationale (OMI) a annoncé mardi le lancement d’une vaste opération pour permettre l’évacuation de plus de 11 000 marins bloqués dans la région, à la suite de l’accord conclu entre les États-Unis et l’Ira",
+      "date": "2026-06-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Israël accusé de cibler les enfants palestiniens à Gaza",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159046",
+      "desc": "Une commission d’enquête internationale mandatée par le Conseil des droits de l’homme des Nations Unies a accusé, mardi 23 juin, Israël de « cibler » les enfants palestiniens dans la bande de Gaza, dénonçant une fois encore un « génocide » en cours, mais aussi des crimes contre l’humanité et des cri",
+      "date": "2026-06-23T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Sécurité humaine : six initiatives récompensées pour leur réponse à des crises imbriquées",
@@ -77,27 +98,6 @@
       "title": "L’ONU dénonce le recours généralisé et brutal à la violence sexuelle au Soudan",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1159042",
       "desc": "Les violences sexuelles sont systématiquement utilisées comme tactique pour terroriser et traumatiser la population civile au Soudan, dénonce un nouveau rapport de l'ONU, qui constate que ces violences ont accompagné l’extension géographique du conflit dans ce pays, ainsi que les déplacements de pop",
-      "date": "2026-06-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Centrafrique : le délicat transfert de la sécurité à l'État",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159045",
-      "desc": "La République centrafricaine n'est plus le pays qu'elle était il y a quelques années. Les grandes offensives rebelles qui menaçaient la capitale Bangui semblent révolues, les institutions fonctionnent de nouveau et les élections se succèdent sans replonger le pays dans les cycles de violence du pass",
-      "date": "2026-06-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Le Conseil de sécurité entend mettre fin à l'impunité des attaques contre les Casques bleus",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159044",
-      "desc": "Les Casques bleus tombés en mission sont célébrés chaque année. Mais après les minutes de silence, les enquêtes piétinent souvent et les responsables échappent à la justice. Mardi, le Conseil de sécurité a décidé de s'attaquer à cette mécanique de l'impunité en adoptant à l'unanimité une résolution ",
-      "date": "2026-06-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola en RDC : l’épidémie gagne du terrain, la faim s’aggrave",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159043",
-      "desc": "La crise alimentaire continue de s’aggraver dans l’est de la République démocratique du Congo (RDC), alors que le nombre de zones de santé touchées par l’épidémie d’Ebola est passé de 29 à 33 cette semaine. Parmi elles, six sont désormais classées en phase d’urgence alimentaire.&nbsp;",
       "date": "2026-06-23T12:00:00",
       "source": "ONU Info"
     },
