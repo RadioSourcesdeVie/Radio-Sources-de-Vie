@@ -5,15 +5,15 @@
     <description>Sermon quotidien</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Tue, 23 Jun 2026 09:01:36 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 24 Jun 2026 09:02:46 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>La Sagesse Cachée: Découvrir le Trésor de Dieu dans les Épreuves — 2026-06-23</title>
-      <description>Sermon quotidien — 2026-06-23</description>
-      <pubDate>Tue, 23 Jun 2026 09:01:36 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-06-23.mp3" length="0" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-06-23.mp3</guid>
+      <title>Les Fondations Inébranlables: Bâtir sur la Roche Éternelle de Dieu — 2026-06-24</title>
+      <description>Sermon quotidien — 2026-06-24</description>
+      <pubDate>Wed, 24 Jun 2026 09:02:46 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-06-24.mp3" length="3156053" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-06-24.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
