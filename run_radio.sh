@@ -1,5 +1,6 @@
 #!/bin/bash
 cd "/c/Users/avena/Desktop/radio sources De Vie"
+export PYTHONUTF8=1
 source .env
 echo "📻 Radio Sources de Vie — $(date '+%d/%m/%Y a %Hh%M')"
 python fetch_weather.py --api-key "$OWM_KEY"
