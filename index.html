@@ -250,11 +250,6 @@ footer strong{color:var(--white)}
       <div class="schedule-name">🙏 Prière Soir</div>
       <div class="schedule-desc">5-7 minutes • Repos en Dieu</div>
     </div>
-    <div class="schedule-card">
-      <div class="schedule-time">Chaque jour</div>
-      <div class="schedule-name">🕯️ Sabbat School Nugget</div>
-      <div class="schedule-desc">2 minutes • Leçon de l'école du sabbat</div>
-    </div>
   </div>
 </div>
 
@@ -333,7 +328,6 @@ const LOADERS = {
   priere_matin:    ()=>loadSpiritual('/content/prayers/matin_'+TODAY+'.json','🌅','Bella — Prière Matin','/audio/prayers/matin_'+TODAY+'.mp3'),
   priere_soir:     ()=>loadSpiritual('/content/prayers/soir_'+TODAY+'.json','🌙','Bella — Prière Soir','/audio/prayers/soir_'+TODAY+'.mp3'),
   temoignage:      ()=>loadSpiritual('/content/testimonies/'+TODAY+'.json','❤️','Elli — Témoignage','/audio/testimonies/'+TODAY+'.mp3'),
-  sabbat:          ()=>loadSpiritual('/content/sabbat/'+TODAY+'.json','🕯️','Antoni — Sabbat School','/audio/sabbat/'+TODAY+'.mp3'),
   sermon:          ()=>loadSpiritual('/content/sermons/'+TODAY+'.json','📖','Votre voix — Sermon',null),
   resume_chretien: ()=>loadResume('chretien','✝️'),
   resume_haiti:    ()=>loadResume('haiti','🇭🇹'),
@@ -437,7 +431,6 @@ async function loadArchives(){
   const types=[
     {key:'sermons',label:'Sermon',icon:'✝️',audio:'audio/sermons'},
     {key:'testimonies',label:'Témoignage',icon:'❤️',audio:'audio/testimonies'},
-    {key:'sabbat',label:'Sabbat Nugget',icon:'🕯️',audio:'audio/sabbat'},
     {key:'prayers',label:'Prière Matin',icon:'🙏',audio:'audio/prayers',prefix:'matin_'},
   ];
   let html='';

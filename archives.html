@@ -93,7 +93,6 @@ footer strong{color:var(--white)}
     <div class="tab" onclick="showTab('prayers',this)">🙏 Prières</div>
     <div class="tab" onclick="showTab('sermon',this)">📖 Sermon</div>
     <div class="tab" onclick="showTab('testimony',this)">❤️ Témoignage</div>
-    <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
     <div class="tab" onclick="showTab('meteo',this)">🌡️ Météo</div>
     <div class="tab" onclick="showTab('resumes',this)">📰 Résumés</div>
     <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
@@ -169,13 +168,12 @@ async function loadArchive(date, btn){
   document.getElementById('archive-content').innerHTML=
     '<div class="loading"><span class="spinner"></span>Chargement...</div>';
 
-  const [pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+  const [pMatin,pSoir,sermon,testimony,meteo,gemini,
          rChretien,rHaiti,rMonde,rSport] = await Promise.all([
     fetchJSON('/content/prayers/matin_'+date+'.json'),
     fetchJSON('/content/prayers/soir_'+date+'.json'),
     fetchJSON('/content/sermons/'+date+'.json'),
     fetchJSON('/content/testimonies/'+date+'.json'),
-    fetchJSON('/content/sabbat/'+date+'.json'),
     fetchJSON('/content/meteo/'+date+'.json'),
     fetchJSON('/content/gemini/'+date+'.json'),
     fetchJSON('/content/resumes/chretien_'+date+'.json'),
@@ -184,7 +182,7 @@ async function loadArchive(date, btn){
     fetchJSON('/content/resumes/sport_'+date+'.json'),
   ]);
 
-  currentData={pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+  currentData={pMatin,pSoir,sermon,testimony,meteo,gemini,
                rChretien,rHaiti,rMonde,rSport,date};
   renderTab(currentTab);
 }
@@ -232,7 +230,7 @@ function makeMeteoCard(meteo, date){
 }
 
 function renderTab(tab){
-  const {pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+  const {pMatin,pSoir,sermon,testimony,meteo,gemini,
          rChretien,rHaiti,rMonde,rSport,date} = currentData;
   const c = document.getElementById('archive-content');
   let html = '<div class="archive-grid">';
@@ -252,10 +250,6 @@ function renderTab(tab){
   if(show('testimony')){
     const ct = makeCard('temoignage','❤️','Témoignage',testimony,date,true);
     if(ct){empty=false; html+=ct;}
-  }
-  if(show('sabbat')){
-    const cs = makeCard('sabbat','🕯️','Sabbat School',sabbat,date,true);
-    if(cs){empty=false; html+=cs;}
   }
   if(show('meteo') && meteo){
     empty=false;
