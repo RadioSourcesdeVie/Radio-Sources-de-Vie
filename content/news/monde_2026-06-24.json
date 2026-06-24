@@ -1,35 +1,84 @@
 {
   "category": "monde",
   "date": "2026-06-24",
-  "updated": "2026-06-24T11:00:17.356385Z",
+  "updated": "2026-06-24T16:00:33.042135Z",
   "articles": [
+    {
+      "title": "Soudan : El-Obeid au bord de la catastrophe humanitaire selon l'ONU",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-soudan-el-obeid-au-bord-de-la-catastrophe-humanitaire-selon-l-onu",
+      "desc": "Au Soudan, une nouvelle crise humanitaire se dessine à El-Obeid. Cette ville dans la région du Kordofan est assiégée depuis plusieurs mois par les militaires du FSR. Sans livraison en eau ni en nourriture, El-Obeid est au bord de la catastrophe humanitaire. La communauté internationale appelle à la ",
+      "date": "2026-06-24T15:29:04",
+      "source": "France 24"
+    },
+    {
+      "title": "🔴 Présidentielle en Colombie : le candidat de gauche reconnaît la victoire d'Abelardo de la Espriella",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260624-pr%C3%A9sidentielle-en-colombie-le-candidat-de-gauche-reconna%C3%AEt-la-victoire-d-abelardo-de-la-espriella",
+      "desc": "",
+      "date": "2026-06-24T15:18:05",
+      "source": "France 24"
+    },
+    {
+      "title": "Présidentielle en Colombie : le candidat de gauche reconnaît la victoire d'Abelardo de la Espriella",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260624-pr%C3%A9sidentielle-en-colombie-le-candidat-de-gauche-reconna%C3%AEt-la-victoire-d-abelardo-de-la-espriella",
+      "desc": "Trois jours après le second tour d'élection présidentielle le plus serré de l'histoire du pays, et alors qu'il en rejetait initialement les résultats, le candidat de gauche, Iván Cepeda, a finalement reconnu mercredi la victoire de celui de l'ultradroite, Abelardo de la Espriella.",
+      "date": "2026-06-24T15:15:29",
+      "source": "France 24"
+    },
+    {
+      "title": "RD Congo : Ebola gagne du terrain dans les mines d’or de Mongbwalu",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-rd-congo-ebola-gagne-du-terrain-dans-les-mines-d-or-de-mongbwalu",
+      "desc": "L’épidémie d’Ebola continue de s’étendre en République démocratique du Congo, avec plus de 250 morts selon le dernier bilan officiel. À Mongbwalu, l’un des principaux foyers de contamination, les mineurs poursuivent leur activité faute d’alternative économique, malgré la peur de la maladie et les di",
+      "date": "2026-06-24T15:08:33",
+      "source": "France 24"
+    },
+    {
+      "title": "Ebola : premier cas confirmé en France",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-ebola-premier-cas-confirm%C3%A9-en-france",
+      "desc": "La France a confirmé son premier cas d’Ebola lié à l’épidémie en cours en RDC : un médecin de retour d’une mission humanitaire a été placé à l’isolement, tandis que les autorités ont lancé le traçage de ses contacts et assurent que le risque pour la population reste très faible.",
+      "date": "2026-06-24T15:03:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Une commission d'enquête de l'ONU déclare qu'Israël a commis un génocide à Gaza en ciblant délibérément des enfants",
+      "link": "https://www.bbc.com/afrique/articles/cn945e9ywzxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Israël rejette le nouveau rapport du groupe d'experts composé de trois membres, le qualifiant de « simulacre diffamatoire ».",
+      "date": "2026-06-24T14:25:52",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Quelles sont les équipes déjà éliminées de la Coupe du monde ?",
+      "link": "https://www.bbc.com/afrique/articles/cpv3lx2g0wpo?at_medium=RSS&at_campaign=rss",
+      "desc": "L'équipe de BBC Sport répertorie l'ensemble des nations qui ont été éliminées de la Coupe du monde 2026 à ce jour.",
+      "date": "2026-06-24T12:23:44",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Soudan : l’escalade des violences à El Obeid menace l’aide et accroît le risque d’épidémies",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159052",
+      "desc": "Dans la région du Kordofan, au Soudan, la détérioration de la situation sécuritaire à El Obeid prive les populations de soins et d’une aide humanitaire indispensables, ont alerté mercredi des agences des Nations Unies. Elles avertissent que la poursuite des violences, qui entrave l’accès humanitaire",
+      "date": "2026-06-24T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "EN DIRECT – Débat au Conseil de sécurité sur les enfants en temps de guerre",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159054",
+      "desc": "Une semaine après la publication d’un rapport onusien faisant état de 1 779 enfants victimes de violences sexuelles dans le cadre de conflits armés en 2025, le Conseil de sécurité se réunit, mercredi matin, pour un débat sur le sort réservé aux enfants en temps de guerre. Le coup d'envoi de la réuni",
+      "date": "2026-06-24T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Détroit d’Ormuz : les marins bloqués commencent à être évacués avec l’aide de l’ONU",
+      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159053",
+      "desc": "Alors que l’Organisation maritime internationale (OMI) des Nations Unies a dévoilé, mercredi, davantage de détails sur son plan visant à évacuer plus de 11.000 marins bloqués dans le détroit d’Ormuz, une navigatrice prise au piège décrit la peur constante d’être prise pour cible.",
+      "date": "2026-06-24T12:00:00",
+      "source": "ONU Info"
+    },
     {
       "title": "Une athlète, un accident, une voix",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1159048",
       "desc": "Petite fille, elle se dit très timide. On la met souvent à l’écart, les garçons affirmant être « plus forts et plus intelligents ». Personne, sauf sa famille, ne croit en elle. Elle devra se battre pour se faire une place dans le sport comme dans la vie.",
       "date": "2026-06-24T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "La France écrasée par la canicule : quelle réponse face à la crise climatique ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260624-la-france-%C3%A9cras%C3%A9e-par-la-canicule-quelle-r%C3%A9ponse-face-%C3%A0-la-crise-climatique",
-      "desc": "La France suffoque et les températures atteignent, voire dépassent, les 40°C par endroit dans le pays. La journée du 23 juin a été la plus chaude jamais enregistrée sur le territoire et les trois quarts du pays sont en vigilance rouge. Et pourtant, les climatologues avaient prévus et prévenus que ce",
-      "date": "2026-06-24T10:41:10",
-      "source": "France 24"
-    },
-    {
-      "title": "Mode : le foot a-t-il plié le game ? Parlons-en avec David Bellion, Pierre Maturana et Stella Jean",
-      "link": "https://www.france24.com/fr/%C3%A9missions/parlons-en-les-invit%C3%A9s/20260624-mode-le-foot-a-t-il-pli%C3%A9-le-game-parlons-en-avec-david-bellion-pierre-maturana-et-stella-jean",
-      "desc": "Né il y a un demi-siècle en Grande-Bretagne, le costume du parfait footballeur a beaucoup évolué au fil du temps. Certains de ces imprimés sont liés, bien sûr, aux plus grandes pages de l'histoire du ballon rond, aux victoires comme aux drames. Mais comme la pratique du football, ce maillot s'est dé",
-      "date": "2026-06-24T10:32:13",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : endeuillé, Didier Deschamps rentre en France quelques jours",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-mondial-2026-endeuill%C3%A9-didier-deschamps-rentre-en-france-quelques-jours",
-      "desc": "Triste nouvelle pour le sélectionneur de l'équipe de France. Didier Deschamps a appris mardi le décès de sa mère, Ginette. À l’entraînement, les Bleus ont observé une minute de silence en sa mémoire. Le sélectionneur est rentré en France pour assister à ses obsèques et manquera donc le match France-",
-      "date": "2026-06-24T10:25:18",
-      "source": "France 24"
     },
     {
       "title": "Mariage insolite: Des jumeaux épousent des jumelles lors d'un joyeux mariage conjoint au Nigéria",
@@ -39,20 +88,6 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Donald Trump acculé par un vote du Sénat sur l'Iran",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-donald-trumpnaccul%C3%A9-par-un-vote-du-s%C3%A9nat-sur-l-iran",
-      "desc": "Le Sénat américain a adopté une résolution demandant le retrait des forces américaines engagées contre l'Iran, grâce au soutien de quatre sénateurs républicains aux côtés des démocrates. Bien que non contraignant juridiquement, ce vote constitue un camouflet politique pour le président Donald Trump ",
-      "date": "2026-06-24T10:19:22",
-      "source": "France 24"
-    },
-    {
-      "title": "Canicule : comment les travailleurs s'adaptent aux fortes chaleurs",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-canicule-comment-les-travailleurs-s-adaptent-aux-fortes-chaleurs",
-      "desc": "Sous des températures qui dépassent parfois les 40 degrés, impossible pour certains métiers de s'arrêter. Dans les vignes, les boulangeries ou sur les chantiers, les travailleurs s'organisent pour limiter les risques liés à la chaleur. Début de journée avancé, pauses à l'ombre et litres d'eau consom",
-      "date": "2026-06-24T10:15:11",
-      "source": "France 24"
-    },
-    {
       "title": "Coupe du monde : les maillots africains les plus iconiques à travers l'histoire - quel est le plus emblématique ?",
       "link": "https://www.bbc.com/afrique/articles/cjdgzpxpgv7o?at_medium=RSS&at_campaign=rss",
       "desc": "Voici une sélection de maillots africains parmi les plus marquants, mêlant impact visuel, héritage culturel et forte empreinte en Coupe du monde.",
@@ -60,44 +95,9 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Retrait de la CPI : le Niger passe aux actes",
-      "link": "https://www.bbc.com/afrique/articles/c892d7qpyylo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le Niger a officiellement déposé sa demande de retrait de la Cour pénale internationale (CPI), neuf mois après avoir annoncé son intention de la quitter.",
-      "date": "2026-06-23T17:39:17",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Top 10 des plus grands fournisseurs d'armes au monde : les États-Unis dominent, la France confirme son rang",
-      "link": "https://www.bbc.com/afrique/articles/c802d34yndlo?at_medium=RSS&at_campaign=rss",
-      "desc": "Qui arme la planète ? Dominé par les États-Unis, le marché mondial de l'armement reste concentré entre les mains d'une poignée de puissances, tandis que la France confirme sa place parmi les géants du secteur.",
-      "date": "2026-06-23T16:31:37",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Détroit d’Ormuz : l’ONU lance l’évacuation de milliers de marins bloqués",
       "link": "https://news.un.org/feed/view/fr/story/2026/06/1159049",
       "desc": "Après des mois d’incertitude et de tensions dans le golfe Persique, l’Organisation maritime internationale (OMI) a annoncé mardi le lancement d’une vaste opération pour permettre l’évacuation de plus de 11 000 marins bloqués dans la région, à la suite de l’accord conclu entre les États-Unis et l’Ira",
-      "date": "2026-06-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Israël accusé de cibler les enfants palestiniens à Gaza",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159046",
-      "desc": "Une commission d’enquête internationale mandatée par le Conseil des droits de l’homme des Nations Unies a accusé, mardi 23 juin, Israël de « cibler » les enfants palestiniens dans la bande de Gaza, dénonçant une fois encore un « génocide » en cours, mais aussi des crimes contre l’humanité et des cri",
-      "date": "2026-06-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Sécurité humaine : six initiatives récompensées pour leur réponse à des crises imbriquées",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159036",
-      "desc": "Conflits, changement climatique, déplacements forcés, crises sanitaires, insécurité alimentaire : alors que les risques auxquels sont confrontées les populations se renforcent de plus en plus mutuellement et que les ressources se resserrent, les Nations Unies ont décerné lundi les premiers Prix de l",
-      "date": "2026-06-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "L’ONU dénonce le recours généralisé et brutal à la violence sexuelle au Soudan",
-      "link": "https://news.un.org/feed/view/fr/story/2026/06/1159042",
-      "desc": "Les violences sexuelles sont systématiquement utilisées comme tactique pour terroriser et traumatiser la population civile au Soudan, dénonce un nouveau rapport de l'ONU, qui constate que ces violences ont accompagné l’extension géographique du conflit dans ce pays, ainsi que les déplacements de pop",
       "date": "2026-06-23T12:00:00",
       "source": "ONU Info"
     },
