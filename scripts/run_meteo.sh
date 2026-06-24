@@ -1,5 +1,6 @@
 #!/bin/bash
 cd "/c/Users/avena/Desktop/radio sources De Vie"
+export PYTHONUTF8=1
 source .env
 TODAY=$(date '+%Y-%m-%d')
 echo "🌡️ Météo — $(date '+%Hh%M')"

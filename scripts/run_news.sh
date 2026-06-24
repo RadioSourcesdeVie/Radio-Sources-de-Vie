@@ -1,5 +1,6 @@
 #!/bin/bash
 cd "/c/Users/avena/Desktop/radio sources De Vie"
+export PYTHONUTF8=1
 source .env
 echo "📰 Nouvelles — $(date '+%Hh%M')"
 python fetch_news.py
