@@ -1,8 +1,29 @@
 {
   "category": "monde",
   "date": "2026-06-24",
-  "updated": "2026-06-24T16:11:36.036272Z",
+  "updated": "2026-06-24T16:28:15.402117Z",
   "articles": [
+    {
+      "title": "Canicule : \"la plus grande priorité, c'est de garder notre planète habitable\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-canicule-la-plus-grande-priorit%C3%A9-c-est-de-garder-notre-plan%C3%A8te-habitable",
+      "desc": "Alors que la France connaît une nouvelle canicule, Tatiana Giraud, chercheuse en évolution, écologie et biodiversité et directrice de recherche au CNRS, alerte sur les effets du dérèglement climatique. Invitée de France 24, elle explique que les forêts, affaiblies par le stress hydrique et les séche",
+      "date": "2026-06-24T16:19:51",
+      "source": "France 24"
+    },
+    {
+      "title": "Football : Ronaldinho va reprendre du service à 46 ans",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-football-ronaldinho-va-reprendre-du-service-%C3%A0-46-ans",
+      "desc": "L'ancien Ballon d'Or et champion du monde Ronaldinho dévoile son nouveau maillot lors de sa présentation à Miami, en marge de la Coupe du monde aux États-Unis. À 46 ans, la légende brésilienne sort de sa retraite pour rejoindre Ravenne, club de 3e division italienne.",
+      "date": "2026-06-24T15:45:02",
+      "source": "France 24"
+    },
+    {
+      "title": "Une cathédrale à Kiev incendiée : les pro-russes accusent l’Ukraine avec de fausses preuves",
+      "link": "https://www.france24.com/fr/europe/20260624-une-cath%C3%A9drale-%C3%A0-kiev-incendi%C3%A9e-les-pro-russes-accusent-l-ukraine-avec-de-fausses-preuves",
+      "desc": "Des internautes pro-kremlin accusent l'Ukraine d'être responsable d'une frappe qui a entraîné un incendie à la cathédrale de la Dormition à Kiev, inscrite au patrimoine de l'Unesco. Les images qu'ils prétendent le prouver ont été générées par IA.",
+      "date": "2026-06-24T15:43:50",
+      "source": "France 24"
+    },
     {
       "title": "Soudan : El-Obeid au bord de la catastrophe humanitaire selon l'ONU",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-soudan-el-obeid-au-bord-de-la-catastrophe-humanitaire-selon-l-onu",
@@ -15,27 +36,6 @@
       "link": "https://www.france24.com/fr/am%C3%A9riques/20260624-pr%C3%A9sidentielle-en-colombie-le-candidat-de-gauche-reconna%C3%AEt-la-victoire-d-abelardo-de-la-espriella",
       "desc": "",
       "date": "2026-06-24T15:18:05",
-      "source": "France 24"
-    },
-    {
-      "title": "Présidentielle en Colombie : le candidat de gauche reconnaît la victoire d'Abelardo de la Espriella",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260624-pr%C3%A9sidentielle-en-colombie-le-candidat-de-gauche-reconna%C3%AEt-la-victoire-d-abelardo-de-la-espriella",
-      "desc": "Trois jours après le second tour d'élection présidentielle le plus serré de l'histoire du pays, et alors qu'il en rejetait initialement les résultats, le candidat de gauche, Iván Cepeda, a finalement reconnu mercredi la victoire de celui de l'ultradroite, Abelardo de la Espriella.",
-      "date": "2026-06-24T15:15:29",
-      "source": "France 24"
-    },
-    {
-      "title": "RD Congo : Ebola gagne du terrain dans les mines d’or de Mongbwalu",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-rd-congo-ebola-gagne-du-terrain-dans-les-mines-d-or-de-mongbwalu",
-      "desc": "L’épidémie d’Ebola continue de s’étendre en République démocratique du Congo, avec plus de 250 morts selon le dernier bilan officiel. À Mongbwalu, l’un des principaux foyers de contamination, les mineurs poursuivent leur activité faute d’alternative économique, malgré la peur de la maladie et les di",
-      "date": "2026-06-24T15:08:33",
-      "source": "France 24"
-    },
-    {
-      "title": "Ebola : premier cas confirmé en France",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260624-ebola-premier-cas-confirm%C3%A9-en-france",
-      "desc": "La France a confirmé son premier cas d’Ebola lié à l’épidémie en cours en RDC : un médecin de retour d’une mission humanitaire a été placé à l’isolement, tandis que les autorités ont lancé le traçage de ses contacts et assurent que le risque pour la population reste très faible.",
-      "date": "2026-06-24T15:03:08",
       "source": "France 24"
     },
     {
