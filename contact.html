@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Contact — Radio Sources de Vie</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+<style>
+*{margin:0;padding:0;box-sizing:border-box}
+:root{--green:#2D6A4F;--green-dark:#1B4332;--green-light:#52B788;--green-pale:#D8F3DC;--gold:#B7791F;--white:#FFFFFF;--gray:#6B7280;--light:#F9FAFB;--text:#111827}
+body{font-family:'Inter',sans-serif;color:var(--text);background:var(--white)}
+
+/* HEADER */
+header{background:var(--green-dark);padding:0 2rem;display:flex;align-items:center;justify-content:space-between;height:70px;position:sticky;top:0;z-index:100;box-shadow:0 2px 10px rgba(0,0,0,0.2)}
+.logo{display:flex;align-items:center;gap:12px}
+.logo-name{font-family:'Playfair Display',serif;font-size:1.2rem;color:var(--white);font-weight:700}
+.logo-sub{font-size:.7rem;color:rgba(255,255,255,.6);letter-spacing:1px}
+nav{display:flex;align-items:center;gap:1.5rem}
+nav a.nav-links{color:rgba(255,255,255,.85);text-decoration:none;font-size:.9rem;font-weight:500;transition:color .2s}
+nav a.nav-links:hover{color:var(--white)}
+.btn-live{background:#DC2626;color:var(--white);padding:8px 18px;border-radius:20px;font-size:.85rem;font-weight:600;text-decoration:none;display:flex;align-items:center;gap:6px;animation:pulse-red 2s infinite}
+@keyframes pulse-red{0%,100%{opacity:1}50%{opacity:.8}}
+
+/* HERO */
+.hero{background:linear-gradient(135deg,var(--green-dark) 0%,var(--green) 100%);padding:3rem 2rem;text-align:center;color:var(--white)}
+.hero-cross{font-size:2rem;margin-bottom:.5rem;opacity:.8}
+.hero h1{font-family:'Playfair Display',serif;font-size:clamp(1.8rem,4vw,2.8rem);font-weight:900;margin-bottom:.8rem}
+.hero p{color:rgba(255,255,255,.8);font-size:1rem;max-width:550px;margin:0 auto}
+
+/* CONTACT */
+.contact-wrap{max-width:700px;margin:0 auto;padding:3rem 1.5rem}
+.contact-cards{display:flex;gap:1.2rem;flex-wrap:wrap;justify-content:center;margin-bottom:2.5rem}
+.contact-card{background:var(--light);border:1px solid var(--green-pale);border-radius:14px;padding:1.5rem;flex:1;min-width:200px;text-align:center;transition:transform .2s,box-shadow .2s}
+.contact-card:hover{transform:translateY(-3px);box-shadow:0 8px 24px rgba(45,106,79,.12)}
+.contact-icon{font-size:2rem;margin-bottom:.6rem}
+.contact-card h3{font-family:'Playfair Display',serif;font-size:1.05rem;color:var(--green-dark);margin-bottom:.4rem}
+.contact-card a{color:var(--green);text-decoration:none;font-weight:600;font-size:.92rem;word-break:break-word}
+.contact-card a:hover{text-decoration:underline}
+.contact-card p{color:var(--gray);font-size:.85rem}
+
+/* FORM */
+.form-section{background:var(--light);border-radius:16px;padding:2rem;box-shadow:0 4px 20px rgba(0,0,0,.05)}
+.form-section h2{font-family:'Playfair Display',serif;font-size:1.5rem;color:var(--green-dark);text-align:center;margin-bottom:.4rem}
+.form-section .form-sub{text-align:center;color:var(--gray);font-size:.9rem;margin-bottom:1.8rem}
+.form-group{margin-bottom:1.2rem}
+.form-group label{display:block;font-size:.85rem;font-weight:600;color:var(--text);margin-bottom:.4rem}
+.form-group input,.form-group textarea{width:100%;padding:.8rem 1rem;border:1px solid #D1D5DB;border-radius:10px;font-family:'Inter',sans-serif;font-size:.95rem;color:var(--text);background:var(--white);transition:border-color .2s}
+.form-group input:focus,.form-group textarea:focus{outline:none;border-color:var(--green-light);box-shadow:0 0 0 3px rgba(82,183,136,.15)}
+.form-group textarea{resize:vertical;min-height:130px}
+.btn-submit{width:100%;background:var(--green);color:var(--white);border:none;padding:.9rem;border-radius:10px;font-family:'Inter',sans-serif;font-size:1rem;font-weight:600;cursor:pointer;transition:background .2s}
+.btn-submit:hover{background:var(--green-dark)}
+.form-note{text-align:center;font-size:.78rem;color:var(--gray);margin-top:1rem}
+#form-status{text-align:center;font-size:.9rem;margin-top:1rem;padding:.6rem;border-radius:8px;display:none}
+#form-status.success{display:block;background:var(--green-pale);color:var(--green-dark)}
+#form-status.error{display:block;background:#FEE2E2;color:#B91C1C}
+
+/* FOOTER */
+footer{background:var(--green-dark);border-top:1px solid rgba(255,255,255,.1);padding:1.5rem 2rem;text-align:center;color:rgba(255,255,255,.6);font-size:.8rem}
+footer a{color:var(--green-light);text-decoration:none}
+footer strong{color:var(--white)}
+
+@media(max-width:600px){
+  header{padding:0 1rem}
+  nav{gap:.8rem}
+  nav a.nav-links{display:none}
+  .contact-wrap{padding:2rem 1rem}
+}
+</style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="logo">
+    <img src="RSDV_Zeno_Logo_2.png" alt="Logo" style="width:52px;height:52px;border-radius:50%;object-fit:cover;">
+    <div>
+      <div class="logo-name">Radio Sources de Vie</div>
+      <div class="logo-sub">STATION CHRÉTIENNE</div>
+    </div>
+  </div>
+  <nav>
+    <a href="index.html" class="nav-links">Accueil</a>
+    <a href="index.html#horaire" class="nav-links">Horaire</a>
+    <a href="archives.html" class="nav-links">Archive</a>
+    <a href="contact.html" class="nav-links">Contact</a>
+    <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank" class="btn-live">
+      <span>●</span> EN DIRECT
+    </a>
+  </nav>
+</header>
+
+<!-- HERO -->
+<div class="hero">
+  <div class="hero-cross">✝</div>
+  <h1>Contactez-nous</h1>
+  <p>Une question, un témoignage à partager, ou une annonce à diffuser ? Nous serions heureux de vous lire.</p>
+</div>
+
+<!-- CONTACT -->
+<div class="contact-wrap">
+
+  <div class="contact-cards">
+    <div class="contact-card">
+      <div class="contact-icon">📧</div>
+      <h3>Email</h3>
+      <a href="mailto:contact@radiosourcesdevie.org">contact@radiosourcesdevie.org</a>
+    </div>
+    <div class="contact-card">
+      <div class="contact-icon">▶️</div>
+      <h3>YouTube</h3>
+      <a href="https://www.youtube.com/channel/UCxWzOPQv5SbqBThsrKqupJA" target="_blank">Notre chaîne YouTube</a>
+      <p style="margin-top:.4rem">Abonnez-vous &amp; activez la cloche 🔔</p>
+    </div>
+  </div>
+
+  <div class="form-section">
+    <h2>Écrivez-nous</h2>
+    <p class="form-sub">Remplissez le formulaire ci-dessous — votre message nous parviendra directement.</p>
+
+    <form id="contact-form" action="https://formspree.io/f/xkolovbk" method="POST">
+      <div class="form-group">
+        <label for="name">Votre nom</label>
+        <input type="text" id="name" name="name" placeholder="Jean Dupont" required>
+      </div>
+      <div class="form-group">
+        <label for="email">Votre email</label>
+        <input type="email" id="email" name="email" placeholder="vous@exemple.com" required>
+      </div>
+      <div class="form-group">
+        <label for="message">Votre message</label>
+        <textarea id="message" name="message" placeholder="Écrivez votre message ici..." required></textarea>
+      </div>
+      <button type="submit" class="btn-submit">Envoyer le message</button>
+      <div id="form-status"></div>
+      <p class="form-note">🙏 Que Dieu vous bénisse. Nous répondons dès que possible.</p>
+    </form>
+  </div>
+
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <strong>Radio Sources de Vie Chrétienne</strong> • Ottawa, Canada • Diffusion mondiale<br><br>
+  <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank">🎙️ Écouter en direct</a> &nbsp;|&nbsp;
+  <a href="archives.html">📚 Archives</a> &nbsp;|&nbsp;
+  <a href="contact.html">✉️ Contact</a><br><br>
+  <em>"Je suis le chemin, la vérité et la vie." — Jean 14:6</em>
+</footer>
+
+<script>
+const form = document.getElementById('contact-form');
+const status = document.getElementById('form-status');
+form.addEventListener('submit', async function(e){
+  e.preventDefault();
+  const data = new FormData(form);
+  try {
+    const res = await fetch(form.action, {
+      method: 'POST',
+      body: data,
+      headers: { 'Accept': 'application/json' }
+    });
+    if(res.ok){
+      status.className = 'success';
+      status.textContent = '✅ Merci ! Votre message a bien été envoyé.';
+      form.reset();
+    } else {
+      status.className = 'error';
+      status.textContent = '❌ Une erreur est survenue. Réessayez ou écrivez-nous directement par email.';
+    }
+  } catch(err){
+    status.className = 'error';
+    status.textContent = '❌ Une erreur est survenue. Réessayez ou écrivez-nous directement par email.';
+  }
+});
+</script>
+
+</body>
+</html>
