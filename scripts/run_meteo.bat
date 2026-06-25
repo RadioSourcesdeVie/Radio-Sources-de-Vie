@@ -1,2 +1,3 @@
-cd /d "C:\Users\avena\Desktop\Radio Sources De Vie" 
-"C:\Program Files\Git\bin\bash.exe" scripts/run_meteo.sh 
+@echo off
+cd /d "%~dp0.."
+"C:\Program Files\Git\bin\bash.exe" scripts/run_meteo.sh
