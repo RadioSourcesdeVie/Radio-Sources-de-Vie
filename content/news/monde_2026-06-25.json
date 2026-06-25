@@ -1,49 +1,56 @@
 {
   "category": "monde",
   "date": "2026-06-25",
-  "updated": "2026-06-25T09:00:16.855834Z",
+  "updated": "2026-06-25T11:00:14.685943Z",
   "articles": [
+    {
+      "title": "Canicule : plus de dix heures d'attente pour les passagers d'un Eurostar",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-canicule-plus-de-dix-heures-d-attente-pour-les-passagers-d-un-eurostar",
+      "desc": "Des centaines de passagers ont dû patienter plus de dix heures après l'immobilisation d'un train Eurostar sous une chaleur écrasante. Parti de Paris, le train s'est arrêté près de Compiègne à la suite d'une alerte incendie. Les voyageurs racontent cette longue attente dans des conditions particulièr",
+      "date": "2026-06-25T10:24:51",
+      "source": "France 24"
+    },
+    {
+      "title": "🔴 Séismes au Venezuela en direct : au moins 164 morts et 1000 blessés, selon Delcy Rodríguez",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-en-direct-s%C3%A9isme-venezuela",
+      "desc": "",
+      "date": "2026-06-25T10:24:11",
+      "source": "France 24"
+    },
+    {
+      "title": "Emmanuel Macron reçoit la Première ministre italienne pour mettre en scène leur \"bonne entente\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-emmanuel-macron-re%C3%A7oit-la-premi%C3%A8re-ministre-italienne-pour-mettre-en-sc%C3%A8ne-leur-bonne-entente",
+      "desc": "Emmanuel Macron reçoit la Première ministre italienne Giorgia Meloni à Antibes pour le premier sommet bilatéral franco-italien depuis son arrivée au pouvoir en 2022. Après plusieurs années de tensions, les deux dirigeants veulent relancer leur coopération sur des dossiers stratégiques comme la défen",
+      "date": "2026-06-25T10:23:04",
+      "source": "France 24"
+    },
+    {
+      "title": "Tunisie : huit ans de prison pour la militante anti-raciste Saadia Mosbah",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-tunisie-huit-ans-de-prison-pour-la-militante-anti-raciste-saadia-mosbah",
+      "desc": "En Tunisie, la peine de prison de la militante antiraciste Saadia Mosbah a été confirmée en appel mardi 23 juin, selon ses avocats. Fondatrice de l’association Mnemty, engagée dans la lutte contre les discriminations raciales, elle avait été arrêtée le 6 mai 2024 et poursuivie, avec d’autres membres",
+      "date": "2026-06-25T10:18:59",
+      "source": "France 24"
+    },
+    {
+      "title": "Manifestations au Kenya : deux ans après, la peur d'un nouveau drame",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-manifestations-au-kenya-deux-ans-apr%C3%A8s-la-peur-d-un-nouveau-drame",
+      "desc": "Au Kenya, ce 25 juin marque le deuxième anniversaire des manifestations contre la loi de finances de 2024, dont la répression avait fait plus de 60 morts et des centaines de blessés. Alors que la société civile appelle à de nouveaux rassemblements, beaucoup redoutent une réponse musclée des autorité",
+      "date": "2026-06-25T10:15:49",
+      "source": "France 24"
+    },
+    {
+      "title": "« Je pensais que j'allais mourir » : les Vénézuéliens décrivent la panique provoquée par le tremblement de terre",
+      "link": "https://www.bbc.com/afrique/articles/c0eyx485zzeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Deux séismes ont frappé la capitale à quelques secondes d'intervalle, le premier d'une magnitude de 7,2 et le second de 7,5.",
+      "date": "2026-06-25T09:58:46",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Pourquoi de nombreux joueurs de la Coupe du monde ne représentent pas leur pays d'origine ?",
       "link": "https://www.bbc.com/afrique/articles/ckg76e0m1vlo?at_medium=RSS&at_campaign=rss",
       "desc": "Près d'un quart des footballeurs participant au tournoi de 2026 ne jouent pas pour leur pays de naissance, un record historique.",
       "date": "2026-06-25T08:16:36",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "🔴 Séismes au Venezuela : les États-Unis, la Chine et l'Amérique latine proposent leur aide, suivez notre direct",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-en-direct-s%C3%A9isme-venezuela",
-      "desc": "",
-      "date": "2026-06-25T07:47:59",
-      "source": "France 24"
-    },
-    {
-      "title": "Séismes au Venezuela en direct : les États-Unis vont \"immédiatement\" déployer des secouristes",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-en-direct-s%C3%A9isme-venezuela",
-      "desc": "Après le double séisme mortel qui a frappé le Venezuela, la communauté internationale se mobilise jeudi pour venir en aide au pays frappé par la catastrophe naturelle. Inde, Chine et États-Unis ont proposé leurs services. Washington va même \"immédiatement\" déployer des secouristes et de l'aide human",
-      "date": "2026-06-25T07:30:57",
-      "source": "France 24"
-    },
-    {
-      "title": "En images : deux puissants séismes au Venezuela causent de graves dégâts",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260625-images-venezuela-puissants-s%C3%A9ismes-d%C3%A9g%C3%A2ts",
-      "desc": "Le Venezuela a été frappé, mercredi, par deux puissants séismes de magnitudes 7,2 et 7,5 ayant fait au moins des dizaines de morts et des centaines de blessés. La présidente par intérim Delcy Rodriguez a décrété l'état d'urgence, et les États-Unis ont annoncé déployer des secouristes et de l'aide hu",
-      "date": "2026-06-25T07:08:35",
-      "source": "France 24"
-    },
-    {
-      "title": "Canicule : Violence écologique...et politique",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260625-canicule-violence-%C3%A9cologique-et-politique",
-      "desc": "Pour le média de l'écologie Reporterre, les canicules à répétition sont le résultat de choix : ceux des dirigeants qui balaient les objectifs climatiques, omnubilés par la sacro-sainte croissance.",
-      "date": "2026-06-25T06:25:43",
-      "source": "France 24"
-    },
-    {
-      "title": "Canicule en Europe, \"la nouvelle normalité?\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260625-canicule-en-europe-la-nouvelle-normalit%C3%A9",
-      "desc": "A la Une de la presse, ce jeudi 15 juin, la canicule en Europe, où les records de température tombent les uns après les autres. Et deux documents préoccupants: un rapport sénatorial, publié hier, qui alerte sur la menace masculiniste en France.  Et un autre, publié aujourd’hui par Amnesty Internatio",
-      "date": "2026-06-25T05:49:20",
-      "source": "France 24"
     },
     {
       "title": "L'Achoura : une journée de foi, de mémoire et d'histoire pour les musulmans",
@@ -100,13 +107,6 @@
       "desc": "Dans la région du Kordofan, au Soudan, la détérioration de la situation sécuritaire à El Obeid prive les populations de soins et d’une aide humanitaire indispensables, ont alerté mercredi des agences des Nations Unies. Elles avertissent que la poursuite des violences, qui entrave l’accès humanitaire",
       "date": "2026-06-24T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Mariage insolite: Des jumeaux épousent des jumelles lors d'un joyeux mariage conjoint au Nigéria",
-      "link": "https://www.bbc.com/afrique/articles/ckg02v5nllvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les frères jumeaux Taiwo et Kehinde Oguntoye se confient à la BBC après leur mariage avec deux sœurs jumelles.",
-      "date": "2026-06-24T10:20:07",
-      "source": "BBC Afrique"
     }
   ]
 }
