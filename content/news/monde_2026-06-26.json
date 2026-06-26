@@ -1,21 +1,49 @@
 {
   "category": "monde",
   "date": "2026-06-26",
-  "updated": "2026-06-26T09:00:16.592339Z",
+  "updated": "2026-06-26T11:00:15.228573Z",
   "articles": [
     {
-      "title": "Immigration : l’Espagne à contre-courant",
-      "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260626-immigration-l-espagne-%C3%A0-contre-courant",
-      "desc": "En Espagne, la régularisation exceptionnelle d’un demi-million de sans-papiers se poursuit. À contre-courant de ses voisins européens, le gouvernement socialiste de Pedro Sanchez mise sur l’immigration, indispensable à son économie florissante. Pourtant, cette mesure est loin de faire l’unanimité, f",
-      "date": "2026-06-26T08:52:22",
+      "title": "Mondial 2026 : Pourquoi la France est le plus grand vivier de joueurs du tournoi ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260626-mondial-2026-pourquoi-la-france-est-le-plus-grand-vivier-de-joueurs-du-tournoi",
+      "desc": "Sur les 1 248 joueurs qui participent au Mondial, 99 sont nés et ont été formés en France, un record. Certaines sélections comme l’Algérie, le Maroc, Haïti et le Sénégal comptent au moins un tiers de leur effectif formé dans l’Hexagone. Des chiffres qui ne doivent rien au hasard et qui témoignent no",
+      "date": "2026-06-26T10:45:26",
       "source": "France 24"
     },
     {
-      "title": "Canicule : la France en surchauffe",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260626-canicule-la-france-en-surchauffe",
-      "desc": "A la Une du 26 juin, le jour d'après le double séisme qui a frappé le Venezuela, la France et la canicule qui n'en finit plus et le dernier match de poules des Bleus à la Coupe du monde de football.",
-      "date": "2026-06-26T08:51:12",
+      "title": "Calais : rencontre avec des migrants qui tentent la traversée de la Manche en bateau",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260626-calais-rencontre-avec-des-migrants-qui-tentent-la-travers%C3%A9e-de-la-manche-en-bateau",
+      "desc": "La Manche est devenue l'une des routes migratoires les plus empruntées d'Europe. Chaque année, des milliers de migrants tentent de rejoindre clandestinement le Royaume-Uni à bord d'embarcations de fortune. Malgré le renforcement des moyens de surveillance et de coopération entre Londres et Paris, pl",
+      "date": "2026-06-26T10:34:11",
       "source": "France 24"
+    },
+    {
+      "title": "Qualification de la Côte d'ivoire, Sihem Bensedrine condamnée en Tunisie : l'hebdo Afrique",
+      "link": "https://www.france24.com/fr/afrique/20260626-qualification-c%C3%B4te-ivoire-mondial-sihem-bensedrine-condamn%C3%A9e-en-tunisie-hebdo-afrique",
+      "desc": "",
+      "date": "2026-06-26T10:26:35",
+      "source": "France 24"
+    },
+    {
+      "title": "Élections provinciales de Nouvelle-Calédonie : un scrutin majeur sans enthousiasme",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260626-%C3%A9lections-provinciales-de-nouvelle-cal%C3%A9donie-un-scrutin-majeur-sans-enthousiasme",
+      "desc": "Contrôle de la province Sud, majorité au Congrès, reprise des discussions institutionnelles: les électeurs calédoniens sont appelés aux urnes dimanche pour renouveler les assemblées des trois provinces, lors d'un scrutin aux enjeux bien au-delà d'une simple élection locale.",
+      "date": "2026-06-26T09:58:03",
+      "source": "France 24"
+    },
+    {
+      "title": "Santé mentale : pourquoi tant de jeunes Martiniquais souffrent de mal-être",
+      "link": "https://www.france24.com/fr/france/20260626-sant%C3%A9-mentale-pourquoi-tant-de-jeunes-martiniquais-souffrent-de-mal-%C3%AAtre",
+      "desc": "Près d’un jeune adulte sur deux en Martinique souffrirait de mal-être ou de dépression, c’est deux fois plus qu’en Hexagone. Face à des taux de pauvreté et de chômage bien supérieurs à la moyenne nationale, leur santé mentale est fragilisée.",
+      "date": "2026-06-26T09:48:44",
+      "source": "France 24"
+    },
+    {
+      "title": "Qui est le buteur africain de la Coupe du monde plus âgé que Ronaldo et Messi ?",
+      "link": "https://www.bbc.com/afrique/articles/cn9473nxypzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Alors que Cristiano Ronaldo et Lionel Messi semblent mener une bataille personnelle pour réécrire le livre des records de la Coupe du monde, un point de repère apparaît au-delà d'eux.",
+      "date": "2026-06-26T09:19:20",
+      "source": "BBC Afrique"
     },
     {
       "title": "Qu'est-ce que le « doublet sismique » qui a secoué le Venezuela et pourquoi a-t-il causé autant de dégâts ?",
@@ -23,27 +51,6 @@
       "desc": "Deux séismes quasi consécutifs ont secoué le nord du Venezuela ce mercredi, précisément au niveau du système de failles où se rencontrent les plaques des Caraïbes et d'Amérique du Sud. Les scientifiques observent avec attention cette séquence qui, bien que peu fréquente, a déjà eu lieu dans la régio",
       "date": "2026-06-26T08:40:35",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Canicule en direct : la Marche des fiertés prévue samedi à Paris reportée",
-      "link": "https://www.france24.com/fr/france/20260626-en-direct-france-%C3%A9pisode-canicule-morts-climat",
-      "desc": "Le bilan des morts par noyade en France depuis le début de l'épisode de canicule s'élève à 55 et le gouvernement craint qu'il ne s'alourdisse encore, a déclaré vendredi la ministre des Sports Marina Ferrari. À Paris, la Marche des fiertés prévue samedi a été reportée, ont annoncé ses organisateurs. ",
-      "date": "2026-06-26T08:29:16",
-      "source": "France 24"
-    },
-    {
-      "title": "Sihem Bensedrine, figure de la justice transitionnelle en Tunisie, condamnée à 25 ans de prison",
-      "link": "https://www.france24.com/fr/afrique/20260626-sihem-bensedrine-figure-de-la-justice-transitionnelle-en-tunisie-condamn%C3%A9e-%C3%A0-25-ans-de-prison",
-      "desc": "La militante tunisienne des droits humains Sihem Bensedrine, figure de l’opposition et ancienne présidente de l’Instance vérité et dignité, a annoncé vendredi à l’AFP avoir été condamnée à 25 ans de prison dans des affaires liées à la justice transitionnelle, qui visait à enquêter sur les exactions ",
-      "date": "2026-06-26T08:26:28",
-      "source": "France 24"
-    },
-    {
-      "title": "L'actu en dessin : au Royaume-Uni, la démission du Premier ministre Keir Starmer",
-      "link": "https://www.france24.com/fr/europe/20260626-actu-en-dessin-royaume-uni-d%C3%A9mission-premier-ministre-keir-starmer-brexit-epstein",
-      "desc": "Le Premier ministre britannique, Keir Starmer, a annoncé lundi sa démission, deux ans après son arrivée au pouvoir. Miné par son impopularité et un scandale persistant autour de l'affaire Epstein, le travailliste paye aussi les pots cassés du Brexit, ce que souligne le dessinateur Michel Kichka.",
-      "date": "2026-06-26T08:18:32",
-      "source": "France 24"
     },
     {
       "title": "Coupe du monde 2026 : comment le Sénégal peut-il encore se qualifier pour les 16es de finale ?",
@@ -57,13 +64,6 @@
       "link": "https://www.bbc.com/afrique/articles/c0qy7zqk2g5o?at_medium=RSS&at_campaign=rss",
       "desc": "Le secret d'une chevelure somptueuse dépend de nombreux facteurs, allant de votre type de cheveux à la forme de votre peigne",
       "date": "2026-06-25T16:57:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "\"Ce n'était pas un héros\" : comment les origines médiévales sombres et violentes de Robin des Bois ont été effacées",
-      "link": "https://www.bbc.com/afrique/articles/cjdgz81828mo?at_medium=RSS&at_campaign=rss",
-      "desc": "La complexité du personnage de Robin des Bois remet en question un monde polarisé où les héros et les méchants sont généralement soit totalement bons, soit totalement mauvais.",
-      "date": "2026-06-25T14:36:46",
       "source": "BBC Afrique"
     },
     {
