@@ -1,5 +1,6 @@
 {
-  "updated": "2026-06-26T09:00:02.435576Z",
+  "date": "2026-06-26",
+  "title": "Météo du 26 June 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 17.01,
@@ -15,5 +16,6 @@
     "humidity": 80,
     "description": "Partiellement nuageux",
     "wind_kmh": 6.8
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 26 June 2026 sur Radio Sources de Vie. À Ottawa: 17 degrés Celsius. Couvert. À Port-au-Prince: 24 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
 }
