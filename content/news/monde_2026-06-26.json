@@ -1,41 +1,41 @@
 {
   "category": "monde",
   "date": "2026-06-26",
-  "updated": "2026-06-26T21:00:19.757474Z",
+  "updated": "2026-06-26T21:20:15.121359Z",
   "articles": [
+    {
+      "title": "Le Burkina Faso affirme \"rompre ses relations diplomatiques\" avec la France",
+      "link": "https://www.france24.com/fr/afrique/20260626-burkina-faso-rupture-relations-diplomatiques-france-junte-ibrahim-traore",
+      "desc": "Le Burkina Faso, dirigé par la junte du capitaine Ibrahim Traoré depuis un coup d'État en septembre 2022, a annoncé vendredi la rupture de ses relations diplomatiques avec la France, accusée d'\"activisme incessant\" contre ses intérêts. Paris a répondu regretter une \"décision hostile et sans fondemen",
+      "date": "2026-06-26T21:16:02",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : le Sénégal déroule contre l'Irak et espère voir les 16es de finale",
+      "link": "https://www.france24.com/fr/sports/20260626-mondial-2026-senegal-irak-16es-de-finale",
+      "desc": "",
+      "date": "2026-06-26T21:04:23",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : le Sénégal déroule contre l'Irak et espère voir les 16es de finale",
+      "link": "https://www.france24.com/fr/sports/20260626-mondial-2026-senegal-irak-16es-de-finale",
+      "desc": "Le Sénégal a largement battu l'Irak pour conclure sa phase de groupe de la Coupe du monde. Avec cette troisième place du groupe I, les Lions de la Teranga devront attendre la fin des autres groupes pour savoir s'ils passent en 16es de finale.",
+      "date": "2026-06-26T21:03:19",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : la France s'offre la Norvège et la première place du groupe I",
+      "link": "https://www.france24.com/fr/sports/20260626-mondial-2026-france-norvege-groupe-i",
+      "desc": "",
+      "date": "2026-06-26T20:59:59",
+      "source": "France 24"
+    },
     {
       "title": "Mondial 2026 : la France s'offre la Norvège et la première place du groupe I",
       "link": "https://www.france24.com/fr/sports/20260626-mondial-2026-france-norvege-groupe-i",
       "desc": "La France a facilement battu une Norvège largement remaniée pour s'adjuger la tête du groupe I de la Coupe du monde (4-1). Ousmane Dembélé a marqué un triplé, rejoignant ainsi un cercle fermé composé de Just Fontaine, Mbappé et lui-même.",
       "date": "2026-06-26T20:59:26",
-      "source": "France 24"
-    },
-    {
-      "title": "Cameroun : à Yaoundé, des milliers de ménages luttent pour avoir de l’eau potable",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260626-cameroun-%C3%A0-yaound%C3%A9-des-milliers-de-m%C3%A9nages-luttent-pour-avoir-de-l-eau-potable",
-      "desc": "Au Cameroun, l'accès à l'eau potable demeure un véritable défi pour des milliers de familles. Dans les grandes villes, la demande dépasse largement les capacités d'approvisionnement de la Société en charge. Reportage sur le quotidien de quelques ménages confrontés à la pénurie d'eau à Yaoundé.",
-      "date": "2026-06-26T20:40:48",
-      "source": "France 24"
-    },
-    {
-      "title": "Littérature africaine : Réassi Ouabanzi veut créer des ponts entre l'Afrique et ses diasporas",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260626-litt%C3%A9rature-africaine-r%C3%A9assi-ouabanzi-veut-cr%C3%A9er-des-ponts-entre-l-afrique-et-ses-diasporas",
-      "desc": "Comment donner plus de visibilité aux littératures africaines et afrodescendantes ? Critique littéraire, blogueur et fondateur du blog Chez Gangoueus, Réassi Ouabanzi est l'un des grands passeurs des lettres africaines francophones. À l'occasion de la deuxième édition de Rive Noire Littérature, le f",
-      "date": "2026-06-26T20:29:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Donald Trump menace l'UE sur les taxes numériques, Bruxelles contre-attaque",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260626-donald-trump-menace-l-ue-sur-les-taxes-num%C3%A9riques-bruxelles-contre-attaque",
-      "desc": "Alors que Donald Trump a menacé, vendredi, de frapper de droits de douane de 100 % les pays européens qui mettraient en place une taxation des services numériques, l'Union européenne a assuré en réponse qu'elle réagirait \"rapidement et avec détermination\".",
-      "date": "2026-06-26T20:26:22",
-      "source": "France 24"
-    },
-    {
-      "title": "Au Venezuela, au moins 920 morts après le double séisme",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260626-au-venezuela-au-moins-920-morts-apr%C3%A8s-le-double-s%C3%A9isme",
-      "desc": "Les secouristes s'activaient, vendredi, au Venezuela pour retrouver les survivants du double séisme qui a fait au moins 920 morts, selon les autorités, et quelque 50 000 disparus.",
-      "date": "2026-06-26T20:00:33",
       "source": "France 24"
     },
     {
@@ -102,7 +102,7 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Coupe du monde 2026 : Le Sénégal prend le large devant l'Irak (5-0)",
+      "title": "Coupe du monde 2026 : Le Sénégal écrase l'Irak (5-0)",
       "link": "https://www.bbc.co.uk/afrique/live/cj0geln6re7t?at_medium=RSS&at_campaign=rss",
       "desc": "Le Sénégal affronte l’Irak vendredi dans un match décisif du groupe I de la Coupe du monde 2026.",
       "date": "",

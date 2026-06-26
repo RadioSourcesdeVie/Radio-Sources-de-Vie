@@ -1,5 +1,5 @@
 #!/bin/bash
-cd "/c/Users/avena/Desktop/radio sources De Vie"
+cd "$(dirname "$0")/.." || exit 1
 export PYTHONUTF8=1
 source .env
 TODAY=$(date '+%Y-%m-%d')

@@ -1,6 +1,7 @@
 #!/bin/bash
-cd "/c/Users/avena/Desktop/radio sources De Vie"
+cd "$(dirname "$0")/.." || exit 1
 export PYTHONUTF8=1
+echo "===== NEWS lancé le $(date) — copie démarrée =====" >> "/c/Users/avena/Desktop/Radio Sources De Vie/journal_taches.log"
 source .env
 echo "📰 Nouvelles — $(date '+%Hh%M')"
 python fetch_news.py
