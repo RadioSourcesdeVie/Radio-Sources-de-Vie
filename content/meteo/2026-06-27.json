@@ -1,5 +1,6 @@
 {
-  "updated": "2026-06-27T09:00:02.408128Z",
+  "date": "2026-06-27",
+  "title": "Météo du 27 June 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 16.12,
@@ -15,5 +16,6 @@
     "humidity": 86,
     "description": "Ciel dégagé",
     "wind_kmh": 8.5
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 27 June 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Couvert. À Port-au-Prince: 24 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
 }
