@@ -1,41 +1,41 @@
 {
   "category": "monde",
   "date": "2026-06-27",
-  "updated": "2026-06-27T21:00:15.850691Z",
+  "updated": "2026-06-27T23:52:46.876856Z",
   "articles": [
+    {
+      "title": "RD Congo - Ouzbékistan en direct : les Léopards jouent leur avenir dans la compétition",
+      "link": "https://www.france24.com/fr/sports/20260627-rd-congo-ouzb%C3%A9kistan-en-direct-les-l%C3%A9opards-jouent-leur-avenir-dans-la-comp%C3%A9tition",
+      "desc": "La RD Congo joue son dernier match de phase de groupes face à l'Ouzbékistan, dimanche, au Mercedes-Benz Stadium d'Atlanta. Les Léopards vont devoir faire un résultat pour espérer terminer parmi les meilleurs troisièmes. Suivez le match en direct grâce au live commenté de nos confrères de RFI.",
+      "date": "2026-06-27T23:18:06",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : la Croatie domine le Ghana, l'Angleterre assure l'essentiel face au PanamA",
+      "link": "https://www.france24.com/fr/sports/20260627-mondial-2026-r%C3%A9sum%C3%A9-croatie-ghana-panama-angleterre",
+      "desc": "",
+      "date": "2026-06-27T22:59:24",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : la Croatie domine le Ghana, l'Angleterre assure l'essentiel",
+      "link": "https://www.france24.com/fr/sports/20260627-mondial-2026-r%C3%A9sum%C3%A9-croatie-ghana-panama-angleterre",
+      "desc": "La Croatie a dominé le Ghana (1-1), samedi soir, au Lincoln Financial Field de Philadelphie. Grâce à cette victoire, les Vatreni terminent à la deuxième place du groupe L. Les Black Stars, eux, finissent à la troisième place. Dans l'autre rencontre, l'Angleterre a assuré l'essentiel face au Panama (",
+      "date": "2026-06-27T22:59:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Le Burkina rompt ses relations diplomatiques avec la France, Paris regrette une décision \"hostile\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260627-le-burkina-rompt-ses-relations-diplomatiques-avec-la-france-paris-regrette-une-d%C3%A9cision-hostile",
+      "desc": "La junte burkinabé a annoncé vendredi la rupture des relations diplomatiques avec la France. Les relations entre les deux pays étaient très dégradées, la junte a franchi le pas et les conséquences pourraient être nombreuses.",
+      "date": "2026-06-27T21:46:34",
+      "source": "France 24"
+    },
     {
       "title": "Afrique : pourquoi le don du sang reste-t-il un défi majeur ?",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20260627-afrique-pourquoi-le-don-du-sang-reste-t-il-un-d%C3%A9fi-majeur",
       "desc": "En Afrique, les besoins en sang sont immenses mais les dons restent insuffisants. Chaque année, des milliers de femmes victimes d'hémorragies lors de l'accouchement, d'enfants souffrant d'anémies sévères ou de drépanocytose, ainsi que des accidentés, dépendent d'une transfusion pour survivre. Pourqu",
       "date": "2026-06-27T20:31:04",
-      "source": "France 24"
-    },
-    {
-      "title": "Croatie - Ghana en direct : les Vatreni et les Black Stars au duel pour une place en 16e",
-      "link": "https://www.france24.com/fr/sports/20260627-croatie-ghana-en-direct-les-vatreni-et-les-black-stars-au-duel-pour-une-place-en-16e",
-      "desc": "La Croatie défie le Ghana pour la dernière journée du groupe L, samedi soir, au Lincoln Financial Field de Philadelphie. Un match décisif pour les Vatreni et les Black Stars en vue de la qualification pour les 16es de finale du Mondial 2026. Suivez la rencontre en live grâce à notre direct commenté.",
-      "date": "2026-06-27T20:10:26",
-      "source": "France 24"
-    },
-    {
-      "title": "Lucile Grosjean: \"cette guerre au Soudan, c'est aussi une guerre contre les enfants\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260627-lucile-grosjean-cette-guerre-au-soudan-c-est-aussi-une-guerre-contre-les-enfants",
-      "desc": "Trop souvent sous les radars médiatiques, la guerre qui dure depuis 2023 au Soudan fait toujours rage entre les Forces de Soutien Rapide (FSR) du général Hemedti et les forces gouvernementales du général Al-Buhrane . L'ONU dit craindre un assaut imminent des FSR sur la ville assiégée d'El-Obeid, cap",
-      "date": "2026-06-27T19:48:27",
-      "source": "France 24"
-    },
-    {
-      "title": "Vague de chaleur, négociations au Moyen-Orient, guerre au Soudan et démission de Keir Starmer",
-      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260627-vague-de-chaleur-n%C3%A9gociations-au-moyen-orient-guerre-au-soudan-et-d%C3%A9mission-de-keir-starmer",
-      "desc": "Une vague de chaleur exceptionnelle traverse l'Europe et particulièrement la France. Au Moyen-Orient, une accalmie s'installe suite à la signature du protocole d'accord irano-américain mais les frappes israéliennes se poursuivent sur le Liban. La guerre fait aussi toujours rage au Soudan, où l'ONU c",
-      "date": "2026-06-27T19:06:48",
-      "source": "France 24"
-    },
-    {
-      "title": "Le ministre israélien de la Défense averti que l'armée va rester au Liban, malgré l'accord-cadre",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260627-le-ministre-isra%C3%A9lien-de-la-d%C3%A9fense-averti-que-l-arm%C3%A9e-va-rester-au-liban-malgr%C3%A9-l-accord-cadre",
-      "desc": "Le ministre israélien de la Défense a déclaré samedi que l'armée avait reçu l'ordre de se préparer à un \"séjour prolongé\" dans le secteur qu'elle occupe dans le sud du Liban, au lendemain de l'accord-cadre conclu entre le Liban et Israël pour mettre fin aux hostilités.",
-      "date": "2026-06-27T18:27:27",
       "source": "France 24"
     },
     {
