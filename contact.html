@@ -47,6 +47,8 @@ nav a.nav-links:hover{color:var(--white)}
 .form-group input,.form-group textarea{width:100%;padding:.8rem 1rem;border:1px solid #D1D5DB;border-radius:10px;font-family:'Inter',sans-serif;font-size:.95rem;color:var(--text);background:var(--white);transition:border-color .2s}
 .form-group input:focus,.form-group textarea:focus{outline:none;border-color:var(--green-light);box-shadow:0 0 0 3px rgba(82,183,136,.15)}
 .form-group textarea{resize:vertical;min-height:130px}
+.form-group select{width:100%;padding:.8rem 1rem;border:1px solid #D1D5DB;border-radius:10px;font-family:'Inter',sans-serif;font-size:.95rem;color:var(--text);background:var(--white);cursor:pointer;transition:border-color .2s}
+.form-group select:focus{outline:none;border-color:var(--green-light);box-shadow:0 0 0 3px rgba(82,183,136,.15)}
 .btn-submit{width:100%;background:var(--green);color:var(--white);border:none;padding:.9rem;border-radius:10px;font-family:'Inter',sans-serif;font-size:1rem;font-weight:600;cursor:pointer;transition:background .2s}
 .btn-submit:hover{background:var(--green-dark)}
 .form-note{text-align:center;font-size:.78rem;color:var(--gray);margin-top:1rem}
@@ -115,9 +117,16 @@ footer strong{color:var(--white)}
 
   <div class="form-section">
     <h2>Écrivez-nous</h2>
-    <p class="form-sub">Remplissez le formulaire ci-dessous — votre message nous parviendra directement.</p>
+    <p class="form-sub">Envoyez-nous un message ou partagez une demande de prière — nous serons heureux de vous lire et de prier avec vous. 🙏</p>
 
     <form id="contact-form" action="https://formspree.io/f/xkolovbk" method="POST">
+      <div class="form-group">
+        <label for="type">Type de message</label>
+        <select id="type" name="type" required>
+          <option value="📬 Message / Contact">📬 Message / Contact</option>
+          <option value="🙏 Demande de prière">🙏 Demande de prière</option>
+        </select>
+      </div>
       <div class="form-group">
         <label for="name">Votre nom</label>
         <input type="text" id="name" name="name" placeholder="Jean Dupont" required>
