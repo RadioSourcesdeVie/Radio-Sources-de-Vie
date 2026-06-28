@@ -3,19 +3,19 @@
   "title": "Météo du 28 June 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 15.62,
-    "feels_like": 15.56,
-    "humidity": 89,
-    "description": "Ciel dégagé",
-    "wind_kmh": 5.2
+    "temp": 30.24,
+    "feels_like": 28.65,
+    "humidity": 25,
+    "description": "Nuageux",
+    "wind_kmh": 4.7
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 24.79,
-    "feels_like": 25.57,
-    "humidity": 86,
-    "description": "Couvert",
-    "wind_kmh": 6.8
+    "temp": 31.65,
+    "feels_like": 35.72,
+    "humidity": 58,
+    "description": "Légère pluie",
+    "wind_kmh": 8.9
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 28 June 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Ciel dégagé. À Port-au-Prince: 25 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 28 June 2026 sur Radio Sources de Vie. À Ottawa: 30 degrés Celsius. Nuageux. À Port-au-Prince: 32 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
