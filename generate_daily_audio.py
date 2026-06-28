@@ -60,7 +60,9 @@ def generate_meteo_audio(eleven_key):
         data = json_module.loads(P("weather.json").read_text(encoding="utf-8"))
         ottawa = data.get("ottawa", {})
         pap = data.get("pap", {})
-        date_fr = datetime.now().strftime("%d %B %Y")
+        _mois_fr = ["", "janvier", "février", "mars", "avril", "mai", "juin", "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+        _n = datetime.now()
+        date_fr = f"{_n.day} {_mois_fr[_n.month]} {_n.year}"
         text = f"Bonjour chers auditeurs, voici la météo du {date_fr} sur Radio Sources de Vie. À Ottawa: {round(ottawa.get('temp',0))} degrés Celsius. {ottawa.get('description','')}. À Port-au-Prince: {round(pap.get('temp',0))} degrés Celsius. {pap.get('description','')}. Que Dieu bénisse votre journée!"
         meteo = {"date": TODAY, "title": f"Météo du {date_fr}", "ottawa": ottawa, "pap": pap, "text": text}
         P(json_path).parent.mkdir(parents=True, exist_ok=True)
