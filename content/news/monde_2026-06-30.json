@@ -1,13 +1,41 @@
 {
   "category": "monde",
   "date": "2026-06-30",
-  "updated": "2026-06-30T09:00:16.363252Z",
+  "updated": "2026-06-30T11:00:14.863011Z",
   "articles": [
     {
-      "title": "En Afrique du Sud, journée à risque en pleine campagne contre les immigrés",
-      "link": "https://www.france24.com/fr/afrique/20260630-en-afrique-du-sud-journ%C3%A9e-%C3%A0-risque-en-pleine-campagne-contre-les-immigr%C3%A9s",
-      "desc": "En ce 30 juin, date d'un ultimatum fixé en dehors de tout cadre légal par des groupes citoyens très structurés pour intimer aux étrangers sans papiers l'ordre de quitter le pays, la police est déployée en masse en Afrique du Sud pour parer à d'éventuelles violences.",
-      "date": "2026-06-30T08:53:25",
+      "title": "\"Tellement fou\" : la Nasa à la rescousse du télescope Swift, dans l'espace depuis 2004",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260630-tellement-fou-la-nasa-%C3%A0-la-rescousse-du-t%C3%A9lescope-swift-dans-l-espace-depuis-2004",
+      "desc": "La Nasa lance mardi une mission robotique de sauvetage du télescope Swift. En orbite depuis 2004, l'engin tombe vers la Terre et risque, sans intervention, de brûler prochainement dans l'atmosphère terrestre.",
+      "date": "2026-06-30T09:54:50",
+      "source": "France 24"
+    },
+    {
+      "title": "Déminage d'Ormuz : l'Iran somme la France de \"ne pas compliquer davantage\" la situation",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-d%C3%A9minage-d-ormuz-l-iran-somme-la-france-de-ne-pas-compliquer-davantage-la-situation",
+      "desc": "La diplomatie iranienne a sommé lundi la France de \"ne pas compliquer davantage\" la situation dans le détroit d'Ormuz en proposant de participer à des opérations de déminage, après une déclaration franco-omanaise en ce sens.",
+      "date": "2026-06-30T09:53:10",
+      "source": "France 24"
+    },
+    {
+      "title": "Visite du sultan d’Oman à Paris : l’ambassadeur Nabil Hajlaoui en détaille les enjeux",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-visite-du-sultan-d-oman-%C3%A0-paris-l-ambassadeur-nabil-hajlaoui-en-d%C3%A9taille-les-enjeux",
+      "desc": "La première visite d'État en France du sultan d'Oman Haitham ben Tarik, dont le pays est riverain du détroit d'Ormuz, s'est traduite par une série de contrats pour des groupes français, marquant la volonté des deux pays de renforcer leur coopération au sortir de la guerre dans la région. Les précisi",
+      "date": "2026-06-30T09:52:15",
+      "source": "France 24"
+    },
+    {
+      "title": "Afrique du Sud : inquiétudes et tensions autour de la campagne anti-immigration",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260630-afrique-du-sud-inqui%C3%A9tudes-et-tensions-autour-de-la-campagne-anti-immigration",
+      "desc": "La police est déployée en masse en Afrique du Sud pour parer à d'éventuelles violences mardi, point culminant d'une campagne aux accents xénophobes qui a poussé 25 000 immigrés à l'exode, accusés entre autres de prendre le travail des Sud-Africains.",
+      "date": "2026-06-30T09:25:05",
+      "source": "France 24"
+    },
+    {
+      "title": "Pologne : la reconnaissance des mariages homosexuels, une timide avancée",
+      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260630-pologne-la-reconnaissance-des-mariages-homosexuels-une-timide-avanc%C3%A9e",
+      "desc": "Alors que la Pologne reste l’un des pays les plus restrictifs d’Europe en termes de droits LGBT+, le gouvernement a légalisé fin mai la reconnaissance administrative des mariages homosexuels conclus à l'étranger. Une décision qui fait suite à la condamnation de la Cour de Justice de l’UE, selon laqu",
+      "date": "2026-06-30T09:20:08",
       "source": "France 24"
     },
     {
@@ -16,34 +44,6 @@
       "desc": "Alors que des dizaines de milliers de personnes sont toujours portées disparues, les équipes guettent le moindre signe de vie sous les décombres.",
       "date": "2026-06-30T08:46:59",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Mondial 2026 : les Ivoiriens peuvent-ils faire vaciller les redoutables Norvégiens ?",
-      "link": "https://www.france24.com/fr/sports/20260630-mondial-2026-cote-ivoire-norvege-16es-finale-choc-fae-haaland",
-      "desc": "Pour la première fois de son histoire, la Côte d'Ivoire s'est qualifiée pour la phase à élimination directe d'un Mondial. Pour poursuivre encore plus loin leur aventure, les Ivoiriens vont devoir vaincre la Norvège et sa machine à buts Erling Haaland.",
-      "date": "2026-06-30T08:29:49",
-      "source": "France 24"
-    },
-    {
-      "title": "Comment fonctionnera la nouvelle taxe européenne sur les petits colis importés de l'étranger ?",
-      "link": "https://www.france24.com/fr/europe/20260630-paquets-concern%C3%A9s-objectifs-comment-fonctionnera-la-taxe-europ%C3%A9enne-sur-les-petits-colis",
-      "desc": "À compter de mercredi, les petits colis importés dans l'UE, jusqu'ici exemptés de droits de douane, seront soumis à une nouvelle taxe européenne. Une taxe temporaire mise en place jusqu'à une refonte en profondeur du système douanier européen, prévue dans deux ans.",
-      "date": "2026-06-30T07:07:17",
-      "source": "France 24"
-    },
-    {
-      "title": "Coupe du monde : le Paraguay élimine l'Allemagne dès les 16es de finale",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260630-coupe-du-monde-le-paraguay-%C3%A9limine-l-allemagne-d%C3%A8s-les-16es-de-finale",
-      "desc": "Le Paraguay a créé la sensation en battant l’Allemagne en 16es de finale de la Coupe du monde (1-1, 4 tab à 3). Le Paraguay pourrait affronter la France au tour suivant.",
-      "date": "2026-06-30T07:06:39",
-      "source": "France 24"
-    },
-    {
-      "title": "Washington ou \"Trumptown\" : la tentation du culte de la personnalité architectural",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260630-washington-ou-trumptown-la-tentation-du-culte-de-la-personnalit%C3%A9-architecturale-trump",
-      "desc": "Rénovation d’un golf municipal, extensions à la Maison Blanche, rêves d’arc de triomphe : Donald Trump semble avoir 1 001 projets pour Washington. Pourquoi le président puise-t-il ainsi dans son expérience de magnat de l’immobilier pour laisser sa marque sur la capitale américaine ? Une tentation qu",
-      "date": "2026-06-30T05:58:12",
-      "source": "France 24"
     },
     {
       "title": "Sénégal : Pourquoi la proposition de réforme constitutionnelle portée par le PASTEF sera soumise à un référendum ?",
