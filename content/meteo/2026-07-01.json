@@ -3,19 +3,19 @@
   "title": "Météo du 1 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 27.51,
-    "feels_like": 31.29,
-    "humidity": 83,
-    "description": "Peu nuageux",
-    "wind_kmh": 10.9
+    "temp": 31.37,
+    "feels_like": 38.37,
+    "humidity": 74,
+    "description": "Nuageux",
+    "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 30.1,
-    "feels_like": 33.23,
-    "humidity": 61,
-    "description": "Ciel dégagé",
-    "wind_kmh": 4.9
+    "temp": 33.15,
+    "feels_like": 36.59,
+    "humidity": 50,
+    "description": "Légère pluie",
+    "wind_kmh": 8.8
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 1 juillet 2026 sur Radio Sources de Vie. À Ottawa: 28 degrés Celsius. Peu nuageux. À Port-au-Prince: 30 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 1 juillet 2026 sur Radio Sources de Vie. À Ottawa: 31 degrés Celsius. Nuageux. À Port-au-Prince: 33 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
