@@ -1,7 +1,7 @@
 {
   "category": "monde",
   "date": "2026-07-02",
-  "updated": "2026-07-02T15:00:16.125892Z",
+  "updated": "2026-07-02T16:00:16.838929Z",
   "articles": [
     {
       "title": "Les 10 meilleures universités d'Afrique en 2026",
@@ -60,9 +60,16 @@
       "source": "ONU Info"
     },
     {
+      "title": "EN DIRECT - Réunion d'urgence du Conseil de sécurité sur la guerre au Moyen-Orient",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159092",
+      "desc": "À la demande du Bahreïn, le Conseil de sécurité se réunit en urgence jeudi matin pour faire le point sur la guerre opposant les États-Unis et Israël à l'Iran. Elizabeth Spehar, du département onusien des affaires politiques, fera le point sur les derniers développements. Suivez les discussions en di",
+      "date": "2026-07-02T12:00:00",
+      "source": "ONU Info"
+    },
+    {
       "title": "Ukraine : après l’une des frappes les plus violentes contre Kiev, les secours s’organisent",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159090",
-      "desc": "Les équipes de secours poursuivaient jeudi leurs recherches dans les immeubles effondrés de Kiev, au lendemain de l’une des plus importantes vagues de frappes russes contre la capitale ukrainienne depuis le début de l’invasion à grande échelle.&nbsp;",
+      "desc": "Les équipes de secours poursuivaient jeudi leurs recherches dans les immeubles effondrés de Kiev, au lendemain de l’une des plus importantes attaques russes contre la capitale ukrainienne depuis le début de l’invasion à grande échelle.&nbsp;",
       "date": "2026-07-02T12:00:00",
       "source": "ONU Info"
     },
@@ -84,13 +91,6 @@
       "title": "La peine de mort continue de reculer, mais l'ONU alerte sur des signes inquiétants",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159088",
       "desc": "Pendant des décennies, l’histoire semblait suivre une seule direction. Année après année, des États renonçaient à la peine capitale, des moratoires devenaient définitifs et l’abolition s’imposait peu à peu comme une norme internationale.&nbsp;Mais ce mouvement, longtemps perçu comme irréversible, mo",
-      "date": "2026-07-01T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Séismes au Venezuela : les besoins humanitaires explosent après la catastrophe",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159087",
-      "desc": "Au Venezuela, l’espoir a ressurgi au milieu des décombres : un enfant de trois ans a été retrouvé vivant à La Guaira, six jours après les deux puissants séismes qui ont frappé le pays.",
       "date": "2026-07-01T12:00:00",
       "source": "ONU Info"
     },
