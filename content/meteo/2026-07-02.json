@@ -3,19 +3,19 @@
   "title": "Météo du 2 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 21.55,
-    "feels_like": 22.32,
-    "humidity": 98,
+    "temp": 27.49,
+    "feels_like": 31.76,
+    "humidity": 87,
     "description": "Couvert",
-    "wind_kmh": 8.2
+    "wind_kmh": 3.2
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 24.24,
-    "feels_like": 25.02,
-    "humidity": 88,
-    "description": "Légère pluie",
-    "wind_kmh": 4.9
+    "temp": 29,
+    "feels_like": 31.67,
+    "humidity": 64,
+    "description": "Ciel dégagé",
+    "wind_kmh": 6.2
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 2 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Couvert. À Port-au-Prince: 24 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 2 juillet 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Couvert. À Port-au-Prince: 29 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
 }
