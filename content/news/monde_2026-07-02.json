@@ -1,55 +1,76 @@
 {
   "category": "monde",
   "date": "2026-07-02",
-  "updated": "2026-07-02T11:00:16.687977Z",
+  "updated": "2026-07-02T15:00:16.125892Z",
   "articles": [
     {
-      "title": "En Algérie, jour de vote pour les législatives et crainte d'une abstention massive",
-      "link": "https://www.france24.com/fr/afrique/20260702-en-alg%C3%A9rie-jour-de-vote-pour-les-l%C3%A9gislatives-et-crainte-d-une-abstention-massive",
-      "desc": "Les Algériens sont appelés aux urnes, jeudi, pour élire les membres de leur nouveau Parlement après une campagne morose et avec en toile de fond le taux de participation comme enjeu majeur. Les dernières législatives en 2021 avaient été marquées par un taux de participation de 23 %, le plus bas de l",
-      "date": "2026-07-02T10:47:26",
+      "title": "Les 10 meilleures universités d'Afrique en 2026",
+      "link": "https://www.bbc.com/afrique/articles/c04y3lw1q3po?at_medium=RSS&at_campaign=rss",
+      "desc": "Les universités africaines jouissent d'une reconnaissance croissante sur la scène internationale, grâce à une production scientifique solide, à des collaborations internationales et à une influence académique grandissante.",
+      "date": "2026-07-02T14:56:24",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Venezuela : un survivant coincé huit jours sous les décombres, suite aux séismes, a été sauvé",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-venezuela-un-survivant-coinc%C3%A9-huit-jours-sous-les-d%C3%A9combres-suite-aux-s%C3%A9ismes-a-%C3%A9t%C3%A9-sauv%C3%A9",
+      "desc": "Après être resté coincé huit jours dans les décombres d'un bâtiment au Venezuela, suite au double séisme qui a fait plus de 2 000 morts et des dizaines de milliers de disparus, un homme a été sauvé ce jeudi. Récit de Ludovic de Foucaud.",
+      "date": "2026-07-02T14:54:14",
       "source": "France 24"
     },
     {
-      "title": "Affaire des décrets au Cameroun : le gouvernement sort du silence",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-affaire-des-d%C3%A9crets-au-cameroun-le-gouvernement-sort-du-silence",
-      "desc": "Au Cameroun, l’affaire fait grand bruit depuis plusieurs semaines. Le mois dernier, un individu s'est rendu dans les locaux de la radio nationale à Yaoundé, et y a déposé un pli fermé contenant deux prétendus décrets présidentiels portant les nominations d'un vice-président de la République et d’un ",
-      "date": "2026-07-02T10:35:01",
+      "title": "La fortune de Donald Trump bondit depuis son retour à la présidence des États-Unis",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-la-fortune-de-donald-trump-bondit-depuis-son-retour-%C3%A0-la-pr%C3%A9sidence-des-%C3%A9tats-unis",
+      "desc": "Un rapport officiel qui vient de paraître nous apprend que le président américain s'est terriblement enrichi depuis son retour à la Maison Blanche il y a 18 mois. Il aurait engrangé deux milliards de dollars en 2025. La marque Trump est partout : montres, parfums, chaussures et même ventes de bible.",
+      "date": "2026-07-02T14:52:51",
       "source": "France 24"
     },
     {
-      "title": "Centrafrique : des hommes armés prennent la ville d'Am Dafok à la frontière du Soudan",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-centrafrique-des-hommes-arm%C3%A9s-prennent-la-ville-d-am-dafok-%C3%A0-la-fronti%C3%A8re-du-soudan",
-      "desc": "En République centrafricaine, la ville d’Amdafock, située à la frontière avec le Soudan, a été le théâtre ce mardi d’une violente attaque menée par des groupes armés. Selon les autorités locales, des combattants du Front populaire pour la renaissance de la Centrafrique (FPRC), dirigé par le chef de ",
-      "date": "2026-07-02T10:33:31",
+      "title": "Ruée sur les ventilateurs à l'approche d'une nouvelle canicule en France",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-ru%C3%A9e-sur-les-ventilateurs-%C3%A0-l-approche-d-une-nouvelle-canicule-en-france",
+      "desc": "Une nouvelle hausse des températures est attendue en France ces prochains jours. À travers le pays, les climatiseurs et les ventilateurs sont devenus des denrées rares; l'enseigne Lidl en a fait les frais.",
+      "date": "2026-07-02T14:51:29",
       "source": "France 24"
     },
     {
-      "title": "Google perd son recours européen, amende record de plus de 4 milliards d'euros confirmée",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260702-google-ue-confirme-amende-4-1-milliards-euros-abus-position-dominante",
-      "desc": "La Cour de Justice de l'Union européenne a confirmé, jeudi, l'amende de 4,1 milliards d'euros à l'encontre de Google pour abus de position dominante dans l'écosystème des téléphones mobile. Bruxelles avait infligé cette amende à l'entreprise américaine en 2018, la plus lourde qui ait imposée par l'U",
-      "date": "2026-07-02T10:32:52",
+      "title": "La Russie pilonne Kiev et promet \"d'augmenter la pression\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-la-russie-pilonne-kiev-et-promet-d-augmenter-la-pression",
+      "desc": "Le bilan humain atteint des sommets en Ukraine. Au moins 17 personnes sont mortes cette nuit à Kiev après des attaques russes massives. Les explosions ont duré plusieurs heures dans la capitale. Des immeubles résidentiels se sont effondrés, piégeant des civils sous les décombres. Précisions d’Elena ",
+      "date": "2026-07-02T14:50:33",
       "source": "France 24"
     },
     {
-      "title": "Mondial 2026 : pourquoi le Sénégal s’est effondré en quelques minutes face à la Belgique",
-      "link": "https://www.france24.com/fr/sports/20260702-mondial-2026-comment-expliquer-l-effondrement-du-s%C3%A9n%C3%A9gal-face-%C3%A0-la-suisse",
-      "desc": "L'un des plus grands espoirs africains de la Coupe du monde s'est effondré, mercredi, face à la Belgique. Alors qu’il dominait son sujet, le Sénégal a encaissé deux buts en trois minutes avant de s'incliner sur un penalty à la fin de la prolongation. Certains joueurs et observateurs reprochent au sé",
-      "date": "2026-07-02T10:20:26",
+      "title": "Ukraine : attaque massive russe sur Kiev",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260702-ukraine-attaque-massive-russe-sur-kiev",
+      "desc": "La ⁠Russie a lancé dans ​la nuit de mercredi à jeudi une attaque de drones et de missiles contre la capitale de l'Ukraine, Kyiv, faisant au moins 18 morts selon les services d'urgence, dans une offensive présentée par Moscou comme une riposte aux attaques ​ukrainiennes contre ses infrastructures civ",
+      "date": "2026-07-02T14:39:17",
       "source": "France 24"
+    },
+    {
+      "title": "D'abord la CAN, puis la Coupe du monde : le Sénégal pris au piège dans « l'enfer du football »",
+      "link": "https://www.bbc.com/afrique/articles/cg74358rj53o?at_medium=RSS&at_campaign=rss",
+      "desc": "L'année cauchemardesque du Sénégal se poursuit, avec un effondrement déchirant face à la Belgique, marqué par un penalty dramatique en fin de match qui rappelait étrangement les événements de la finale chaotique de la Coupe d'Afrique des nations de cette année.",
+      "date": "2026-07-02T13:10:54",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "« Tout a explosé » : un stade de baseball devient un refuge après le double séisme au Venezuela",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159091",
+      "desc": "Là où résonnaient autrefois les cris des jeunes joueurs de baseball, des familles dorment désormais sous des bâches. Le stade de Playa Grande, sur la côte centrale du Venezuela, s'est transformé en refuge d'urgence pour des centaines de personnes qui ont perdu leur logement — ou ne peuvent plus y re",
+      "date": "2026-07-02T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ukraine : après l’une des frappes les plus violentes contre Kiev, les secours s’organisent",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159090",
+      "desc": "Les équipes de secours poursuivaient jeudi leurs recherches dans les immeubles effondrés de Kiev, au lendemain de l’une des plus importantes vagues de frappes russes contre la capitale ukrainienne depuis le début de l’invasion à grande échelle.&nbsp;",
+      "date": "2026-07-02T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Les avoirs iraniens gelés : où se trouve l'argent et pourquoi cet enjeu est crucial ?",
       "link": "https://www.bbc.com/afrique/articles/c0lyj2ygxj7o?at_medium=RSS&at_campaign=rss",
       "desc": "L'accès à ces fonds, dont certains estiment la valeur à 100 milliards de dollars, a été l'une des principales demandes de Téhéran, mais ils restent hors de portée en raison des sanctions et des restrictions bancaires.",
       "date": "2026-07-02T08:46:16",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ce que vous devez savoir sur l'équipe de la RD Congo qui affronte l'Angleterre aujourd'hui",
-      "link": "https://www.bbc.com/afrique/articles/c04y32v064do?at_medium=RSS&at_campaign=rss",
-      "desc": "L'Angleterre affrontera la RD Congo en 16es de finale. Voici ce que vous devez savoir à leur sujet.",
-      "date": "2026-07-01T12:20:56",
       "source": "BBC Afrique"
     },
     {
@@ -72,27 +93,6 @@
       "desc": "Au Venezuela, l’espoir a ressurgi au milieu des décombres : un enfant de trois ans a été retrouvé vivant à La Guaira, six jours après les deux puissants séismes qui ont frappé le pays.",
       "date": "2026-07-01T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "L’IA progresse plus vite que notre capacité à la maîtriser, alerte l'ONU",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159086",
-      "desc": "L’intelligence artificielle ne se contente plus d’écrire des textes, de générer des images ou d’aider à programmer. Elle commence à agir seule, à prendre des décisions, à collaborer avec d’autres systèmes et, parfois, à contourner les consignes qui lui sont données.&nbsp;",
-      "date": "2026-07-01T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "L’IA expliquée : pourquoi le monde doit agir maintenant",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159085",
-      "desc": "L’intelligence artificielle (IA) avance à un rythme qui dépasse la capacité des gouvernements et des institutions à l’encadrer.",
-      "date": "2026-07-01T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Un événement plus marquant que le « Rumble in the Jungle » ? La RD Congo tente d'entrer dans l'histoire de la Coupe du monde",
-      "link": "https://www.bbc.com/afrique/articles/cz0jgdvvmjdo?at_medium=RSS&at_campaign=rss",
-      "desc": "La participation de la RD Congo à la Coupe du monde 2026 survient 52 ans après ses débuts désastreux en phase finale et l'un des plus grands événements sportifs qui s'est tenu à Kinshasa.",
-      "date": "2026-07-01T08:26:57",
-      "source": "BBC Afrique"
     },
     {
       "title": "Vous avez suivi la Belgique qui a éliminé le Sénégal après un retour retentissant 3-2",
