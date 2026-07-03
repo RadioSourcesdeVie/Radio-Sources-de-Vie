@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-03T09:00:02.621910Z",
+  "date": "2026-07-03",
+  "title": "Météo du 3 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 21.96,
@@ -15,5 +16,6 @@
     "humidity": 81,
     "description": "Nuageux",
     "wind_kmh": 5.5
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 3 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Ciel dégagé. À Port-au-Prince: 25 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
