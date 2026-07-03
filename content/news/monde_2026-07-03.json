@@ -1,42 +1,70 @@
 {
   "category": "monde",
   "date": "2026-07-03",
-  "updated": "2026-07-03T11:00:15.661102Z",
+  "updated": "2026-07-03T15:00:14.991021Z",
   "articles": [
     {
-      "title": "Italie, l'effet Giorgia Meloni",
-      "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260703-italie-l-effet-giorgia-meloni",
-      "desc": "Le 25 septembre 2022, Giorgia Meloni entrait dans l’histoire en devenant la première femme à diriger l’Italie, portée par un récit puissant : celui d’une enfant des quartiers populaires romains arrivée au sommet du pouvoir grâce a sa popularité. Trois ans et demi plus tard, la lune de miel avec l’op",
-      "date": "2026-07-03T10:54:27",
+      "title": "Ebola en RDC : Cyril Ramaphosa à Kinshasa pour réaffirmer le soutien de Pretoria face à l'épidémie",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-ebola-en-rdc-cyril-ramaphosa-%C3%A0-kinshasa-pour-r%C3%A9affirmer-le-soutien-de-pretoria-face-%C3%A0-l-%C3%A9pid%C3%A9mie",
+      "desc": "Le président sud-africain était en visite à Kinshasa ce jeudi 2 juillet 2026. Ce déplacement de Cyril Ramaphosa en République démocratique du Congo vise à réaffirmer le soutien de Pretoria face au virus Ebola. Déclarée il y a plus de six semaines, l'épidémie a déjà fait plus de 400 morts, selon les ",
+      "date": "2026-07-03T14:57:02",
       "source": "France 24"
     },
     {
-      "title": "L'Amérique de Trump : 250 ans d'histoire revisités",
-      "link": "https://www.france24.com/fr/%C3%A9missions/billet-retour/20260703-l-am%C3%A9rique-de-trump-250-ans-d-histoire-revisit%C3%A9s",
-      "desc": "C'est un anniversaire majeur que les Américains célèbrent cette année : les 250 ans de la Déclaration d’Indépendance. Un rendez-vous historique que Donald Trump entend transformer en apothéose de son second mandat. Pour l’occasion, il a commencé à modifier le visage de Washington. S'y ajoute sa visi",
-      "date": "2026-07-03T10:46:09",
+      "title": "Les 60 ans du début des essais nucléaires en Polynésie française",
+      "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20260703-les-60-ans-du-d%C3%A9but-des-essais-nucl%C3%A9aires-en-polyn%C3%A9sie-fran%C3%A7aise",
+      "desc": "Ce jeudi 2 juillet marquait les 60 ans du premier essai nucléaire effectué par la France en Polynésie, le premier d'une série de 193 au total. Un passé douloureux aux conséquences dévastatrices commémoré, notamment, par l'église protestante. Une grande marche a été organisée pour l'occasion.",
+      "date": "2026-07-03T14:33:29",
       "source": "France 24"
     },
     {
-      "title": "Bad Bunny : la fièvre puertoricaine s'empare de la France",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-bad-bunny-la-fi%C3%A8vre-puertoricaine-s-empare-de-la-france",
-      "desc": "🎭 Bad Bunny : une statue de cire qui raconte bien plus qu’un succès.\n \n🎤🔥 Bad Bunny fait son entrée au musée Grévin, au moment même où il enflamme les scènes françaises. Mais sa statue ne raconte pas seulement son incroyable succès.\n \n🇵🇷 Derrière la ressemblance, chaque détail de cette statue a été ",
-      "date": "2026-07-03T10:42:34",
+      "title": "Ukraine : Kiev en deuil après les frappes russes les plus meurtrières de l’année",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-ukraine-kiev-en-deuil-apr%C3%A8s-les-frappes-russes-les-plus-meurtri%C3%A8res-de-l-ann%C3%A9e",
+      "desc": "À Kiev, les secouristes poursuivent leurs recherches dans les décombres après une série de frappes russes qui ont fait au moins 30 morts et provoqué d’importantes destructions, alors que la ville reste confrontée à une forte pollution de l’air. Dans un contexte de guerre qui s’enlise et de tensions ",
+      "date": "2026-07-03T14:25:23",
       "source": "France 24"
     },
     {
-      "title": "Au Venezuela, la doctrine \"Donroe\" à l'épreuve du séisme",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260703-au-venezuela-la-doctrine-donroe-%C3%A0-l-%C3%A9preuve-du-s%C3%A9isme",
-      "desc": "A la une de la presse ce vendredi : une capitale bombardée, une doctrine contestée et un homme attendu.",
-      "date": "2026-07-03T10:41:04",
+      "title": "Monaco : une Ukrainienne de 39 ans, principale suspecte dans l'explosion d'un colis piégé",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-monaco-une-ukrainienne-de-39-ans-principale-suspecte-dans-l-explosion-d-un-colis-pi%C3%A9g%C3%A9",
+      "desc": "Une Ukrainienne de 39 ans est la principale suspecte recherchée dans l'affaire du colis piégé à Monaco, ​dont l'explosion a fait trois blessés lundi, a confirmé vendredi le procureur adjoint de la principauté, précisant qu'elle s'était \"grimée\" en homme pour agir et qu'elle avait certainement des co",
+      "date": "2026-07-03T14:24:17",
       "source": "France 24"
     },
     {
-      "title": "Canicule en Europe : la chaleur met les travailleurs et les récoltes à rude épreuve",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260703-canicule-en-europe-la-chaleur-met-les-travailleurs-et-les-r%C3%A9coltes-%C3%A0-rude-%C3%A9preuve",
-      "desc": "La canicule continue de frapper l'Europe, avec des températures atteignant plus de 40 °C au Portugal, compliquant le quotidien des travailleurs et poussant certaines villes, comme Barcelone, à renforcer la protection des salariés exposés. En Allemagne, les agriculteurs redoutent déjà des pertes de r",
-      "date": "2026-07-03T10:06:58",
+      "title": "Ukraine : les opérations de secours se poursuivent à Kiev dans un air pollué",
+      "link": "https://www.france24.com/fr/europe/20260703-ukraine-operations-secours-poursuivent-kiev-air-pollue-frappes-russes",
+      "desc": "Alors que le bilan des frappes russes sur Kiev dans la nuit de mercredi à jeudi s'élève désormais à 30 morts et près de 100 blessés, les secouristes continuent vendredi leurs recherches dans les décombres. La capitale ukrainienne est enveloppée de fumée et les services de la municipalité ont signalé",
+      "date": "2026-07-03T14:12:29",
       "source": "France 24"
+    },
+    {
+      "title": "Un essai clinique de traitements contre Ebola débute en République démocratique du Congo",
+      "link": "https://www.bbc.com/afrique/articles/c4gy51qp902o?at_medium=RSS&at_campaign=rss",
+      "desc": "Selon les données de l'OMS, on dénombre 1 406 cas confirmés de la maladie en RDC, 301 cas suspects et 438 décès.",
+      "date": "2026-07-03T13:58:52",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Sept jours et des millions de personnes en deuil : à quoi s'attendre aux funérailles de l'ancien guide suprême iranien Ali Khamenei",
+      "link": "https://www.bbc.com/afrique/articles/czj8wx2ydvlo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les « funérailles du siècle » de l'ancien guide suprême iranien, l'ayatollah Ali Khamenei, débutent à Téhéran ce vendredi 3 juillet, plus de quatre mois après son assassinat.",
+      "date": "2026-07-03T12:47:51",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Dialogue à Genève : encadrer l’IA pour éviter des « dommages catastrophiques »",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159095",
+      "desc": "L’intelligence artificielle peut-elle profiter à l’ensemble de l’humanité, de manière sûre, équitable et sans provoquer de dégâts irréversibles ? C’est la question au cœur d’un important sommet des Nations Unies qui s’ouvre lundi à Genève.",
+      "date": "2026-07-03T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Inondations en Côte d'Ivoire : plus de 50 morts, des quartiers submergés et un gouvernement sous pression",
+      "link": "https://www.bbc.com/afrique/articles/c20yqppzdwwo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ces nouvelles inondations qui ont frappé la Côte d'Ivoire, avec un bilan de 59 morts, rappellent la vulnérabilité du pays face aux pluies torrentielles exacerbées par les changements climatiques.",
+      "date": "2026-07-03T11:24:14",
+      "source": "BBC Afrique"
     },
     {
       "title": "« Je suis venue aux États-Unis en quête de paix, mais je ne l'ai jamais trouvée. »",
@@ -46,25 +74,25 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Un fossile resté dans un tiroir pendant des décennies s'avère être la plus ancienne découverte d'un dinosaure en Antarctique",
-      "link": "https://www.bbc.com/afrique/articles/cy73mvlmj8mo?at_medium=RSS&at_campaign=rss",
-      "desc": "Un fossile d'apparence banale, resté oublié dans un tiroir pendant 40 ans, s'est avéré être le premier os de dinosaure jamais découvert en Antarctique.",
-      "date": "2026-07-02T16:56:58",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les 10 meilleures universités d'Afrique en 2026",
-      "link": "https://www.bbc.com/afrique/articles/c04y3lw1q3po?at_medium=RSS&at_campaign=rss",
-      "desc": "Les universités africaines jouissent d'une reconnaissance croissante sur la scène internationale, grâce à une production scientifique solide, à des collaborations internationales et à une influence académique grandissante.",
-      "date": "2026-07-02T14:56:24",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "D'abord la CAN, puis la Coupe du monde : le Sénégal pris au piège dans « l'enfer du football »",
       "link": "https://www.bbc.com/afrique/articles/cg74358rj53o?at_medium=RSS&at_campaign=rss",
       "desc": "L'année cauchemardesque du Sénégal se poursuit, avec un effondrement déchirant face à la Belgique, marqué par un penalty dramatique en fin de match qui rappelait étrangement les événements de la finale chaotique de la Coupe d'Afrique des nations de cette année.",
       "date": "2026-07-02T13:10:54",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "RDC : l’épidémie d’Ebola s’étend, un essai clinique porteur d’espoir lancé",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159097",
+      "desc": "L’épidémie d’Ebola continue de gagner du terrain dans l’est de la République démocratique du Congo (RDC), où les autorités sanitaires enregistrent en moyenne 38 nouveaux cas confirmés par jour depuis deux semaines, a indiqué jeudi le Directeur général de l’Organisation mondiale de la Santé (OMS).",
+      "date": "2026-07-02T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Sport : le racisme continue de dicter l’accès aux terrains",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159096",
+      "desc": "Le sport est souvent présenté comme un langage universel, capable de transcender les frontières, les origines et les croyances. Pourtant, derrière cette image d’inclusion, les discriminations raciales continuent de déterminer qui peut accéder aux terrains, progresser jusqu’à un haut niveau ou exerce",
+      "date": "2026-07-02T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Burkina Faso : l’ONU ferme son bureau des droits de l’homme",
@@ -78,34 +106,6 @@
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159091",
       "desc": "Là où résonnaient autrefois les cris des jeunes joueurs de baseball, des familles dorment désormais sous des bâches. Le stade de Playa Grande, sur la côte centrale du Venezuela, s'est transformé en refuge d'urgence pour des centaines de personnes qui ont perdu leur logement — ou ne peuvent plus y re",
       "date": "2026-07-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Guerre au Moyen-Orient : le cessez-le-feu mis à rude épreuve",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159092",
-      "desc": "Le cessez-le-feu entre les États-Unis et l’Iran a tenu bon. Mais il s’en est fallu de peu. Après un nouvel accès de tensions militaires en fin de semaine dernière, l’ONU salue la décision de Washington et de Téhéran de désamorcer la situation.",
-      "date": "2026-07-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : après l’une des frappes les plus violentes contre Kiev, les secours s’organisent",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159090",
-      "desc": "Les équipes de secours poursuivaient jeudi leurs recherches dans les immeubles effondrés de Kiev, au lendemain de l’une des plus importantes attaques russes contre la capitale ukrainienne depuis le début de l’invasion à grande échelle.&nbsp;",
-      "date": "2026-07-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les avoirs iraniens gelés : où se trouve l'argent et pourquoi cet enjeu est crucial ?",
-      "link": "https://www.bbc.com/afrique/articles/c0lyj2ygxj7o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'accès à ces fonds, dont certains estiment la valeur à 100 milliards de dollars, a été l'une des principales demandes de Téhéran, mais ils restent hors de portée en raison des sanctions et des restrictions bancaires.",
-      "date": "2026-07-02T08:46:16",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Centrafrique : trois Casques bleus blessés dans une attaque contre la MINUSCA",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159089",
-      "desc": "La Mission de paix des Nations Unies en République centrafricaine (MINUSCA) a vivement condamné une attaque menée, mardi, contre la localité d’Am Dafock, dans le nord-est du pays, ainsi que des tirs visant une de ses bases temporaires d’opérations. Plusieurs personnes ont été blessées, dont trois Ca",
-      "date": "2026-07-01T12:00:00",
       "source": "ONU Info"
     }
   ]
