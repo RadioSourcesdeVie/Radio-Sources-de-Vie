@@ -1,7 +1,7 @@
 {
   "radio": "Radio Sources de Vie Chrétienne",
   "base_url": "https://www.radiosourcesdevie.org",
-  "updated": "2026-07-03",
+  "updated": "2026-07-04",
   "feeds": {
     "prayer_matin": "https://www.radiosourcesdevie.org/rss/prayer_matin.xml",
     "prayer_soir": "https://www.radiosourcesdevie.org/rss/prayer_soir.xml",
