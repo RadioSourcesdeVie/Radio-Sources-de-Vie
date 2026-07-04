@@ -1,8 +1,36 @@
 {
   "category": "monde",
   "date": "2026-07-04",
-  "updated": "2026-07-04T15:00:15.270169Z",
+  "updated": "2026-07-04T16:00:16.368849Z",
   "articles": [
+    {
+      "title": "Virus Ebola : le premier cas identifié en France est \"guéri\"",
+      "link": "https://www.france24.com/fr/france/20260704-virus-ebola-premier-cas-identifi%C3%A9-france-est-gu%C3%A9rison-h%C3%B4pital-sant%C3%A9-m%C3%A9decin-humanitaire-cas-maladie",
+      "desc": "Un médecin humanitaire, premier cas d'Ebola diagnostiqué en France, est \"sorti de l'hôpital\" après avoir été \"guéri\", a annoncé samedi la ministre de la Santé, Stéphanie Rist.",
+      "date": "2026-07-04T15:17:37",
+      "source": "France 24"
+    },
+    {
+      "title": "250 ans des Etats-Unis : des festivités instrumentalisés autour de Trump",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-250-ans-des-etats-unis-des-festivit%C3%A9s-instrumentalis%C3%A9s-autour-de-trump",
+      "desc": "Romuald Sciora, essayiste franco-américain et directeur de l'Observatoire politique des Etats-Unis, est notre invité.",
+      "date": "2026-07-04T15:11:33",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : France-Paraguay, \"Independence day\" et canicule à Philadelphie",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-mondial-2026-france-paraguay-independence-day-et-canicule-%C3%A0-philadelphie",
+      "desc": "France 24 est à Philadelphie, où l'équipe de France affronte le Paraguay en 8es de finale de la Coupe du monde. Le coup d'envoi sera donné en plein 4 juillet – jour des célébrations des 250 ans de l'indépendance des États-Unis – dans une ville étouffée par une vague de chaleur.",
+      "date": "2026-07-04T15:06:45",
+      "source": "France 24"
+    },
+    {
+      "title": "Gestion de la canicule : le gouvernement français sommé de s'expliquer",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260704-gestion-de-la-canicule-le-gouvernement-fran%C3%A7ais-somm%C3%A9-de-s-expliquer",
+      "desc": "Dans ce magazine, nous reviendrons sur le bilan encore très provisoire de la dernière vague de chaleur extrême en France. Selon Santé Publique France, au moins 2025 personnes ont succombé à la canicule. Le groupe des députés écologistes de l’Assemblée nationale a déposé une motion de censure contre ",
+      "date": "2026-07-04T15:05:00",
+      "source": "France 24"
+    },
     {
       "title": "Mali : les FAMas disent avoir repoussé plusieurs assauts simultanés contre des positions militaires",
       "link": "https://www.bbc.com/afrique/articles/c5yzx9346rxo?at_medium=RSS&at_campaign=rss",
@@ -18,39 +46,11 @@
       "source": "France 24"
     },
     {
-      "title": "Attaques coordonnées au Mali : Gao, Anéfis, Sévaré et Kéniéroba visés",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-attaques-coordonn%C3%A9es-au-mali-gao-an%C3%A9fis-s%C3%A9var%C3%A9-et-k%C3%A9ni%C3%A9roba-vis%C3%A9s",
-      "desc": "Wassim Nasr décrypte la situation.",
-      "date": "2026-07-04T13:10:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Mali : Des attaques coordonnées dans des localités et contre une prison",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-mali-des-attaques-coordonn%C3%A9es-dans-des-localit%C3%A9s-et-contre-une-prison",
-      "desc": "🇲🇱 Au Mali, plusieurs attaques coordonnées ont été menées ce samedi par des jihadistes du Jnim et des rebelles du Front de libération de l’Azawad. Les assauts ont visé les localités de Gao, Anéfis, Aguelhoc (nord), Sévaré (centre), ainsi que la prison de Kéniéroba, située à environ 70 kilomètres de ",
-      "date": "2026-07-04T12:23:40",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : Les Capverdiens à deux doigts de l'exploit face à l'Argentine",
-      "link": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260704-mondial-2026-les-capverdiens-%C3%A0-deux-doigts-de-l-exploit-face-%C3%A0-l-argentine",
-      "desc": "Les Requins bleus ont fait trembler l'Albiceleste et l'ont menée en prolongations. Les champions du monde s'en sont néanmoins sortis (3-2) et filent en 8èmes. De son côté, l'Egypte se qualifie au bout d'une séance de tirs au but face à l'Australie avec une panenka réussie de Mohamed Salah. Les Ghané",
-      "date": "2026-07-04T12:05:26",
-      "source": "France 24"
-    },
-    {
       "title": "Fermentation, saveurs et avenir de l'alimentation : quand la durabilité passe par le plaisir",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159093",
       "desc": "Les mots « durabilité » ou « alimentation saine » évoquent parfois des privations. Pour le chef Jaume Biarnés, c'est tout le contraire. La cuisine durable peut être gourmande, créative et conviviale. Mieux encore, elle pourrait contribuer à relever l'un des plus grands défis de notre époque : nourri",
       "date": "2026-07-04T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Les origines du festival \"Off\" d'Avignon",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-les-origines-du-festival-off-d-avignon",
-      "desc": "Savez-vous pourquoi il y a deux festivals de théâtre à Avignon ? Voici l'histoire du \"Off\" d'Avignon, un festival dissident qui fête ses 60 ans et débute aujourd'hui.",
-      "date": "2026-07-04T11:40:17",
-      "source": "France 24"
     },
     {
       "title": "Coupe du monde 2026 : Ce qu'il faut savoir avant les huitièmes de finale",
