@@ -1,35 +1,49 @@
 {
   "category": "monde",
   "date": "2026-07-04",
-  "updated": "2026-07-04T16:00:16.368849Z",
+  "updated": "2026-07-04T21:00:16.098385Z",
   "articles": [
     {
-      "title": "Virus Ebola : le premier cas identifié en France est \"guéri\"",
-      "link": "https://www.france24.com/fr/france/20260704-virus-ebola-premier-cas-identifi%C3%A9-france-est-gu%C3%A9rison-h%C3%B4pital-sant%C3%A9-m%C3%A9decin-humanitaire-cas-maladie",
-      "desc": "Un médecin humanitaire, premier cas d'Ebola diagnostiqué en France, est \"sorti de l'hôpital\" après avoir été \"guéri\", a annoncé samedi la ministre de la Santé, Stéphanie Rist.",
-      "date": "2026-07-04T15:17:37",
+      "title": "Paraguay - France en direct : les Bleus sans Tchouaméni, les orages menacent",
+      "link": "https://www.france24.com/fr/sports/20260704-mondial-2026-paraguay-france-direct-live-bleus-mbappe-olise-orages",
+      "desc": "La France et le Paraguay s'affrontent en 8es de finale de la Coupe du monde dans la chaleur étouffante de Philadelphie, alors que des orages menacent. Largement favoris, les Bleus et leur armada offensive devront faire plier la solide défense de l'Albirroja. Mais ils devront se passer de Tchouaméni,",
+      "date": "2026-07-04T19:32:20",
       "source": "France 24"
     },
     {
-      "title": "250 ans des Etats-Unis : des festivités instrumentalisés autour de Trump",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-250-ans-des-etats-unis-des-festivit%C3%A9s-instrumentalis%C3%A9s-autour-de-trump",
-      "desc": "Romuald Sciora, essayiste franco-américain et directeur de l'Observatoire politique des Etats-Unis, est notre invité.",
-      "date": "2026-07-04T15:11:33",
+      "title": "Mondial 2026 : un Maroc à deux visages élimine le Canada et retrouve les quarts",
+      "link": "https://www.france24.com/fr/sports/20260704-mondial-2026-maroc-vs-canada",
+      "desc": "",
+      "date": "2026-07-04T19:05:31",
       "source": "France 24"
     },
     {
-      "title": "Mondial 2026 : France-Paraguay, \"Independence day\" et canicule à Philadelphie",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-mondial-2026-france-paraguay-independence-day-et-canicule-%C3%A0-philadelphie",
-      "desc": "France 24 est à Philadelphie, où l'équipe de France affronte le Paraguay en 8es de finale de la Coupe du monde. Le coup d'envoi sera donné en plein 4 juillet – jour des célébrations des 250 ans de l'indépendance des États-Unis – dans une ville étouffée par une vague de chaleur.",
-      "date": "2026-07-04T15:06:45",
+      "title": "Mondial 2026 : un Maroc à deux visages élimine le Canada et retrouve les quarts",
+      "link": "https://www.france24.com/fr/sports/20260704-mondial-2026-maroc-vs-canada",
+      "desc": "Malgré une première période ratée, le Maroc a trouvé les ressources pour vaincre le Canada (3-0), le 4 juillet à Houston en huitièmes de finale de la Coupe du monde 2026. Les Lions de l'Atlas ont ouvert le score grâce à une frappe limpide d'Azzedine Ounahi en début de seconde période (50e). Ils retr",
+      "date": "2026-07-04T19:05:03",
       "source": "France 24"
     },
     {
-      "title": "Gestion de la canicule : le gouvernement français sommé de s'expliquer",
-      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260704-gestion-de-la-canicule-le-gouvernement-fran%C3%A7ais-somm%C3%A9-de-s-expliquer",
-      "desc": "Dans ce magazine, nous reviendrons sur le bilan encore très provisoire de la dernière vague de chaleur extrême en France. Selon Santé Publique France, au moins 2025 personnes ont succombé à la canicule. Le groupe des députés écologistes de l’Assemblée nationale a déposé une motion de censure contre ",
-      "date": "2026-07-04T15:05:00",
+      "title": "Tour de France : Jonas Vingegaard remporte la 1ère étape au contre-la-montre par équipes",
+      "link": "https://www.france24.com/fr/sports/20260704-tour-de-france-jonas-vingegaard-remporte-1%C3%A8re-%C3%A9tape-contre-la-montre-par-%C3%A9quipes-pogacar-seixas-vauquelin",
+      "desc": "Le Danois Jonas Vingegaard, de la formation ⁠Visma-Lease a bike, a remporté samedi le maillot jaune lors de la première étape du Tour de France. Pour cette 113e édition, la compétition a commencé à Barcelone en Espagne dans un contre-la-montre par équipes.",
+      "date": "2026-07-04T17:32:39",
       "source": "France 24"
+    },
+    {
+      "title": "Mali : des localités dans le nord et une prison dans le sud visées",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-mali-des-localit%C3%A9s-dans-le-nord-et-une-prison-dans-le-sud-vis%C3%A9es",
+      "desc": "Andrew Lebovich, chercheur à l'institut néerlandais Clingendael et spécialiste du Sahel, est notre invité.",
+      "date": "2026-07-04T16:14:11",
+      "source": "France 24"
+    },
+    {
+      "title": "Que faire lorsqu'on découvre 40 000 corps enterrés sous la maison familiale ?",
+      "link": "https://www.bbc.com/afrique/articles/cvg515j25glo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le 8 janvier 1996, lors de travaux de rénovation, Merced Guimarães dos Anjos a découvert des ossements – des vestiges du cimetière perdu des Nouveaux Noirs, utilisé entre 1770 et 1830 environ et qui aurait contenu quelque 40 000 corps.",
+      "date": "2026-07-04T16:09:20",
+      "source": "BBC Afrique"
     },
     {
       "title": "Mali : les FAMas disent avoir repoussé plusieurs assauts simultanés contre des positions militaires",
@@ -37,13 +51,6 @@
       "desc": "Selon un communiqué de l'État-Major général des Armées, les assauts ont visé les garnisons d'Aguel-Hoc, Anéfis, Gao, Sévaré et Kéniéroba.",
       "date": "2026-07-04T14:24:07",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Hommage public à Khamenei, des milliers d'Iraniens affluent aux funérailles",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260704-hommage-public-%C3%A0-khamenei-des-milliers-d-iraniens-affluent-aux-fun%C3%A9railles",
-      "desc": "Paymon Azmoudeh, consultant en géopolitique chez Foward Global, est notre invité.",
-      "date": "2026-07-04T13:11:58",
-      "source": "France 24"
     },
     {
       "title": "Fermentation, saveurs et avenir de l'alimentation : quand la durabilité passe par le plaisir",
@@ -71,13 +78,6 @@
       "link": "https://www.bbc.com/afrique/articles/cq519nnwp26o?at_medium=RSS&at_campaign=rss",
       "desc": "Le rêve américain a persisté depuis l'époque des Pères fondateurs, mais la foi en cet idéal s'estompe.",
       "date": "2026-07-04T09:04:38",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Argentine - Cap-Vert : Analyse du match le plus déséquilibré de cette phase à élimination directe de la Coupe du monde",
-      "link": "https://www.bbc.com/afrique/articles/cg53452gqmeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Lionel Messi contre Vozinha. C'est le duel de la Coupe du Monde dont personne ne soupçonnait l'existence, mais que les supporters ont désormais hâte de voir.",
-      "date": "2026-07-03T15:15:37",
       "source": "BBC Afrique"
     },
     {

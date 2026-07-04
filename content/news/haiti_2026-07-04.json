@@ -1,20 +1,20 @@
 {
   "category": "haiti",
   "date": "2026-07-04",
-  "updated": "2026-07-04T16:00:16.367848Z",
+  "updated": "2026-07-04T21:00:16.098385Z",
   "articles": [
-    {
-      "title": "Haïti - Actualité : Zapping - HaitiLibre.com",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9lYXhFQUE1ZXRNY2JRZ080VHcwZ0ZPZjBITWdSdTBVQWcxNUEtZ3pvVktsUFBFTjQ1ZDNIUzZTSDBheFJWRnV0d0pPYWZseEMyREwtTmtISWhpWld5X0xzZlRzdGpmSXk0SERmMDVBU3dHdEVobko4Vw?oc=5",
-      "desc": "Haïti - Actualité : Zapping&nbsp;&nbsp;HaitiLibre.com",
-      "date": "2026-07-04T15:19:39",
-      "source": "Actualites Haiti"
-    },
     {
       "title": "Haïti | Les gangs toujours en place malgré les efforts des forces de l’ordre - La Presse",
       "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOUDB0Z0VyVFp2d2hibExTSlJsNDhrSjRHejJ0bFNZT080bU8tOE95dHY3ZXVkbml0QnFwQkdQYXlJbDNrQUdtNGFIYkw0R3lCUjdPMHQzLThBRTBIdmxpV19qYmk2WnhnUUVXM0hJUzhCZ19YUGVndXM1RWJjWk52dFJuTlA0NHZZQWxkcHkwcC1qLUVMS09GTHBYa2VTVUhOTkZaRE5LNkxjYzg5OHZiZW1fQ3BuRHc0WVVyb2ZBRTh0N2dCazV2SWx3eGJxY3FRR2c?oc=5",
       "desc": "Haïti | Les gangs toujours en place malgré les efforts des forces de l’ordre&nbsp;&nbsp;La Presse",
       "date": "2026-07-04T09:00:00",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Calais : un concert d'orgue pour les enfants d'Haïti en l'église Saint-Pierre - Nord Littoral",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQZ2tXNTV5dUE1ZXF3c2p6SEdJbmhIQzlTcGRvcnBWVlRzeFNuTW56OHhVaG1reGtzNFpndThiYzRYTU5pVllOUHc4SzFFdzVWS2xGdl92Rzc4NE1Na2lTeDZFMzVfUHpZR3JobmZPd0FBVXJWa0ZVU011MDh2bFVqQnJMNW1NVU9sYjQ3V3QxUUZiRktXOXNvUzV5X1BIRkNEeHRmWHFFa0xhZnNmOVM4UzhTMjRtLWRid0VjVm9UNG0xeVZwMzJzYQ?oc=5",
+      "desc": "Calais : un concert d'orgue pour les enfants d'Haïti en l'église Saint-Pierre&nbsp;&nbsp;Nord Littoral",
+      "date": "2026-07-03T16:04:00",
       "source": "Google News Haiti"
     },
     {
@@ -25,6 +25,13 @@
       "source": "Google News Haiti"
     },
     {
+      "title": "Aux Etats-Unis, inquiétude sur le sort de centaines de milliers d’Haïtiens susceptibles d’être renvoyés dans leur pays - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQTBwQ01kTUwtZnFyOUVjaXFUd1JnQUZuX01VbXNyLXZDWGc1dnByczJHbkxTdkk1b0lkbllwTDhiTHhGd0RnWDR5WFBHV2Zud3lQRWZ2aFdjSWlaQkF0TUJyZXVaZTVWUXQtWjhJMEtZenh6T25yRGVDc2lYeGhSakloZmpxU0NHNjVkNnhweGtWNFRPd1JpaG4yLXRpd3RnVmVIY1h2RV9FT1JBdnlDQ2dLd3BrN25QcUczVm9KaFg5aUFLV1ZVR0VJeGtRdkJjY0ExRW5kS2ExVExVMldJc1J6cXlwZ2xOV2xZRWtTR3FGTjRtcEFPd2dOT2s4ZUFZZ0RCVmI0REthV1BURzl2R2kzczh2UG5jVjlF?oc=5",
+      "desc": "Aux Etats-Unis, inquiétude sur le sort de centaines de milliers d’Haïtiens susceptibles d’être renvoyés dans leur pays&nbsp;&nbsp;Le Monde.fr",
+      "date": "2026-07-03T07:00:07",
+      "source": "Google News Haiti"
+    },
+    {
       "title": "La francophonie en Haïti : entre mythe, réalité et paradoxe - Fabula, la recherche en littérature",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTVhQSkN3SGtVdDJpUnhfZC1mYng3dl9pYUpwVW5XYlBHd3MtNEJDcUhaOEJjUVo5dVJGbDQwQ3p4ckR6VUdpNmJhaGR6dUFrdVhYeHJiTDRwV0FlRDUxS1gtT1c2a1ZtOFRZUHNBX1FmWFl5dlR2ZHpyUEZsOWxJc3BtVnduU3hrek51bTF6Vm1yc3NObV9ianNGakJnMFhhWC1NRA?oc=5",
       "desc": "La francophonie en Haïti : entre mythe, réalité et paradoxe&nbsp;&nbsp;Fabula, la recherche en littérature",
@@ -32,24 +39,17 @@
       "source": "Google News Haiti"
     },
     {
-      "title": "Revivez Maroc - Haïti - Coupe du monde 2026 - Groupe C - 3e journée : Succès 4-2, 2e place de la poule et ticket en 16es de finale pour le Maroc - Eurosport",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOaDUxUG05LVJFU3RBNlhhMy1faTM5R1VnU1VMQmVTRk1LMEg4S1hienU5cklUT1UyS2Q0SXlHYkhYMWloRzVXSTRWVHRHRFBmNVBpaHo2MmhSTFNGbTQ1ZGtPdXFoQ25NWFdzY1ZRSFVjX1VrWlVCUDBBWnM1bzBuNDV0RTRPRThvQXMxUGNfd1RKSUVubEt0LWVJUGxIbFVBRUQzNjJn?oc=5",
-      "desc": "Revivez Maroc - Haïti - Coupe du monde 2026 - Groupe C - 3e journée : Succès 4-2, 2e place de la poule et ticket en 16es de finale pour le Maroc&nbsp;&nbsp;Eurosport",
-      "date": "2026-06-25T07:00:00",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Maroc-Haïti: chahutés, les Lions de l'Atlas s'imposent et valident leur qualification pour les 16es - RMC Sport",
-      "link": "https://news.google.com/rss/articles/CBMilAJBVV95cUxNcXA1d0xCcnBCSElKYmtWZjlBa3FSdWdqNE9wNDFEeEtILTZHemZpd1N3Rkptektwc0hKTWVFaFJTMnU2LTlfd2xwcmVrbkQyT1FCNTNqajd1RHR1dFNDZTRRaHktQWFvZHFzWW9Eei1hMjVtc043OXRsQ2NzcWNtbkVvUzUxaWdnSGlaM1RSejItYkhmYWJ5eGxYbGJYMElicmtWYS1YVmFRcV9sU2g4Y0FmY3U1WHdKWjRIbDlFNHdra1VBR1FaZG5CVFdmQmpjSHBqOUNuNWw2cUVvbVFSOXV2N3c5cmRVWS1BR25OQ3BsZGQteEgtUEJmaUF1amdfa1NUTG9QS0VSaWs5b0w3ZGI5dFk?oc=5",
-      "desc": "Maroc-Haïti: chahutés, les Lions de l'Atlas s'imposent et valident leur qualification pour les 16es&nbsp;&nbsp;RMC Sport",
-      "date": "2026-06-24T07:00:00",
-      "source": "Google News Haiti"
-    },
-    {
       "title": "Des hommes armés ont enlevé un haut responsable de la sécurité haïtien - L’actualité",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUVlWUjdkMFV1MVozVUdlVm5Ed0FPU3ZFSXAyTlAtQWdaSndMUXN2czVGdXI5MThaVHk3N0luY0E2cVVzbTg3MmJmTGFRXzBTQ01hYmVGR2trdmVkbEM1ZE5hUEI5U3BLdHA2S0NNbFUxdlBQMWVIbklqdkhhcDRNNWJJWm1TdlNSTER6Ml9VTm5PNEFvdnBaU2J5SlRMZEcxSVJtN0w2a1g?oc=5",
       "desc": "Des hommes armés ont enlevé un haut responsable de la sécurité haïtien&nbsp;&nbsp;L’actualité",
       "date": "2026-06-13T07:00:00",
+      "source": "Actualites Haiti"
+    },
+    {
+      "title": "Haïti : un pays aux mains des gangs - unric",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE11cnlMa0FMakNpQ2ZhRzV2dzBvTk9jQnliZ1hLaGhtWlNLYy0zOEZFOVVUYzZLT1dfNjVwN25tMUdyeGNPU1JQTllDY3pqVS0zbU9Tc085X1RDQ0V6TWpYakVhYmNjZw?oc=5",
+      "desc": "Haïti : un pays aux mains des gangs&nbsp;&nbsp;unric",
+      "date": "2026-05-07T07:00:00",
       "source": "Actualites Haiti"
     },
     {
@@ -67,9 +67,9 @@
       "source": "Actualites Haiti"
     },
     {
-      "title": "Deux projets éducatifs majeurs en Afrique et en Haïti - Actualités UQAM",
+      "title": "Deux projets éducatifs majeurs en Afrique et en Haïti - UQAM",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczd3ZkNWcVZPeFI5UG9jQ29fNFFtVjFVZGIzMUhncExXTTVJdkp6RkpQR1J2MUJQUTIxdVhkcjRhSjJpVzFVNG1tRHRRYjJGXy1zZWJNNk5pblU0cGU5S3NYWm1icFlmWTN3NXVyc2xMQjJEWGlDVDZ1NURtLS1XRTRDc3NqYmswc21YU29iYw?oc=5",
-      "desc": "Deux projets éducatifs majeurs en Afrique et en Haïti&nbsp;&nbsp;Actualités UQAM",
+      "desc": "Deux projets éducatifs majeurs en Afrique et en Haïti&nbsp;&nbsp;UQAM",
       "date": "2025-08-26T07:00:00",
       "source": "Actualites Haiti"
     }
