@@ -1,35 +1,49 @@
 {
   "category": "monde",
   "date": "2026-07-05",
-  "updated": "2026-07-05T16:00:16.187693Z",
+  "updated": "2026-07-05T21:00:18.072353Z",
   "articles": [
     {
-      "title": "Super Typhon \"Bavi\" : les îles américaines de Guam se barricadent",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-super-typhon-bavi-les-%C3%AEles-am%C3%A9ricaines-de-guam-se-barricadent",
-      "desc": "Avec des vents à 280 km/h - équivalents à un ouragan de catégorie 5 et des rafales pouvant atteindre 333 km/h, Bavi devrait atteindre la zone tôt lundi matin. Dimanche, les véhicules sont rares sur les routes de Guam (170.000 habitants) et des Mariannes du Nord (40.000), déjà balayés par pluies batt",
-      "date": "2026-07-05T15:55:41",
+      "title": "Zelensky assure que les \"combats continuent\" pour la ville ukrainienne de Kostyantynivka",
+      "link": "https://www.france24.com/fr/europe/20260705-zelensky-assure-combats-continuent-pour-la-ville-ukrainienne-kostyantynivka-donetsk-russie-poutine-kremlin",
+      "desc": "Le président ukrainien, Volodymyr Zelensky, a affirmé dimanche que les combats étaient toujours en cours à Kostyantynivka, bien que le Kremlin a annoncé plus tôt avoir pris cette ville stratégique dans l'est de l'Ukraine.",
+      "date": "2026-07-05T20:50:57",
       "source": "France 24"
     },
     {
-      "title": "Iran : grande prière pour les funérailles d'Ali Khamenei à Téhéran",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-iran-grande-pri%C3%A8re-pour-les-fun%C3%A9railles-d-ali-khamenei-%C3%A0-t%C3%A9h%C3%A9ran",
-      "desc": "Abdallah Malkawi est en direct de Téhéran.",
-      "date": "2026-07-05T15:34:54",
+      "title": "Mali: les combats ont repris dans la localité stratégique d'Anéfis",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260705-mali-les-combats-ont-repris-dans-la-localit%C3%A9-strat%C3%A9gique-d-an%C3%A9fis",
+      "desc": "Au Mali, après les attaques coordonnées du samedi 4 juillet contre plusieurs localités maliennes, les combats ont repris, ce dimanche 5 juillet, dans la localité de Anéfis, dans le nord, entre l’armée malienne – soutenue par les mercenaires russes – et la coalition jihadiste affiliée à al-Qaïda et l",
+      "date": "2026-07-05T20:35:25",
       "source": "France 24"
     },
     {
-      "title": "Guerre à Gaza : l'école, une survie pour les enfants gazaouis",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-guerre-%C3%A0-gaza-l-%C3%A9cole-une-survie-pour-les-enfants-gazaouis",
-      "desc": "Alexandre Chatillon, directeur général de l'ONG Super Novae, et Rami Abou James, journaliste à Gaza, sont nos invités.",
-      "date": "2026-07-05T14:29:38",
+      "title": "Chowra Makaremi: \"la guerre a paralysé la société civile iranienne, mais elle continue d'exister\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260705-chowra-makaremi-la-guerre-a-paralys%C3%A9-la-soci%C3%A9t%C3%A9-civile-iranienne-mais-elle-continue-d-exister",
+      "desc": "Quatre mois après sa mort dans des bombardements israélo-américains, des funérailles nationales historiques sont organisées pour le guide suprême Ali Khamenei en Iran. Une semaine d'hommages qui rassemblent des millions de personnes, aux allures de démonstration de force pour le régime iranien. L'an",
+      "date": "2026-07-05T20:32:34",
       "source": "France 24"
     },
     {
-      "title": "Funérailles d'Ali Khamenei : son successeur absent, de hauts responsables iraniens réunis à Téhéran",
-      "link": "https://www.france24.com/fr/moyen-orient/20260705-iran-fun%C3%A9railles-nationales-ali-khamenei-des-hauts-responsables-iraniens-r%C3%A9unis-t%C3%A9h%C3%A9ran-sans-son-successeur-fils-mojtaba",
-      "desc": "Les funérailles nationales de l'Ayatollah Ali Khamenei se poursuivent, dimanche, à la Grande Mosalla de Téhéran, où de hauts responsables iraniens se sont réunis pour une grande prière. Trois de ses fils étaient présents, à l'exception de son successeur, Mojtaba Khamenei, qui ne s'est pas montré en ",
-      "date": "2026-07-05T14:12:52",
+      "title": "Elena Volochine: \"le pouvoir russe est sur une ligne de crête\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/au-c%C5%93ur-de-l-info-l-invit%C3%A9/20260705-elena-volochine-le-pouvoir-russe-est-sur-une-ligne-de-cr%C3%AAte",
+      "desc": "Kiev a subi cette semaine la pire attaque russe depuis le début du  conflit. Moscou, qui affirme qu'il va maintenir la pression sur l'Ukraine, est pourtant en perte de vitesse sur la ligne de front et bousculée à l'intérieur même de ses frontières avec ces frappes multiples sur des raffineries de pé",
+      "date": "2026-07-05T19:58:17",
       "source": "France 24"
+    },
+    {
+      "title": "Sud-Liban : Netanyahu affirme que des villages chrétiens ont \"demandé à être annexés\" à Israël",
+      "link": "https://www.france24.com/fr/moyen-orient/20260705-sud-liban-netanyahu-affirme-des-villages-chr%C3%A9tiens-ont-demand%C3%A9-%C3%A0-%C3%AAtre-annex%C3%A9s-%C3%A0-isra%C3%ABl-hezbolllah-pro-iranien-guerre",
+      "desc": "Le Premier ministre israélien, Benjamin Netanyahu, a déclaré dimanche que plusieurs villages chrétiens au Sud du Liban ont \"demandé à être annexés\" à l'État hébreu. Sur la chaîne américaine Fox News, il explique que cette requête est une protection contre le Hezbollah pro-iranien. Des affirmations d",
+      "date": "2026-07-05T19:04:14",
+      "source": "France 24"
+    },
+    {
+      "title": "Six façons d'inciter les enfants à manger des légumes",
+      "link": "https://www.bbc.com/afrique/articles/ce9545k1l9mo?at_medium=RSS&at_campaign=rss",
+      "desc": "De petits changements dans la façon dont les enfants perçoivent la nourriture au quotidien peuvent avoir un impact durable sur leurs habitudes alimentaires.",
+      "date": "2026-07-05T16:03:19",
+      "source": "BBC Afrique"
     },
     {
       "title": "Le Cabo Verde réserve un grand accueil populaire aux  Requins Bleus, héros du Mondial",
@@ -37,13 +51,6 @@
       "desc": "Les Requins Bleus du Cap-Vert ont atterri à Praia, la capitale, après leur impressionnant parcours en Coupe du Monde, qui s'est achevé en huitièmes de finale.",
       "date": "2026-07-05T14:10:38",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Mondial 2026 : Les Bleus malmenés par le Paraguay mais qualifiés en quarts",
-      "link": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260705-mondial-2026-les-bleus-malmen%C3%A9s-par-le-paraguay-mais-qualifi%C3%A9s-en-quarts",
-      "desc": "L'Equipe de France a su se défaire du Paraguay grâce à un penalty accordé à la 70ème minute, et transformé par Kylian Mbappé. Les Bleus ont été chahutés mais filent en quarts de finale. Ils rejoignent le Maroc, victorieux samedi face au Canada (3-0). Les Lions de l'Atlas perdent Ismael Saibari, sort",
-      "date": "2026-07-05T12:06:07",
-      "source": "France 24"
     },
     {
       "title": "Huit des dix pays les plus peuplés du monde ne participent pas au mondial de football. Pourquoi ?",
@@ -64,13 +71,6 @@
       "link": "https://www.bbc.com/afrique/articles/cnv984mj0g3o?at_medium=RSS&at_campaign=rss",
       "desc": "Les revenus du président provenant des cryptomonnaies dépassent largement ses gains issus de l'immobilier et des articles à l'effigie de Trump, tels que les montres.",
       "date": "2026-07-05T08:51:59",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Coupe du monde 2026 : Ce qu'il faut savoir des huitièmes de finale",
-      "link": "https://www.bbc.com/afrique/articles/ckg5pq6rweyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Seize nations sont encore en lice pour décrocher le plus prestigieux trophée du football mondial, tandis que les autres, dont le Sénégal, la Côte d'Ivoire, le Ghana ou encore l'Algérie, du côté africain, ont vu leur rêve s'arrêter prématurément.",
-      "date": "2026-07-05T08:16:40",
       "source": "BBC Afrique"
     },
     {
