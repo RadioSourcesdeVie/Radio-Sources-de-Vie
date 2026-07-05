@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-05T09:00:02.520983Z",
+  "date": "2026-07-05",
+  "title": "Météo du 5 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 13.49,
@@ -15,5 +16,6 @@
     "humidity": 84,
     "description": "Nuageux",
     "wind_kmh": 3.6
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 5 juillet 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Peu nuageux. À Port-au-Prince: 25 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
