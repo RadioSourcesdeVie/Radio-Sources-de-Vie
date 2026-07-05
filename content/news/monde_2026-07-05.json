@@ -1,8 +1,29 @@
 {
   "category": "monde",
   "date": "2026-07-05",
-  "updated": "2026-07-05T09:00:16.073566Z",
+  "updated": "2026-07-05T11:00:25.043694Z",
   "articles": [
+    {
+      "title": "Pourquoi n'a-t-on pas réussi à éradiquer Boko Haram, 24 ans après son apparition ?",
+      "link": "https://www.bbc.com/afrique/articles/c78yjyd9rmjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le nom officiel du groupe est « Jama’atu Ahlis Sunna Lidda’awati wal-Jihad » (c’est-à-dire les adeptes de la Sunna appelés à la prédication et au jihad), mais il est communément surnommé Boko Haram en raison de son opposition farouche à l’éducation moderne et au mode de vie occidental.",
+      "date": "2026-07-05T10:37:54",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Frappes sur Kiev, séismes au Venezuela, 250e anniversaire des États-Unis : la semaine en images",
+      "link": "https://www.france24.com/fr/europe/20260705-frappes-sur-kiev-s%C3%A9ismes-au-venezuela-250e-anniversaire-des-%C3%A9tats-unis-la-semaine-en-images",
+      "desc": "Retour sur les temps forts de l'actualité de la semaine : une attaque massive russe provoque des incendies à Kiev, la France domine la Suède lors de la Coupe du monde, les États-Unis célèbrent 250 ans d'indépendance en pleine vague de chaleur, et  le \"marriage du siècle\" entre Taylor Swift et Travis",
+      "date": "2026-07-05T10:13:53",
+      "source": "France 24"
+    },
+    {
+      "title": "La France rejoint les quarts de finale en battant le Paraguay dans la douleur",
+      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260705-la-france-rejoint-les-quarts-de-finale-en-battant-le-paraguay-dans-la-douleur",
+      "desc": "L'Équipe de France s'est qualifiée pour les quarts de finale de la Coupe du monde en battant le Paraguay (1-0) à Philadelphie samedi. Kylian Mbappé a marqué le seul but d'un match très tendu sur pénalty en deuxième mi-temps.",
+      "date": "2026-07-05T09:08:55",
+      "source": "France 24"
+    },
     {
       "title": "Venezuela : la crainte de perdre la dépouille de proches victimes des séismes",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-venezuela-la-crainte-de-perdre-la-d%C3%A9pouille-de-proches-victimes-des-s%C3%A9ismes",
@@ -32,20 +53,6 @@
       "source": "France 24"
     },
     {
-      "title": "Naissances d'ours dans les Pyrénées : un espoir pour cette espèce en danger",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-naissances-d-ours-dans-les-pyr%C3%A9n%C3%A9es-un-espoir-pour-cette-esp%C3%A8ce-en-danger",
-      "desc": "Un reportage signé M. E. Constance.",
-      "date": "2026-07-05T08:43:08",
-      "source": "France 24"
-    },
-    {
-      "title": "America 250 : la démonstration politique de Trump malgré la chaleur",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-america-250-la-d%C3%A9monstration-politique-de-trump-malgr%C3%A9-la-chaleur",
-      "desc": "Les conditions météorologiques perturbent samedi les principales célébrations des 250 ans des Etats-Unis à Washington, retardant le discours attendu en soirée de Donald Trump, bien décidé à s'accaparer le premier rôle malgré tout.",
-      "date": "2026-07-05T08:40:29",
-      "source": "France 24"
-    },
-    {
       "title": "Coupe du monde 2026 : Ce qu'il faut savoir des huitièmes de finale",
       "link": "https://www.bbc.com/afrique/articles/ckg5pq6rweyo?at_medium=RSS&at_campaign=rss",
       "desc": "Seize nations sont encore en lice pour décrocher le plus prestigieux trophée du football mondial, tandis que les autres, dont le Sénégal, la Côte d'Ivoire, le Ghana ou encore l'Algérie, du côté africain, ont vu leur rêve s'arrêter prématurément.",
@@ -72,13 +79,6 @@
       "desc": "Les mots « durabilité » ou « alimentation saine » évoquent parfois des privations. Pour le chef Jaume Biarnés, c'est tout le contraire. La cuisine durable peut être gourmande, créative et conviviale. Mieux encore, elle pourrait contribuer à relever l'un des plus grands défis de notre époque : nourri",
       "date": "2026-07-04T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Les habitants d'une ville éthiopienne ont été contraints d'abattre leurs chiens par centaines suite à des décès dus à la rage",
-      "link": "https://www.bbc.com/afrique/articles/cq519v989e3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Certains habitants ont, à contrecœur, pendu leurs chiens pour éviter d'être arrêtés ou de recevoir une amende, ont confié des témoins à la BBC.",
-      "date": "2026-07-04T11:26:28",
-      "source": "BBC Afrique"
     },
     {
       "title": "Bassin du lac Tchad : l'insécurité gagne du terrain",
