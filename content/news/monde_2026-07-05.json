@@ -1,42 +1,63 @@
 {
   "category": "monde",
   "date": "2026-07-05",
-  "updated": "2026-07-05T11:00:25.043694Z",
+  "updated": "2026-07-05T15:00:15.568278Z",
   "articles": [
+    {
+      "title": "Funérailles d'Ali Khamenei : son successeur absent, de hauts responsables iraniens réunis à Téhéran",
+      "link": "https://www.france24.com/fr/moyen-orient/20260705-iran-fun%C3%A9railles-nationales-ali-khamenei-des-hauts-responsables-iraniens-r%C3%A9unis-t%C3%A9h%C3%A9ran-sans-son-successeur-fils-mojtaba",
+      "desc": "Les funérailles nationales de l'Ayatollah Ali Khamenei se poursuivent, dimanche, à la Grande Mosalla de Téhéran, où de hauts responsables iraniens se sont réunis pour une grande prière. Trois de ses fils étaient présents, à l'exception de son successeur, Mojtaba Khamenei, qui ne s'est pas montré en ",
+      "date": "2026-07-05T14:12:52",
+      "source": "France 24"
+    },
+    {
+      "title": "Le Cabo Verde réserve un grand accueil populaire aux  Requins Bleus, héros du Mondial",
+      "link": "https://www.bbc.com/afrique/articles/cy733d414elo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les Requins Bleus du Cap-Vert ont atterri à Praia, la capitale, après leur impressionnant parcours en Coupe du Monde, qui s'est achevé en huitièmes de finale.",
+      "date": "2026-07-05T14:10:38",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mondial 2026 : Les Bleus malmenés par le Paraguay mais qualifiés en quarts",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-club-du-mondial/20260705-mondial-2026-les-bleus-malmen%C3%A9s-par-le-paraguay-mais-qualifi%C3%A9s-en-quarts",
+      "desc": "L'Equipe de France a su se défaire du Paraguay grâce à un penalty accordé à la 70ème minute, et transformé par Kylian Mbappé. Les Bleus ont été chahutés mais filent en quarts de finale. Ils rejoignent le Maroc, victorieux samedi face au Canada (3-0). Les Lions de l'Atlas perdent Ismael Saibari, sort",
+      "date": "2026-07-05T12:06:07",
+      "source": "France 24"
+    },
+    {
+      "title": "Huit des dix pays les plus peuplés du monde ne participent pas au mondial de football. Pourquoi ?",
+      "link": "https://www.bbc.com/afrique/articles/c862eggj4y8o?at_medium=RSS&at_campaign=rss",
+      "desc": "De nombreux pays à forte population passent régulièrement à côté du plus grand événement sportif mondial. Que peuvent-ils faire pour inverser la tendance ?",
+      "date": "2026-07-05T12:04:57",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mondial 2026 : l'Angleterre prête à écrire son propre chapitre face au Mexique",
+      "link": "https://www.france24.com/fr/sports/20260705-mondial-2026-l-angleterre-pr%C3%AAte-%C3%A0-%C3%A9crire-son-propre-chapitre-face-au-mexique",
+      "desc": "L'Angleterre vise dimanche l'accès aux quarts de finale du Mondial 2026, lors de sa confrontation avec le Mexique. Un match en terrain hostile, dans le mythique stade Azteca, nécéssitant une adaptation aux 2 200 mètres d'altitude de Mexico.",
+      "date": "2026-07-05T12:02:47",
+      "source": "France 24"
+    },
+    {
+      "title": "Elan de contestations en Iran : un combat démocratique silencieux ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-elan-de-contestations-en-iran-un-combat-d%C3%A9mocratique-silencieux",
+      "desc": "Klan Habibian, co-fondateur de \"We are Iranian Students\", est notre invité.",
+      "date": "2026-07-05T12:02:01",
+      "source": "France 24"
+    },
+    {
+      "title": "La France en quarts de finale du Mondial : les français derrière les Bleus !",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-la-france-en-quarts-de-finale-du-mondial-les-fran%C3%A7ais-derri%C3%A8re-les-bleus",
+      "desc": "Quelque 12,2 millions de téléspectateurs en moyenne ont regardé sur M6 la victoire de l'équipe de France contre le Paraguay (1-0) samedi soir lors du Mondial-2026, \"un record d'audience historique\" après 23H00, selon la chaîne.",
+      "date": "2026-07-05T11:58:34",
+      "source": "France 24"
+    },
     {
       "title": "Pourquoi n'a-t-on pas réussi à éradiquer Boko Haram, 24 ans après son apparition ?",
       "link": "https://www.bbc.com/afrique/articles/c78yjyd9rmjo?at_medium=RSS&at_campaign=rss",
       "desc": "Le nom officiel du groupe est « Jama’atu Ahlis Sunna Lidda’awati wal-Jihad » (c’est-à-dire les adeptes de la Sunna appelés à la prédication et au jihad), mais il est communément surnommé Boko Haram en raison de son opposition farouche à l’éducation moderne et au mode de vie occidental.",
       "date": "2026-07-05T10:37:54",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Frappes sur Kiev, séismes au Venezuela, 250e anniversaire des États-Unis : la semaine en images",
-      "link": "https://www.france24.com/fr/europe/20260705-frappes-sur-kiev-s%C3%A9ismes-au-venezuela-250e-anniversaire-des-%C3%A9tats-unis-la-semaine-en-images",
-      "desc": "Retour sur les temps forts de l'actualité de la semaine : une attaque massive russe provoque des incendies à Kiev, la France domine la Suède lors de la Coupe du monde, les États-Unis célèbrent 250 ans d'indépendance en pleine vague de chaleur, et  le \"marriage du siècle\" entre Taylor Swift et Travis",
-      "date": "2026-07-05T10:13:53",
-      "source": "France 24"
-    },
-    {
-      "title": "La France rejoint les quarts de finale en battant le Paraguay dans la douleur",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260705-la-france-rejoint-les-quarts-de-finale-en-battant-le-paraguay-dans-la-douleur",
-      "desc": "L'Équipe de France s'est qualifiée pour les quarts de finale de la Coupe du monde en battant le Paraguay (1-0) à Philadelphie samedi. Kylian Mbappé a marqué le seul but d'un match très tendu sur pénalty en deuxième mi-temps.",
-      "date": "2026-07-05T09:08:55",
-      "source": "France 24"
-    },
-    {
-      "title": "Venezuela : la crainte de perdre la dépouille de proches victimes des séismes",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-venezuela-la-crainte-de-perdre-la-d%C3%A9pouille-de-proches-victimes-des-s%C3%A9ismes",
-      "desc": "Le double tremblement de terre qui a dévasté le nord du Venezuela a fait près de 3000 morts, selon les chiffres officiels publiés samedi, alors que les équipes de secours internationales cessent progressivement la recherche de survivants dans les décombres.",
-      "date": "2026-07-05T08:57:38",
-      "source": "France 24"
-    },
-    {
-      "title": "RN : M. Le Pen et J. Bardella affichent leur union avant le procès",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-rn-m-le-pen-et-j-bardella-affichent-leur-union-avant-le-proc%C3%A8s",
-      "desc": "A trois jours de la décision de la cour d'appel de Paris, qui déterminera qui des deux sera candidat à la présidentielle, Marine Le Pen et Jordan Bardella se sont juré \"confiance\" et \"amitié\" devant leurs militants réunis pour un \"banquet champêtre\" à Liévin, dans le Pas-de-Calais, en plein coeur du",
-      "date": "2026-07-05T08:54:15",
-      "source": "France 24"
     },
     {
       "title": "Comment Trump a gagné plus d'un milliard de dollars grâce aux cryptomonnaies dès la première année de son second mandat",
@@ -46,31 +67,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Mbodj : \"Le conte malgré son côté fantastique reste d’une formidable actualité\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-mbodj-le-conte-malgr%C3%A9-son-c%C3%B4t%C3%A9-fantastique-reste-d-une-formidable-actualit%C3%A9",
-      "desc": "Souleymane Mbodj, conteur et percussionniste, auteur de \"Les Larmes du Crocodile\", éd. Les Editions des Eléphants, est notre invité.",
-      "date": "2026-07-05T08:46:43",
-      "source": "France 24"
-    },
-    {
       "title": "Coupe du monde 2026 : Ce qu'il faut savoir des huitièmes de finale",
       "link": "https://www.bbc.com/afrique/articles/ckg5pq6rweyo?at_medium=RSS&at_campaign=rss",
       "desc": "Seize nations sont encore en lice pour décrocher le plus prestigieux trophée du football mondial, tandis que les autres, dont le Sénégal, la Côte d'Ivoire, le Ghana ou encore l'Algérie, du côté africain, ont vu leur rêve s'arrêter prématurément.",
       "date": "2026-07-05T08:16:40",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Que faire lorsqu'on découvre 40 000 corps enterrés sous la maison familiale ?",
-      "link": "https://www.bbc.com/afrique/articles/cvg515j25glo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le 8 janvier 1996, lors de travaux de rénovation, Merced Guimarães dos Anjos a découvert des ossements – des vestiges du cimetière perdu des Nouveaux Noirs, utilisé entre 1770 et 1830 environ et qui aurait contenu quelque 40 000 corps.",
-      "date": "2026-07-04T16:09:20",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Mali : les FAMas disent avoir repoussé plusieurs assauts simultanés contre des positions militaires",
-      "link": "https://www.bbc.com/afrique/articles/c5yzx9346rxo?at_medium=RSS&at_campaign=rss",
-      "desc": "Selon un communiqué de l'État-Major général des Armées, les assauts ont visé les garnisons d'Aguel-Hoc, Anéfis, Gao, Sévaré et Kéniéroba.",
-      "date": "2026-07-04T14:24:07",
       "source": "BBC Afrique"
     },
     {
