@@ -1,8 +1,29 @@
 {
   "category": "monde",
   "date": "2026-07-05",
-  "updated": "2026-07-05T15:00:15.568278Z",
+  "updated": "2026-07-05T16:00:16.187693Z",
   "articles": [
+    {
+      "title": "Super Typhon \"Bavi\" : les îles américaines de Guam se barricadent",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-super-typhon-bavi-les-%C3%AEles-am%C3%A9ricaines-de-guam-se-barricadent",
+      "desc": "Avec des vents à 280 km/h - équivalents à un ouragan de catégorie 5 et des rafales pouvant atteindre 333 km/h, Bavi devrait atteindre la zone tôt lundi matin. Dimanche, les véhicules sont rares sur les routes de Guam (170.000 habitants) et des Mariannes du Nord (40.000), déjà balayés par pluies batt",
+      "date": "2026-07-05T15:55:41",
+      "source": "France 24"
+    },
+    {
+      "title": "Iran : grande prière pour les funérailles d'Ali Khamenei à Téhéran",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-iran-grande-pri%C3%A8re-pour-les-fun%C3%A9railles-d-ali-khamenei-%C3%A0-t%C3%A9h%C3%A9ran",
+      "desc": "Abdallah Malkawi est en direct de Téhéran.",
+      "date": "2026-07-05T15:34:54",
+      "source": "France 24"
+    },
+    {
+      "title": "Guerre à Gaza : l'école, une survie pour les enfants gazaouis",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-guerre-%C3%A0-gaza-l-%C3%A9cole-une-survie-pour-les-enfants-gazaouis",
+      "desc": "Alexandre Chatillon, directeur général de l'ONG Super Novae, et Rami Abou James, journaliste à Gaza, sont nos invités.",
+      "date": "2026-07-05T14:29:38",
+      "source": "France 24"
+    },
     {
       "title": "Funérailles d'Ali Khamenei : son successeur absent, de hauts responsables iraniens réunis à Téhéran",
       "link": "https://www.france24.com/fr/moyen-orient/20260705-iran-fun%C3%A9railles-nationales-ali-khamenei-des-hauts-responsables-iraniens-r%C3%A9unis-t%C3%A9h%C3%A9ran-sans-son-successeur-fils-mojtaba",
@@ -30,27 +51,6 @@
       "desc": "De nombreux pays à forte population passent régulièrement à côté du plus grand événement sportif mondial. Que peuvent-ils faire pour inverser la tendance ?",
       "date": "2026-07-05T12:04:57",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Mondial 2026 : l'Angleterre prête à écrire son propre chapitre face au Mexique",
-      "link": "https://www.france24.com/fr/sports/20260705-mondial-2026-l-angleterre-pr%C3%AAte-%C3%A0-%C3%A9crire-son-propre-chapitre-face-au-mexique",
-      "desc": "L'Angleterre vise dimanche l'accès aux quarts de finale du Mondial 2026, lors de sa confrontation avec le Mexique. Un match en terrain hostile, dans le mythique stade Azteca, nécéssitant une adaptation aux 2 200 mètres d'altitude de Mexico.",
-      "date": "2026-07-05T12:02:47",
-      "source": "France 24"
-    },
-    {
-      "title": "Elan de contestations en Iran : un combat démocratique silencieux ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-elan-de-contestations-en-iran-un-combat-d%C3%A9mocratique-silencieux",
-      "desc": "Klan Habibian, co-fondateur de \"We are Iranian Students\", est notre invité.",
-      "date": "2026-07-05T12:02:01",
-      "source": "France 24"
-    },
-    {
-      "title": "La France en quarts de finale du Mondial : les français derrière les Bleus !",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260705-la-france-en-quarts-de-finale-du-mondial-les-fran%C3%A7ais-derri%C3%A8re-les-bleus",
-      "desc": "Quelque 12,2 millions de téléspectateurs en moyenne ont regardé sur M6 la victoire de l'équipe de France contre le Paraguay (1-0) samedi soir lors du Mondial-2026, \"un record d'audience historique\" après 23H00, selon la chaîne.",
-      "date": "2026-07-05T11:58:34",
-      "source": "France 24"
     },
     {
       "title": "Pourquoi n'a-t-on pas réussi à éradiquer Boko Haram, 24 ans après son apparition ?",
