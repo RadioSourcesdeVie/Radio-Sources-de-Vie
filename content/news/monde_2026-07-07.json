@@ -1,8 +1,29 @@
 {
   "category": "monde",
   "date": "2026-07-07",
-  "updated": "2026-07-07T15:00:16.680359Z",
+  "updated": "2026-07-07T16:00:21.390807Z",
   "articles": [
+    {
+      "title": "Marine Le Pen condamnée en appel : quels scénarios pour la présidentielle ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260707-marine-le-pen-condamn%C3%A9e-en-appel-quels-sc%C3%A9narios-pour-la-pr%C3%A9sidentielle",
+      "desc": "Éligible, mais sous bracelet: la justice a ouvert mardi la voie à une possible quatrième candidature à la présidentielle de Marine Le Pen en réduisant sa peine d'inéligibilité à seulement quinze mois ferme, déjà purgés, mais la dirigeante d'extrême droite devrait faire une partie de sa campagne sous",
+      "date": "2026-07-07T15:33:31",
+      "source": "France 24"
+    },
+    {
+      "title": "Au Nigéria, le Sénat ouvre la voie à la création de polices d'État",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260707-au-nig%C3%A9ria-le-s%C3%A9nat-ouvre-la-voie-%C3%A0-la-cr%C3%A9ation-de-polices-d-%C3%A9tat",
+      "desc": "Se dirige-t-on vers une réelle décentralisation des forces de police au Nigéria ? Le 24 juin, le Sénat a ouvert la voie à la création des polices d'État qui permettrait à chacun des 36 États de disposer de sa propre force, en complément de la police fédérale.",
+      "date": "2026-07-07T15:03:46",
+      "source": "France 24"
+    },
+    {
+      "title": "Argentine - Égypte en direct : suivez le 8e de finale entre l'Albiceleste et les Pharaons",
+      "link": "https://www.france24.com/fr/sports/20260707-argentine-%C3%A9gypte-en-direct-suivez-le-8e-de-finale-entre-l-albiceleste-et-les-pharaons",
+      "desc": "L'Argentine de Lionel Messi croise la route de l'Égypte de Mohamed Salah, mardi, au Mercedes-Benz Stadium d'Atlanta lors des 8es de finale de la Coupe du monde 2026. Les vainqueurs du Mondial 2022 espèrent se hisser au tour suivant face à des Pharaons qui vont vendre chèrement leur peau. Suivez la r",
+      "date": "2026-07-07T15:00:10",
+      "source": "France 24"
+    },
     {
       "title": "« Corps accro au téléphone portable » : découvrez les signes dangereux de votre posture et comment y remédier",
       "link": "https://www.bbc.com/afrique/articles/cq511p27wnyo?at_medium=RSS&at_campaign=rss",
@@ -25,32 +46,18 @@
       "source": "France 24"
     },
     {
-      "title": "Marine Le Pen : réunion en cours au siège du RN après sa condamnation en appel",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260707-marine-le-pen-r%C3%A9union-en-cours-au-si%C3%A8ge-du-rn-apr%C3%A8s-sa-condamnation-en-appel",
-      "desc": "Eligible mais condamnée à porter un bracelet électronique, Marine Le Pen est arrivée au siège du Rassemblement national vers 14H45 mardi pour décider avec les principaux cadres de son parti si elle sera quand même candidate à l'élection présidentielle. Les précisions de Bruno Cautrès, politologue et",
-      "date": "2026-07-07T14:12:18",
-      "source": "France 24"
-    },
-    {
-      "title": "Marine Le Pen condamnée en appel : quelles réactions au sein de la classe politique ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260707-marine-le-pen-condamn%C3%A9e-en-appel-quelles-r%C3%A9actions-au-sein-de-la-classe-politique",
-      "desc": "Marine Le Pen a été condamnée mardi en appel à trois ans de prison, dont un an ferme aménageable sous bracelet électronique, ainsi qu’à 45 mois d’inéligibilité, dont 30 avec sursis, et 100 000 euros d’amende dans l’affaire des assistants parlementaires du Front national. Après ce jugement, quelles r",
-      "date": "2026-07-07T14:10:40",
-      "source": "France 24"
-    },
-    {
-      "title": "Disiz trace une route à part dans la musique française",
-      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20260707-disiz-trace-une-route-%C3%A0-part-dans-la-musique-fran%C3%A7aise",
-      "desc": "Depuis plus de vingt-cinq ans, entre rap et chanson, Disiz trace une route à part dans la musique française. De son premier succès \"J'pète les plombs\" au récent phénomène \"Mélodrama\" avec Théodora, il n'a cessé de se réinventer. Sacré meilleur artiste masculin aux dernières victoires de la Musique, ",
-      "date": "2026-07-07T13:56:26",
-      "source": "France 24"
-    },
-    {
       "title": "La BBC dévoile l'identité des gardiens et des responsables des « prisons de torture » russes en Ukraine",
       "link": "https://www.bbc.com/afrique/articles/c5yzrd3n1lno?at_medium=RSS&at_campaign=rss",
       "desc": "D'anciens détenus accusent ces hommes d'avoir commis des exactions dans des centres de détention et souhaitent qu'ils soient traduits en justice.",
       "date": "2026-07-07T12:31:41",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "Natalité : l’ONU démonte les idées reçues sur la baisse des naissances",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159109",
+      "desc": "Ils voudraient des enfants. Souvent deux. Ils rêvent encore de fonder une famille avec un partenaire et d’offrir un avenir meilleur à leurs futures progénitures. Mais entre ce désir et sa réalisation s’est creusé un fossé que le logement hors de prix, la précarité de l’emploi, l’insécurité économiqu",
+      "date": "2026-07-07T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Pourquoi six des dix pays les plus généreux du monde se trouvent en Afrique",
@@ -84,13 +91,6 @@
       "title": "Responsabilité de protéger : prévenir avant qu'il ne soit trop tard",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159105",
       "desc": "Face à la multiplication des conflits et à la montée des risques d’atrocités, les États doivent agir avant que les premiers signes d’alerte ne se transforment en « fosses communes », a exhorté lundi le Secrétaire général de l’ONU, António Guterres, appelant la communauté internationale à redonner un",
-      "date": "2026-07-06T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : face au risque de massacre à El Obeid, l’ONU hausse encore le ton",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159104",
-      "desc": "La fenêtre est en train de se refermer. Depuis plusieurs semaines, les Nations Unies répètent que la ville soudanaise d’El Obeid pourrait connaître le même sort qu’El Fasher, théâtre de massacres de civils l’an dernier après un siège du groupe paramilitaire des Forces de soutien rapide (FSR). Lundi,",
       "date": "2026-07-06T12:00:00",
       "source": "ONU Info"
     },
