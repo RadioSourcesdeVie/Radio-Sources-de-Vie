@@ -1,69 +1,83 @@
 {
   "category": "monde",
   "date": "2026-07-08",
-  "updated": "2026-07-08T11:00:14.592594Z",
+  "updated": "2026-07-08T15:00:15.380308Z",
   "articles": [
+    {
+      "title": "Ces 10 matchs légendaires qui ont changé l'histoire du football africain en Coupe du monde",
+      "link": "https://www.bbc.com/afrique/articles/c5yz70wv496o?at_medium=RSS&at_campaign=rss",
+      "desc": "Quels sont les plus grands matchs de l’histoire des équipes africaines en Coupe du monde ? De l’exploit de l’Algérie face à l’Allemagne en 1982 à l’épopée du Cap-Vert en 2026, BBC Afrique revient sur dix rencontres qui ont marqué l’histoire du football africain sur la scène mondiale.",
+      "date": "2026-07-08T14:56:25",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "REPLAY - Ukraine, Iran : Trump et Zelensky s’expriment au sommet de l’OTAN",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-replay-ukraine-iran-trump-et-zelensky-s-expriment-au-sommet-de-l-otan",
+      "desc": "Les Etats-Unis vont frapper \"fort\" l'Iran cette nuit, a prévenu mercredi le président Donald Trump qui a estimé que le cessez-le-feu était terminé après de violents échanges de frappes, tout en laissant la porte ouverte à la poursuite des tractations avec Téhéran.",
+      "date": "2026-07-08T14:44:12",
+      "source": "France 24"
+    },
+    {
+      "title": "Au sommet de l’OTAN, Trump se défoule contre les alliés européens",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-au-sommet-de-l-otan-trump-se-d%C3%A9foule-contre-les-alli%C3%A9s-europ%C3%A9ens",
+      "desc": "\"Je suis très en colère contre l'Otan\": Donald Trump a exprimé mercredi sa frustration vis-à-vis de l'Alliance atlantique au dernier jour du sommet d'Ankara, dénonçant, pêle-mêle, l'attitude des alliés sur l'Iran et le Groenland ou l'Espagne.",
+      "date": "2026-07-08T14:29:32",
+      "source": "France 24"
+    },
+    {
+      "title": "Élection présidentielle 2027 : Marine Le Pen candidate",
+      "link": "https://www.france24.com/fr/%C3%A9missions/face-%C3%A0-face/20260708-%C3%A9lection-pr%C3%A9sidentielle-2027-marine-le-pen-candidate",
+      "desc": "Marine Le Pen éligible mais condamnée en appel à trois ans de prison dont un an ferme sous bracelet électronique. La cheffe de file des députés RN a, malgré cette condamnation, annoncé être candidate pour 2027. Elle se pourvoit en cassation, ce qui suspend la peine à laquelle elle a été condamnée ma",
+      "date": "2026-07-08T14:26:31",
+      "source": "France 24"
+    },
+    {
+      "title": "Otan : Donald Trump veut maintenir les États-Unis au sein de l’Alliance",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-otan-donald-trump-veut-maintenir-les-%C3%A9tats-unis-au-sein-de-l-alliance",
+      "desc": "Donald ​Trump a déclaré mercredi lors du sommet de ​l'Otan qu'il souhaitait que les États-Unis restent au sein de l'alliance transatlantique, a indiqué à Reuters ​une ‌source au fait des ⁠discussions.",
+      "date": "2026-07-08T14:19:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Les États-Unis vont autoriser l'Ukraine à fabriquer des missiles Patriot",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-trump-dit-que-les-etats-unis-vont-autoriser-l-ukraine-%C3%A0-fabriquer-des-missiles-patriot",
+      "desc": "Donald Trump a indiqué mercredi qu'il allait autoriser Kiev à fabriquer des missiles Patriot, indispensables pour intercepter les missiles balistiques russes qui frappent l'Ukraine, lors de sa rencontre avec Volodymyr Zelensky.",
+      "date": "2026-07-08T14:10:23",
+      "source": "France 24"
+    },
+    {
+      "title": "L'Égypte, éliminée face à l'Argentine dans les dernières minutes, accuse la FIFA de favoritisme envers Messi",
+      "link": "https://www.bbc.com/afrique/articles/cly7e54qj79o?at_medium=RSS&at_campaign=rss",
+      "desc": "La BBC revient sur un match qui restera dans les annales de la Coupe du monde, non sans susciter la polémique.",
+      "date": "2026-07-08T13:38:58",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "De la rue à la finance : l'ascension inspirante de Peter Komolafe",
+      "link": "https://www.bbc.com/afrique/articles/cn4rnyw1gjmo?at_medium=RSS&at_campaign=rss",
+      "desc": "La vie de Peter Komolafe a connu une série de rebondissements spectaculaires qui l'ont mené de la rue à la position de conseiller financier très respecté.",
+      "date": "2026-07-08T13:13:31",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Investissements : la nouvelle géographie du capital relègue les pays pauvres à la marge",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159117",
+      "desc": "Après deux années de recul, les investissements directs étrangers sont repartis à la hausse en 2025. Mais derrière ce rebond de façade, la carte mondiale du capital est en train de se rétrécir : les flux se concentrent sur une poignée de pays, de technologies et d'intérêts stratégiques.",
+      "date": "2026-07-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Pétroliers attaqués et réaction des États-Unis par des bombardements : pourquoi la guerre dans le détroit d'Ormuz a repris",
+      "link": "https://www.bbc.com/afrique/articles/c4gy66jzzdno?at_medium=RSS&at_campaign=rss",
+      "desc": "Les États-Unis affirment que les attaques visent à imposer des « coûts élevés » à l'Iran, tandis que le gouvernement iranien avertit qu'il va « prendre des mesures décisives » en réponse.",
+      "date": "2026-07-08T11:01:11",
+      "source": "BBC Afrique"
+    },
     {
       "title": "On craint un massacre dans cette ville située en première ligne de la guerre au Soudan",
       "link": "https://www.bbc.com/afrique/articles/crm0r0r11ldo?at_medium=RSS&at_campaign=rss",
       "desc": "El-Obeid vit depuis 18 mois dans des « conditions proches d'un siège », selon le Haut-Commissaire des Nations unies aux droits de l'homme.",
       "date": "2026-07-08T10:05:41",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Un nouvel épisode caniculaire \"sévère et durable\" en France, journée à risque d'incendie",
-      "link": "https://www.france24.com/fr/france/20260708-nouvel-%C3%A9pisode-caniculaire-s%C3%A9v%C3%A8re-durable-france-journ%C3%A9e-risque-incendie-climat-m%C3%A9t%C3%A9o",
-      "desc": "\"Un épisode caniculaire sévère et durable\" se profile pour la France, annonce Météo-France. Les températures en hausse concernent désormais 67 départements en vigilance orange. Dans ce contexte, les autorités ont mis en garde contre les risques \"très sévères\" d'incendies.",
-      "date": "2026-07-08T10:03:14",
-      "source": "France 24"
-    },
-    {
-      "title": "IA : l'Europe face à la guerre des modèles américains et chinois",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260708-ia-l-europe-face-%C3%A0-la-guerre-des-mod%C3%A8les-am%C3%A9ricains-et-chinois",
-      "desc": "Alors que deux sommets consacrés à l'intelligence artificielle se tiennent cette semaine à Genève et à Paris, la rivalité entre Washington et Pékin s’intensifie. Les modèles chinois séduisent par leurs coûts plus faibles, mais posent aussi de nouvelles questions de souveraineté.",
-      "date": "2026-07-08T10:01:52",
-      "source": "France 24"
-    },
-    {
-      "title": "En Libye, des archéologues s'engagent pour la sauvegarde du patrimoine classé à l'UNESCO",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-en-libye-des-arch%C3%A9ologues-s-engagent-pour-la-sauvegarde-du-patrimoine-class%C3%A9-%C3%A0-l-unesco",
-      "desc": "En Libye, des vestiges antiques à Cyrène et Apollonia, classés au patrimoine mondial de l'UNESCO restent menacés deux ans après la tempête Daniel. Des archéologues s'efforcent de réparer les dégâts avec des moyens limités pour préserver l'un des plus remarquables paysages archéologiques d'Afrique du",
-      "date": "2026-07-08T09:35:13",
-      "source": "France 24"
-    },
-    {
-      "title": "Obsèques de Khamenei : partisans du régime et opposition partagent des images créées par IA",
-      "link": "https://www.france24.com/fr/moyen-orient/20260708-obs%C3%A8ques-khamenei-images-cr%C3%A9%C3%A9es-ia-progouvernement-opposition",
-      "desc": "Alors que les obsèques du guide suprême iranien Ali Khamenei – tué lors d'une frappe américano-israélienne le 28 février – ont actuellement lieu à Téhéran, de prétendues images de l’événement ont été diffusées à la fois par des internautes prorégime et par l’opposition. Mais ces images ont été génér",
-      "date": "2026-07-08T09:22:32",
-      "source": "France 24"
-    },
-    {
-      "title": "France : Marine Le Pen candidate à la présidentielle malgré sa condamnation en appel",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260708-france-marine-le-pen-candidate-%C3%A0-la-pr%C3%A9sidentielle-malgr%C3%A9-sa-condamnation-en-appel",
-      "desc": "Marine Le Pen, qui a joué son va-tout en décidant d'être candidate malgré sa condamnation en appel, lance mercredi sa campagne dans la Sarthe, faisant fi des critiques de ses adversaires et du risque que son pari judiciaire osé échoue.",
-      "date": "2026-07-08T09:19:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Pourquoi certains pays africains refusent l'aide financière de Trump",
-      "link": "https://www.bbc.com/afrique/articles/c4gyv0zyj8ro?at_medium=RSS&at_campaign=rss",
-      "desc": "L'administration Trump considère cette aide comme davantage de nature transactionnelle, mais certains estiment que ce n'est pas un échange équitable.",
-      "date": "2026-07-08T07:46:52",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Qui sera le meilleur buteur de la Coupe du monde 2026 ?",
-      "link": "https://www.bbc.com/afrique/articles/clyrq5evd53o?at_medium=RSS&at_campaign=rss",
-      "desc": "A chaque nouvelle journée de la Coupe du monde 2026, les plus grandes stars du football mondial confirment leur statut. L'Argentin Lionel Messi, le Français Kylian Mbappé, le Norvégien Erling Haaland et l'Anglais Harry Kane continuent de trouver le chemin des filets, alimentant une lutte acharnée po",
-      "date": "2026-07-07T16:20:54",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La BBC dévoile l'identité des gardiens et des responsables des « prisons de torture » russes en Ukraine",
-      "link": "https://www.bbc.com/afrique/articles/c5yzrd3n1lno?at_medium=RSS&at_campaign=rss",
-      "desc": "D'anciens détenus accusent ces hommes d'avoir commis des exactions dans des centres de détention et souhaitent qu'ils soient traduits en justice.",
-      "date": "2026-07-07T12:31:41",
       "source": "BBC Afrique"
     },
     {
@@ -93,20 +107,6 @@
       "desc": "L’épidémie d’Ebola qui frappe depuis près de deux mois les provinces orientales de la République démocratique du Congo (RDC) a franchi un seuil symbolique et inquiétant. Plus de 500 personnes ont déjà succombé au virus, tandis que les autorités sanitaires reconnaissent ne toujours pas connaître l’am",
       "date": "2026-07-07T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Les lumières s’éteignent à Cuba, la bataille diplomatique s’embrase à l’ONU",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159110",
-      "desc": "Avant même que les délégations ne commencent à s’affronter sur le fond, la bataille avait déjà commencé. À peine la séance ouverte, le représentant des États-Unis demandait à l’Assemblée générale de renoncer purement et simplement au débat de mardi sur la levée du blocus imposé depuis des décennies ",
-      "date": "2026-07-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Pourquoi six des dix pays les plus généreux du monde se trouvent en Afrique",
-      "link": "https://www.bbc.com/afrique/articles/cj3gg7ey266o?at_medium=RSS&at_campaign=rss",
-      "desc": "Six des dix pays les plus généreux au monde se trouvent en Afrique, un continent où l'on donne en moyenne 1,6 % de ses revenus, contre seulement 0,6 % en Europe.",
-      "date": "2026-07-07T07:39:56",
-      "source": "BBC Afrique"
     }
   ]
 }
