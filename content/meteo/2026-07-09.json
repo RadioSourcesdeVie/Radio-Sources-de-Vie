@@ -3,19 +3,19 @@
   "title": "Météo du 9 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 20.87,
-    "feels_like": 21.15,
-    "humidity": 82,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 4.0
+    "temp": 21.69,
+    "feels_like": 21.74,
+    "humidity": 70,
+    "description": "Couvert",
+    "wind_kmh": 3.6
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.24,
-    "feels_like": 25.99,
-    "humidity": 83,
-    "description": "Peu nuageux",
-    "wind_kmh": 11.3
+    "temp": 30.47,
+    "feels_like": 33.75,
+    "humidity": 60,
+    "description": "Nuageux",
+    "wind_kmh": 14.9
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 9 juillet 2026 sur Radio Sources de Vie. À Ottawa: 21 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 25 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 9 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Couvert. À Port-au-Prince: 30 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
