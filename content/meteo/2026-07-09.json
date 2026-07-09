@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-09T09:00:02.640927Z",
+  "date": "2026-07-09",
+  "title": "Météo du 9 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 20.87,
@@ -15,5 +16,6 @@
     "humidity": 83,
     "description": "Peu nuageux",
     "wind_kmh": 11.3
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 9 juillet 2026 sur Radio Sources de Vie. À Ottawa: 21 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 25 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
 }
