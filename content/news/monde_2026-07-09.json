@@ -1,14 +1,77 @@
 {
   "category": "monde",
   "date": "2026-07-09",
-  "updated": "2026-07-09T11:00:15.054431Z",
+  "updated": "2026-07-09T15:00:15.380297Z",
   "articles": [
     {
-      "title": "Sénégal : le président Diomaye Faye a saisi le Conseil constitutionnel",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-s%C3%A9n%C3%A9gal-le-pr%C3%A9sident-diomaye-faye-a-saisi-le-conseil-constitutionnel",
-      "desc": "🇸🇳 Au Sénégal, nouvelles dissensions entre Bassirou Diomaye Faye et le Pastef. Le chef de l'État a saisi le Conseil constitutionnel au sujet de la réforme de la Constitution adoptée le 29 juin par l'Assemblée nationale. Cette réforme réduit les pouvoirs du chef de l'Etat tout en renforçant ceux de l",
-      "date": "2026-07-09T10:36:47",
+      "title": "Soutien à l'Ukraine, guerre au Moyen-Orient... que retenir du dernier sommet de l'Otan en Turquie ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-soutien-%C3%A0-l-ukraine-guerre-au-moyen-orient-que-retenir-du-dernier-sommet-de-l-otan-en-turquie",
+      "desc": "Les alliés de l'Otan ont affiché leur unité mercredi à Ankara, à l'issue d'un sommet au cours duquel le président américain a alterné virulentes attaques et un ton extraordinairement conciliant. Les précisions de Muriel Domenach, ancienne ambassadrice de la France auprès de l'Otan (2019-2024).",
+      "date": "2026-07-09T14:11:16",
       "source": "France 24"
+    },
+    {
+      "title": "Coupe du monde 2026 : France - Maroc, un choc pour une place en demi-finale",
+      "link": "https://www.bbc.com/afrique/articles/cly753qrg3lo?at_medium=RSS&at_campaign=rss",
+      "desc": "Dernier représentant africain encore en lice, le Maroc retrouve la France avec l'ambition d'écrire une nouvelle page de son histoire en Coupe du monde. Face à une sélection française favorite et habituée aux grandes échéances, les Lions de l'Atlas tenteront de créer l’exploit et devenir la première ",
+      "date": "2026-07-09T13:48:08",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Derrière l'image : comment la Fifa gagne-t-elle de l'argent avec la Coupe du Monde ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-derri%C3%A8re-l-image-comment-la-fifa-gagne-t-elle-de-l-argent-avec-la-coupe-du-monde",
+      "desc": "La 23e Coupe du monde de l’histoire devrait rapporter 9 milliards de dollars à la Fédération internationale de football association (FIFA). Mais comment se rémunère-t-elle ? Qu’en est-il de son modèle économique depuis sa création en 1904 ? Les précisions d'Antoine de Seigneurens, chef de rubrique é",
+      "date": "2026-07-09T13:22:40",
+      "source": "France 24"
+    },
+    {
+      "title": "« C’est comme un film d’horreur » : le minuscule organisme qui attaque le cerveau et pourrait se propager dans le monde entier",
+      "link": "https://www.bbc.com/afrique/articles/cr7xkkjy0dgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Naegleria fowleri peut atteindre le cerveau par les narines lorsque les gens sautent dans l'eau, et est souvent mortelle.",
+      "date": "2026-07-09T13:10:08",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Funérailles d'Ali Khamenei : une démonstration de force du régime iranien ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-fun%C3%A9railles-d-ali-khamenei-une-d%C3%A9monstration-de-force-du-r%C3%A9gime-iranien",
+      "desc": "Le cercueil de l'ayatollah Khamenei est arrivé jeudi en avion à Machhad, ville du nord-est de l'Iran où le guide suprême doit être inhumé dans la journée, a rapporté l'agence officielle Irna.",
+      "date": "2026-07-09T13:06:03",
+      "source": "France 24"
+    },
+    {
+      "title": "L'épidémie d'Ebola en RD Congo se propage plus rapidement que toutes les précédentes",
+      "link": "https://www.france24.com/fr/afrique/20260709-bilan-%C3%A9pid%C3%A9mie-ebola-rd-congo-600-morts-oms",
+      "desc": "L'épidémie d'Ebola qui sévit en République démocratique du Congo se propage plus rapidement que toutes les précédentes, a indiqué jeudi l'agence de santé de l'Union africaine. L'épidémie causée par le variant Bundibugyo a fait 600 morts, selon les chiffres publiés par l'Organisation mondiale de la s",
+      "date": "2026-07-09T13:05:32",
+      "source": "France 24"
+    },
+    {
+      "title": "Frappes américaines en Iran : vers une reprise durable du conflit ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-frappes-am%C3%A9ricaines-en-iran-vers-une-reprise-durable-du-conflit",
+      "desc": "Les Etats-Unis ont de nouveau frappé l'Iran jeudi, Téhéran ripostant contre des alliés de Washington dans la région et accusant ses ennemis de vouloir perturber l'inhumation du guide suprême Ali Khamenei. Les explications de David Rigoulet-Roze, rédacteur en chef de la revue \"Orients Stratégiques\".",
+      "date": "2026-07-09T12:56:17",
+      "source": "France 24"
+    },
+    {
+      "title": "EN DIRECT - Réunion du Conseil de sécurité sur la guerre en Ukraine",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159126",
+      "desc": "Le Conseil de sécurité de l'ONU se réunit, ce jeudi matin, pour faire le point sur la situation en Ukraine, à la demande de ce pays, à la suite d'attaques russes de grande envergure menées à l'aide de missiles et de drones contre des zones civiles. La couverture des discussions en direct est assurée",
+      "date": "2026-07-09T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Détroit d'Ormuz : la reprise des combats entre les États-Unis et l'Iran perturbe le trafic maritime",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159127",
+      "desc": "La reprise des hostilités entre les États-Unis et l'Iran perturbe de nouveau fortement le trafic maritime dans le détroit d'Ormuz, plaçant les États du Golfe en état d'alerte face au risque de nouvelles attaques.",
+      "date": "2026-07-09T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "À Dakar, des créateurs de contenus mobilisés contre la traite des personnes",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159115",
+      "desc": "Une promesse d'emploi qui tourne au piège. Une offre de migration frauduleuse diffusée sur les réseaux sociaux. Une fausse demande en mariage destinée à exploiter de jeunes femmes. À l'ère du numérique, les trafiquants utilisent les mêmes plateformes qui rapprochent les populations pour recruter leu",
+      "date": "2026-07-09T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "La désinformation alimente les attaques violentes contre les agents de santé luttant contre Ebola",
@@ -18,45 +81,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Venezuela : le bilan du double séisme s’alourdit à 3 811 morts",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-venezuela-le-bilan-du-double-s%C3%A9isme-s-alourdit-%C3%A0-3-811-morts",
-      "desc": "Le bilan du double séisme du 24 juin au Venezuela a été révisé à la hausse et s'élève désormais à 3.811 morts, a annoncé mercredi le président de l'Assemblée nationale Jorge Rodriguez lors d'une intervention télévisée.",
-      "date": "2026-07-09T09:48:07",
-      "source": "France 24"
-    },
-    {
-      "title": "Syrie : ce que l’on sait des explosions à Damas survenues pendant la visite de Macron",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-syrie-ce-que-l-on-sait-des-explosions-%C3%A0-damas-survenues-pendant-la-visite-de-macron",
-      "desc": "Le président français Emmanuel Macron a affirmé mardi que les deux attentats à la bombe survenus à Damas pendant sa visite, faisant 18 blessés, ne devaient pas \"déstabiliser\" la Syrie, appelant à \"être intraitable en matière de sécurité\".",
-      "date": "2026-07-09T09:47:21",
-      "source": "France 24"
-    },
-    {
-      "title": "Trump n'a pas utilisé son \"Air Force One\" offert par le Qatar pour quitter la Turquie",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260709-trump-pas-utilis%C3%A9-air-force-one-offert-qatar-pour-quitter-turquie",
-      "desc": "Après le sommet de l'Otan à Ankara, le président américain Donald Trump n'est pas reparti de Turquie mercredi à bord de son nouveau Boeing 747 offert par le Qatar. Il a utilisé un ancien avion \"Air Force One\", pour des raisons de sécurité selon le New York Times.",
-      "date": "2026-07-09T09:26:10",
-      "source": "France 24"
-    },
-    {
-      "title": "🔴 La chanteuse britannique Bonnie Tyler, interprète de \"Total Eclipse of the Heart\", est morte à 75 ans",
-      "link": "https://www.france24.com/fr/chanteuse-pop-galloise-bonnie-tyler-morte-75-ans-total-eclipse-of-the-heart",
-      "desc": "",
-      "date": "2026-07-09T09:23:31",
-      "source": "France 24"
-    },
-    {
       "title": "Pourquoi les méga-prisons du Salvador deviennent un modèle pour de nombreux responsables politiques de droite à travers le monde",
       "link": "https://www.bbc.com/afrique/articles/cn07exp0gx9o?at_medium=RSS&at_campaign=rss",
       "desc": "La politique « de fer » du président Nayib Bukele, fondée sur les arrestations massives et les méga-prisons, gagne en popularité auprès des dirigeants de droite en Amérique latine, mais sa mise en œuvre dans d’autres pays n’a donné que des résultats limités.",
       "date": "2026-07-09T07:24:54",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ces 10 matchs légendaires qui ont changé l'histoire du football africain en Coupe du monde",
-      "link": "https://www.bbc.com/afrique/articles/c5yz70wv496o?at_medium=RSS&at_campaign=rss",
-      "desc": "Quels sont les plus grands matchs de l’histoire des équipes africaines en Coupe du monde ? De l’exploit de l’Algérie face à l’Allemagne en 1982 à l’épopée du Cap-Vert en 2026, BBC Afrique revient sur dix rencontres qui ont marqué l’histoire du football africain sur la scène mondiale.",
-      "date": "2026-07-08T14:56:25",
       "source": "BBC Afrique"
     },
     {
@@ -72,34 +100,6 @@
       "desc": "Deux semaines après les deux puissants séismes qui ont dévasté le centre-nord du Venezuela, les Nations Unies estiment que l'élan de solidarité internationale devra se transformer en engagement financier durable si le pays veut éviter une catastrophe humanitaire de longue durée.",
       "date": "2026-07-08T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : « El Obeid ne doit pas devenir la prochaine scène de crime »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159122",
-      "desc": "Les atrocités commises par les paramilitaires des Forces de soutien rapide (FSR) contre les civils à El Fasher, au Soudan, en octobre dernier – massacres, enlèvements, viols collectifs et persécutions ciblées – présentent les caractéristiques d'un génocide, ont averti mercredi des enquêteurs indépen",
-      "date": "2026-07-08T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les cas de cancer pourraient presque doubler d’ici à 2050, alerte l’OMS",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159121",
-      "desc": "Le nombre de nouveaux cas de cancer dans le monde pourrait atteindre près de&nbsp;35 millions par an d’ici à 2050 si les pays ne prennent pas rapidement des mesures pour renforcer la prévention, le dépistage précoce et les traitements.",
-      "date": "2026-07-08T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Le retour amer des Libanais dans un paysage de ruines",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159120",
-      "desc": "L'accord de cessez-le-feu entre Beyrouth et Tel-Aviv a entraîné une réduction marquée des hostilités entre le Hezbollah et l'armée israélienne — déclenchées par le conflit plus large impliquant l'Iran, Israël et les États-Unis — mais la situation demeure incertaine pour les populations qui rentrent ",
-      "date": "2026-07-08T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Pétroliers attaqués et réaction des États-Unis par des bombardements : pourquoi la guerre dans le détroit d'Ormuz a repris",
-      "link": "https://www.bbc.com/afrique/articles/c4gy66jzzdno?at_medium=RSS&at_campaign=rss",
-      "desc": "Les États-Unis affirment que les attaques visent à imposer des « coûts élevés » à l'Iran, tandis que le gouvernement iranien avertit qu'il va « prendre des mesures décisives » en réponse.",
-      "date": "2026-07-08T11:01:11",
-      "source": "BBC Afrique"
     },
     {
       "title": "On craint un massacre dans cette ville située en première ligne de la guerre au Soudan",
