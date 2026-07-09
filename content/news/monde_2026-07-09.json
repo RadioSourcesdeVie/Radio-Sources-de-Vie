@@ -1,20 +1,48 @@
 {
   "category": "monde",
   "date": "2026-07-09",
-  "updated": "2026-07-09T09:00:16.433309Z",
+  "updated": "2026-07-09T11:00:15.054431Z",
   "articles": [
     {
-      "title": "Inde : des livraisons toujours plus rapides... La dure vie des livreurs",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260709-inde-des-livraisons-toujours-plus-rapides-la-dure-vie-des-livreurs",
-      "desc": "Les applications de livraison ultra-rapide ont transformé le quotidien des Indiens dans les grandes villes.  Ces plateformes promettent de livrer tout ce que vous souhaitez en dix minutes. Mais derrière cette commodité se développe une économie qui redéfinit le travail, les salaires et l’avenir de m",
-      "date": "2026-07-09T08:24:50",
+      "title": "Sénégal : le président Diomaye Faye a saisi le Conseil constitutionnel",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-s%C3%A9n%C3%A9gal-le-pr%C3%A9sident-diomaye-faye-a-saisi-le-conseil-constitutionnel",
+      "desc": "🇸🇳 Au Sénégal, nouvelles dissensions entre Bassirou Diomaye Faye et le Pastef. Le chef de l'État a saisi le Conseil constitutionnel au sujet de la réforme de la Constitution adoptée le 29 juin par l'Assemblée nationale. Cette réforme réduit les pouvoirs du chef de l'Etat tout en renforçant ceux de l",
+      "date": "2026-07-09T10:36:47",
       "source": "France 24"
     },
     {
-      "title": "La Russie suspend ses exportations de diesel",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260709-la-russie-suspend-ses-exportations-de-diesel",
-      "desc": "En suspendant ses exportations de diesel, Moscou reconnaît implicitement que les frappes ukrainiennes contre ses raffineries commencent à peser sur son économie de guerre. Une décision qui pourrait aussi avoir des répercussions sur le marché mondial de l'énergie.",
-      "date": "2026-07-09T08:22:13",
+      "title": "La désinformation alimente les attaques violentes contre les agents de santé luttant contre Ebola",
+      "link": "https://www.bbc.com/afrique/articles/c20ylx87q1no?at_medium=RSS&at_campaign=rss",
+      "desc": "Les fausses informations concernant Ebola sont liées à des attaques contre des centres de traitement, à des agressions contre des personnels de santé et à des perturbations des funérailles.",
+      "date": "2026-07-09T10:06:55",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Venezuela : le bilan du double séisme s’alourdit à 3 811 morts",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-venezuela-le-bilan-du-double-s%C3%A9isme-s-alourdit-%C3%A0-3-811-morts",
+      "desc": "Le bilan du double séisme du 24 juin au Venezuela a été révisé à la hausse et s'élève désormais à 3.811 morts, a annoncé mercredi le président de l'Assemblée nationale Jorge Rodriguez lors d'une intervention télévisée.",
+      "date": "2026-07-09T09:48:07",
+      "source": "France 24"
+    },
+    {
+      "title": "Syrie : ce que l’on sait des explosions à Damas survenues pendant la visite de Macron",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260709-syrie-ce-que-l-on-sait-des-explosions-%C3%A0-damas-survenues-pendant-la-visite-de-macron",
+      "desc": "Le président français Emmanuel Macron a affirmé mardi que les deux attentats à la bombe survenus à Damas pendant sa visite, faisant 18 blessés, ne devaient pas \"déstabiliser\" la Syrie, appelant à \"être intraitable en matière de sécurité\".",
+      "date": "2026-07-09T09:47:21",
+      "source": "France 24"
+    },
+    {
+      "title": "Trump n'a pas utilisé son \"Air Force One\" offert par le Qatar pour quitter la Turquie",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260709-trump-pas-utilis%C3%A9-air-force-one-offert-qatar-pour-quitter-turquie",
+      "desc": "Après le sommet de l'Otan à Ankara, le président américain Donald Trump n'est pas reparti de Turquie mercredi à bord de son nouveau Boeing 747 offert par le Qatar. Il a utilisé un ancien avion \"Air Force One\", pour des raisons de sécurité selon le New York Times.",
+      "date": "2026-07-09T09:26:10",
+      "source": "France 24"
+    },
+    {
+      "title": "🔴 La chanteuse britannique Bonnie Tyler, interprète de \"Total Eclipse of the Heart\", est morte à 75 ans",
+      "link": "https://www.france24.com/fr/chanteuse-pop-galloise-bonnie-tyler-morte-75-ans-total-eclipse-of-the-heart",
+      "desc": "",
+      "date": "2026-07-09T09:23:31",
       "source": "France 24"
     },
     {
@@ -25,38 +53,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Corée du Sud : la Cour suprême confirme la condamnation de l'ex-président Yoon à sept ans de prison",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260709-cor%C3%A9e-sud-cour-supr%C3%AAme-confirme-condamnation-ex-pr%C3%A9sident-yoon-sept-ans-prison",
-      "desc": "La Cour suprême sud-coréenne a confirmé jeudi la condamnation à sept ans de prison de l'ancien président Yoon Suk-yeol pour des faits liés à sa déclaration ratée de la loi martiale en 2024 et aux conséquences chaotiques qui en ont découlé. L'ex-chef de l'État avait notamment entravé les délibération",
-      "date": "2026-07-09T06:34:50",
-      "source": "France 24"
-    },
-    {
-      "title": "La France n'est \"pas prête\" face aux conséquences \"dangereuses\" du changement climatique",
-      "link": "https://www.france24.com/fr/france/20260709-france-pas-pr%C3%AAte-cons%C3%A9quences-dangereuses-changement-climatique-canicule",
-      "desc": "Dans son dernier rapport, le Haut Conseil pour le climat estime que la France doit \"changer d'échelle\" dans son adaptation au changement climatique, jugeant que ses \"activités économiques et pratiques socioculturelles se sont développés ou ont été dimensionnés dans un climat qui n'existe plus\".",
-      "date": "2026-07-09T06:18:07",
-      "source": "France 24"
-    },
-    {
-      "title": "🔴 En direct : l’armée américaine dit avoir mené une nouvelle série de frappes sur 90 cibles iraniennes",
-      "link": "https://www.france24.com/fr/moyen-orient/20260709-en-direct-cessez-le-feu-fini-koweit-bahrein-vises-frappes-iran-etats-unis-pays-golfe-detroit-ormuz-israel-liban-gardiens-revolution",
-      "desc": "",
-      "date": "2026-07-09T05:43:50",
-      "source": "France 24"
-    },
-    {
       "title": "Ces 10 matchs légendaires qui ont changé l'histoire du football africain en Coupe du monde",
       "link": "https://www.bbc.com/afrique/articles/c5yz70wv496o?at_medium=RSS&at_campaign=rss",
       "desc": "Quels sont les plus grands matchs de l’histoire des équipes africaines en Coupe du monde ? De l’exploit de l’Algérie face à l’Allemagne en 1982 à l’épopée du Cap-Vert en 2026, BBC Afrique revient sur dix rencontres qui ont marqué l’histoire du football africain sur la scène mondiale.",
       "date": "2026-07-08T14:56:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "L'Égypte, éliminée face à l'Argentine dans les dernières minutes, accuse la FIFA de favoritisme envers Messi",
-      "link": "https://www.bbc.com/afrique/articles/cly7e54qj79o?at_medium=RSS&at_campaign=rss",
-      "desc": "La BBC revient sur un match qui restera dans les annales de la Coupe du monde, non sans susciter la polémique.",
-      "date": "2026-07-08T13:38:58",
       "source": "BBC Afrique"
     },
     {
