@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-10T09:00:02.662350Z",
+  "date": "2026-07-10",
+  "title": "Météo du 10 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 17.37,
@@ -15,5 +16,6 @@
     "humidity": 80,
     "description": "Couvert",
     "wind_kmh": 11.1
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 10 juillet 2026 sur Radio Sources de Vie. À Ottawa: 17 degrés Celsius. Ciel dégagé. À Port-au-Prince: 26 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
