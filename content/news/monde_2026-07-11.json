@@ -1,49 +1,63 @@
 {
   "category": "monde",
   "date": "2026-07-11",
-  "updated": "2026-07-11T16:00:16.830575Z",
+  "updated": "2026-07-11T21:00:17.522147Z",
   "articles": [
+    {
+      "title": "Mali: un convoi de l'armée rallie Anefis après d'intenses combats",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260711-mali-un-convoi-de-l-arm%C3%A9e-rallie-anefis-apr%C3%A8s-d-intenses-combats",
+      "desc": "L’armée malienne et les mercenaires russes ont repris jeudi nuit le contrôle de la ville de Anéfis , dans le nord du Mali, après plusieurs jours de combats particulièrement violents contre les combattants Jihadistes et les rebelles maliens indépendantistes du Front de libération de l’Azawad (FLA) …",
+      "date": "2026-07-11T20:48:37",
+      "source": "France 24"
+    },
+    {
+      "title": "Norvège - Angleterre en direct : suivez le choc des quarts de finale de la Coupe du monde",
+      "link": "https://www.france24.com/fr/sports/20260711-mondial-2026-norvege-angleterre-direct-live-choc-quarts-finale-coupe-du-monde",
+      "desc": "La Norvège affronte l’Angleterre samedi 11 juillet à Miami pour une place dans le dernier carré du Mondial 2026. Les Three Lions et avec leur pléiade de stars, Harry Kane en tête, ont fait preuve d'une combativité inébranlable. Leur défense parfois fébrile aura fort à faire face à des Vikings intrép",
+      "date": "2026-07-11T20:20:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Rokia Traoré : prison, combat judiciaire et retour sur scène avec Fifty-Fifty",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-rokia-traor%C3%A9-prison-combat-judiciaire-et-retour-sur-sc%C3%A8ne-avec-fifty-fifty",
+      "desc": "Après plusieurs années marquées par un conflit judiciaire autour de la garde de sa fille, des détentions en Europe et une procédure toujours en appel, la chanteuse malienne Rokia Traoré revient sur scène avec Fifty-Fifty, un nouveau spectacle présenté comme un récit de liberté et de reconstruction. ",
+      "date": "2026-07-11T20:18:27",
+      "source": "France 24"
+    },
+    {
+      "title": "La Tchèque Linda Noskova remporte la finale de Wimbledon et s'offre un premier titre en Grand Chelem",
+      "link": "https://www.france24.com/fr/sports/20260711-la-tch%C3%A8que-linda-noskova-remporte-la-finale-de-wimbledon-et-s-offre-un-premier-titre-en-grand-chelem",
+      "desc": "À seulement 21 ans, la Tchèque Linda Noskova (12e mondiale) a remporté samedi la finale de Wimbledon à Londres contre sa compatriote Karolina Muchova (9e). Ce premier titre en Grand Chlem la hissera lundi au septième rang mondial, le meilleur classement de sa carrière.",
+      "date": "2026-07-11T18:43:50",
+      "source": "France 24"
+    },
+    {
+      "title": "La France qualifiée facilement pour les demi-finales : les Bleus seraient-ils les meilleurs de tous les temps ?",
+      "link": "https://www.bbc.com/afrique/articles/c1ey5e92vpzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Après ses titres de 1998 et 2018, la France semble avoir bâti une nouvelle génération d'exception. Qualifiée facilement pour une troisième demi-finale consécutive après sa victoire contre le Maroc, l’équipe de France s'affirme comme l'équipe à battre dans ce Mondial 2026. Les Bleus version 2026 sera",
+      "date": "2026-07-11T18:04:03",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Pourquoi certaines personnes attirent les moustiques",
+      "link": "https://www.bbc.com/afrique/articles/c982vy7een0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Bien avant de se poser, les moustiques détectent à distance les signaux émis par notre corps. Découvrez si vous figurez parmi leurs cibles privilégiées.",
+      "date": "2026-07-11T17:02:46",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Tour de France : le Belge Tim Merlier double la mise, la 9e étape raccourcie à cause de la chaleur",
+      "link": "https://www.france24.com/fr/sports/20260711-tour-de-france-belge-tim-merlier-double-mise-remportant-8e-%C3%A9tape-sprint-bergerac",
+      "desc": "La neuvième étape du Tour de France en Corrèze a été raccourcie en raison de la chaleur, a annoncé samedi la direction, alors que le département a été placé en vigilance rouge canicule par Météo-France pour dimanche. La huitième étape, elle, a été remportée par le Belge Tim Merlier au sprint à Berge",
+      "date": "2026-07-11T16:32:04",
+      "source": "France 24"
+    },
     {
       "title": "\"Transformation miraculeuse\" : Comment Kim Jong-un a réussi à redresser la situation économique de la Corée du Nord",
       "link": "https://www.bbc.com/afrique/articles/cvgjy2y42ryo?at_medium=RSS&at_campaign=rss",
       "desc": "L'alliance avec la Russie et les changements survenus sur la scène internationale ont soulagé la situation économique du régime de Pyongyang. Mais cela va-t-il durer ?",
       "date": "2026-07-11T15:53:54",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260711-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-pour-les-forces-de-l-ordre-la-ldh-d%C3%A9nonce-un-permis-de-tuer",
-      "desc": "Au programme de votre magazine cette semaine, une pétition qui recueille pas loin de 600.000 signatures à ce jour, pour dire NON à une loi adoptée à l'Assemblée nationale. Un texte qui fait polémique parce qu'il pose le principe d'une présomption de légitime défense pour les policiers ou les gendarm",
-      "date": "2026-07-11T15:32:42",
-      "source": "France 24"
-    },
-    {
-      "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
-      "link": "https://www.france24.com/fr/afrique/20260711-mondial-2026-milieu-sud-africain-jayden-adams-retrouv%C3%A9-mort-25-ans-bafana-bafana",
-      "desc": "L'international sud-africain Jayden Adams, milieu ⁠de terrain des Bafana Bafana, a été retrouvé mort à 25 ans, quelques jours seulement après avoir disputé trois matches à la Coupe du monde, a annoncé le ministère sud-africain des Sports samedi, ajoutant que la cause du décès n'avait \"pas encore été",
-      "date": "2026-07-11T15:30:05",
-      "source": "France 24"
-    },
-    {
-      "title": "Depuis quand fait-on des cahiers de vacances ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-depuis-quand-fait-on-cahiers-vacances-%C3%A9t%C3%A9-france-histoire-culture-prime",
-      "desc": "C'était peut-être un incontournable de vos vacances d'été. Mais savez-vous d'où vient le célèbre cahier de vacances, compagnon estival indispensable des écoliers comme des adultes ?",
-      "date": "2026-07-11T15:15:22",
-      "source": "France 24"
-    },
-    {
-      "title": "Ukraine : de nouvelles frappes russes font au moins six morts et des dizaines de blessés",
-      "link": "https://www.france24.com/fr/europe/20260711-de-nouvelles-frappes-russes-sur-l-ukraine-font-six-morts-et-des-dizaines-de-bless%C3%A9s",
-      "desc": "La capitale et plusieurs régions de l'Ukraine ont été visées par des frappes russes très tôt samedi matin, faisant 6 morts et des dizaines de blessés, dont 12 à Kiev. Plus de 120 drones et 12 missiles ont été tirés par la Russie, selon Volodymyr Zelensky. L'Ukraine, elle, manque de missiles intercep",
-      "date": "2026-07-11T14:47:10",
-      "source": "France 24"
-    },
-    {
-      "title": "Canicule : 37 départements en vigilance rouge dimanche, les autorités appellent à la vigilance sur les feux",
-      "link": "https://www.france24.com/fr/france/20260710-week-end-caniculaire-en-france-paris-et-une-vingtaine-de-d%C3%A9partements-voient-rouge",
-      "desc": "",
-      "date": "2026-07-11T14:32:03",
-      "source": "France 24"
     },
     {
       "title": "Ces dix inventions du XXe siècle qui ont révolutionné et amélioré notre quotidien",
@@ -57,13 +71,6 @@
       "link": "https://www.bbc.com/afrique/articles/cy4ezdyen77o?at_medium=RSS&at_campaign=rss",
       "desc": "La technologie créée pour aider les arbitres à prendre les bonnes décisions a été au centre de l'attention lors du tournoi de 2026.",
       "date": "2026-07-11T09:17:32",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Pourquoi la ville d'Anéfis est tant convoitée par l'armée malienne et l'alliance JNIM-FLA",
-      "link": "https://www.bbc.com/afrique/articles/cn94rdwyqg4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Depuis quelques jours, d’âpres combats se poursuivent à Anéfis, au nord du Mali, entre les Forces armées maliennes (FAMa), appuyées par le Corps africain russe (Africa Corps), et la coalition formée par le Jama'at Nusrat al-Islam wal-Muslimin (JNIM) et le Front de libération de l'Azawad (FLA).",
-      "date": "2026-07-10T16:41:25",
       "source": "BBC Afrique"
     },
     {
@@ -100,13 +107,6 @@
       "desc": "Au Soudan, une nouvelle flambée de choléra menace des populations déjà éprouvées par plus de trois ans de conflit. L'épidémie a déjà fait plus de 100 morts et suscite une vive inquiétude, en particulier à El Obeid, ville assiégée du Kordofan du Nord, où les attaques quotidiennes de drones entravent ",
       "date": "2026-07-10T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Les pénuries de carburant en Russie sèment le chaos, mais vont-elles contraindre Poutine à changer de stratégie dans la guerre en Ukraine ?",
-      "link": "https://www.bbc.com/afrique/articles/cpq30nvqy5qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Même à Moscou, les autorités ne peuvent garantir l'approvisionnement en carburant, mais les pressions économiques mèneront-elles au dialogue ou à une escalade du conflit ?",
-      "date": "2026-07-10T07:24:29",
-      "source": "BBC Afrique"
     }
   ]
 }
