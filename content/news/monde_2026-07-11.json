@@ -1,8 +1,43 @@
 {
   "category": "monde",
   "date": "2026-07-11",
-  "updated": "2026-07-11T15:00:15.902681Z",
+  "updated": "2026-07-11T16:00:16.830575Z",
   "articles": [
+    {
+      "title": "\"Transformation miraculeuse\" : Comment Kim Jong-un a réussi à redresser la situation économique de la Corée du Nord",
+      "link": "https://www.bbc.com/afrique/articles/cvgjy2y42ryo?at_medium=RSS&at_campaign=rss",
+      "desc": "L'alliance avec la Russie et les changements survenus sur la scène internationale ont soulagé la situation économique du régime de Pyongyang. Mais cela va-t-il durer ?",
+      "date": "2026-07-11T15:53:54",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Présomption de légitime défense pour les forces de l'ordre : la LDH dénonce \"un permis de tuer\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-en-france/20260711-pr%C3%A9somption-de-l%C3%A9gitime-d%C3%A9fense-pour-les-forces-de-l-ordre-la-ldh-d%C3%A9nonce-un-permis-de-tuer",
+      "desc": "Au programme de votre magazine cette semaine, une pétition qui recueille pas loin de 600.000 signatures à ce jour, pour dire NON à une loi adoptée à l'Assemblée nationale. Un texte qui fait polémique parce qu'il pose le principe d'une présomption de légitime défense pour les policiers ou les gendarm",
+      "date": "2026-07-11T15:32:42",
+      "source": "France 24"
+    },
+    {
+      "title": "Mondial 2026 : le milieu sud-africain Jayden Adams retrouvé mort à 25 ans",
+      "link": "https://www.france24.com/fr/afrique/20260711-mondial-2026-milieu-sud-africain-jayden-adams-retrouv%C3%A9-mort-25-ans-bafana-bafana",
+      "desc": "L'international sud-africain Jayden Adams, milieu ⁠de terrain des Bafana Bafana, a été retrouvé mort à 25 ans, quelques jours seulement après avoir disputé trois matches à la Coupe du monde, a annoncé le ministère sud-africain des Sports samedi, ajoutant que la cause du décès n'avait \"pas encore été",
+      "date": "2026-07-11T15:30:05",
+      "source": "France 24"
+    },
+    {
+      "title": "Depuis quand fait-on des cahiers de vacances ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-depuis-quand-fait-on-cahiers-vacances-%C3%A9t%C3%A9-france-histoire-culture-prime",
+      "desc": "C'était peut-être un incontournable de vos vacances d'été. Mais savez-vous d'où vient le célèbre cahier de vacances, compagnon estival indispensable des écoliers comme des adultes ?",
+      "date": "2026-07-11T15:15:22",
+      "source": "France 24"
+    },
+    {
+      "title": "Ukraine : de nouvelles frappes russes font au moins six morts et des dizaines de blessés",
+      "link": "https://www.france24.com/fr/europe/20260711-de-nouvelles-frappes-russes-sur-l-ukraine-font-six-morts-et-des-dizaines-de-bless%C3%A9s",
+      "desc": "La capitale et plusieurs régions de l'Ukraine ont été visées par des frappes russes très tôt samedi matin, faisant 6 morts et des dizaines de blessés, dont 12 à Kiev. Plus de 120 drones et 12 missiles ont été tirés par la Russie, selon Volodymyr Zelensky. L'Ukraine, elle, manque de missiles intercep",
+      "date": "2026-07-11T14:47:10",
+      "source": "France 24"
+    },
     {
       "title": "Canicule : 37 départements en vigilance rouge dimanche, les autorités appellent à la vigilance sur les feux",
       "link": "https://www.france24.com/fr/france/20260710-week-end-caniculaire-en-france-paris-et-une-vingtaine-de-d%C3%A9partements-voient-rouge",
@@ -11,39 +46,11 @@
       "source": "France 24"
     },
     {
-      "title": "Mondial 2026 : Kane vs Haaland, le duel retentissant du quart de finale Angleterre-Norvège",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-mondial-2026-kane-vs-haaland-le-duel-retentissant-du-quart-de-finale-angleterre-norv%C3%A8ge",
-      "desc": "Le choc des leaders s'opère samedi et verra s'opposer les géants Harry Kane et Erling Haaland. L'Anglais et le Norvégien vont s'affronter sur la pelouse du stade de Miami sous le sifflet du Français Clément Turpin pour un match qui déterminera qui des deux drapeaux flottera lors des demi-finales.",
-      "date": "2026-07-11T14:20:47",
-      "source": "France 24"
-    },
-    {
-      "title": "Iran : le guide suprême Mojtaba Khamenei a juré de venger la mort de son père",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260711-iran-mojtaba-khamenei-a-jur%C3%A9-de-venger-la-mort-de-son-p%C3%A8re",
-      "desc": "Le guide suprême iranien Mojtaba Khamenei a juré de venger la mort de son père, Ali Khamenei, tué fin février dans des frappes israélo-américaines, affirmant dans un message écrit diffusé samedi que cette vengeance devait \"s'accomplir, inévitablement\".",
-      "date": "2026-07-11T13:34:28",
-      "source": "France 24"
-    },
-    {
-      "title": "\"Notre terre, notre ciel\" : en Cisjordanie occupée, des cerfs-volants face aux colonies israéliennes",
-      "link": "https://www.france24.com/fr/moyen-orient/20260711-notre-terre-notre-ciel-en-cisjordanie-occup%C3%A9e-des-cerfs-volants-face-aux-colonies",
-      "desc": "Un festival est organisé chaque année depuis 2009 dans le village de Burin, en Cisjordanie occupée, pour protester contre l'expansion des colonies israéliennes et l'accaparement des terres agricoles. Entre cerfs-volants aux couleurs du drapeau palestinien, musique et clown pour les enfants, l'événem",
-      "date": "2026-07-11T13:13:13",
-      "source": "France 24"
-    },
-    {
       "title": "Ces dix inventions du XXe siècle qui ont révolutionné et amélioré notre quotidien",
       "link": "https://www.bbc.com/afrique/articles/cql111xwqqzo?at_medium=RSS&at_campaign=rss",
       "desc": "Le XXe siècle a vu naître certaines des innovations les plus marquantes de l’histoire. En quelques décennies, elles ont révolutionné la médecine, les transports, les communications et l’informatique, transformant durablement le quotidien de milliards de personnes.",
       "date": "2026-07-11T13:09:51",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Mondial 2026 : des Argentins au mental d'acier avant leur quart de finale face à la Suisse",
-      "link": "https://www.france24.com/fr/sports/20260711-mondial-2026-mental-acier-argentine-quarts-finale-suisse",
-      "desc": "Après avoir buté sur les équipes africaines, l'Argentine doit se relancer dans la nuit de samedi à dimanche face à la Suisse en quarts de finale. Avec un billet pour le dernier carré à la clé, les coéquipiers de Lionel Messi ont besoin d'assurer contre les hommes de Murat Yakin, dont la sélection he",
-      "date": "2026-07-11T13:05:44",
-      "source": "France 24"
     },
     {
       "title": "Qu'est-ce que la VAR et pourquoi est-elle si controversée lors de la Coupe du monde ?",
@@ -99,13 +106,6 @@
       "link": "https://www.bbc.com/afrique/articles/cpq30nvqy5qo?at_medium=RSS&at_campaign=rss",
       "desc": "Même à Moscou, les autorités ne peuvent garantir l'approvisionnement en carburant, mais les pressions économiques mèneront-elles au dialogue ou à une escalade du conflit ?",
       "date": "2026-07-10T07:24:29",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Dix régimes autoritaires qui sévissent en Afrique subsaharienne",
-      "link": "https://www.bbc.com/afrique/articles/ced4jq7gdxjo?at_medium=RSS&at_campaign=rss",
-      "desc": "Durant ces dernières décennies, de nombreux régimes ont pris une tournure autocratique, restreignant la liberté d'expression, réprimant toute voix discordante et contrôlant tout processus électoral s'il existe et rendant presque impossible l'exercice de la démocratie.",
-      "date": "2026-07-09T18:05:42",
       "source": "BBC Afrique"
     }
   ]
