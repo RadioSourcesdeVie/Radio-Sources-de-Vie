@@ -3,19 +3,19 @@
   "title": "Météo du 11 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 26.43,
-    "feels_like": 26.43,
-    "humidity": 43,
-    "description": "Ciel dégagé",
-    "wind_kmh": 4.9
+    "temp": 27.46,
+    "feels_like": 27.27,
+    "humidity": 41,
+    "description": "Nuageux",
+    "wind_kmh": 6.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 35.46,
-    "feels_like": 35.82,
-    "humidity": 32,
+    "temp": 33.27,
+    "feels_like": 35.7,
+    "humidity": 46,
     "description": "Couvert",
-    "wind_kmh": 8.4
+    "wind_kmh": 12.2
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 11 juillet 2026 sur Radio Sources de Vie. À Ottawa: 26 degrés Celsius. Ciel dégagé. À Port-au-Prince: 35 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 11 juillet 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Nuageux. À Port-au-Prince: 33 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
