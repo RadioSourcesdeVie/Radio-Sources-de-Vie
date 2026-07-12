@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+import re
 import time
 import requests as http
 import mysql.connector
@@ -38,17 +39,17 @@ def mettre_en_queue(song_id):
     return "200" in r.text
 
 
+MOT_CLE_PATTERN = re.compile(
+    r'(?:!request|!req|!mizik|\brequest\b|\breq\b|\bmizik\b)',
+    re.IGNORECASE
+)
+
+
 def traiter_commande(auteur, texte):
     texte = texte.strip()
-    bas = texte.lower()
-    prefixes = ["!request", "request", "!req", "req", "!mizik", "mizik"]
-    prefixe_trouve = None
-    for p in prefixes:
-        if bas.startswith(p):
-            prefixe_trouve = p
-            break
-    if prefixe_trouve:
-        recherche = texte[len(prefixe_trouve):].strip()
+    match = MOT_CLE_PATTERN.search(texte)
+    if match:
+        recherche = texte[match.end():].strip()
         if not recherche:
             print("  " + auteur + " a tape !request sans titre.")
             return
