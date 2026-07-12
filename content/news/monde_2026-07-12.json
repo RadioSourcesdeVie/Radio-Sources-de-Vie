@@ -1,49 +1,63 @@
 {
   "category": "monde",
   "date": "2026-07-12",
-  "updated": "2026-07-12T16:00:16.620376Z",
+  "updated": "2026-07-12T21:00:16.845259Z",
   "articles": [
+    {
+      "title": "Liban-Sud : le test des \"zones pilotes\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-liban-sud-les-etats-unis-pressent-le-test-des-zones-pilotes",
+      "desc": "Une délégation militaire américaine a entamé à Beyrouth des discussions avec l'armée libanaise sur les modalités de mise en œuvre du retrait israélien d'une des \"zones pilotes\" du sud du pays. Décryptage avec notre grand reporter Mélina Huet.",
+      "date": "2026-07-12T20:41:03",
+      "source": "France 24"
+    },
+    {
+      "title": "Sommet sur les minerais critiques à Abidjan : l'Afrique veut transformer davantage",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20260712-sommet-sur-les-minerais-critiques-%C3%A0-abidjan-l-afrique-veut-transformer-davantage",
+      "desc": "Longtemps cantonnée au rôle de fournisseur de matières premières, l’Afrique veut désormais transformer davantage de ses minerais sur son propre sol. Cobalt, lithium, graphite ou encore cuivre sont au cœur de la transition énergétique mondiale. À Abidjan, responsables politiques, industriels et inves",
+      "date": "2026-07-12T20:37:16",
+      "source": "France 24"
+    },
+    {
+      "title": "Afrique du Sud : pourquoi les violences contre les migrants africains se multiplient-elles ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-afrique-du-sud-pourquoi-les-violences-contre-les-migrants-africains-se-multiplient-elles",
+      "desc": "Pourquoi les violences contre les migrants africains connaissent-elles un regain en Afrique du Sud ? Depuis plusieurs mois, commerces pillés, familles déplacées et manifestations anti-immigration se multiplient. Dans cet entretien, le géographe Philippe Gervais-Lambony, spécialiste de l'Afrique du S",
+      "date": "2026-07-12T20:28:42",
+      "source": "France 24"
+    },
+    {
+      "title": "Sinner remporte son deuxième Wimbledon, la Française Mladenovic sacrée en double",
+      "link": "https://www.france24.com/fr/sports/20260712-sinner-remporte-son-deuxi%C3%A8me-wimbledon-la-fran%C3%A7aise-mladenovic-sacr%C3%A9e-double-grand-chelem-tennis-num%C3%A9ro-un-mondial",
+      "desc": "",
+      "date": "2026-07-12T19:06:14",
+      "source": "France 24"
+    },
+    {
+      "title": "Sinner remporte son deuxième Wimbledon, la Française Mladenovic sacrée en double",
+      "link": "https://www.france24.com/fr/sports/20260712-sinner-remporte-son-deuxi%C3%A8me-wimbledon-la-fran%C3%A7aise-mladenovic-sacr%C3%A9e-double-grand-chelem-tennis-num%C3%A9ro-un-mondial",
+      "desc": "Jannik Sinner a remporté Wimbledon dimanche 12 juillet face à Alexander Zverev (6-7, 7-6, 6-3, 6-4). Le numéro un mondial gagne ce tournoi du Grand Chelem pour la deuxième année d'affilée. Plus tôt, la Française Kristina Mladenovic est devenue la quatrième Française de l'histoire à gagner Wimbledon ",
+      "date": "2026-07-12T19:05:49",
+      "source": "France 24"
+    },
+    {
+      "title": "L'éruption volcanique qui a produit le son le plus fort de l'histoire enregistrée",
+      "link": "https://www.bbc.com/afrique/articles/crm0ywm3pm8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Un volcan indonésien est entré en éruption cette semaine, mais une autre éruption au même endroit en 1883 avait été bien plus destructrice.",
+      "date": "2026-07-12T18:00:54",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "5 choses qui provoquent des désaccords entre partenaires",
+      "link": "https://www.bbc.com/afrique/articles/c0ryjn1v14eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Un manque de confiance et d'assurance réciproque au sein d'une relation, qui peut rendre la vie à deux source de conflits ou d'anxiété, et qui peut, à terme, conduire à une séparation.",
+      "date": "2026-07-12T16:50:33",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Comment le football a aidé les immigrants à s'intégrer aux États-Unis",
       "link": "https://www.bbc.com/afrique/articles/clye0np5dk5o?at_medium=RSS&at_campaign=rss",
       "desc": "Le football est le lien commun qui unit les immigrants et les réfugiés qui disputent des matchs dans un parc du Maine, et il les a aidés à développer un sentiment d'appartenance à une communauté en terre étrangère.",
       "date": "2026-07-12T15:04:39",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Marine Le Pen candidate, funérailles d'Ali Khamenei, France-Maroc au Mondial : la semaine en images",
-      "link": "https://www.france24.com/fr/europe/20260712-marine-le-pen-candidate-fun%C3%A9railles-ali-khamenei-france-maroc-mondial-semaine-en-images",
-      "desc": "Retour sur les temps forts de l'actualité de la semaine : Marine Le Pen annonce être candidate à la présidentielle de 2027 malgré sa condamnation en appel dans l'affaire des assistants parlementaires européens, le défunt guide suprême iranien Ali Khamenei est inhumé après plusieurs jours de funérail",
-      "date": "2026-07-12T14:50:42",
-      "source": "France 24"
-    },
-    {
-      "title": "Etats-Unis : un Mexicain de 52 ans tué par un agent de l'ICE au Texas",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-etats-unis-un-mexicain-de-52-ans-tu%C3%A9-par-un-agent-de-l-ice-au-texas",
-      "desc": "Les témoins de la mort de Lorenzo Salgado Araujo, un Mexicain de 52 ans  tué par un agent de la police américaine de l'immigration (ICE) au Texas, ont affirmé que l'homme n'avait jamais tenté de renverser le policier, contredisant ainsi la version de l'agence, a déclaré vendredi leur avocat. Le Mexi",
-      "date": "2026-07-12T14:30:03",
-      "source": "France 24"
-    },
-    {
-      "title": "Attentat Nice : 10 ans après, des milliers de personnes défilent en hommage aux victimes",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260712-attentat-nice-10-ans-apr%C3%A8s-des-milliers-de-personnes-d%C3%A9filent-en-hommage-aux-victimes",
-      "desc": "Dix ans après l'attentat qui a fait 86 morts et plus de 400 blessés le 14 juillet 2016 sur la Promenade des Anglais, Nice se prépare à rendre hommage à ses victimes. \"Je vais sur la promenade des Anglais comme si j'allais sur la tombe de ma mère\" raconte Célia Viale, victime de l'attentat. Elle s'es",
-      "date": "2026-07-12T12:56:35",
-      "source": "France 24"
-    },
-    {
-      "title": "Ukraine : Zelensky annonce un remaniement avec le départ de sa Première ministre, Svyrydenko",
-      "link": "https://www.france24.com/fr/europe/20260712-ukraine-zelensky-annonce-remaniement-gouvernement-depart-premi%C3%A8re-ministre-svyrydenko",
-      "desc": "Volodymyr Zelensky a annoncé dimanche un remaniement du gouvernement ukrainien. En place depuis un an, la Première ministre Ioulia Svyrydenko devrait obtenir un nouveau poste. Une opportunité qui la mettrait en \"relations avec un partenaire-clé\", a déclaré le président ukrainien, sans plus de précis",
-      "date": "2026-07-12T12:55:06",
-      "source": "France 24"
-    },
-    {
-      "title": "Pape Thiaw écarté de son poste de sélectionneur du Sénégal après un Mondial décevant",
-      "link": "https://www.france24.com/fr/sports/20260712-pape-thiaw-%C3%A9cart%C3%A9-poste-s%C3%A9lectionneur-s%C3%A9n%C3%A9gal-apr%C3%A8s-mondial-d%C3%A9cevant-lions-teranga",
-      "desc": "En poste depuis fin 2024, Pape Thiaw a été démis de ses fonctions de sélectionneur des Lions de la Teranga, éliminés en 16es de finale du Mondial 2026 après avoir laissé filer une avance de deux buts contre la Belgique à cinq minutes de la fin du temps réglementaire.",
-      "date": "2026-07-12T12:45:16",
-      "source": "France 24"
     },
     {
       "title": "La série sud-africaine à succès qui fait parler le monde entier de la polygamie et de l'infidélité",
@@ -53,24 +67,24 @@
       "source": "BBC Afrique"
     },
     {
+      "title": "L’escalade millitaire dans le Golfe inquiète l’ONU qui appelle à la retenue",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159138",
+      "desc": "Le Secrétaire général de l’ONU,&nbsp;António Guterres, s’est dit profondément préoccupé, dimanche, par la&nbsp;«&nbsp;grave escalade et la reprise des affrontements militaires dans le Golfe&nbsp;», notamment les attaques iraniennes contre des navires dans le détroit d'Ormuz, les attaques des États-U",
+      "date": "2026-07-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Les bâtisseurs de paix de l'ombre : quand la diplomatie empêche les guerres d'éclater",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159135",
+      "desc": "Leurs succès font rarement la une des journaux. Pourtant, depuis 80 ans, les missions politiques spéciales des Nations Unies contribuent discrètement à prévenir des conflits, à rapprocher des ennemis et à accompagner des transitions politiques fragiles. Sans soldats ni Casques bleus, elles misent su",
+      "date": "2026-07-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
       "title": "Contrebande, espionnage, sabotage : comment la Russie utilise une « flotte fantôme » pour contourner les sanctions occidentales",
       "link": "https://www.bbc.com/afrique/articles/cn0v4dplz1ro?at_medium=RSS&at_campaign=rss",
       "desc": "Les pétroliers « fantômes » et « zombies » qui transportent clandestinement du pétrole russe, iranien et vénézuélien sous le coup de sanctions étendent leurs activités, menaçant les infrastructures sous-marines d'Europe occidentale ainsi que l'environnement à l'échelle mondiale.",
       "date": "2026-07-12T09:21:30",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La France qualifiée facilement pour les demi-finales : les Bleus seraient-ils les meilleurs de tous les temps ?",
-      "link": "https://www.bbc.com/afrique/articles/c1ey5e92vpzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Après ses titres de 1998 et 2018, la France semble avoir bâti une nouvelle génération d'exception. Qualifiée facilement pour une troisième demi-finale consécutive après sa victoire contre le Maroc, l’équipe de France s'affirme comme l'équipe à battre dans ce Mondial 2026. Les Bleus version 2026 sera",
-      "date": "2026-07-11T18:04:03",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "\"Transformation miraculeuse\" : Comment Kim Jong-un a réussi à redresser la situation économique de la Corée du Nord",
-      "link": "https://www.bbc.com/afrique/articles/cvgjy2y42ryo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'alliance avec la Russie et les changements survenus sur la scène internationale ont soulagé la situation économique du régime de Pyongyang. Mais cela va-t-il durer ?",
-      "date": "2026-07-11T15:53:54",
       "source": "BBC Afrique"
     },
     {
@@ -91,20 +105,6 @@
       "title": "Les femmes paient le prix des coupes dans l'aide humanitaire",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159134",
       "desc": "Au moins un million de femmes et de filles ont perdu l'accès à une aide humanitaire essentielle depuis janvier 2025, alors que des réductions de financement sans précédent poussent les organisations de femmes intervenant dans les zones de crise au bord de l'effondrement, a averti vendredi ONU Femmes",
-      "date": "2026-07-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Nucléaire iranien : l’AIEA a perdu la mémoire du programme de Téhéran",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159133",
-      "desc": "Alors que Washington et Téhéran tentent laborieusement de mettre fin à l’escalade militaire des derniers jours, une haute responsable des Nations Unies a déclaré vendredi que la guerre entre les deux pays avait réduit à néant la continuité des connaissances acquises par les inspecteurs internationau",
-      "date": "2026-07-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : le choléra frappe des populations déjà ravagées par la guerre",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159132",
-      "desc": "Au Soudan, une nouvelle flambée de choléra menace des populations déjà éprouvées par plus de trois ans de conflit. L'épidémie a déjà fait plus de 100 morts et suscite une vive inquiétude, en particulier à El Obeid, ville assiégée du Kordofan du Nord, où les attaques quotidiennes de drones entravent ",
       "date": "2026-07-10T12:00:00",
       "source": "ONU Info"
     }
