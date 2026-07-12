@@ -3,19 +3,19 @@
   "title": "Météo du 12 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 21.65,
-    "feels_like": 21.65,
-    "humidity": 68,
-    "description": "Peu nuageux",
-    "wind_kmh": 2.6
+    "temp": 27.89,
+    "feels_like": 28,
+    "humidity": 46,
+    "description": "Nuageux",
+    "wind_kmh": 7.8
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 30.53,
-    "feels_like": 31.03,
-    "humidity": 45,
+    "temp": 34.54,
+    "feels_like": 35.58,
+    "humidity": 37,
     "description": "Nuageux",
-    "wind_kmh": 9.5
+    "wind_kmh": 13.6
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 12 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Peu nuageux. À Port-au-Prince: 31 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 12 juillet 2026 sur Radio Sources de Vie. À Ottawa: 28 degrés Celsius. Nuageux. À Port-au-Prince: 35 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
