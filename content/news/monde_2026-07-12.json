@@ -1,8 +1,15 @@
 {
   "category": "monde",
   "date": "2026-07-12",
-  "updated": "2026-07-12T15:00:16.352137Z",
+  "updated": "2026-07-12T16:00:16.620376Z",
   "articles": [
+    {
+      "title": "Comment le football a aidé les immigrants à s'intégrer aux États-Unis",
+      "link": "https://www.bbc.com/afrique/articles/clye0np5dk5o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le football est le lien commun qui unit les immigrants et les réfugiés qui disputent des matchs dans un parc du Maine, et il les a aidés à développer un sentiment d'appartenance à une communauté en terre étrangère.",
+      "date": "2026-07-12T15:04:39",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Marine Le Pen candidate, funérailles d'Ali Khamenei, France-Maroc au Mondial : la semaine en images",
       "link": "https://www.france24.com/fr/europe/20260712-marine-le-pen-candidate-fun%C3%A9railles-ali-khamenei-france-maroc-mondial-semaine-en-images",
@@ -57,13 +64,6 @@
       "link": "https://www.bbc.com/afrique/articles/c1ey5e92vpzo?at_medium=RSS&at_campaign=rss",
       "desc": "Après ses titres de 1998 et 2018, la France semble avoir bâti une nouvelle génération d'exception. Qualifiée facilement pour une troisième demi-finale consécutive après sa victoire contre le Maroc, l’équipe de France s'affirme comme l'équipe à battre dans ce Mondial 2026. Les Bleus version 2026 sera",
       "date": "2026-07-11T18:04:03",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Pourquoi certaines personnes attirent les moustiques",
-      "link": "https://www.bbc.com/afrique/articles/c982vy7een0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Bien avant de se poser, les moustiques détectent à distance les signaux émis par notre corps. Découvrez si vous figurez parmi leurs cibles privilégiées.",
-      "date": "2026-07-11T17:02:46",
       "source": "BBC Afrique"
     },
     {
