@@ -1,49 +1,63 @@
 {
   "category": "monde",
   "date": "2026-07-13",
-  "updated": "2026-07-13T11:00:15.527950Z",
+  "updated": "2026-07-13T15:00:15.862417Z",
   "articles": [
+    {
+      "title": "🔴 En direct : Trump dit rétablir le blocus du détroit d'Ormuz et instaurer une taxe de 20 % sur le frêt",
+      "link": "https://www.france24.com/fr/moyen-orient/20260712-en-direct-etats-unis-lancent-nouvelle-salve-de-frappes-sur-iran-pays-golfe-detroit-ormuz-liban-donald-trump-israel-cessez-feu",
+      "desc": "",
+      "date": "2026-07-13T14:43:49",
+      "source": "France 24"
+    },
+    {
+      "title": "Afrique du Sud : trois mille sud-Africains tués dans la Somme en 1916",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-afrique-du-sud-trois-mille-sud-africains-tu%C3%A9s-dans-la-somme-en-1916",
+      "desc": "\"Nous sommes réunis pour affirmer que la mémoire d'une nation ne peut être divisée selon la race\", a déclaré le chef de l'Etat dans un discours à l'occasion du 110e anniversaire de la bataille du Bois Delville de juillet 1916, dans laquelle \"des centaines\" de soldats de la 1re brigade d'infanterie s",
+      "date": "2026-07-13T14:18:49",
+      "source": "France 24"
+    },
+    {
+      "title": "Tchad : début de la saison des pluies, la capitale menacée par des inondations",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-tchad-d%C3%A9but-de-la-saison-des-pluies-la-capitale-menac%C3%A9e-par-des-inondations",
+      "desc": "À N’Djaména, la capitale tchadienne, comme au début de chaque saison des pluies, les inondations menacent la ville. Les initiatives publiques et privées se multiplient pour éviter le plus de dégâts possibles, parmi celles-ci, le projet pilier, financé par la Banque mondiale, qui met en place des sta",
+      "date": "2026-07-13T14:16:11",
+      "source": "France 24"
+    },
+    {
+      "title": "Ouganda : nouveau revers juridique pour l'oléoduc géant “Eacop”",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-ouganda-nouveau-revers-juridique-pour-l-ol%C3%A9oduc-g%C3%A9ant-eacop",
+      "desc": "Nouveau revers juridique pour l'oléoduc géant “Eacop”. Quatre agriculteurs ougandais, dont les terres sont directement concernées par le tracé de ce pipeline censé relier le pays à la Tanzanie, ont déposé cette semaine une action en justice devant la Haute Cour de Londres contre la société britanniq",
+      "date": "2026-07-13T14:13:33",
+      "source": "France 24"
+    },
+    {
+      "title": "Côte d'Ivoire : le PDCI-RDA traverse une nouvelle crise interne",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-c%C3%B4te-d-ivoire-le-pdci-rda-traverse-une-nouvelle-crise-interne",
+      "desc": "En Côte d’Ivoire, alors que le PDCI-RDA célèbre cette année ses 80 ans, le plus ancien parti politique du pays traverse une nouvelle crise interne. Réunis à Yamoussoukro, des militants ont lancé le Réseau d’entraide militant du PDCI-RDA. M’ma Camara et Damien Koffi",
+      "date": "2026-07-13T14:11:18",
+      "source": "France 24"
+    },
+    {
+      "title": "Coupe du monde 2026 : favoris, grandes stars, rivalités historiques, à quoi s'attendre des demi-finales ?",
+      "link": "https://www.bbc.com/afrique/articles/cx23x1ep6e6o?at_medium=RSS&at_campaign=rss",
+      "desc": "La France retrouve l'Espagne tandis que l'Argentine défie l'Angleterre dans deux demi-finales qui opposent les quatre meilleures nations au classement FIFA. Enjeux, statistiques, joueurs à suivre, clés tactiques et scénarios possibles : voici tout ce qu'il faut savoir avant les demi-finales.",
+      "date": "2026-07-13T12:54:26",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La police enquête sur la mort de Jayden Adams, le joueur sud-africain qui a participé à la Coupe du monde 2026",
+      "link": "https://www.bbc.com/afrique/articles/c30yey7zvnpo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le milieu de terrain sud-africain Jayden Adams, qui évolue au Mamelodi Sundowns, décède à l'âge de 25 ans, quelques semaines seulement après avoir participé à la Coupe du monde 2026 avec son pays.",
+      "date": "2026-07-13T11:50:44",
+      "source": "BBC Afrique"
+    },
     {
       "title": "L'armée déplore la perte d'une trentaine d'hommes et des blessés graves pour reprendre Anéfis",
       "link": "https://www.bbc.com/afrique/articles/cn94rdwyqg4o?at_medium=RSS&at_campaign=rss",
       "desc": "Après d’âpres combats depuis plusieurs jours à Anéfis, au nord du Mali, entre les Forces armées maliennes (FAMa), appuyées par le Corps africain russe (Africa Corps), et la coalition formée par le Jama'at Nusrat al-Islam wal-Muslimin (JNIM) et le Front de libération de l'Azawad (FLA), l’armée malien",
       "date": "2026-07-13T10:37:53",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "La coalition des volontaires à Paris : un sommet qui signe le \"réveil stratégique\" de l'Europe",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-la-coalition-des-volontaires-%C3%A0-paris-un-sommet-qui-signe-le-r%C3%A9veil-strat%C3%A9gique-de-l-europe",
-      "desc": "La nécessité pour l'Ukraine de pallier rapidement son manque de systèmes de défense anti-aérienne sera le sujet principal de la réunion de la \"Coalition des volontaires\" organisée lundi à Paris, la Russie profitant de la situation pour pilonner le pays avec des missiles balistiques. Récit d'Alexandr",
-      "date": "2026-07-13T10:27:41",
-      "source": "France 24"
-    },
-    {
-      "title": "Incendie à Fontainebleau : la forêt emblématique au sud de Paris en proie aux feux",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-incendie-%C3%A0-fontainebleau-la-for%C3%AAt-embl%C3%A9matique-au-sud-de-paris-en-proie-aux-feux",
-      "desc": "L'incendie qui a parcouru 800 hectares en forêt de Fontainebleau, au sud-est de Paris, \"pourrait\" avoir \"une origine volontaire\", a affirmé lundi sur place le ministre de l'Intérieur, Laurent Nuñez.",
-      "date": "2026-07-13T10:11:05",
-      "source": "France 24"
-    },
-    {
-      "title": "L'équipe de France visée par une attaque raciste de l'ancien Premier ministre espagnol",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-l-%C3%A9quipe-de-france-vis%C3%A9e-par-une-attaque-raciste-de-l-ancien-premier-ministre-espagnol",
-      "desc": "Une équipe de France \"sans Français\" : l'ex-Premier ministre conservateur espagnol Mariano Rajoy a déclenché un tollé en France, à deux jours de la demi-finale de Coupe du monde contre l'Espagne. Récit France 2.",
-      "date": "2026-07-13T09:57:57",
-      "source": "France 24"
-    },
-    {
-      "title": "Dix mois avant l'élection présidentielle en France, Marine Le Pen en tête dans les sondages",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-dix-mois-avant-l-%C3%A9lection-pr%C3%A9sidentielle-en-france-marine-le-pen-en-t%C3%AAte-dans-les-sondages",
-      "desc": "Dix mois avant la présidentielle française de 2027, Marine Le Pen domine largement le premier tour, donnée entre 34 et 35,5% selon ses concurrents, Jean-Luc Mélenchon se rapprochant d'Édouard Philippe pour une qualification au second tour, selon un sondage Elabe pour BFMTV et la Tribune dimanche. An",
-      "date": "2026-07-13T09:54:43",
-      "source": "France 24"
-    },
-    {
-      "title": "\"La Bataille De Gaulle\" au cinéma : le succès des deux films sur Charles De Gaulle au box-office",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-la-bataille-de-gaulle-au-cin%C3%A9ma-le-succ%C3%A8s-des-deux-films-sur-charles-de-gaulle-au-box-office",
-      "desc": "\"La Bataille De Gaulle\" fait de la résistance au box-office. Ces deux films de 2h40 trouvent un écho notamment au sein de la nouvelle génération. Comment l'expliquer ? Reportage France 2.",
-      "date": "2026-07-13T09:53:11",
-      "source": "France 24"
     },
     {
       "title": "Les États-Unis affirment que le détroit d'Ormuz reste ouvert alors qu'ils échangent des frappes avec l'Iran",
@@ -53,21 +67,7 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "L'éruption volcanique qui a produit le son le plus fort de l'histoire enregistrée",
-      "link": "https://www.bbc.com/afrique/articles/crm0ywm3pm8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Un volcan indonésien est entré en éruption cette semaine, mais une autre éruption au même endroit en 1883 avait été bien plus destructrice.",
-      "date": "2026-07-12T18:00:54",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "5 choses qui provoquent des désaccords entre partenaires",
-      "link": "https://www.bbc.com/afrique/articles/c0ryjn1v14eo?at_medium=RSS&at_campaign=rss",
-      "desc": "Un manque de confiance et d'assurance réciproque au sein d'une relation, qui peut rendre la vie à deux source de conflits ou d'anxiété, et qui peut, à terme, conduire à une séparation.",
-      "date": "2026-07-12T16:50:33",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "L’escalade millitaire dans le Golfe inquiète l’ONU qui appelle à la retenue",
+      "title": "L’escalade militaire dans le Golfe inquiète l’ONU qui appelle à la retenue",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159138",
       "desc": "Le Secrétaire général de l’ONU,&nbsp;António Guterres, s’est dit profondément préoccupé, dimanche, par la&nbsp;«&nbsp;grave escalade et la reprise des affrontements militaires dans le Golfe&nbsp;», notamment les attaques iraniennes contre des navires dans le détroit d'Ormuz, les attaques des États-U",
       "date": "2026-07-12T12:00:00",
