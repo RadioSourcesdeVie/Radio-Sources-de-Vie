@@ -1,20 +1,48 @@
 {
   "category": "monde",
   "date": "2026-07-13",
-  "updated": "2026-07-13T09:00:17.022680Z",
+  "updated": "2026-07-13T11:00:15.527950Z",
   "articles": [
     {
-      "title": "Espagne : le bilan de l'incendie en Andalousie s'alourdit à treize morts",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-espagne-le-bilan-de-l-incendie-en-andalousie-s-alourdit-%C3%A0-treize-morts",
-      "desc": "L'incendie dans le sud de l'Espagne est \"stabilisé\", a annoncé le président de la région Juan Manuel Moreno. Le bilan s'est alourdi à 13 morts après le décès d'une Britannique de 93 ans qui était hospitalisée à Almería. Reportage France 2.",
-      "date": "2026-07-13T08:55:59",
+      "title": "L'armée déplore la perte d'une trentaine d'hommes et des blessés graves pour reprendre Anéfis",
+      "link": "https://www.bbc.com/afrique/articles/cn94rdwyqg4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Après d’âpres combats depuis plusieurs jours à Anéfis, au nord du Mali, entre les Forces armées maliennes (FAMa), appuyées par le Corps africain russe (Africa Corps), et la coalition formée par le Jama'at Nusrat al-Islam wal-Muslimin (JNIM) et le Front de libération de l'Azawad (FLA), l’armée malien",
+      "date": "2026-07-13T10:37:53",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La coalition des volontaires à Paris : un sommet qui signe le \"réveil stratégique\" de l'Europe",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-la-coalition-des-volontaires-%C3%A0-paris-un-sommet-qui-signe-le-r%C3%A9veil-strat%C3%A9gique-de-l-europe",
+      "desc": "La nécessité pour l'Ukraine de pallier rapidement son manque de systèmes de défense anti-aérienne sera le sujet principal de la réunion de la \"Coalition des volontaires\" organisée lundi à Paris, la Russie profitant de la situation pour pilonner le pays avec des missiles balistiques. Récit d'Alexandr",
+      "date": "2026-07-13T10:27:41",
       "source": "France 24"
     },
     {
-      "title": "France : huit cent hectares incendiés à Fontainebleau, deux avions bombardiers déployés",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-france-huit-cent-hectares-incendi%C3%A9s-%C3%A0-fontainebleau-deux-avions-bombardiers-d%C3%A9ploy%C3%A9s",
-      "desc": "Deux avions bombardiers d'eau Canadair ont été déployés pour lutter contre les feux qui touchent le sud de la Seine-et-Marne, notamment la forêt de Fontainebleau, massif boisé en proie depuis dimanche à un incendie d'une \"ampleur exceptionnelle\" selon les autorités.",
-      "date": "2026-07-13T08:48:46",
+      "title": "Incendie à Fontainebleau : la forêt emblématique au sud de Paris en proie aux feux",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-incendie-%C3%A0-fontainebleau-la-for%C3%AAt-embl%C3%A9matique-au-sud-de-paris-en-proie-aux-feux",
+      "desc": "L'incendie qui a parcouru 800 hectares en forêt de Fontainebleau, au sud-est de Paris, \"pourrait\" avoir \"une origine volontaire\", a affirmé lundi sur place le ministre de l'Intérieur, Laurent Nuñez.",
+      "date": "2026-07-13T10:11:05",
+      "source": "France 24"
+    },
+    {
+      "title": "L'équipe de France visée par une attaque raciste de l'ancien Premier ministre espagnol",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-l-%C3%A9quipe-de-france-vis%C3%A9e-par-une-attaque-raciste-de-l-ancien-premier-ministre-espagnol",
+      "desc": "Une équipe de France \"sans Français\" : l'ex-Premier ministre conservateur espagnol Mariano Rajoy a déclenché un tollé en France, à deux jours de la demi-finale de Coupe du monde contre l'Espagne. Récit France 2.",
+      "date": "2026-07-13T09:57:57",
+      "source": "France 24"
+    },
+    {
+      "title": "Dix mois avant l'élection présidentielle en France, Marine Le Pen en tête dans les sondages",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-dix-mois-avant-l-%C3%A9lection-pr%C3%A9sidentielle-en-france-marine-le-pen-en-t%C3%AAte-dans-les-sondages",
+      "desc": "Dix mois avant la présidentielle française de 2027, Marine Le Pen domine largement le premier tour, donnée entre 34 et 35,5% selon ses concurrents, Jean-Luc Mélenchon se rapprochant d'Édouard Philippe pour une qualification au second tour, selon un sondage Elabe pour BFMTV et la Tribune dimanche. An",
+      "date": "2026-07-13T09:54:43",
+      "source": "France 24"
+    },
+    {
+      "title": "\"La Bataille De Gaulle\" au cinéma : le succès des deux films sur Charles De Gaulle au box-office",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260713-la-bataille-de-gaulle-au-cin%C3%A9ma-le-succ%C3%A8s-des-deux-films-sur-charles-de-gaulle-au-box-office",
+      "desc": "\"La Bataille De Gaulle\" fait de la résistance au box-office. Ces deux films de 2h40 trouvent un écho notamment au sein de la nouvelle génération. Comment l'expliquer ? Reportage France 2.",
+      "date": "2026-07-13T09:53:11",
       "source": "France 24"
     },
     {
@@ -23,27 +51,6 @@
       "desc": "Ces mesures font suite à une attaque contre un navire battant pavillon chypriote qui naviguait le long de cette importante voie commerciale.",
       "date": "2026-07-13T08:46:21",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "En direct : le discours aux armées d'Emmanuel Macron à la veille de la parade du 14-Juillet",
-      "link": "https://www.france24.com/fr/france/20260713-en-direct-suivez-le-traditionnel-discours-aux-arm%C3%A9es-d-emmanuel-macron",
-      "desc": "Un nouveau sommet de la Coalition des volontaires pour l'Ukraine a lieu, lundi, à Paris à la veille de la parade du 14-Juillet. Pour sa dernière participation à cet événement en tant que président, Emmanuel Macron entame cette séquence par le traditionnel discours aux armées en fin de matinée. Suive",
-      "date": "2026-07-13T08:28:21",
-      "source": "France 24"
-    },
-    {
-      "title": "Vacances des Français : le boom des \"coolcations\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260713-vacances-des-fran%C3%A7ais-le-boom-des-coolcations-rechauffement-climatique-canicule-fraicheur-tendance-tourisme",
-      "desc": "La canicule, l'inflation et les tensions géopolitiques transforment les habitudes des vacanciers. Les Français continuent de partir, mais réservent plus tard, privilégient la France et recherchent davantage de fraîcheur.",
-      "date": "2026-07-13T08:20:39",
-      "source": "France 24"
-    },
-    {
-      "title": "En Corée du Sud, l'ex-président Yoon accumule les peines de prison",
-      "link": "https://www.france24.com/fr/asie-pacifique/20260713-en-cor%C3%A9e-du-sud-l-ex-pr%C3%A9sident-yoon-%C3%A9cope-de-deux-ans-de-prison-pour-corruption",
-      "desc": "Un tribunal a condamné, ​lundi, l'ancien président de la Corée du Sud, Yoon Suk-yeol, à deux ans de prison pour corruption. La justice l'a déclaré coupable d'avoir illégalement bénéficié de services de sondage d'opinion d'une valeur de 2,7 milliards de wons (157 502 euros) fournis ​gratuitement par ",
-      "date": "2026-07-13T08:16:30",
-      "source": "France 24"
     },
     {
       "title": "L'éruption volcanique qui a produit le son le plus fort de l'histoire enregistrée",
@@ -57,13 +64,6 @@
       "link": "https://www.bbc.com/afrique/articles/c0ryjn1v14eo?at_medium=RSS&at_campaign=rss",
       "desc": "Un manque de confiance et d'assurance réciproque au sein d'une relation, qui peut rendre la vie à deux source de conflits ou d'anxiété, et qui peut, à terme, conduire à une séparation.",
       "date": "2026-07-12T16:50:33",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Comment le football a aidé les immigrants à s'intégrer aux États-Unis",
-      "link": "https://www.bbc.com/afrique/articles/clye0np5dk5o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le football est le lien commun qui unit les immigrants et les réfugiés qui disputent des matchs dans un parc du Maine, et il les a aidés à développer un sentiment d'appartenance à une communauté en terre étrangère.",
-      "date": "2026-07-12T15:04:39",
       "source": "BBC Afrique"
     },
     {
