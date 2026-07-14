@@ -8,7 +8,7 @@ from datetime import datetime
 from pathlib import Path
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
-MODEL = "eleven_multilingual_v2"
+MODEL = "eleven_flash_v2_5"  # Flash v2.5 = 0.5 credit/caractere (2x moins cher). Pour revenir: eleven_multilingual_v2
 BELLA = "EXAVITQu4vr4xnSDxMaL"
 ANTONI = "ErXwobaYiN019PkySvjV"
 ELLI = "MF3mGyEYCl7XYWbV9V6O"
