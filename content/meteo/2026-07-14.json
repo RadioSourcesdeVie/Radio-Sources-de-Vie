@@ -3,19 +3,19 @@
   "title": "Météo du 14 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 29.94,
-    "feels_like": 34.89,
-    "humidity": 70,
-    "description": "Nuageux",
-    "wind_kmh": 3.2
+    "temp": 31.87,
+    "feels_like": 37.37,
+    "humidity": 62,
+    "description": "Peu nuageux",
+    "wind_kmh": 22.2
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.5,
-    "feels_like": 35.3,
-    "humidity": 50,
+    "temp": 32.75,
+    "feels_like": 35.52,
+    "humidity": 49,
     "description": "Couvert",
-    "wind_kmh": 9.6
+    "wind_kmh": 9.3
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 14 juillet 2026 sur Radio Sources de Vie. À Ottawa: 30 degrés Celsius. Nuageux. À Port-au-Prince: 32 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 14 juillet 2026 sur Radio Sources de Vie. À Ottawa: 32 degrés Celsius. Peu nuageux. À Port-au-Prince: 33 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
