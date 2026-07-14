@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-14T11:00:01.579301Z",
+  "date": "2026-07-14",
+  "title": "Météo du 14 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 22.03,
@@ -15,5 +16,6 @@
     "humidity": 80,
     "description": "Couvert",
     "wind_kmh": 4.3
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 14 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Couvert. À Port-au-Prince: 25 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
