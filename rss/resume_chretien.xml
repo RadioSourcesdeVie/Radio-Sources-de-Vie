@@ -5,23 +5,23 @@
     <description>Résumé des nouvelles chrétiennes — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Wed, 15 Jul 2026 19:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 16 Jul 2026 09:01:06 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Hawaï célèbre 200 ans de foi, le Cameroun s'organise — 2026-07-15</title>
-      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-07-15</description>
-      <pubDate>Wed, 15 Jul 2026 19:00:17 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-07-15.mp3" length="554675" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-07-15.mp3</guid>
+      <title>Sans titre — 2026-07-16</title>
+      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-07-16</description>
+      <pubDate>Thu, 16 Jul 2026 09:01:06 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-07-16.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-07-16.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
     <item>
-      <title>Météo du 15 juillet 2026 — 2026-07-15</title>
-      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-07-15</description>
-      <pubDate>Wed, 15 Jul 2026 19:00:17 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-07-15.mp3" length="283420" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-07-15.mp3</guid>
+      <title>Météo du 16 juillet 2026 — 2026-07-16</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-07-16</description>
+      <pubDate>Thu, 16 Jul 2026 09:01:06 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-07-16.mp3" length="279658" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-07-16.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
