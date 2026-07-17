@@ -6,7 +6,7 @@ Radio Sources de Vie Chrétienne
 Compile les 4 catégories de nouvelles déjà collectées dans la journée
 (content/news/{chretien,haiti,monde,sport}_{TODAY}.json, via fetch_news.py)
 en un seul journal parlé complet, avec citation explicite des sources.
-Texte: Claude. Audio: Edge TTS (voix Charlotte / Eloise, gratuit).
+Texte: Claude. Audio: Edge TTS, DEUX voix en duo (co-présentation), gratuit.
 """
 import anthropic, json, argparse, asyncio, re
 from datetime import datetime
@@ -14,17 +14,20 @@ from pathlib import Path
 import edge_tts
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
-CHARLOTTE = "fr-FR-EloiseNeural"  # même voix que les résumés du jour, pour la cohérence de marque
+
+# Duo de présentateurs — Edge TTS, gratuit
+VOICE_A = "fr-BE-CharlineNeural"  # Charline — Chrétien, Haïti
+VOICE_B = "fr-CA-AntoineNeural"   # Antoine — Monde, Sport
 
 CATEGORIES = [
-    {"key": "chretien", "label": "Nouvelles chrétiennes", "icon": "✝️"},
-    {"key": "haiti",    "label": "Nouvelles d'Haïti",      "icon": "🇭🇹"},
-    {"key": "monde",    "label": "Nouvelles du monde",     "icon": "🌍"},
-    {"key": "sport",    "label": "Sport",                  "icon": "⚽"},
+    {"key": "chretien", "label": "Nouvelles chrétiennes", "icon": "✝️", "voice": VOICE_A, "presenter": "Charline"},
+    {"key": "haiti",    "label": "Nouvelles d'Haïti",      "icon": "🇭🇹", "voice": VOICE_A, "presenter": "Charline"},
+    {"key": "monde",    "label": "Nouvelles du monde",     "icon": "🌍", "voice": VOICE_B, "presenter": "Antoine"},
+    {"key": "sport",    "label": "Sport",                  "icon": "⚽", "voice": VOICE_B, "presenter": "Antoine"},
 ]
 
-SYSTEM = ("Tu es Charlotte, présentatrice du journal du soir de Radio Sources de Vie, "
-          "une radio chrétienne francophone pour la diaspora haïtienne au Canada. "
+SYSTEM = ("Tu écris pour le journal du soir de Radio Sources de Vie, une radio chrétienne "
+          "francophone pour la diaspora haïtienne au Canada, co-présenté par Charline et Antoine. "
           "Ton style: professionnel, chaleureux, clair, jamais robotique ni une liste de titres.")
 
 
@@ -44,7 +47,8 @@ def get_articles(category, limit=6):
 def gen_section(client, cat, articles_text):
     if not articles_text:
         return f"Pas d'actualité {cat['label'].lower()} particulière à signaler aujourd'hui."
-    prompt = f"""Écris la section "{cat['label']}" du journal du soir ({TODAY}) pour Radio Sources de Vie.
+    prompt = f"""Écris la section "{cat['label']}" du journal du soir ({TODAY}) pour Radio Sources de Vie,
+présentée par {cat['presenter']}.
 
 Voici les vraies informations disponibles aujourd'hui (titre, source, résumé) :
 {articles_text}
@@ -74,14 +78,29 @@ def clean_for_tts(text: str) -> str:
     return text
 
 
-async def _synth(text, voice, out_path):
+async def _synth_bytes(text: str, voice: str) -> bytes:
     communicate = edge_tts.Communicate(text, voice)
-    await communicate.save(out_path)
+    audio = bytearray()
+    async for chunk in communicate.stream():
+        if chunk["type"] == "audio":
+            audio.extend(chunk["data"])
+    return bytes(audio)
 
 
-def tts(text, out_path):
+def tts_duo(segments, out_path):
+    """segments: liste de (texte, voix). Synthétise chaque bloc puis concatène en un seul MP3."""
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    asyncio.run(_synth(clean_for_tts(text), CHARLOTTE, out_path))
+
+    async def _run():
+        audio = bytearray()
+        for text, voice in segments:
+            clean = clean_for_tts(text)
+            if not clean.strip():
+                continue
+            audio.extend(await _synth_bytes(clean, voice))
+        Path(out_path).write_bytes(bytes(audio))
+
+    asyncio.run(_run())
     return Path(out_path).stat().st_size // 1024
 
 
@@ -98,31 +117,38 @@ def main():
         print("⏭️  Journal du soir déjà généré aujourd'hui")
         return
 
-    print(f"\n📻 Génération du Journal du Soir — {TODAY}\n")
+    print(f"\n📻 Génération du Journal du Soir (duo Charline / Antoine) — {TODAY}\n")
 
     now_h = datetime.now().strftime("%Hh%M")
-    intro = (f"Bonsoir chers auditeurs, il est {now_h}, bienvenue au journal du soir "
-             f"de Radio Sources de Vie. Voici les nouvelles de votre journée.")
+    intro = (f"Bonsoir chers auditeurs, il est {now_h}. Je suis Charline, avec mon collègue Antoine, "
+             f"bienvenue au journal du soir de Radio Sources de Vie. Voici les nouvelles de votre journée.")
+    handoff = ("Et maintenant, pour l'actualité internationale et le sport, je laisse la parole à Antoine.")
+    handback_intro = "Merci Charline, bonsoir à tous."
+    outro = ("Voilà qui conclut notre journal du soir. Merci de nous avoir suivi, et que "
+             "Dieu bénisse votre soirée. Nous vous retrouvons demain, à la même heure, "
+             "sur Radio Sources de Vie.")
 
-    sections = []
     if not out_json.exists():
+        sections = []
         for cat in CATEGORIES:
-            print(f"  {cat['icon']} {cat['label']}...")
+            print(f"  {cat['icon']} {cat['label']} ({cat['presenter']})...")
             articles_text = get_articles(cat['key'])
             section_text = gen_section(client, cat, articles_text)
-            sections.append({"key": cat['key'], "label": cat['label'], "text": section_text})
+            sections.append({"key": cat['key'], "label": cat['label'],
+                              "presenter": cat['presenter'], "voice": cat['voice'], "text": section_text})
 
-        outro = ("Voilà qui conclut notre journal du soir. Merci de nous avoir suivi, et que "
-                 "Dieu bénisse votre soirée. Nous vous retrouvons demain, à la même heure, "
-                 "sur Radio Sources de Vie.")
-
-        full_text = intro + "\n\n" + "\n\n".join(s["text"] for s in sections) + "\n\n" + outro
+        full_text = (intro + "\n\n"
+                     + sections[0]["text"] + "\n\n" + sections[1]["text"] + "\n\n"
+                     + handoff + "\n\n" + handback_intro + "\n\n"
+                     + sections[2]["text"] + "\n\n" + sections[3]["text"] + "\n\n"
+                     + outro)
         words = len(full_text.split())
         minutes = round(words / 150, 1)
 
         data = {
             "date": TODAY, "title": f"Journal du Soir — {TODAY}",
-            "intro": intro, "sections": sections, "outro": outro,
+            "intro": intro, "sections": sections, "handoff": handoff,
+            "handback_intro": handback_intro, "outro": outro,
             "content": full_text, "words": words, "minutes": minutes
         }
         out_json.parent.mkdir(parents=True, exist_ok=True)
@@ -133,8 +159,19 @@ def main():
         print("⏭️  Texte déjà généré, passage direct à l'audio")
 
     if not out_mp3.exists():
-        print("🎤 Synthèse vocale...")
-        kb = tts(data["content"], str(out_mp3))
+        print("🎤 Synthèse vocale (duo)...")
+        sections = data["sections"]
+        segments = [
+            (data["intro"], VOICE_A),
+            (sections[0]["text"], VOICE_A),
+            (sections[1]["text"], VOICE_A),
+            (data["handoff"], VOICE_A),
+            (data["handback_intro"], VOICE_B),
+            (sections[2]["text"], VOICE_B),
+            (sections[3]["text"], VOICE_B),
+            (data["outro"], VOICE_B),
+        ]
+        kb = tts_duo(segments, str(out_mp3))
         print(f"✅ Audio → {out_mp3} ({kb} KB)")
     else:
         print("⏭️  Audio déjà généré")
