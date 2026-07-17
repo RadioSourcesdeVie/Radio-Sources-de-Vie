@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T19:29:29.925184Z",
+  "updated": "2026-07-17T19:32:29.801798Z",
   "chretien": [
     {
       "title": "Football/Coupe du monde: Les Bleus veulent finir en beauté pour Deschamps",
@@ -76,6 +76,13 @@
   ],
   "monde": [
     {
+      "title": "Guerre Iran/Etats-Unis, manifestations en Ukraine et bras de fer entre Washington et Pékin",
+      "link": "https://www.france24.com/fr/%C3%A9missions/une-semaine-dans-le-monde/20260717-guerre-iran-etats-unis-manifestations-en-ukraine-et-bras-de-fer-entre-washington-et-p%C3%A9kin",
+      "desc": "Les tensions internationales dominent l'actualité avec la reprise des hostilités entre les États-Unis et l'Iran au Moyen-Orient, le soutien renouvelé des Européens à l'Ukraine lors de la réunion de la coalition des volontaires à Paris, et les annonces de Donald Trump lors de son discours à la nation",
+      "date": "2026-07-17T18:26:52",
+      "source": "France 24"
+    },
+    {
       "title": "Coupe du monde 2026 : les pronostics de nos journalistes pour la finale ⚽",
       "link": "https://www.france24.com/fr/vid%C3%A9o/20260717-coupe-du-monde-2026-les-pronostics-de-nos-journalistes-pour-la-finale-%E2%9A%BD",
       "desc": "#Mondial2026 : qui va gagner ? L’Espagne ou l’Argentine ? On a posé la question aux journalistes de la rédaction… et la réponse penche (beaucoup) plus pour l’un que pour l’autre.Et selon vous, qui va gagner cette Coupe du monde ?",
@@ -97,17 +104,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Tremblement de terre de magnitude 7,3 dans le sud du Mexique, une alerte tsunami déclenchée",
+      "title": "Un séisme de magnitude 7,3 frappe le sud du Mexique sans faire de dégâts, l'alerte tsunami levée",
       "link": "https://www.france24.com/fr/am%C3%A9riques/20260717-tremblement-de-terre-magnitude-7-3-mexique-alerte-tsunami-s%C3%A9isme",
-      "desc": "Un séisme de magnitude 7,3, suivi d'une réplique de 5,3 a frappé vendredi le sud du Mexique à sa frontière avec le Guatemala, selon l'institut géologique américain USGS. La secousse, qui s'est produite au large dans le Pacifique et à 15 km de profondeur, n'aurait, selon les premiers rapports, pas fa",
+      "desc": "Un séisme de magnitude 7,3, suivi d'une réplique de 5,3 a frappé vendredi le sud du Mexique à sa frontière avec le Guatemala, selon l'institut géologique américain USGS. La secousse, qui s'est produite au large dans le Pacifique et à 15 km de profondeur, n'aurait pas fait de dégâts majeurs.",
       "date": "2026-07-17T16:19:23",
-      "source": "France 24"
-    },
-    {
-      "title": "Guerre en Ukraine : la Russie recrute toujours plus d'Africains",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260717-guerre-en-ukraine-la-russie-recrute-toujours-plus-d-africains",
-      "desc": "La Russie continue d'enrôler des Africains pour combattre sur le front ukrainien. La plateforme \"Stop Russian Recruiters\" - qui est liée au ministère de la Défense ukrainien - dénombre désormais près de 3 000 recrues, et une sur six aurait déjà été tuée. Parmi les pays les plus affectés par ces mort",
-      "date": "2026-07-17T16:17:46",
       "source": "France 24"
     }
   ],
