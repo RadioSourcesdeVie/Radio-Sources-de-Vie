@@ -20,8 +20,8 @@ FEEDS = {
         {"url": "https://news.google.com/rss/search?q=chr%C3%A9tien+%C3%A9glise&hl=fr", "source": "Google Actualités Chrétiennes"},
     ],
     "haiti": [
+        {"url": "https://www.haitilibre.com/rss-flash.php",                         "source": "HaitiLibre"},
         {"url": "https://news.google.com/rss/search?q=Haiti&hl=fr&gl=HT&ceid=HT:fr", "source": "Google News Haiti"},
-        {"url": "https://news.google.com/rss/search?q=Haiti+actualite&hl=fr",        "source": "Actualites Haiti"},
     ],
     "monde": [
         {"url": "https://feeds.bbci.co.uk/afrique/rss.xml",      "source": "BBC Afrique"},
