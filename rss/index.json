@@ -11,6 +11,7 @@
     "resume_chretien": "https://www.radiosourcesdevie.org/rss/resume_chretien.xml",
     "resume_haiti": "https://www.radiosourcesdevie.org/rss/resume_haiti.xml",
     "resume_monde": "https://www.radiosourcesdevie.org/rss/resume_monde.xml",
-    "resume_sport": "https://www.radiosourcesdevie.org/rss/resume_sport.xml"
+    "resume_sport": "https://www.radiosourcesdevie.org/rss/resume_sport.xml",
+    "bulletin_soir": "https://www.radiosourcesdevie.org/rss/bulletin_soir.xml"
   }
 }

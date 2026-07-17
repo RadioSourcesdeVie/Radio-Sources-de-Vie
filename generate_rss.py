@@ -23,6 +23,7 @@ SEGMENTS = [
     {"key":"resume_haiti","group":"news","title":"Résumé Nouvelles Haïti — Radio Sources de Vie","description":"Résumé des nouvelles d'Haïti — Voix Charlotte","json_path":f"content/resumes/haiti_{TODAY}.json","mp3_path":f"audio/resumes/haiti_{TODAY}.mp3"},
     {"key":"resume_monde","group":"news","title":"Résumé Nouvelles Monde — Radio Sources de Vie","description":"Résumé des nouvelles mondiales — Voix Charlotte","json_path":f"content/resumes/monde_{TODAY}.json","mp3_path":f"audio/resumes/monde_{TODAY}.mp3"},
     {"key":"resume_sport","group":"news","title":"Résumé Sport — Radio Sources de Vie","description":"Résumé sportif du jour — Voix Charlotte","json_path":f"content/resumes/sport_{TODAY}.json","mp3_path":f"audio/resumes/sport_{TODAY}.mp3"},
+    {"key":"bulletin_soir","group":"news","title":"Journal du Soir — Radio Sources de Vie","description":"Journal complet 10-15 minutes, Lundi-Vendredi 18h — Voix Charlotte","json_path":f"content/bulletin_soir/{TODAY}.json","mp3_path":f"audio/bulletin_soir/{TODAY}.mp3"},
 ]
 
 def get_title(json_path):

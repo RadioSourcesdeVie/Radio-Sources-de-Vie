@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>Journal du Soir — Radio Sources de Vie</title>
+    <description>Journal complet 10-15 minutes, Lundi-Vendredi 18h — Voix Charlotte</description>
+    <link>https://www.radiosourcesdevie.org</link>
+    <language>fr</language>
+    <lastBuildDate>Fri, 17 Jul 2026 02:47:46 +0000</lastBuildDate>
+    <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
+    <itunes:category text="Religion &amp; Spirituality"/>
+    <item>
+      <title>Journal du Soir — 2026-07-16 — 2026-07-16</title>
+      <description>Journal complet 10-15 minutes, Lundi-Vendredi 18h — Voix Charlotte — 2026-07-16</description>
+      <pubDate>Fri, 17 Jul 2026 02:47:46 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/bulletin_soir/2026-07-16.mp3" length="3324960" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/bulletin_soir/2026-07-16.mp3</guid>
+      <itunes:duration>00:01:00</itunes:duration>
+    </item>
+  </channel>
+</rss>
