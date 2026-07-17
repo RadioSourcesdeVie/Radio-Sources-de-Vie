@@ -77,7 +77,10 @@ Commence par phrase accrocheuse, 2-3 nouvelles, termine positivement.
 JSON: {{"title":"titre court attractif","date":"{TODAY}","category":"{cat['key']}","resume":"texte 60-80 mots"}}"""}]
             )
             raw = msg.content[0].text.strip().replace("```json","").replace("```","").strip()
-            d = json.loads(raw)
+            # Claude ajoute parfois du texte après le JSON ("Extra data") — on ne parse
+            # que le premier objet JSON valide et on ignore ce qui suit.
+            start = raw.find("{")
+            d, _ = json.JSONDecoder().raw_decode(raw[start:])
             out_json.parent.mkdir(parents=True, exist_ok=True)
             out_json.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
             kb = tts(f"{d['title']}.\n\n{d['resume']}", cat['voice'], str(out_mp3), args.eleven_key)
