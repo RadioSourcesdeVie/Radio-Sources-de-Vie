@@ -24,6 +24,7 @@ python generate_rss.py
 cp "audio/prayers/matin_${TODAY}.mp3"  "Priere/Priere du matin/priere_matin.mp3"  2>/dev/null || true
 cp "audio/prayers/soir_${TODAY}.mp3"   "Priere/Priere du soir/priere_soir.mp3"    2>/dev/null || true
 cp "audio/testimonies/${TODAY}.mp3"    "Priere/Temoignage/temoignage.mp3"         2>/dev/null || true
+cp "audio/sermons/${TODAY}.mp3"        "Sermon/sermon.mp3"                        2>/dev/null || true
 
 # 5) Publication sur le site (GitHub Pages)
 git pull origin main --no-edit

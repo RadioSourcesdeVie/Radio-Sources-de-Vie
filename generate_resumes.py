@@ -4,7 +4,7 @@ generate_resumes.py — Résumés audio Charlotte pour chaque catégorie
 Radio Sources de Vie Chrétienne
 Voix: Edge TTS (Microsoft, gratuit, sans clé API) — remplace ElevenLabs.
 """
-import anthropic, json, argparse, asyncio
+import anthropic, json, argparse, asyncio, re
 from datetime import datetime
 from pathlib import Path
 import edge_tts
@@ -26,13 +26,22 @@ def get_articles(category):
 
 CHARLOTTE = "fr-FR-EloiseNeural"  # Nouvelles — voix féminine dynamique (avant: Charlotte/ElevenLabs)
 
+def clean_for_tts(text: str) -> str:
+    """Retire le formatage markdown pour que la voix ne lise pas les astérisques."""
+    text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
+    text = re.sub(r'\*(.*?)\*', r'\1', text)
+    text = re.sub(r'_{1,2}(.*?)_{1,2}', r'\1', text)
+    text = re.sub(r'^#{1,6}\s*', '', text, flags=re.MULTILINE)
+    text = text.replace('*', '').replace('#', '').replace('_', ' ')
+    return text
+
 async def _synth(text, voice, out_path):
     communicate = edge_tts.Communicate(text, voice)
     await communicate.save(out_path)
 
 def tts(text, out_path, eleven_key=None):
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    asyncio.run(_synth(text, CHARLOTTE, out_path))
+    asyncio.run(_synth(clean_for_tts(text), CHARLOTTE, out_path))
     return Path(out_path).stat().st_size // 1024
 
 def main():
