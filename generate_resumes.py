@@ -11,11 +11,14 @@ import edge_tts
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
+VOICE_A = "fr-BE-CharlineNeural"  # Charline — Chrétien, Haïti
+VOICE_B = "fr-CA-AntoineNeural"   # Antoine — Monde, Sport
+
 CATEGORIES = [
-    {"key":"chretien","icon":"✝️","desc":"pour la communauté chrétienne mondiale","system":"Tu es Charlotte, présentatrice radio chrétienne francophone chaleureuse."},
-    {"key":"haiti",   "icon":"🇭🇹","desc":"pour la diaspora haïtienne à Ottawa","system":"Tu es Charlotte, présentatrice radio francophone pour la diaspora haïtienne."},
-    {"key":"monde",   "icon":"🌍","desc":"pour nos auditeurs francophones","system":"Tu es Charlotte, présentatrice radio francophone internationale."},
-    {"key":"sport",   "icon":"⚽","desc":"sportives du jour","system":"Tu es Charlotte, présentatrice radio sport francophone dynamique et enthousiaste."},
+    {"key":"chretien","icon":"✝️","desc":"pour la communauté chrétienne mondiale","system":"Tu es Charline, présentatrice radio chrétienne francophone chaleureuse.","voice":VOICE_A},
+    {"key":"haiti",   "icon":"🇭🇹","desc":"pour la diaspora haïtienne à Ottawa","system":"Tu es Charline, présentatrice radio francophone pour la diaspora haïtienne.","voice":VOICE_A},
+    {"key":"monde",   "icon":"🌍","desc":"pour nos auditeurs francophones","system":"Tu es Antoine, présentateur radio francophone international.","voice":VOICE_B},
+    {"key":"sport",   "icon":"⚽","desc":"sportives du jour","system":"Tu es Antoine, présentateur radio sport francophone dynamique et enthousiaste.","voice":VOICE_B},
 ]
 
 def get_articles(category):
@@ -23,8 +26,6 @@ def get_articles(category):
         data = json.loads(Path(f"content/news/{category}_{TODAY}.json").read_text(encoding="utf-8"))
         return "\n".join([f"- {a['title']} ({a['source']})" for a in data.get("articles",[])[:5]])
     except: return "Nouvelles indisponibles"
-
-CHARLOTTE = "fr-FR-EloiseNeural"  # Nouvelles — voix féminine dynamique (avant: Charlotte/ElevenLabs)
 
 def clean_for_tts(text: str) -> str:
     """Retire le formatage markdown pour que la voix ne lise pas les astérisques."""
@@ -39,9 +40,9 @@ async def _synth(text, voice, out_path):
     communicate = edge_tts.Communicate(text, voice)
     await communicate.save(out_path)
 
-def tts(text, out_path, eleven_key=None):
+def tts(text, voice, out_path, eleven_key=None):
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    asyncio.run(_synth(clean_for_tts(text), CHARLOTTE, out_path))
+    asyncio.run(_synth(clean_for_tts(text), voice, out_path))
     return Path(out_path).stat().st_size // 1024
 
 def main():
@@ -79,7 +80,7 @@ JSON: {{"title":"titre court attractif","date":"{TODAY}","category":"{cat['key']
             d = json.loads(raw)
             out_json.parent.mkdir(parents=True, exist_ok=True)
             out_json.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
-            kb = tts(f"{d['title']}.\n\n{d['resume']}", str(out_mp3), args.eleven_key)
+            kb = tts(f"{d['title']}.\n\n{d['resume']}", cat['voice'], str(out_mp3), args.eleven_key)
             print(f"✅ {d['title']} — {kb} KB")
         except Exception as e:
             print(f"❌ {cat['key']}: {e}")
