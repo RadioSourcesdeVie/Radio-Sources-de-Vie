@@ -2,27 +2,26 @@
 """
 generate_daily_audio.py — Génère les audios manquants chaque jour
 Prière Matin, Prière Soir, Sabbat, Météo
+Voix: Edge TTS (Microsoft, gratuit, sans clé API) — remplace ElevenLabs.
 """
-import requests, json, argparse
+import json, argparse, asyncio
 from datetime import datetime
 from pathlib import Path
+import edge_tts
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
-MODEL = "eleven_flash_v2_5"  # Flash v2.5 = 0.5 credit/caractere (2x moins cher). Pour revenir: eleven_multilingual_v2
-BELLA = "EXAVITQu4vr4xnSDxMaL"
-ANTONI = "ErXwobaYiN019PkySvjV"
-ELLI = "MF3mGyEYCl7XYWbV9V6O"
+# Voix Edge TTS (gratuites, neurales, françaises) — équivalents des anciennes voix ElevenLabs
+BELLA = "fr-CA-SylvieNeural"    # Prière / Météo — voix féminine douce (avant: Bella)
+ANTONI = "fr-FR-HenriNeural"    # Sermon — voix masculine pastorale (avant: Antoni)
+ELLI = "fr-FR-DeniseNeural"     # Témoignage — voix féminine naturelle (avant: Elli)
 
-def tts(text, voice, out_path, eleven_key):
-    r = requests.post(
-        f"https://api.elevenlabs.io/v1/text-to-speech/{voice}",
-        headers={"xi-api-key": eleven_key, "Content-Type": "application/json"},
-        json={"text": text[:4500], "model_id": MODEL,
-              "voice_settings": {"stability":0.65,"similarity_boost":0.8}},
-        timeout=60)
-    r.raise_for_status()
+async def _synth(text, voice, out_path):
+    communicate = edge_tts.Communicate(text, voice)
+    await communicate.save(out_path)
+
+def tts(text, voice, out_path, eleven_key=None):
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    Path(out_path).write_bytes(r.content)
+    asyncio.run(_synth(text, voice, out_path))
     return Path(out_path).stat().st_size // 1024
 
 def build_text(data):
@@ -42,7 +41,7 @@ ITEMS = [
     (f"content/meteo/{TODAY}.json",           f"audio/meteo/{TODAY}.mp3",           BELLA,  "Météo"),
 ]
 
-def generate_meteo_audio(eleven_key):
+def generate_meteo_audio(eleven_key=None):
     import subprocess
     TODAY = datetime.now().strftime("%Y-%m-%d")
     json_path = f"content/meteo/{TODAY}.json"
@@ -76,11 +75,12 @@ def generate_meteo_audio(eleven_key):
 
 def main():
     parser = argparse.ArgumentParser()
-    parser.add_argument("--eleven-key", required=True)
+    parser.add_argument("--eleven-key", required=False, default=None,
+                         help="Obsolète — conservé pour compatibilité, ignoré (Edge TTS ne nécessite pas de clé)")
     args = parser.parse_args()
 
-    print(f"\n🎙️ Génération audios quotidiens — {TODAY}\n")
-    generate_meteo_audio(args.eleven_key)
+    print(f"\n🎙️ Génération audios quotidiens (Edge TTS) — {TODAY}\n")
+    generate_meteo_audio()
     total = 0
     for json_path, mp3_path, voice, label in ITEMS:
         if Path(mp3_path).exists():
@@ -94,7 +94,7 @@ def main():
             data = json.loads(Path(json_path).read_text(encoding="utf-8"))
             text = build_text(data)
             print(f"🎤  {label}...")
-            kb = tts(text, voice, mp3_path, args.eleven_key)
+            kb = tts(text, voice, mp3_path)
             print(f"✅  {label} → {kb} KB")
             total += 1
         except Exception as e:

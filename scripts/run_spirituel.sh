@@ -14,8 +14,8 @@ python generate_content.py --api-key "$ANTHROPIC_KEY" --type all
 python generate_sermon.py  --api-key "$ANTHROPIC_KEY"
 python generate_daily.py   --api-key "$ANTHROPIC_KEY"
 
-# 2) Audio (ElevenLabs, voix Bella/Elli/Antoni, modèle Flash v2.5)
-python generate_daily_audio.py --eleven-key "$ELEVEN_KEY"
+# 2) Audio (Edge TTS, gratuit — voix Sylvie/Denise/Henri)
+python generate_daily_audio.py
 
 # 3) Flux RSS + publication
 python generate_rss.py

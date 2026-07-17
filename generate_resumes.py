@@ -2,10 +2,12 @@
 """
 generate_resumes.py — Résumés audio Charlotte pour chaque catégorie
 Radio Sources de Vie Chrétienne
+Voix: Edge TTS (Microsoft, gratuit, sans clé API) — remplace ElevenLabs.
 """
-import anthropic, json, requests, argparse
+import anthropic, json, argparse, asyncio
 from datetime import datetime
 from pathlib import Path
+import edge_tts
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
@@ -22,22 +24,22 @@ def get_articles(category):
         return "\n".join([f"- {a['title']} ({a['source']})" for a in data.get("articles",[])[:5]])
     except: return "Nouvelles indisponibles"
 
-def tts(text, out_path, eleven_key):
-    MODEL = "eleven_flash_v2_5"  # Flash v2.5 = 0.5 credit/caractere (2x moins cher). Pour revenir: eleven_multilingual_v2
-    CHARLOTTE = "EXAVITQu4vr4xnSDxMaL"
-    r = requests.post(f"https://api.elevenlabs.io/v1/text-to-speech/{CHARLOTTE}",
-        headers={"xi-api-key": eleven_key, "Content-Type": "application/json"},
-        json={"text": text[:4500], "model_id": MODEL,
-              "voice_settings": {"stability":0.65,"similarity_boost":0.8}}, timeout=60)
-    r.raise_for_status()
+CHARLOTTE = "fr-FR-EloiseNeural"  # Nouvelles — voix féminine dynamique (avant: Charlotte/ElevenLabs)
+
+async def _synth(text, voice, out_path):
+    communicate = edge_tts.Communicate(text, voice)
+    await communicate.save(out_path)
+
+def tts(text, out_path, eleven_key=None):
     Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    Path(out_path).write_bytes(r.content)
+    asyncio.run(_synth(text, CHARLOTTE, out_path))
     return Path(out_path).stat().st_size // 1024
 
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--api-key",    required=True, help="Clé Anthropic")
-    parser.add_argument("--eleven-key", required=True, help="Clé ElevenLabs")
+    parser.add_argument("--eleven-key", required=False, default=None,
+                         help="Obsolète — conservé pour compatibilité, ignoré (Edge TTS ne nécessite pas de clé)")
     args = parser.parse_args()
 
     client = anthropic.Anthropic(api_key=args.api_key)

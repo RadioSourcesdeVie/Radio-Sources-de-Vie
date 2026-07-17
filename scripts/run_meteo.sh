@@ -7,7 +7,7 @@ echo "🌡️ Météo — $(date '+%Hh%M')"
 python fetch_weather.py --api-key "$OWM_KEY"
 rm -f "content/meteo/${TODAY}.json"
 rm -f "audio/meteo/${TODAY}.mp3"
-python generate_daily_audio.py --eleven-key "$ELEVEN_KEY"
+python generate_daily_audio.py
 python generate_rss.py --type meteo
 cp "audio/meteo/${TODAY}.mp3" "Nouvelles/Radio SDV Meteo/meteo.mp3" 2>/dev/null || true
 cp "audio/prayers/matin_${TODAY}.mp3" "Priere/Priere du matin/priere_matin.mp3" 2>/dev/null || true
