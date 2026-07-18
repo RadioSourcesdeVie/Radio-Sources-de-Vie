@@ -128,7 +128,7 @@ async function fetchJSON(path){
 const typeConfig = {
   'priere-matin': {icon:'🌅', label:'Prière Matin', voice:'BELLA', jsonPath:(d)=>`/content/prayers/matin_${d}.json`, mp3Path:(d)=>`/audio/prayers/matin_${d}.mp3`},
   'priere-soir':  {icon:'🌙', label:'Prière Soir',  voice:'BELLA', jsonPath:(d)=>`/content/prayers/soir_${d}.json`,  mp3Path:(d)=>`/audio/prayers/soir_${d}.mp3`},
-  'sermon':       {icon:'📖', label:'Sermon',        voice:'ANTONI',jsonPath:(d)=>`/content/sermons/${d}.json`,        mp3Path:null},
+  'sermon':       {icon:'📖', label:'Sermon',        voice:'HENRI', jsonPath:(d)=>`/content/sermons/${d}.json`,        mp3Path:(d)=>`/audio/sermons/${d}.mp3`},
   'temoignage':   {icon:'❤️', label:'Témoignage',   voice:'ELLI',  jsonPath:(d)=>`/content/testimonies/${d}.json`,    mp3Path:(d)=>`/audio/testimonies/${d}.mp3`},
   'sabbat':       {icon:'🕯️', label:'Sabbat School',voice:'ANTONI',jsonPath:(d)=>`/content/sabbat/${d}.json`,         mp3Path:(d)=>`/audio/sabbat/${d}.mp3`},
   'meteo':        {icon:'🌡️', label:'Météo',        voice:'BELLA', jsonPath:(d)=>`/content/meteo/${d}.json`,          mp3Path:(d)=>`/audio/meteo/${d}.mp3`},

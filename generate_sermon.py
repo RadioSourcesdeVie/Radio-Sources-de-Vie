@@ -1,13 +1,23 @@
 #!/usr/bin/env python3
 """
 generate_sermon.py — Sermon 20min en sections multiples
-Radio Sources de Vie Chrétienne — Audio produit manuellement
+Radio Sources de Vie Chrétienne — Texte + Audio (Edge TTS, voix Henri)
 """
-import anthropic, json
+import anthropic, json, re
 from datetime import datetime
 from pathlib import Path
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
+
+
+def clean_markdown(text: str) -> str:
+    """Retire le formatage markdown que Claude ajoute parfois (##, **, _)
+    pour que le texte s'affiche proprement sur le site (pas de symboles bruts)."""
+    text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
+    text = re.sub(r'\*(.*?)\*', r'\1', text)
+    text = re.sub(r'_{1,2}(.*?)_{1,2}', r'\1', text)
+    text = re.sub(r'^#{1,6}\s*', '', text, flags=re.MULTILINE)
+    return text.strip()
 
 def generate_sermon(api_key):
     client = anthropic.Anthropic(api_key=api_key)
@@ -52,6 +62,7 @@ def generate_sermon(api_key):
         )
         texte_complet += "\n\n" + msg.content[0].text.strip()
 
+    texte_complet = clean_markdown(texte_complet)
     words   = len(texte_complet.split())
     minutes = round(words/150)
     print(f"   Total: {words} mots — ~{minutes} minutes de lecture")
