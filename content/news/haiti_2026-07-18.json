@@ -1,21 +1,56 @@
 {
   "category": "haiti",
   "date": "2026-07-18",
-  "updated": "2026-07-18T10:00:15.269094Z",
+  "updated": "2026-07-18T19:00:15.567299Z",
   "articles": [
     {
-      "title": "Haïti - Loisirs : Le Saviez-vous ? #41",
-      "link": "https://www.haitilibre.com/article-48010-haiti-loisirs-le-saviez-vous-41.html",
-      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? ». Aujourd&apos;hui nous vous demandons si vous savez quel est le plus long fleuve d&apos;Haïti et de l&apos;île d&apos;Hispaniola ?",
-      "date": "2026-07-17T15:25:44",
+      "title": "Haïti - Loisirs : Le Saviez-vous ? #42",
+      "link": "https://www.haitilibre.com/article-48018-haiti-loisirs-le-saviez-vous-42.html",
+      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? ». Aujourd&apos;hui nous vous demandons en quelle année s&apos;est tenue la première édition de la Haiti Fashion Week ?",
+      "date": "2026-07-18T15:27:10",
       "source": "HaitiLibre"
     },
     {
       "title": "Haïti - Actualité : Zapping",
-      "link": "https://www.haitilibre.com/article-48009-haiti-actualite-zapping.html",
-      "desc": "Massacre à Kenscoff - Partis politiques inscription prolongée - Santé : Don d&apos;ordinateurs - Nord listes électorales : Ouverture des inscriptions - Le nombre de personnes déplacées continu d&apos;augmenter - FHF : Formation à FIFA Connect…",
-      "date": "2026-07-17T15:05:31",
+      "link": "https://www.haitilibre.com/article-48017-haiti-actualite-zapping.html",
+      "desc": "Bourse Maroc : Concours d&apos;admission reporté au 21 juillet 2026 sauf pour… - AVIS : Inscription des électeurs - Digicel : Nouvelle coupure de fibre optique - Carrières : Prolongation du délai - ONU : Haïti de retour à l&apos;agenda du Conseil de Sécurité…",
+      "date": "2026-07-18T15:12:24",
       "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Littérature : Le Premier Ministre, Alix Didier Fils-Aimé, a reçu Dany Laferrière",
+      "link": "https://www.icihaiti.com/article-48016-icihaiti-litterature-le-premier-ministre-alix-didier-fils-aime-a-recu-dany-laferriere.html",
+      "desc": "Le Premier Ministre, Alix Didier Fils-Aimé, a reçu l&apos;écrivain Dany Laferrière, membre de l&apos;Académie française, à l&apos;occasion d&apos;une rencontre placée sous le signe de la culture, de la transmission du savoir et du rayonnement d&apos;Haïti...",
+      "date": "2026-07-18T14:23:05",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Diplomatie : Nouvelle dynamique de coopération entre Haïti et les Émirats Arabes Unis",
+      "link": "https://www.haitilibre.com/article-48015-haiti-diplomatie-nouvelle-dynamique-de-cooperation-entre-haiti-et-les-emirats-arabes-unis.html",
+      "desc": "Mercredi 15 juillet, en marge des travaux du Segment ministériel de haut niveau de l&apos;ECOSOC, Sandra Paulemon Ministre de la Planification, s&apos;est entretenue, avec la Représentante permanente a.i des Émirats Arabes Unis auprès des Nations Unies…",
+      "date": "2026-07-18T14:13:09",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Miragoâne : Nouvelle Annexe d'Identité Judiciaire dans le département des Nippes",
+      "link": "https://www.icihaiti.com/article-48014-icihaiti-miragoane-nouvelle-annexe-d-identite-judiciaire-dans-le-departement-des-nippes.html",
+      "desc": "Sur instructions de Vladimir Paraison, le Directeur Général a.i. de la PNH, une Annexe d&apos;Identité Judiciaire a été installée dans les locaux du Service Départemental de la Police Judiciaire (SDPJ) dans la commune de Miragoâne...",
+      "date": "2026-07-18T13:41:41",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Sécheresse, déforestation, déchets... Haïti face aux défis de la sécurité climatique - France 24",
+      "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbHRJMzZKTXZiVldWLTRZb1BJRjVxQWhGTEphdTZVNkVUS3oyOWRhcEdpVDVqTndZalNyMmdQZFBkUmVGM2pqMkNVMlFBRE1tbnBiejB1YTBOMlhDZWhHQ0dfS01FdFZMNWpJbm5IZkhOeVJVUlUwcnVsUGM4Um9Ocjk4eHdaZmlUZG4zQkw4aXJWNHpsTTNDSXoyQmM4cW44ZTZ0VzYtNnNqUXo4RjhfTWpzRnJWSVh5bVpUQXRwVjVzVFZLeGFUb1lsM0JUbUM5RUxxLVJIUFJxZUwxbmIydVBHRnRkcHRnNDNNWUZub29zcHBV?oc=5",
+      "desc": "Sécheresse, déforestation, déchets... Haïti face aux défis de la sécurité climatique&nbsp;&nbsp;France 24",
+      "date": "2026-07-18T12:31:52",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Haïti : des lueurs d’espoir malgré la violence des gangs et l’incertitude politique - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE00WjZ6UWFNLV8wVkNJbE9LbTBjS0doX0MtTzhDSWtVTFZ2bDRaLUtPUnFweGhYbG5Lc1JMTExKSk9MaFJwS2VGODZYNXR1bzUtQjVLWWpibw?oc=5",
+      "desc": "Haïti : des lueurs d’espoir malgré la violence des gangs et l’incertitude politique&nbsp;&nbsp;UN News",
+      "date": "2026-07-18T05:00:00",
+      "source": "Google News Haiti"
     },
     {
       "title": "Journal d'Haïti et des Amériques - Haïti : «Sans sécurité, les élections ne seront qu'un leurre» - RFI",
@@ -25,52 +60,17 @@
       "source": "Google News Haiti"
     },
     {
-      "title": "Haïti - Justice : Préparatoires à la mise en œuvre des nouveaux code pénal et de procédure pénal",
-      "link": "https://www.haitilibre.com/article-48008-haiti-justice-preparatoires-a-la-mise-en-oeuvre-des-nouveaux-code-penal-et-de-procedure-penal.html",
-      "desc": "Le Ministère de la Justice et de la Sécurité publique a lancé officiellement cette semaine, les activités préparatoires à la mise en œuvre des nouveaux Codes pénal et de procédure pénale, dont l&apos;entrée en vigueur est prévue le 1er janvier 2027...",
-      "date": "2026-07-17T14:09:58",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Agriculture : Don de lapins et de matériels d'élevage à 100 familles",
-      "link": "https://www.icihaiti.com/article-48007-icihaiti-agriculture-don-de-lapins-et-de-materiels-d-elevage-a-100-familles.html",
-      "desc": "Dans le cadre du volet d&apos;urgence du Projet d&apos;Agriculture Résiliente pour la Sécurité Alimentaire, le Ministère de l&apos;Agriculture, a distribué des lapins et du matériels d&apos;élevage à 100 familles de la première section d&apos;Anote, à Moron…",
-      "date": "2026-07-17T13:49:49",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - ECOSOC : La Ministre Paulemon, appelle à adapter les ODD aux réalités des pays vulnérables",
-      "link": "https://www.haitilibre.com/article-48006-haiti-ecosoc-la-ministre-paulemon-appelle-a-adapter-les-odd-aux-realites-des-pays-vulnerables.html",
-      "desc": "Jeudi 16 juillet, Sandra Paulemon la Ministre haïtienne de la Planification est intervenue comme répondante au panel Ministériel du Segment de haut niveau de l&apos;ECOSOC, consacré à l&apos;accélération de la mise en œuvre de l&apos;Agenda 2030 des ODD...",
-      "date": "2026-07-17T13:35:24",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "L'ex-président Martelly de retour en Haïti, il doit témoigner sur l'assassinat de Jovenel Moïse - rci.fm",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNSFMxcEZPOXNUb0RoeTFSZWxGd292ai03Y09kNm5VUUJQUUFGYVVZcWFjU1RtUEw5VEdWZzUxUVJIWHpmRWJYb2pxMjZNSHMxb2NsSEtGbFcwcVpqbDkxcVk0RXM1NERWdHZjWjUzc21LVDVKWUt4MGxzd0JBay1lWGh4Z3FIZ21JY2FfQnd6dWlIUElZdk9IYXZfcENBVzFBNUVLQkx0NHNKalpYSUVKeThWblU1WWZE?oc=5",
-      "desc": "L'ex-président Martelly de retour en Haïti, il doit témoigner sur l'assassinat de Jovenel Moïse&nbsp;&nbsp;rci.fm",
-      "date": "2026-07-17T10:15:46",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "L’ancien président haïtien Michel Martelly de retour en Haïti - Outre-mer La 1ère",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUXZuamljUFFlMG4zeExoYzBqSDVGTVJsdWsySDctYWcxOVE1ak5KcG1ZM21BTEd3SUJpTjhKWUQyNlNWUkF4RThHZE1QLTBBcmxybVd2cGZPNzdZZlVmWDFpZFIwTGJlQWt1WlBfM0dmX2J0bHhFYmF1eEZUSDJFcThTdVhJT3lWdUhoMW5PNFNWTS1WaE53aGRYVjA5NnMzeEs5NTJPTnIyV2FBbm9vVEFsbHQ?oc=5",
-      "desc": "L’ancien président haïtien Michel Martelly de retour en Haïti&nbsp;&nbsp;Outre-mer La 1ère",
-      "date": "2026-07-16T20:08:39",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Football. Présent au Mondial avec Haïti, Sébastien Migné nommé sélectionneur du Gabon - Ouest-France",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPaU8yT0ZBbnZ1VnlZb3F1Q0JSOHVJQjdYUG80YWlCMDQxMFhyOE9QelY2dWFuN3NhSG5SY1Z2dmkzeTNXbTBfLU5aTzR4b1hjVUt3NjRGeWVTaVdvSVNrR2UxQTVUV3F4aGZrN1d2dGhodnFacnlSY1BsNUNaUlVtbndtQ1dCQlQ4WEZFSFY5SUF2YWE0QVdOb1hGdzFkdXhWeFVrR2lXNlBJdUdFX00tSnlxYzlMcHhmUW9JUXJFRURkWlhZcXc4UUdiWTAwLW5ac1Jqd25KRTdaWHExdjk5Wk13MWktR0pZUS1HQ1U2YmdiYU4xMUE?oc=5",
-      "desc": "Football. Présent au Mondial avec Haïti, Sébastien Migné nommé sélectionneur du Gabon&nbsp;&nbsp;Ouest-France",
-      "date": "2026-07-15T16:24:31",
-      "source": "Google News Haiti"
-    },
-    {
       "title": "Sébastien Migné quitte son poste de sélectionneur d'Haïti «d'un commun accord et à l'amiable» - L'Équipe",
       "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQaXgwVVBaYXBZYkhPWkFnb2xzWkNHaWR5YVdoRzhqbmxiUmkweTFVN3ZEY1Y5YmpDdVh1OGpHREtxYXVOSmoyRVhCS0Y3UmZscDVCei1sVDF2NDNsMFdwNG5kWDNXNUtQdjJzMC1DWkw5RTdvYjVhci0tVFp6RVBBNGRkMnBfNFZwSGNXQ2pTY2JXdDRwRlpWbk9tZ1BUYVAzTGlvcF9mbC1YWV91RVY5SkJSQWJmalBPTUI0VnNRTkhIOExPamtKRTRQRk9FejJfX3NpTE1QVk1Ddw?oc=5",
       "desc": "Sébastien Migné quitte son poste de sélectionneur d'Haïti «d'un commun accord et à l'amiable»&nbsp;&nbsp;L'Équipe",
       "date": "2026-07-15T07:51:42",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Aux Etats-Unis, inquiétude sur le sort de centaines de milliers d’Haïtiens susceptibles d’être renvoyés dans leur pays - Le Monde.fr",
+      "link": "https://news.google.com/rss/articles/CBMimwJBVV95cUxNQTBwQ01kTUwtZnFyOUVjaXFUd1JnQUZuX01VbXNyLXZDWGc1dnByczJHbkxTdkk1b0lkbllwTDhiTHhGd0RnWDR5WFBHV2Zud3lQRWZ2aFdjSWlaQkF0TUJyZXVaZTVWUXQtWjhJMEtZenh6T25yRGVDc2lYeGhSakloZmpxU0NHNjVkNnhweGtWNFRPd1JpaG4yLXRpd3RnVmVIY1h2RV9FT1JBdnlDQ2dLd3BrN25QcUczVm9KaFg5aUFLV1ZVR0VJeGtRdkJjY0ExRW5kS2ExVExVMldJc1J6cXlwZ2xOV2xZRWtTR3FGTjRtcEFPd2dOT2s4ZUFZZ0RCVmI0REthV1BURzl2R2kzczh2UG5jVjlF?oc=5",
+      "desc": "Aux Etats-Unis, inquiétude sur le sort de centaines de milliers d’Haïtiens susceptibles d’être renvoyés dans leur pays&nbsp;&nbsp;Le Monde.fr",
+      "date": "2026-07-03T07:00:00",
       "source": "Google News Haiti"
     }
   ]
