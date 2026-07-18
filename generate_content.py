@@ -262,7 +262,10 @@ def main():
     parser.add_argument("--type", choices=["prayer","sermon","testimony","all"], default="all")
     args = parser.parse_args()
     client = anthropic.Anthropic(api_key=args.api_key)
-    types = ["prayer","sermon","testimony"] if args.type == "all" else [args.type]
+    # "sermon" est exclu de "all" : le sermon long (5 sections, ~15 min) est généré
+    # par generate_sermon.py, qui s'exécute juste après dans run_spirituel.sh.
+    # Le laisser ici écraserait ce sermon avec une version courte (~500 mots).
+    types = ["prayer","testimony"] if args.type == "all" else [args.type]
     ok = sum(generate(client, t) for t in types)
     print(f"\n🙏  {ok}/{len(types)} contenus générés pour {TODAY}")
 
