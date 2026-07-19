@@ -54,6 +54,7 @@ audio{flex:1;height:36px}
 .section-sub{color:var(--gray);text-align:center;font-size:.9rem;margin-bottom:2rem}
 
 /* HORAIRE */
+.schedule-recurring{background:var(--green-pale);border-radius:12px;padding:1rem 1.5rem;max-width:700px;margin:0 auto 1.5rem;display:flex;flex-wrap:wrap;justify-content:center;gap:1.5rem;font-size:.9rem;color:var(--green-dark)}
 .schedule-grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:1rem}
 .schedule-card{border:1.5px solid var(--green-pale);border-radius:12px;padding:1.2rem;transition:all .2s;cursor:pointer}
 .schedule-card:hover{border-color:var(--green-light);box-shadow:0 4px 15px rgba(45,106,79,.1)}
@@ -217,52 +218,103 @@ footer strong{color:var(--white)}
 <!-- HORAIRE -->
 <div class="section" id="horaire">
   <div class="section-title">Horaire de la Semaine</div>
-  <div class="section-sub">Tous les jours de 05:00 à 21:00</div>
+  <div class="section-sub">En continu 24/7</div>
+
+  <div class="schedule-recurring">
+    <div><strong>Chaque heure :</strong> 🌡️ Météo · 📰 Nouvelles · ⚽ Sport</div>
+    <div><strong>Chaque demi-heure :</strong> 🙏 Prière · ❤️ Témoignage</div>
+  </div>
+
   <div class="schedule-grid">
-    <div class="schedule-card" onclick="showTab('priere_matin',document.querySelector('.tab'))">
-      <div class="schedule-time">05:00</div>
+    <div class="schedule-card">
+      <div class="schedule-time">06:00</div>
       <div class="schedule-name">🙏 Prière du Matin</div>
-      <div class="schedule-desc">5-7 minutes • Français</div>
+      <div class="schedule-desc">EN DIRECT</div>
     </div>
     <div class="schedule-card">
       <div class="schedule-time">07:00</div>
-      <div class="schedule-name">📰 Nouvelles Matin</div>
-      <div class="schedule-desc">5 minutes • Actualités Haïti & Monde</div>
+      <div class="schedule-name">🎵 Acapella</div>
+      <div class="schedule-desc">Musique</div>
     </div>
     <div class="schedule-card">
-      <div class="schedule-time">09:30</div>
-      <div class="schedule-name">✝️ Sermon Matin</div>
-      <div class="schedule-desc">Texte • Parole du Seigneur</div>
+      <div class="schedule-time">08:00</div>
+      <div class="schedule-name">🎵 Afro Kizomba Français</div>
+      <div class="schedule-desc">Musique</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">09:00</div>
+      <div class="schedule-name">🎵 Haïtian Christian Rap</div>
+      <div class="schedule-desc">Musique</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">10:00</div>
+      <div class="schedule-name">🎵 Haïtian Konpa</div>
+      <div class="schedule-desc">Musique</div>
     </div>
     <div class="schedule-card">
       <div class="schedule-time">12:00</div>
       <div class="schedule-name">🙏 Prière Midi</div>
-      <div class="schedule-desc">EN DIRECT par vous • Prière partagée</div>
+      <div class="schedule-desc">EN DIRECT</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">13:00</div>
+      <div class="schedule-name">🎵 Afro Kizomba Créole</div>
+      <div class="schedule-desc">Musique</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">14:00</div>
+      <div class="schedule-name">🎵 Variété</div>
+      <div class="schedule-desc">Musique</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">14:05</div>
+      <div class="schedule-name">📖 Sermon</div>
+      <div class="schedule-desc">Texte • Parole du Seigneur</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">16:00</div>
+      <div class="schedule-name">🎵 Haïtian Christian Rap</div>
+      <div class="schedule-desc">Musique</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">16:05</div>
+      <div class="schedule-name">📖 Sermon</div>
+      <div class="schedule-desc">Texte • Parole du Seigneur</div>
     </div>
     <div class="schedule-card">
       <div class="schedule-time">17:00</div>
-      <div class="schedule-name">📰 Nouvelles Soir</div>
-      <div class="schedule-desc">5 minutes • Actualités du jour</div>
+      <div class="schedule-name">🎵 Haïtian Konpa</div>
+      <div class="schedule-desc">Musique</div>
     </div>
     <div class="schedule-card">
       <div class="schedule-time">18:00</div>
       <div class="schedule-name">📻 Journal du Soir</div>
-      <div class="schedule-desc">10-15 minutes • Lundi-Vendredi • Toute l'actualité du jour</div>
+      <div class="schedule-desc">18h00–18h15 • Lundi-Vendredi • Toute l'actualité du jour</div>
     </div>
     <div class="schedule-card">
-      <div class="schedule-time">18:00</div>
-      <div class="schedule-name">❤️ Témoignage</div>
-      <div class="schedule-desc">2 minutes • Histoire de foi</div>
+      <div class="schedule-time">19:00</div>
+      <div class="schedule-name">🎵 Musique Anglaise</div>
+      <div class="schedule-desc">Musique</div>
     </div>
     <div class="schedule-card">
       <div class="schedule-time">20:00</div>
-      <div class="schedule-name">✝️ Sermon Soir</div>
+      <div class="schedule-name">🎵 Acapella</div>
+      <div class="schedule-desc">Musique</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">20:05</div>
+      <div class="schedule-name">📖 Sermon</div>
       <div class="schedule-desc">Texte • Méditation spirituelle</div>
     </div>
     <div class="schedule-card">
       <div class="schedule-time">21:00</div>
-      <div class="schedule-name">🙏 Prière Soir</div>
-      <div class="schedule-desc">5-7 minutes • Repos en Dieu</div>
+      <div class="schedule-name">🙏 Prière du Soir</div>
+      <div class="schedule-desc">EN DIRECT</div>
+    </div>
+    <div class="schedule-card">
+      <div class="schedule-time">22:00</div>
+      <div class="schedule-name">🎵 Relaxing Musique</div>
+      <div class="schedule-desc">Musique</div>
     </div>
   </div>
 </div>
