@@ -206,7 +206,7 @@ footer strong{color:var(--white)}
 
     <div class="tab" onclick="showTab('priere_soir',this)">🌙 Prière Soir</div>
     <div class="tab" onclick="showTab('meteo',this)">🌡️ Météo</div>
-    <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
+    <div class="tab" onclick="showTab('bulletin_soir',this)">📻 Journal du Soir</div>
   </div>
   <div class="content-area" id="content-area">
     <div class="loading"><span class="spinner"></span>Chargement...</div>
@@ -436,7 +436,7 @@ const LOADERS = {
   resume_monde:    ()=>loadResume('monde','🌍'),
   resume_sport:    ()=>loadResume('sport','⚽'),
   meteo:           ()=>loadMeteoTab(),
-  gemini:          ()=>loadGemini(),
+  bulletin_soir:   ()=>loadSpiritual('/content/bulletin_soir/'+TODAY+'.json','📻','Charline & Antoine — Journal du Soir','/audio/bulletin_soir/'+TODAY+'.mp3'),
 };
 
 const loaded={};
