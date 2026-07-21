@@ -3,19 +3,19 @@
   "title": "Météo du 21 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 24.45,
-    "feels_like": 24.57,
-    "humidity": 62,
+    "temp": 18.88,
+    "feels_like": 19.1,
+    "humidity": 87,
     "description": "Couvert",
-    "wind_kmh": 1.6
+    "wind_kmh": 17.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.12,
-    "feels_like": 34.11,
-    "humidity": 48,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 10.1
+    "temp": 30.93,
+    "feels_like": 33.11,
+    "humidity": 53,
+    "description": "Légère pluie",
+    "wind_kmh": 15.7
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 21 juillet 2026 sur Radio Sources de Vie. À Ottawa: 24 degrés Celsius. Couvert. À Port-au-Prince: 32 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 21 juillet 2026 sur Radio Sources de Vie. À Ottawa: 19 degrés Celsius. Couvert. À Port-au-Prince: 31 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
