@@ -120,7 +120,7 @@ footer strong{color:var(--white)}
     <div class="tab" onclick="showTab('testimony',this)">❤️ Témoignage</div>
     <div class="tab" onclick="showTab('meteo',this)">🌡️ Météo</div>
     <div class="tab" onclick="showTab('resumes',this)">📰 Résumés</div>
-    <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
+    <div class="tab" onclick="showTab('bulletin_soir',this)">📻 Journal du Soir</div>
   </div>
   <div id="archive-content">
     <div class="empty">Sélectionnez une date ci-dessus</div>
@@ -276,21 +276,21 @@ async function loadArchive(date, btn){
   document.getElementById('archive-content').innerHTML=
     '<div class="loading"><span class="spinner"></span>Chargement...</div>';
 
-  const [pMatin,pSoir,sermon,testimony,meteo,gemini,
+  const [pMatin,pSoir,sermon,testimony,meteo,bulletinSoir,
          rChretien,rHaiti,rMonde,rSport] = await Promise.all([
     fetchJSON('/content/prayers/matin_'+date+'.json'),
     fetchJSON('/content/prayers/soir_'+date+'.json'),
     fetchJSON('/content/sermons/'+date+'.json'),
     fetchJSON('/content/testimonies/'+date+'.json'),
     fetchJSON('/content/meteo/'+date+'.json'),
-    fetchJSON('/content/gemini/'+date+'.json'),
+    fetchJSON('/content/bulletin_soir/'+date+'.json'),
     fetchJSON('/content/resumes/chretien_'+date+'.json'),
     fetchJSON('/content/resumes/haiti_'+date+'.json'),
     fetchJSON('/content/resumes/monde_'+date+'.json'),
     fetchJSON('/content/resumes/sport_'+date+'.json'),
   ]);
 
-  currentData={pMatin,pSoir,sermon,testimony,meteo,gemini,
+  currentData={pMatin,pSoir,sermon,testimony,meteo,bulletinSoir,
                rChretien,rHaiti,rMonde,rSport,date};
   renderTab(currentTab);
 }
@@ -338,7 +338,7 @@ function makeMeteoCard(meteo, date){
 }
 
 function renderTab(tab){
-  const {pMatin,pSoir,sermon,testimony,meteo,gemini,
+  const {pMatin,pSoir,sermon,testimony,meteo,bulletinSoir,
          rChretien,rHaiti,rMonde,rSport,date} = currentData;
   const c = document.getElementById('archive-content');
   let html = '<div class="archive-grid">';
@@ -372,14 +372,9 @@ function renderTab(tab){
     ].filter(Boolean);
     if(cards.length){empty=false; html+=cards.join('');}
   }
-  if(show('gemini') && gemini){
-    empty=false;
-    if(gemini.bulletin) html+=`<div class="archive-card">
-      <div class="archive-type">📻 Bulletin</div>
-      <div class="archive-title">Bulletin du ${fmtDate(date)}</div>
-      <div class="archive-excerpt">${excerpt(gemini.bulletin)}</div>
-      <a href="${articleLink('gemini-bulletin',date)}" class="read-more">Lire la suite →</a>
-    </div>`;
+  if(show('bulletin_soir')){
+    const cb = makeCard('bulletin_soir','📻','Journal du Soir',bulletinSoir,date,true);
+    if(cb){empty=false; html+=cb;}
   }
 
   html += '</div>';

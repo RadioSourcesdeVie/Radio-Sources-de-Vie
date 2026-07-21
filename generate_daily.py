@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-generate_daily.py — Prière matin+soir, Sabbat Nugget, Nouvelles Charlotte
+generate_daily.py — Prière matin+soir, Sabbat Nugget
 Radio Sources de Vie Chrétienne
 """
 import anthropic, json
@@ -55,41 +55,6 @@ JSON uniquement: {{"title":"Sabbat Nugget — {TODAY}","date":"{TODAY}","verse":
     save(out, json.loads(raw))
     print(f"✅ Sabbat Nugget → {out}")
 
-def generate_news_bulletin(client):
-    out = f"content/bulletins/{TODAY}.json"
-    if Path(out).exists(): print("⏭️  Bulletin déjà généré"); return
-    print("📻 Bulletin nouvelles Charlotte...")
-    try:
-        news = json.loads(Path("news_latest.json").read_text(encoding="utf-8"))
-        articles = []
-        for cat in ["chretien","haiti","monde","sport"]:
-            for a in news.get(cat,[])[:2]:
-                articles.append(f"[{cat.upper()}] {a['title']}")
-        news_text = "\n".join(articles[:10])
-    except: news_text = "Nouvelles du jour"
-    
-    bulletin_matin = gen(client, f"""Tu es Charlotte, présentatrice radio chrétienne francophone.
-Écris le bulletin de nouvelles du matin ({TODAY}) en français — 200 mots, ton professionnel et chaleureux.
-Nouvelles disponibles:
-{news_text}
-Commence par: "Bonjour chers auditeurs, il est [heure] sur Radio Sources de Vie..."
-JSON: {{"title":"Bulletin Matin — {TODAY}","date":"{TODAY}","moment":"matin","content":"le bulletin complet"}}""")
-    bulletin_matin = bulletin_matin.replace("```json","").replace("```","").strip()
-    
-    bulletin_soir = gen(client, f"""Tu es Charlotte, présentatrice radio chrétienne francophone.
-Écris le bulletin de nouvelles du soir ({TODAY}) en français — 200 mots.
-Nouvelles: {news_text}
-Commence par: "Bonsoir chers auditeurs, voici les nouvelles du soir sur Radio Sources de Vie..."
-JSON: {{"title":"Bulletin Soir — {TODAY}","date":"{TODAY}","moment":"soir","content":"le bulletin complet"}}""")
-    bulletin_soir = bulletin_soir.replace("```json","").replace("```","").strip()
-    
-    save(out, {
-        "date": TODAY,
-        "matin": json.loads(bulletin_matin),
-        "soir":  json.loads(bulletin_soir)
-    })
-    print(f"✅ Bulletins Charlotte → {out}")
-
 def main():
     import argparse
     parser = argparse.ArgumentParser()
@@ -101,7 +66,6 @@ def main():
     generate_prayer_matin(client)
     generate_prayer_soir(client)
     generate_sabbat_nugget(client)
-    generate_news_bulletin(client)
     print(f"\n✅ Tout généré pour {TODAY}")
 
 if __name__ == "__main__":

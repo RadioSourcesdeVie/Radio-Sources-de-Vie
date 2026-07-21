@@ -494,17 +494,6 @@ async function loadResume(cat,icon){
   c.innerHTML=html||'<div class="loading">Nouvelles indisponibles.</div>';
 }
 
-async function loadGemini(){
-  const d=await fetchJSON('/content/gemini/'+TODAY+'.json');
-  const c=document.getElementById('content-area');
-  if(!d){c.innerHTML='<div class="loading">Bulletin non disponible.</div>';return;}
-  let html='';
-  if(d.bulletin) html+=`<div class="spiritual-card"><div class="spiritual-title">📻 Bulletin du jour</div><div class="spiritual-text">${d.bulletin}</div></div>`;
-  if(d.commentary) html+=`<div class="spiritual-card" style="margin-top:1rem"><div class="spiritual-title">✝️ ${d.commentary.title||'Commentaire'}</div>${d.commentary.verse?`<div class="spiritual-verse">${d.commentary.verse}</div>`:''}<div class="spiritual-text">${d.commentary.content||''}</div></div>`;
-  if(d.haiti_summary) html+=`<div class="spiritual-card" style="margin-top:1rem"><div class="spiritual-title">🇭🇹 Haïti & Diaspora</div><div class="spiritual-text">${d.haiti_summary}</div></div>`;
-  c.innerHTML=html||'<div class="loading">Bulletin non disponible.</div>';
-}
-
 async function loadWeather(){
   const d=await fetchJSON('/weather.json');
   if(!d) return;

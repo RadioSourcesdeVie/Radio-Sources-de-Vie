@@ -9,7 +9,6 @@ python generate_content.py --api-key "$ANTHROPIC_KEY" --type all
 python generate_sermon.py --api-key "$ANTHROPIC_KEY"
 python generate_daily.py --api-key "$ANTHROPIC_KEY"
 python generate_daily_audio.py --eleven-key "$ELEVEN_KEY"
-python generate_gemini.py
 python generate_resumes.py --api-key "$ANTHROPIC_KEY" --eleven-key "$ELEVEN_KEY"
 python generate_audio.py
 python generate_rss.py
