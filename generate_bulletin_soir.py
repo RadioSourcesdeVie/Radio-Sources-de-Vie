@@ -75,6 +75,9 @@ def clean_for_tts(text: str) -> str:
     text = re.sub(r'_{1,2}(.*?)_{1,2}', r'\1', text)
     text = re.sub(r'^#{1,6}\s*', '', text, flags=re.MULTILINE)
     text = text.replace('*', '').replace('#', '').replace('_', ' ')
+    # Références bibliques "20:4" -> "20 verset 4", "20:4-8" -> "20 verset 4 à 8"
+    text = re.sub(r'(\d+):(\d+)-(\d+)', r'\1 verset \2 à \3', text)
+    text = re.sub(r'(\d+):(\d+)', r'\1 verset \2', text)
     return text
 
 
