@@ -138,12 +138,21 @@ footer strong{color:var(--white)}
 let currentTab = 'all';
 let currentData = {};
 
+// Date locale (pas UTC) — toISOString() bascule au jour suivant dès 20h en heure de l'Est,
+// ce qui cassait l'affichage du contenu du jour en soirée.
+function localDateStr(d){
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,'0');
+  const day = String(d.getDate()).padStart(2,'0');
+  return `${y}-${m}-${day}`;
+}
+
 function getLast30Days(){
   const days = [];
   for(let i=0;i<30;i++){
     const d = new Date();
     d.setDate(d.getDate()-i);
-    days.push(d.toISOString().slice(0,10));
+    days.push(localDateStr(d));
   }
   return days;
 }
@@ -215,7 +224,7 @@ async function buildAllArchives(box){
   const d = new Date();
   const MAX_DAYS = 400; // sécurité (un peu plus d'un an)
   for(let i=0; i<MAX_DAYS && emptyStreak<20; i++){
-    const ds = d.toISOString().slice(0,10);
+    const ds = localDateStr(d);
     // On teste météo OU sermon OU prière (un seul suffit pour marquer le jour)
     const hit = await fetchJSON('/content/meteo/'+ds+'.json')
              || await fetchJSON('/content/sermons/'+ds+'.json')

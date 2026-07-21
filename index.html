@@ -384,7 +384,15 @@ footer strong{color:var(--white)}
 </footer>
 
 <script>
-const TODAY = new Date().toISOString().slice(0,10);
+// Date locale (pas UTC) — toISOString() bascule au jour suivant dès 20h en heure de l'Est,
+// ce qui cassait l'affichage du contenu du jour en soirée.
+function localDateStr(d){
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,'0');
+  const day = String(d.getDate()).padStart(2,'0');
+  return `${y}-${m}-${day}`;
+}
+const TODAY = localDateStr(new Date());
 
 // SCHEDULE
 const SCHEDULE = [
@@ -520,7 +528,7 @@ async function loadArchives(){
   const today=new Date();
   for(let i=0;i<7;i++){
     const d=new Date(today);d.setDate(d.getDate()-i);
-    dates.push(d.toISOString().slice(0,10));
+    dates.push(localDateStr(d));
   }
   const types=[
     {key:'sermons',label:'Sermon',icon:'✝️',audio:'audio/sermons'},
