@@ -4,10 +4,39 @@ generate_sermon.py — Sermon 20min en sections multiples
 Radio Sources de Vie Chrétienne — Texte + Audio (Edge TTS, voix Henri)
 """
 import anthropic, json, re
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
+DAY_NUM = datetime.now().timetuple().tm_yday  # jour de l'année, pour faire tourner les thèmes
+
+# Rotation de thèmes pour éviter que Claude retombe toujours sur "La puissance de la foi"
+SERMON_THEMES = [
+    "la foi", "l'espérance", "le pardon", "la persévérance dans l'épreuve", "la prière",
+    "la grâce de Dieu", "l'obéissance à Dieu", "la guérison intérieure", "la paix intérieure",
+    "le service et l'humilité", "la générosité", "la famille chrétienne", "la protection divine",
+    "la repentance", "la joie du salut", "la patience", "le combat spirituel", "la fidélité de Dieu",
+    "la vocation et le dessein de Dieu", "la libération des chaînes du passé", "la sagesse divine",
+    "l'humilité devant Dieu", "la reconnaissance", "la confiance en Dieu", "la résurrection et la vie nouvelle",
+    "la nouvelle naissance", "le fruit du Saint-Esprit", "la mission de l'Église", "la crainte de Dieu",
+    "la sanctification", "le pardon des offenses", "l'amour du prochain", "la persévérance de la prière",
+    "la restauration après la chute", "l'identité en Christ",
+]
+
+def get_recent_sermons(days=7):
+    """Lit titres/références des derniers jours pour éviter les répétitions de sujet."""
+    recent = []
+    for i in range(1, days + 1):
+        past = (datetime.now() - timedelta(days=i)).strftime("%Y-%m-%d")
+        f = Path(f"content/sermons/{past}.json")
+        if f.exists():
+            try:
+                d = json.loads(f.read_text(encoding="utf-8"))
+                if d.get("title"):
+                    recent.append(f"{d['title']} ({d.get('reference','')})")
+            except Exception:
+                pass
+    return recent
 
 
 def clean_markdown(text: str) -> str:
@@ -29,11 +58,18 @@ def generate_sermon(api_key):
 
     print("✍️  Génération sermon 20min...")
 
+    theme = SERMON_THEMES[DAY_NUM % len(SERMON_THEMES)]
+    recent = get_recent_sermons()
+    avoid = ("\n".join(f"  - {r}" for r in recent)) if recent else "  (aucun)"
+
     # Sujet
     sujet_msg = client.messages.create(
         model="claude-haiku-4-5-20251001",
         max_tokens=150,
-        messages=[{"role":"user","content":"Donne un titre de sermon chrétien évangélique en français et un verset (Louis Segond). Format exact: TITRE|VERSET|REFERENCE"}]
+        messages=[{"role":"user","content":f"""Donne un titre de sermon chrétien évangélique en français sur le thème « {theme} » et un verset (Louis Segond) qui s'y rapporte.
+NE RÉPÈTE PAS ces titres/versets déjà utilisés récemment:
+{avoid}
+Format exact: TITRE|VERSET|REFERENCE"""}]
     )
     parts = sujet_msg.content[0].text.strip().split("|")
     titre     = parts[0].strip() if len(parts)>0 else "Sermon du jour"
@@ -41,7 +77,11 @@ def generate_sermon(api_key):
     reference = parts[2].strip() if len(parts)>2 else ""
     print(f"   Sujet: {titre}")
 
-    SYSTEM = "Tu es un pasteur chrétien évangélique francophone. Tu prêches avec profondeur biblique, exemples concrets et chaleur pastorale pour la diaspora haïtienne au Canada."
+    SYSTEM = ("Tu es un pasteur chrétien évangélique francophone. Tu prêches avec profondeur biblique, "
+              "exemples concrets et chaleur pastorale pour la diaspora haïtienne au Canada. "
+              "IMPORTANT: ne mentionne jamais un jour précis de la semaine (dimanche, samedi, lundi, etc.) "
+              "car ce sermon peut être écouté n'importe quel jour — tu peux parler de l'église, du culte, "
+              "de la communauté des croyants, mais jamais d'un jour de la semaine spécifique.")
 
     sections_prompts = [
         f"Écris l'INTRODUCTION de ce sermon (300 mots minimum): '{titre}'. Commence par une histoire vraie accrocheuse, présente le sujet et le verset: {verset}. Termine l'introduction par une question qui engage l'auditeur.",
@@ -63,6 +103,11 @@ def generate_sermon(api_key):
         texte_complet += "\n\n" + msg.content[0].text.strip()
 
     texte_complet = clean_markdown(texte_complet)
+
+    for jour in ("dimanche", "samedi"):
+        if jour in texte_complet.lower():
+            print(f"⚠️  Le mot '{jour}' est apparu dans le sermon malgré la consigne — vérifier le texte")
+
     words   = len(texte_complet.split())
     minutes = round(words/150)
     print(f"   Total: {words} mots — ~{minutes} minutes de lecture")
