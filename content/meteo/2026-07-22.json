@@ -3,19 +3,19 @@
   "title": "Météo du 22 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 18.88,
-    "feels_like": 19.1,
-    "humidity": 87,
-    "description": "Couvert",
-    "wind_kmh": 17.3
+    "temp": 15.64,
+    "feels_like": 15.64,
+    "humidity": 91,
+    "description": "Légère pluie",
+    "wind_kmh": 8.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 30.93,
-    "feels_like": 33.11,
-    "humidity": 53,
-    "description": "Légère pluie",
-    "wind_kmh": 15.7
+    "temp": 24.54,
+    "feels_like": 25.16,
+    "humidity": 81,
+    "description": "Ciel dégagé",
+    "wind_kmh": 5.1
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 22 juillet 2026 sur Radio Sources de Vie. À Ottawa: 19 degrés Celsius. Couvert. À Port-au-Prince: 31 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 22 juillet 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Légère pluie. À Port-au-Prince: 25 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
 }
