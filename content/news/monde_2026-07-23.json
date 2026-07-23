@@ -1,42 +1,98 @@
 {
   "category": "monde",
   "date": "2026-07-23",
-  "updated": "2026-07-23T10:00:15.031489Z",
+  "updated": "2026-07-23T19:00:16.099893Z",
   "articles": [
     {
-      "title": "Le Mali, le Niger et le Burkina Faso veulent coorganiser la CAN 2032",
-      "link": "https://www.france24.com/fr/sports/20260723-mali-niger-burkina-faso-veulent-coorganiser-can-2032",
-      "desc": "Bien qu'ils soient confrontés depuis plusieurs années aux violences meurtrières de groupes jihadistes, le Mali, le Niger et le Burkina Faso ont exprimé leur volonté de coorganiser la Coupe d'Afrique des nations en 2032. Le Mali et le Burkina Faso disposent déjà de six stades homologués par la CAF.",
-      "date": "2026-07-23T09:54:20",
+      "title": "Feu vert américain au nucléaire civil saoudien : une victoire signée MBS ?",
+      "link": "https://www.france24.com/fr/moyen-orient/20260723-feu-vert-am%C3%A9ricain-au-nucl%C3%A9aire-civil-saoudien-une-victoire-sign%C3%A9e-mbs",
+      "desc": "Washington a annoncé, mercredi, avoir conclu un accord avec l'Arabie saoudite autour d'un programme nucléaire civil qui, selon des médias américains, dérogerait aux inspections internationales renforcées habituellement exigées, et sans que Riyad ne s'engage à normaliser ses relations avec Israël. Co",
+      "date": "2026-07-23T18:34:59",
       "source": "France 24"
     },
     {
-      "title": "Russie - États-Unis : Moscou juge “inadmissible” la livraison d’armes américaines à Kiev",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-russie-%C3%A9tats-unis-moscou-juge-inadmissible-la-livraison-d-armes-am%C3%A9ricaines-%C3%A0-kiev",
-      "desc": "En marge d’une réunion des ministres des Affaires étrangères de l’Asean à Manille, les chefs de la diplomatie russe et américaine, Sergueï Lavrov et Marco Rubio, se sont entretenus pendant une trentaine de minutes, leur première rencontre depuis septembre 2025. Récit d'Olivier Faissolle.",
-      "date": "2026-07-23T09:50:01",
+      "title": "Deux Russes condamnés à des peines de prison pour terrorisme et espionnage en Angola",
+      "link": "https://www.bbc.com/afrique/articles/c4gd9pnxyevo?at_medium=RSS&at_campaign=rss",
+      "desc": "Un tribunal de Luanda a condamné deux ressortissants russes à respectivement 11 et 8 ans de prison pour terrorisme, espionnage et autres infractions liées à une présumée opération d’influence politique en Angola. Selon le parquet, les deux hommes un consultant politique et un traducteur, auraient pa",
+      "date": "2026-07-23T17:43:32",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Guinée : un adolescent emprisonné pour triche à un examen décède de complications liées à la drépanocytose, son père témoigne à la BBC",
+      "link": "https://www.bbc.com/afrique/articles/crl7kp0wz74o?at_medium=RSS&at_campaign=rss",
+      "desc": "Mamadou Djouma Bah, 17 ans, a été arrêté et condamné à une peine de prison pour fraude aux examens au début du mois.",
+      "date": "2026-07-23T17:37:28",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Canicules: une crise sanitaire mondiale",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260723-canicules-une-crise-sanitaire-mondiale",
+      "desc": "Santé Publique France estime que près de 6000 personnes sont mortes en raison des fortes chaleurs du mois de juin. En 30 ans les morts de la chaleur ont augmenté de 85% selon la revue médicale The Lancet. Toujours selon cette revue, 8 jours de canicule sur 10 ne se seraient pas produits sans le réch",
+      "date": "2026-07-23T17:20:17",
       "source": "France 24"
     },
     {
-      "title": "Europe : des incendies ravagent plusieurs régions en Espagne et en Italie",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-europe-des-incendies-violents-en-espagne-et-en-italie",
-      "desc": "De violents incendies de forêt, attisés par un vent soutenu et des températures très élevées, ravagent plusieurs régions d’Europe du Sud, en Espagne et en Italie. Des milliers d’habitants et de touristes ont dû être évacués. Récit de Victor Faubert et James Vasina.",
-      "date": "2026-07-23T09:46:43",
+      "title": "Dans les pays du Golfe persique, omerta généralisée sur les attaques iraniennes",
+      "link": "https://www.france24.com/fr/moyen-orient/20260723-frappes-iraniennes-golfe-persique-arrestations-images-bahrein-koweit",
+      "desc": "Depuis le début du conflit entre l’Iran et les États-Unis, plus de 1 000 personnes ont été arrêtées pour avoir tenté de documenter les frappes iraniennes dans les pays du Golfe persique alliés de Washington. Les régimes de ces pays veulent dissuader toute diffusion d’images et maintiennent un discou",
+      "date": "2026-07-23T16:47:52",
       "source": "France 24"
     },
     {
-      "title": "Bulgarie : un saut en VTT depuis une montgolfière, nouveau record de l’extrême",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-bulgarie-un-saut-en-vtt-depuis-une-montgolfi%C3%A8re-nouveau-record-de-l-extr%C3%AAme",
-      "desc": "Depuis une montgolfière en vol, un athlète autrichien a réalisé un saut spectaculaire en se jetant dans le vide avec son VTT. Reportage France 2.",
-      "date": "2026-07-23T09:45:01",
+      "title": "La Chine n’a pas lancé un programme de charité pour offrir des climatiseurs aux Français",
+      "link": "https://www.france24.com/fr/france/20260723-la-chine-n-a-pas-lanc%C3%A9-un-programme-de-charit%C3%A9-pour-offrir-des-climatiseurs-aux-fran%C3%A7ais",
+      "desc": "Des internautes affirment que la Chine se moquerait du manque de climatisation en France. Ils partagent une vidéo humoristique en chinois annonçant la création d'une association destinée à offrir des climatiseurs recyclés aux Français. En réalité, il s'agit d'une vidéo parodique réalisée par un médi",
+      "date": "2026-07-23T16:39:16",
       "source": "France 24"
     },
     {
-      "title": "OpenAI : une cyberattaque \"sans précédent\" menée de façon autonome par ses modèles d’IA",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-openai-une-cyberattaque-sans-pr%C3%A9c%C3%A9dent-men%C3%A9e-de-fa%C3%A7on-autonome-par-ses-mod%C3%A8les-d-ia",
-      "desc": "C'est une \"cyberattaque sans précédent\" de l'aveu même d'OpenAI, qui reconnaît qu’au cours de tests de sécurité plusieurs de ses modèles d’intelligence artificielle ont réussi à contourner les garde-fous qui limitaient leur accès à Internet. Cherchant à évaluer leurs capacités de piratage, l’entrepr",
-      "date": "2026-07-23T09:42:54",
+      "title": "Inde : les protestations étudiantes s’étendent à Mumbai",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260723-inde-les-protestations-%C3%A9tudiantes-s-%C3%A9tendent-%C3%A0-mumbai",
+      "desc": "La contestation étudiante gagne du terrain en Inde. Après les affrontements entre la police et des manifestants à New Delhi, des milliers d'étudiantssont descendus dans les rues de Mumbai. À l'origine de la colère : le scandale des concours nationaux d'entrée en médecine, qui a éclaté en mai dernier",
+      "date": "2026-07-23T16:19:21",
       "source": "France 24"
+    },
+    {
+      "title": "L'Afrique se prépare à un moment olympique historique à Dakar 2026",
+      "link": "https://www.bbc.com/afrique/articles/c80n5jzlj4do?at_medium=RSS&at_campaign=rss",
+      "desc": "Les Jeux olympiques de la jeunesse de Dakar 2026 devraient avoir un impact « monumental » lorsque la capitale sénégalaise deviendra la première ville africaine à accueillir un événement olympique.",
+      "date": "2026-07-23T14:26:01",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ces universités d'Afrique subsaharienne francophone qui brillent malgré des moyens limités",
+      "link": "https://www.bbc.com/afrique/articles/cwyrdp51vr8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Avec des budgets généralement très faibles, ces universités ont du mal à rivaliser avec les meilleures universités du monde ou d'Afrique anglophone, ou arabe.",
+      "date": "2026-07-23T12:43:38",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Gaza : des progrès fragiles contre la faim",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159204",
+      "desc": "Les habitants de la bande de Gaza mangent un peu mieux qu'il y a quelques mois, mais la crise alimentaire est loin d'être terminée. Les Nations Unies avertissent que les progrès observés depuis la fin de 2025 restent extrêmement fragiles et pourraient rapidement s'inverser sans une aide humanitaire ",
+      "date": "2026-07-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Commerce mondial : la flambée des prix masque la faiblesse des volumes, sur fond de crise au Moyen-Orient",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159202",
+      "desc": "Malgré les tensions géopolitiques et les inquiétudes concernant les chaînes d’approvisionnement, le commerce mondial a progressé d’environ 4 % au premier trimestre 2026, a indiqué jeudi l'agence des Nations Unies pour le commerce et développement, relevant que l’Asie de l’Est a été le principal mote",
+      "date": "2026-07-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "EN DIRECT | Pourquoi l’ONU intervient souvent quand il est déjà trop tard",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159203",
+      "desc": "Les outils sont là. Ils figurent depuis 1945 dans la Charte des Nations Unies, soigneusement rangés dans son chapitre&nbsp;VI&nbsp;: négociation, médiation, arbitrage, règlement judiciaire, bons offices du Secrétaire général. Une véritable boîte à outils diplomatique conçue pour empêcher les crises ",
+      "date": "2026-07-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Face aux 300 000 décès annuels par noyade, l’OMS dévoile un plan de prévention",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159201",
+      "desc": "À l’approche de la Journée mondiale de prévention des noyades, le 25 juillet, l’Organisation mondiale de la santé (OMS) publie un guide technique proposant sept mesures concrètes pour lutter contre un fléau que l'agence onusienne juge largement évitable.",
+      "date": "2026-07-23T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Guerre contre l'Iran : « Sans ces fonds, nous risquons de faire face à des déficits critiques (...) », Hegseth face au Sénat américain",
@@ -46,67 +102,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Le Burkina Faso, le Mali et le Niger déposent leur candidature pour l'organisation de la CAN 2032",
-      "link": "https://www.bbc.com/afrique/articles/c74gm84jvedo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le Burkina Faso, le Mali et le Niger – trois pays dirigés par des militaires – présentent une candidature conjointe pour accueillir la Coupe d'Afrique des Nations 2032.",
-      "date": "2026-07-22T17:10:42",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ce trouble de croissance rare dont souffrent ces jumelles pourrait-il être la clé de la prévention du cancer ?",
-      "link": "https://www.bbc.com/afrique/articles/cq89xv57v9do?at_medium=RSS&at_campaign=rss",
-      "desc": "Des chercheurs ont constaté que les personnes atteintes du syndrome de Laron présentaient un taux de cancer inférieur à celui de l'ensemble de la population.",
-      "date": "2026-07-22T16:09:36",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Pourquoi une heure compte 60 minutes et la tentative infructueuse de la modifier à 100 minutes",
-      "link": "https://www.bbc.com/afrique/articles/c4g3p7ql77vo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des raisons historiques remontant à l'aube de l'humanité, il y a des millénaires, expliquent pourquoi il serait si difficile de remplacer le système traditionnel de mesure du temps par un système à base décimale.",
-      "date": "2026-07-22T14:29:07",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Nicaragua : l'ONU déplore de nouvelles atteintes aux droits civils et politiques",
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159200",
       "desc": "Le chef des droits de l'homme de l'ONU, Volker Türk, a déploré mercredi une série de développements au Nicaragua qui, selon lui, entravent l'exercice des droits civils et politiques, notamment des menaces visant à empêcher des personnes aux opinions politiques dissidentes de participer aux élections",
       "date": "2026-07-22T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Cisjordanie : l’ONU accuse les autorités palestiniennes de graves violations",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159199",
-      "desc": "Le Bureau des droits de l’homme des Nations Unies dans le territoire palestinien occupé a condamné mercredi le recours continu des autorités palestiniennes à des détentions arbitraires, à la torture et à d’autres formes de mauvais traitements contre des Palestiniens détenus en Cisjordanie pour des m",
-      "date": "2026-07-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les minéraux critiques, moteurs de paix ou carburant des conflits ?",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159198",
-      "desc": "Le pétrole a façonné la géopolitique du XXᵉ siècle. Le lithium, le cobalt, le nickel et le cuivre pourraient bien façonner celle du XXIᵉ. Alors que leur demande devrait tripler d’ici à 2030, ces minéraux critiques seront-ils la clé de la transition verte ou nourriront-ils les conflits de demain ?",
-      "date": "2026-07-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Du lithium au nickel : comment l’ONU aide à tirer le meilleur parti des minéraux critiques",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159197",
-      "desc": "La transition mondiale vers les énergies propres entraîne une explosion de la demande pour les minéraux critiques, tels que le lithium, le nickel, le cobalt et le cuivre.",
-      "date": "2026-07-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Feu vert pour des routes plus sûres : l'ONU veut réduire de moitié le nombre de morts et blessés",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159194",
-      "desc": "Les États Membres des Nations Unies ont adopté cette semaine une nouvelle déclaration politique destinée à accélérer les efforts mondiaux pour réduire de moitié le nombre de décès et de blessés graves sur les routes d'ici à 2030.",
-      "date": "2026-07-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Tout ce que vous devez savoir sur la CAN féminine 2026",
-      "link": "https://www.bbc.com/afrique/articles/ckg30mekdzgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Découvrez les favorites, le format et les horaires de coup d'envoi de la Coupe d'Afrique des Nations féminine 2026, reportée au Maroc et qui débutera le 26 juillet.",
-      "date": "2026-07-22T08:02:51",
-      "source": "BBC Afrique"
     }
   ]
 }
