@@ -3,19 +3,19 @@
   "title": "Météo du 23 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 12.86,
-    "feels_like": 12.55,
-    "humidity": 90,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 7.0
+    "temp": 21.58,
+    "feels_like": 21.36,
+    "humidity": 60,
+    "description": "Nuageux",
+    "wind_kmh": 3.2
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.01,
-    "feels_like": 25.79,
-    "humidity": 85,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 5.1
+    "temp": 32.58,
+    "feels_like": 35.46,
+    "humidity": 50,
+    "description": "Légère pluie",
+    "wind_kmh": 4.2
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 23 juillet 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 25 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 23 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Nuageux. À Port-au-Prince: 33 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
