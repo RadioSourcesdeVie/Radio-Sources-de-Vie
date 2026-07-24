@@ -3,19 +3,19 @@
   "title": "Météo du 24 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 25.47,
-    "feels_like": 25.3,
-    "humidity": 47,
-    "description": "Couvert",
-    "wind_kmh": 3.2
+    "temp": 27.39,
+    "feels_like": 27.66,
+    "humidity": 48,
+    "description": "Ciel dégagé",
+    "wind_kmh": 12.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 34,
-    "feels_like": 33.46,
-    "humidity": 31,
-    "description": "Peu nuageux",
-    "wind_kmh": 6.8
+    "temp": 32.17,
+    "feels_like": 32.9,
+    "humidity": 42,
+    "description": "Nuageux",
+    "wind_kmh": 14.8
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 24 juillet 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Couvert. À Port-au-Prince: 34 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 24 juillet 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Ciel dégagé. À Port-au-Prince: 32 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
