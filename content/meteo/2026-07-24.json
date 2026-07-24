@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-24",
+  "title": "Météo du 24 juillet 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 26.45,
+    "feels_like": 26.45,
+    "humidity": 42,
+    "description": "Couvert",
+    "wind_kmh": 4.8
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 32.34,
+    "feels_like": 35,
+    "humidity": 50,
+    "description": "Nuageux",
+    "wind_kmh": 10.0
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 24 juillet 2026 sur Radio Sources de Vie. À Ottawa: 26 degrés Celsius. Couvert. À Port-au-Prince: 32 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+}
