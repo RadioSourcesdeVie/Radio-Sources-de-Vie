@@ -5,15 +5,15 @@
     <description>Résumé sportif du jour — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Sun, 26 Jul 2026 19:00:18 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 09:02:33 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Les chocs du jour en Amérique du Nord et en Europe! — 2026-07-26</title>
-      <description>Résumé sportif du jour — Voix Charlotte — 2026-07-26</description>
-      <pubDate>Sun, 26 Jul 2026 19:00:18 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-07-26.mp3" length="177120" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-07-26.mp3</guid>
+      <title>Sans titre — 2026-07-27</title>
+      <description>Résumé sportif du jour — Voix Charlotte — 2026-07-27</description>
+      <pubDate>Mon, 27 Jul 2026 09:02:33 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-07-27.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-07-27.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>

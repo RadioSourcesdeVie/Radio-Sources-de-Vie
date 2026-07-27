@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-27",
+  "title": "Météo du 27 juillet 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 29.06,
+    "feels_like": 29.86,
+    "humidity": 51,
+    "description": "Ciel dégagé",
+    "wind_kmh": 5.2
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 32.51,
+    "feels_like": 36.14,
+    "humidity": 53,
+    "description": "Légère pluie",
+    "wind_kmh": 19.6
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 27 juillet 2026 sur Radio Sources de Vie. À Ottawa: 29 degrés Celsius. Ciel dégagé. À Port-au-Prince: 33 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+}
