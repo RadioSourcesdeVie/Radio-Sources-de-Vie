@@ -1,69 +1,104 @@
 {
   "category": "monde",
   "date": "2026-07-27",
-  "updated": "2026-07-27T10:00:15.915735Z",
+  "updated": "2026-07-27T19:00:16.134518Z",
   "articles": [
     {
-      "title": "L'Iran annonce avoir convoqué l'ambassadeur français à Téhéran pour \"ingérence\"",
-      "link": "https://www.france24.com/fr/moyen-orient/20260727-iran-convocation-ambassadeur-fran%C3%A7ais-ing%C3%A9rence-diplomate-molest%C3%A9",
-      "desc": "Après la détention pendant plusieurs heures la semaine dernière de deux agents de l'ambassade de France en Iran – dont un a été \"molesté\" selon le Quai d'Orsay –, Téhéran dit lundi avoir convoqué l'ambassadeur de France. Le ministère iranien des Affaires étrangères dénonce des \"ingérences dans les a",
-      "date": "2026-07-27T09:47:35",
+      "title": "Incendies en France : habitants et agriculteurs en renfort des pompiers",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-incendies-en-france-habitants-et-agriculteurs-en-renfort-des-pompiers",
+      "desc": "Alors que les pompiers poursuivent leur lutte contre les flammes près de Lège-Cap-Ferret, un élan de solidarité s'organise sur le terrain. Agriculteurs, habitants et bénévoles apportent leur aide aux secours pour faire face à cet incendie hors norme.",
+      "date": "2026-07-27T17:54:23",
       "source": "France 24"
     },
     {
-      "title": "Incendies en Gironde : 220 000 personnes évacuées",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-incendies-en-gironde-220-000-personnes-%C3%A9vacu%C3%A9es",
-      "desc": "Quelque 220 000 personnes ont par exemple été évacuées depuis mercredi 22 juillet à cause de l'incendie qui a embrasé les pourtours du très touristique bassin d'Arcachon. Les précisions de notre journaliste Olivier Faissolle, au parc des expositions de Bordeaux qui accueille des sinistrés.",
-      "date": "2026-07-27T09:39:34",
+      "title": "Non, rien ne prouve que la crème solaire augmente le risque de cancer",
+      "link": "https://www.france24.com/fr/sant%C3%A9/20260727-non-rien-ne-prouve-que-la-cr%C3%A8me-solaire-augmente-le-risque-de-cancer",
+      "desc": "Une étude menée sur plus de 470 000 personnes est utilisée sur les réseaux sociaux pour affirmer que la crème solaire augmenterait le risque de cancer de la peau. Mais l’étude en question ne portait pas sur la dangerosité des crèmes solaires et ses conclusions ont été largement déformées.",
+      "date": "2026-07-27T17:40:20",
       "source": "France 24"
     },
     {
-      "title": "Incendies en France : Que peut-on attendre de la cellule interministérielle de crise ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-incendies-en-france-que-peut-on-attendre-de-la-cellule-interminist%C3%A9rielle-de-crise",
-      "desc": "Des milliers de pompiers ont affronté pour la cinquième nuit consécutive un incendie hors norme en Gironde. Emmanuel Macron préside ce lundi 27 juillet une \"cellule interministérielle de crise\" place Beauvau. Les précisions de notre journaliste Karim Yahiaoui.",
-      "date": "2026-07-27T09:36:27",
+      "title": "🔴 En direct : \"On va continuer à mener cette bataille\" dit le président Macron en Gironde",
+      "link": "https://www.france24.com/fr/europe/20260727-en-direct-macron-attendu-en-gironde-une-nouvelle-vague-de-chaleur-extr%C3%AAme-attendue-en-europe",
+      "desc": "",
+      "date": "2026-07-27T17:28:53",
       "source": "France 24"
     },
     {
-      "title": "Gironde : Une cinquième nuit d'incendies ravageurs",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-gironde-une-cinqui%C3%A8me-nuit-d-incendies-ravageurs",
-      "desc": "Des milliers de pompiers ont affronté pour la cinquième nuit consécutive un incendie hors norme en Gironde. Les activités des colonies de vacances sont suspendues dans le département, a annoncé tôt lundi 27 nuit la préfète Sophie Brocas, compte tenu des feux en cours qui ont ravagé 42 000 hectares d",
-      "date": "2026-07-27T08:58:47",
+      "title": "Violence des colons en Cisjordanie occupée : Benjamin Netanyahu a \"intérêt à enflammer la situation\"",
+      "link": "https://www.france24.com/fr/moyen-orient/20260727-violence-des-colons-en-cisjordanie-occup%C3%A9e-benjamin-netanyahu-a-int%C3%A9r%C3%AAt-%C3%A0-enflammer-la-situation",
+      "desc": "Depuis vendredi, la Cisjordanie occupée connaît une nouvelle flambée de violences, après la mort de quatre Palestiniens et deux Israéliens. Benjamin Netanyahu y a annoncé une vaste opération armée et promis d'accélérer la colonisation. À trois mois des élections, un embrasement du territoire palesti",
+      "date": "2026-07-27T17:24:02",
       "source": "France 24"
     },
     {
-      "title": "Incendies en France : Emmanuel Macron préside une cellule de crise",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-incendies-en-france-emmanuel-macron-pr%C3%A9side-une-cellule-de-crise",
-      "desc": "Des milliers de pompiers ont affronté pour la cinquième nuit consécutive un incendie hors norme en Gironde. Les activités des colonies de vacances sont suspendues dans le département, a annoncé la préfète Sophie Brocas, compte tenu des feux en cours qui ont ravagé 42 000 hectares depuis mercredi. Em",
-      "date": "2026-07-27T08:54:56",
-      "source": "France 24"
-    },
-    {
-      "title": "« Ce n'est qu'un début » : les manifestants indiens de la génération Z ont poussé un ministre à la démission, mais quelle sera la suite ?",
-      "link": "https://www.bbc.com/afrique/articles/cdrvg73j51mo?at_medium=RSS&at_campaign=rss",
-      "desc": "La démission du ministre de l'Éducation, qui constitue un revers rare pour le gouvernement Modi, donne à de nombreux jeunes manifestants l'espoir que leur voix sera entendue.",
-      "date": "2026-07-27T08:43:41",
+      "title": "Les 10 pays avec les taux de divorce les plus bas au monde",
+      "link": "https://www.bbc.com/afrique/articles/cgewn3n81lqo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le taux de divorce brut mondial (nombre de divorces pour 1 000 habitants par an) se situe aujourd'hui autour de 1,7 à 1,8. Mais certains pays affichent des chiffres bien en dessous de cette moyenne, parfois proches de zéro, avec l’Inde, le Sri Lanka et le Vietnam qui occupent les trois premières pla",
+      "date": "2026-07-27T16:34:41",
       "source": "BBC Afrique"
     },
     {
-      "title": "Le coût caché du travail de nuit et comment s'en remettre",
-      "link": "https://www.bbc.com/afrique/articles/cx2mlerv13jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Au Royaume-Uni, plus de trois millions de personnes travaillent de nuit, ce qui peut avoir un impact considérable sur leur santé. Que peut-on faire pour les aider ?",
-      "date": "2026-07-26T17:22:21",
+      "title": "Comment les cartels de la drogue mexicains ont délocalisé leurs laboratoires de méthamphétamine au Nigeria",
+      "link": "https://www.bbc.com/afrique/articles/c4gvell3w83o?at_medium=RSS&at_campaign=rss",
+      "desc": "L’Afrique de l’Ouest devient de plus en plus attrayante pour ceux qui veulent fabriquer et exporter des drogues illicites.",
+      "date": "2026-07-27T16:31:37",
       "source": "BBC Afrique"
     },
     {
-      "title": "L'essor de la fémosphère : des femmes qui renoncent au romantisme et recherchent des hommes \"de grande valeur\"",
-      "link": "https://www.bbc.com/afrique/articles/c982xr0ek3no?at_medium=RSS&at_campaign=rss",
-      "desc": "Un mouvement qui encourage les femmes à \"s’éveiller\" aux relations hétérosexuelles et à se protéger par des règles strictes, des calculs émotionnels et une tolérance zéro pour l’erreur.",
-      "date": "2026-07-26T15:02:29",
+      "title": "Ebola en RDC : des soignants en grève à Bunia pour réclamer leurs salaires",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260727-ebola-en-rdc-des-soignants-en-gr%C3%A8ve-%C3%A0-bunia-pour-r%C3%A9clamer-leurs-salaires",
+      "desc": "En RDC, des soignants ont manifestés samedi à Bunia, contre des mois de salaires impayés. Une mobilisation qui intervient alors que l'épidémie d'Ebola a déjà fait plus de 1 300 morts, selon le dernier bilan de l'OMS.",
+      "date": "2026-07-27T16:28:53",
+      "source": "France 24"
+    },
+    {
+      "title": "« Ce n'est pas qu'un simple désagrément » : nous avons sous-estimé l'impact des règles abondantes sur la santé",
+      "link": "https://www.bbc.com/afrique/articles/cy74xlg8ky0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les règles abondantes, longtemps considérées comme un simple désagrément, peuvent avoir des conséquences beaucoup plus importantes sur la santé qu'on ne le pensait.",
+      "date": "2026-07-27T15:00:38",
       "source": "BBC Afrique"
     },
     {
-      "title": "Qu'est-ce que la \"Montagne de la Pioche\" iranienne, cette installation secrète que Trump menace de cibler ?",
-      "link": "https://www.bbc.com/afrique/articles/c78g95x54lmo?at_medium=RSS&at_campaign=rss",
-      "desc": "Interrogé sur les informations selon lesquelles Téhéran aurait déplacé des centrifugeuses nucléaires dans la montagne Pickaxe, le président Donald Trump a promis que les États-Unis frapperaient le complexe souterrain « très fortement… probablement très prochainement ».",
-      "date": "2026-07-26T12:21:49",
+      "title": "Yan Diomandé dit oui au Real Madrid, le PSG se retire du dossier",
+      "link": "https://www.bbc.com/afrique/articles/cdxd0rne6lzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Yan Diomandé, attaquant du RB Leipzig est tout proche du Real Madrid. Retour sur l'ascension du jeune international ivoirien, révélé en Bundesliga et confirmé lors de la Coupe du monde 2026.",
+      "date": "2026-07-27T12:43:20",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "En visite au Liban, le chef des droits de l'homme de l'ONU réclame justice pour les victimes du conflit",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159224",
+      "desc": "Le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, a appelé lundi à rendre justice aux victimes des violences au Liban, dénonçant des violations à grande échelle du droit international humanitaire qui pourraient constituer des crimes de guerre.&nbsp;",
+      "date": "2026-07-27T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ebola en RDC : en un peu plus de deux mois, l'épidémie frôle le bilan record de 2018-2020",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159223",
+      "desc": "L'épidémie d'Ebola due à la souche Bundibugyo en République démocratique du Congo (RDC) a désormais franchi le seuil des 3.200 cas et des 1.400 décès, selon les derniers chiffres des autorités sanitaires congolaises, relayés par l'Organisation mondiale de la Santé (OMS). Elle se rapproche ainsi de l",
+      "date": "2026-07-27T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ukraine : à mesure que la guerre s’intensifie, les civils – et le monde – en paient le prix",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159222",
+      "desc": "L'été devait offrir à l'Ukraine une fenêtre pour réparer les dégâts laissés par un quatrième hiver de bombardements contre ses infrastructures énergétiques. Il est au contraire marqué par une nouvelle intensification des frappes russes.",
+      "date": "2026-07-27T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Au Soudan, des mères marchent des kilomètres pour sauver leurs enfants de la malnutrition",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159221",
+      "desc": "Au Kordofan du Sud, dans le centre du Soudan, les enfants arrivent toujours plus nombreux dans les centres de santé. Ils fuient les combats, la faim et l’effondrement d’un système de soins déjà exsangue. Pour l’Unicef, cet afflux révèle l’immensité des besoins dans une région où la guerre civile con",
+      "date": "2026-07-27T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "La junte militaire au Niger à l'heure du bilan, trois ans après sa prise du pouvoir",
+      "link": "https://www.bbc.com/afrique/articles/cewrkgdee4zo?at_medium=RSS&at_campaign=rss",
+      "desc": "Il y a trois ans, jour pour jour, les militaires s'emparaient du pouvoir au Niger. Le nouvel homme fort du pays promet une transition ''n'excédant pas trois ans'' et un changement de cap dans la lutte contre les groupes armés.",
+      "date": "2026-07-27T11:40:32",
       "source": "BBC Afrique"
     },
     {
@@ -71,41 +106,6 @@
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159220",
       "desc": "Au carrefour des civilisations depuis des siècles, la Syrie se trouve aujourd'hui à un tournant de son histoire.",
       "date": "2026-07-26T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les pêcheurs africains qui accusent les chalutiers chinois d'être responsables de leurs malheurs",
-      "link": "https://www.bbc.com/afrique/articles/ce8l56k56zyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des équipages de pêche en Sierra Leone affirment que de grands navires chinois pillent illégalement les stocks de poissons.",
-      "date": "2026-07-26T09:14:03",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Les enfants ont besoin de paix » : Sasha Paskal, jeune gymnaste ukrainienne amputée",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159219",
-      "desc": "À seulement 10 ans, Sasha Paskal est devenue un symbole de résilience. Grièvement blessée lors d'une attaque en Ukraine en 2022, la jeune gymnaste a perdu une jambe. Après une longue rééducation, elle a repris l'entraînement et concourt aujourd'hui avec une prothèse. Cette semaine, elle s'est produi",
-      "date": "2026-07-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Le Procureur de la Cour pénale internationale Karim Khan révoqué",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159218",
-      "desc": "Les États parties à la Cour pénale internationale (CPI) ont révoqué vendredi son Procureur Karim Khan, à l'issue d'une procédure disciplinaire liée à des allégations d'inconduite sexuelle largement relayées dans les médias, lors d'une session extraordinaire tenue au Siège des Nations Unies à New Yor",
-      "date": "2026-07-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "À Damas, Guterres salue un « moment de possibilités » pour l'avenir de la Syrie",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159217",
-      "desc": "La Syrie se trouve à un « moment de possibilités » qui pourrait lui permettre de bâtir un avenir « plus stable, plus inclusif et plus prospère », a déclaré samedi à Damas le Secrétaire général de l'ONU, António Guterres, appelant la communauté internationale à soutenir le redressement du pays après ",
-      "date": "2026-07-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Débat au Conseil de sécurité : la bataille des minéraux critiques inquiète l'ONU",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159216",
-      "desc": "Le monde n'a jamais eu autant besoin de minéraux critiques. Lithium, cobalt, cuivre, nickel ou terres rares sont indispensables aux véhicules électriques, aux éoliennes, aux panneaux solaires, aux batteries et à de nombreuses technologies numériques.",
-      "date": "2026-07-24T12:00:00",
       "source": "ONU Info"
     }
   ]
