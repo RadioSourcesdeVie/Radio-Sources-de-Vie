@@ -1,69 +1,97 @@
 {
   "category": "monde",
   "date": "2026-07-28",
-  "updated": "2026-07-28T10:00:16.218240Z",
+  "updated": "2026-07-28T19:00:15.512123Z",
   "articles": [
     {
-      "title": "Football : l'incroyable parcours de Zinedine Zidane",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-football-l-incroyable-parcours-de-zinedine-zidane",
-      "desc": "Sans surprise, mais après des mois d'attente, la Fédération française de football a officialisé ce mardi 28 juillet le nom de son prochain sélectionneur : Zinedine Zidane. Retour sur le parcours de celui que toute une nation surnomme \"Zizou\", du sacre de 1998 à sa carrière d'entraîneur au Real Madri",
-      "date": "2026-07-28T09:05:05",
+      "title": "Le Ghana pleure son homme le plus grand de taille – un « géant généreux et populaire »",
+      "link": "https://www.bbc.com/afrique/articles/cx2rjd8v41vo?at_medium=RSS&at_campaign=rss",
+      "desc": "Sulemana Abdul Samed, chez qui un gigantisme avait été diagnostiqué il y a plusieurs années, est décédé à l'âge de 33 ans.",
+      "date": "2026-07-28T18:31:54",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Incendies en Gironde : chaîne de solidarité pour les animaux",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-incendies-en-gironde-cha%C3%AEne-de-solidarit%C3%A9-pour-les-animaux",
+      "desc": "Face aux évacuations massives dans le sud-ouest de la France, la solidarité s'organise aussi pour les animaux. Éleveurs et bénévoles se mobilisent pour accueillir les compagnons des habitants contraints de fuir et secourir ceux restés sur place.",
+      "date": "2026-07-28T17:25:55",
       "source": "France 24"
     },
     {
-      "title": "Fin du faux suspense : Zinedine Zidane est bien le nouveau sélectionneur des Bleus",
-      "link": "https://www.france24.com/fr/sports/20260728-zidane-et-les-bleus-une-histoire-d-amour-qui-continue-les-yeux-vers-l-avenir",
-      "desc": "",
-      "date": "2026-07-28T09:01:28",
+      "title": "Japon : un séisme de magnitude 7,1 frappe le pays",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-japon-un-s%C3%A9isme-de-magnitude-7-1-frappe-le-pays",
+      "desc": "Un séisme de magnitude 7,1 a frappé mardi 28 juillet le sud-ouest du Japon faisant au moins un mort et des dizaines de blessés.",
+      "date": "2026-07-28T17:13:41",
       "source": "France 24"
     },
     {
-      "title": "Football : Zidane attendu pour écrire la page de l'après-Deschamps",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-football-zidane-attendu-pour-%C3%A9crire-la-page-de-l-apr%C3%A8s-deschamps",
-      "desc": "Icône du foot français à l'histoire riche en Bleu, Zinédine Zidane devrait être nommé mardi sélectionneur de l'équipe de France, l'accomplissement attendu d'une carrière d'entraîneur déjà impressionnante, mais où il aura la lourde tâche de succéder à son ancien coéquipier Didier Deschamps.",
-      "date": "2026-07-28T08:47:22",
+      "title": "Bénin : les masques ancestraux à l’honneur à Porto-Novo",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260728-b%C3%A9nin-les-masques-ancestraux-%C3%A0-l-honneur-%C3%A0-porto-novo",
+      "desc": "Le Bénin célèbre son patrimoine à travers le Festival des masques de Porto-Novo, un événement qui rassemble traditions, culture et spiritualité. Le pays ambitionne d'en faire un rendez-vous incontournable à l'échelle mondiale.",
+      "date": "2026-07-28T17:04:01",
       "source": "France 24"
     },
     {
-      "title": "Mégafeux : les start-up dopées à l'IA à l'assaut des incendies",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260728-m%C3%A9ga-feux-les-start-up-dop%C3%A9es-%C3%A0-l-ia-%C3%A0-l-assaut-des-incendies",
-      "desc": "Face à la multiplication des mégafeux, une nouvelle industrie est en train d'émerger. Caméras intelligentes, capteurs, drones et satellites promettent de détecter un départ d'incendie avant qu'il ne devienne incontrôlable. Un marché estimé à un milliard de dollars qui pourrait être multiplié par 2,5",
-      "date": "2026-07-28T08:28:15",
+      "title": "Les États-Unis en manque d'armes ? Pourquoi l'armée s'inquiète",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260728-les-%C3%A9tats-unis-en-manque-d-armes-pourquoi-l-arm%C3%A9e-s-inqui%C3%A8te",
+      "desc": "De nouvelles estimations relayées par la presse américaine lundi, encore démenties par Washington, montrent que l'armée américaine a considérablement entamé ses stocks de missiles, défensifs comme offensifs, dans sa guerre contre l'Iran. Quels enjeux pour les États-Unis et leurs partenaires militair",
+      "date": "2026-07-28T16:37:47",
       "source": "France 24"
+    },
+    {
+      "title": "Chats, chiens, chevaux :  le sauvetage des autres victimes des incendies en Gironde",
+      "link": "https://www.france24.com/fr/france/20260728-chats-chiens-chevaux-le-sauvetage-des-autres-victimes-des-incendies-en-gironde",
+      "desc": "Face à la panique des évacuations liées au méga feu en Gironde, de nombreux animaux de compagnie ont été laissés, livrés à eux-mêmes. D'autres, emmenés dans la précipitation par leurs maîtres désormais sans logement, ont besoin d'un abri. Pour leur venir en aide, un vaste réseau de solidarité s'est ",
+      "date": "2026-07-28T16:29:56",
+      "source": "France 24"
+    },
+    {
+      "title": "Pourquoi se réveille-t-on souvent à 3 heures du matin ? Les explications de la science",
+      "link": "https://www.bbc.com/afrique/articles/cn7nv581jd7o?at_medium=RSS&at_campaign=rss",
+      "desc": "Si le réveil à 3 h du matin est un sujet récurrent, les spécialistes du sommeil affirment que bouger au milieu de la nuit n’a rien d’inhabituel. Le sommeil se déroule selon un cycle récurrent d'environ 90 minutes, alternant sommeil léger et sommeil profond. Au cours d'une nuit, les adultes en bonne ",
+      "date": "2026-07-28T16:15:07",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "9 types de personnes qui procrastinent et comment y remédier maintenant (et non plus tard)",
+      "link": "https://www.bbc.com/afrique/articles/cwymjmpx2pko?at_medium=RSS&at_campaign=rss",
+      "desc": "Il existe neuf types de personnes qui procrastinent ou remettent des tâches à plus tard. Savoir dans quelle catégorie — ou quelles catégories — nous nous situons peut, selon les chercheurs, révéler quelque chose de plus profond à notre sujet.",
+      "date": "2026-07-28T14:14:22",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Réfugiés : 75 ans après, la promesse vacille",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159231",
+      "desc": "Soixante-quinze ans après l'adoption de la Convention de 1951 relative au statut des réfugiés, le Secrétaire général de l'ONU, António Guterres, a exhorté les États à renouveler leur engagement en faveur du droit d'asile, estimant que cette promesse historique est aujourd'hui « mise à rude épreuve »",
+      "date": "2026-07-28T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Cisjordanie, Gaza : l’ONU voit s’éloigner la paix à mesure que le conflit change de visage",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159230",
+      "desc": "Pendant que Gaza tente péniblement de sortir des ruines, la Cisjordanie s’embrase. L’une reste un territoire dévasté où l’aide humanitaire maintient une population sous perfusion. L’autre glisse vers une violence que les Nations Unies jugent susceptible de faire basculer l’ensemble du conflit. Entre",
+      "date": "2026-07-28T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Cyberesclavage : ces fausses offres d'emploi qui transforment leurs victimes en escrocs",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159229",
+      "desc": "Une offre d’emploi publiée sur les réseaux sociaux. Un billet d’avion pour un poste prometteur à l’étranger. Puis, une fois arrivé, le piège se referme. Passeport confisqué, enfermement, violences et menaces : nombreuses sont aujourd’hui ces nouvelles victimes de la traite, contraintes de participer",
+      "date": "2026-07-28T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Cinq accusations portées par le président du Niger contre la France et les pays voisins",
+      "link": "https://www.bbc.com/afrique/articles/cgewgdz9v4yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Lors d'une interview accordée à des journalistes à l'occasion du troisième anniversaire de son accession au pouvoir, le général Tiani a déclaré que la France était à l'origine de la plupart des actes terroristes commis dans le pays.",
+      "date": "2026-07-28T10:25:13",
+      "source": "BBC Afrique"
     },
     {
       "title": "« Tout le monde sur la plage regarde les missiles dans le ciel » : le contraste d'Odessa, la station balnéaire de luxe ukrainienne où les touristes cohabitent avec les bombardements quotidiens",
       "link": "https://www.bbc.com/afrique/articles/cd7lg32xl7xo?at_medium=RSS&at_campaign=rss",
       "desc": "Dans cette ville surnommée la « perle de la mer Noire », les plages et les restaurants sont bondés de touristes, alors même que chaque jour, des personnes y trouvent la mort à cause des bombardements russes.",
       "date": "2026-07-28T08:19:41",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Zidane et les Bleus : une histoire d’amour qui continue, les yeux vers l'avenir",
-      "link": "https://www.france24.com/fr/sports/20260728-zidane-et-les-bleus-une-histoire-d-amour-qui-continue-les-yeux-vers-l-avenir",
-      "desc": "Après des années d'attente et sans surprise, Zinedine Zidane a été nommé mardi sélectionneur des Bleus, mardi, pour prendre la relève de Didier Deschamps. Entre Zizou et l'équipe de France, c'est une histoire faite principalement de joies depuis 1994, et encore inachevée, qui se poursuit. Portrait d",
-      "date": "2026-07-28T07:54:05",
-      "source": "France 24"
-    },
-    {
-      "title": "Les 10 pays avec les taux de divorce les plus bas au monde",
-      "link": "https://www.bbc.com/afrique/articles/cgewn3n81lqo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le taux de divorce brut mondial (nombre de divorces pour 1 000 habitants par an) se situe aujourd'hui autour de 1,7 à 1,8. Mais certains pays affichent des chiffres bien en dessous de cette moyenne, parfois proches de zéro, avec l’Inde, le Sri Lanka et le Vietnam qui occupent les trois premières pla",
-      "date": "2026-07-27T16:34:41",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Comment les cartels de la drogue mexicains ont délocalisé leurs laboratoires de méthamphétamine au Nigeria",
-      "link": "https://www.bbc.com/afrique/articles/c4gvell3w83o?at_medium=RSS&at_campaign=rss",
-      "desc": "L’Afrique de l’Ouest devient de plus en plus attrayante pour ceux qui veulent fabriquer et exporter des drogues illicites.",
-      "date": "2026-07-27T16:31:37",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Ce n'est pas qu'un simple désagrément » : nous avons sous-estimé l'impact des règles abondantes sur la santé",
-      "link": "https://www.bbc.com/afrique/articles/cy74xlg8ky0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les règles abondantes, longtemps considérées comme un simple désagrément, peuvent avoir des conséquences beaucoup plus importantes sur la santé qu'on ne le pensait.",
-      "date": "2026-07-27T15:00:38",
       "source": "BBC Afrique"
     },
     {
@@ -79,34 +107,6 @@
       "desc": "Face à une multiplication des conflits armés et aux effets du changement climatique, l’UNESCO a décidé d’inscrire six nouveaux sites sur la Liste du patrimoine mondial en péril, dont trois selon une procédure d’urgence.",
       "date": "2026-07-27T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "VIH : la riposte mondiale vacille au moment où la science promettait de changer la donne",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159225",
-      "desc": "Alors que la recherche offre des moyens de prévention d’une efficacité inédite, les coupes dans l’aide internationale et le recul des droits humains menacent de relancer une épidémie que le monde espérait enfin maîtriser.",
-      "date": "2026-07-27T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "En visite au Liban, le chef des droits de l'homme de l'ONU réclame justice pour les victimes du conflit",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159224",
-      "desc": "Le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, a appelé lundi à rendre justice aux victimes des violences au Liban, dénonçant des violations à grande échelle du droit international humanitaire qui pourraient constituer des crimes de guerre.&nbsp;",
-      "date": "2026-07-27T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola en RDC : en un peu plus de deux mois, l'épidémie frôle le bilan record de 2018-2020",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159223",
-      "desc": "L'épidémie d'Ebola due à la souche Bundibugyo en République démocratique du Congo (RDC) a désormais franchi le seuil des 3.200 cas et des 1.400 décès, selon les derniers chiffres des autorités sanitaires congolaises, relayés par l'Organisation mondiale de la Santé (OMS). Elle se rapproche ainsi de l",
-      "date": "2026-07-27T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "La junte militaire au Niger à l'heure du bilan, trois ans après sa prise du pouvoir",
-      "link": "https://www.bbc.com/afrique/articles/cewrkgdee4zo?at_medium=RSS&at_campaign=rss",
-      "desc": "Il y a trois ans, jour pour jour, les militaires s'emparaient du pouvoir au Niger. Le nouvel homme fort du pays promet une transition ''n'excédant pas trois ans'' et un changement de cap dans la lutte contre les groupes armés.",
-      "date": "2026-07-27T11:40:32",
-      "source": "BBC Afrique"
     }
   ]
 }
