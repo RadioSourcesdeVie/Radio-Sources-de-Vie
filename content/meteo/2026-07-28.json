@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-28",
+  "title": "Météo du 28 juillet 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 25.03,
+    "feels_like": 25.42,
+    "humidity": 70,
+    "description": "Légère pluie",
+    "wind_kmh": 7.2
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 31.84,
+    "feels_like": 35.58,
+    "humidity": 56,
+    "description": "Légère pluie",
+    "wind_kmh": 18.1
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 28 juillet 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Légère pluie. À Port-au-Prince: 32 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+}
