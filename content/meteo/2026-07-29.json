@@ -1,5 +1,6 @@
 {
-  "updated": "2026-07-29T21:00:03.542564Z",
+  "date": "2026-07-29",
+  "title": "Météo du 29 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 21.18,
@@ -15,5 +16,6 @@
     "humidity": 45,
     "description": "Nuageux",
     "wind_kmh": 5.5
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 29 juillet 2026 sur Radio Sources de Vie. À Ottawa: 21 degrés Celsius. Couvert. À Port-au-Prince: 34 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
