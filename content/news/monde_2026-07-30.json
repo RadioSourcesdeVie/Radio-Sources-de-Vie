@@ -1,42 +1,105 @@
 {
   "category": "monde",
   "date": "2026-07-30",
-  "updated": "2026-07-30T10:00:18.700322Z",
+  "updated": "2026-07-30T19:00:16.056206Z",
   "articles": [
     {
-      "title": "Séisme au Japon : ce que nous savons",
-      "link": "https://www.bbc.com/afrique/articles/cd69gq4dpwyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le Japon, sous le choc après un important séisme sur l'île de Kyushu. Le bilan s'élève désormais à 34 morts, tandis que les personnes évacuées sont confrontées à une chaleur accablante.",
-      "date": "2026-07-30T09:52:36",
+      "title": "🔴 \"Urgence humanitaire\" à Ceuta après l'arrivée massive de migrants, l'armée envoyée en renfort",
+      "link": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
+      "desc": "",
+      "date": "2026-07-30T18:32:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Le Bénin installe officiellement le Sénat, une nouvelle chambre du Parlement",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-le-b%C3%A9nin-installe-officiellement-le-s%C3%A9nat-une-nouvelle-chambre-du-parlement",
+      "desc": "Le Bénin a officiellement installé son Sénat, nouvelle chambre du Parlement issue de la révision constitutionnelle de 2025, ce jeudi. La cérémonie a été marquée par la présence côte à côte des anciens présidents Patrice Talon et Boni Yayi. Cette nouvelle institutions a pour mission de réguler la vie",
+      "date": "2026-07-30T18:25:57",
+      "source": "France 24"
+    },
+    {
+      "title": "Mali : 35 ans après la conférence nationale, où en est le pays ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-mali-35-ans-apr%C3%A8s-la-conf%C3%A9rence-nationale-o%C3%B9-en-est-le-pays",
+      "desc": "Le 29 juillet 1991, le Mali ouvrait sa Conférence nationale après des décennies de dictature sous Moussa Traoré. Une constitution, un multipartisme et une promesse démocratique saluée dans tout le continent. 35 ans plus tard, les partis politiques sont dissous et les opposants emprisonnés. Que reste",
+      "date": "2026-07-30T17:59:11",
+      "source": "France 24"
+    },
+    {
+      "title": "Trois choses à savoir sur le Magal de Touba qui mobilise des millions de fidèles au Sénégal",
+      "link": "https://www.bbc.com/afrique/articles/c78g4r8ek3go?at_medium=RSS&at_campaign=rss",
+      "desc": "Le grand Magal de Touba, prévu le dimanche 2 août 2026, est l'un des plus grands rassemblements religieux au monde, qui réunit chaque année plusieurs millions de fidèles au Sénégal et dans la diaspora mouride. Il commémore le départ en exil de Cheikh Ahmadou Bamba, le fondateur du mouridisme, exilé ",
+      "date": "2026-07-30T17:50:11",
       "source": "BBC Afrique"
     },
     {
-      "title": "Au Sénégal, ces hommes pratiquent la chasse pour faire tomber la pluie",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-au-s%C3%A9n%C3%A9gal-ces-hommes-pratiquent-la-chasse-pour-faire-tomber-la-pluie",
-      "desc": "Chaque année à la même période, des centaines d'hommes participent à la chasse de Diobaye dans les plaines de l'ouest du Sénégal. Selon cette tradition multiséculaire vieille de sept cents ans, l'abattage d'un animal permettrait de faire venir la saison des pluies dans le pays.",
-      "date": "2026-07-30T09:47:36",
+      "title": "\"Urgence humanitaire\" à Ceuta après l'arrivée massive de migrants, l'armée envoyée en renfort",
+      "link": "https://www.france24.com/fr/europe/20260730-urgence-humanitaire-%C3%A0-ceuta-apr%C3%A8s-l-arriv%C3%A9e-massive-de-migrants-l-arm%C3%A9e-envoy%C3%A9e-en-renfort",
+      "desc": "Plusieurs centaines de personnes sont entrées illégalement jeudi dans l'enclave espagnole de Ceuta depuis le Maroc, venant s'ajouter aux plus de 1 500 arrivées \"ces derniers jours\" selon les autorités régionales. Le ‌ministère de l'Intérieur a annoncé en début de soirée que 60 soldats allaient être ",
+      "date": "2026-07-30T17:45:13",
       "source": "France 24"
     },
     {
-      "title": "CAN féminine : deux Lionnes camerounaises du FC Fleury à suivre",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-can-f%C3%A9minine-deux-lionnes-camerounaises-du-fc-fleury-%C3%A0-suivre",
-      "desc": "Ce mercredi 29 juillet, le Cameroun affronte le Mali pour son premier match de la CAN féminine 2026. Parmi les effectifs des Lionnes Indomptables, deux joueuses évoluent en France, au FC Fleury. Nos journalistes Selina Sykes, Romain Houeix et Antoine Besse sont allés les rencontrer",
-      "date": "2026-07-30T08:47:18",
+      "title": "La France n’a pas refusé de faire appel à un bombardier d’eau russe par russophobie",
+      "link": "https://www.france24.com/fr/france/20260730-france-pas-refus%C3%A9-de-faire-appel-%C3%A0-bombardier-d-eau-russe-par-russophobie",
+      "desc": "Alors que la flotte de Canadairs française connaît des problèmes d’indisponibilité, de nombreux internautes affirment qu’Emmanuel Macron aurait refusé d’employer un bombardier d’eau russe, le Beriev Be-200, pour des raisons idéologiques. C’est inexact : l'appareil a été rejeté car il ne correspondai",
+      "date": "2026-07-30T16:37:50",
       "source": "France 24"
     },
     {
-      "title": "Guerre en Ukraine : huit morts dans des bombardements russes",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-guerre-en-ukraine-huit-morts-dans-des-bombardements-russes",
-      "desc": "Six membres d'une famille vivant près de Kryvyï Rig ont été tués, une personne est morte à Kiev et une autre à Poltava, lors de frappes russes dans la nuit de mercredi à jeudi, quelques heures après une mise en garde contre une \"attaque massive\" imminente formulée par le président ukrainien Volodymy",
-      "date": "2026-07-30T08:44:16",
-      "source": "France 24"
+      "title": "Les 10 meilleures villes au monde où il fait bon vivre en 2026",
+      "link": "https://www.bbc.com/afrique/articles/cz05d8311x1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le magazine The Economist analyse différents facteurs dans les villes, notamment la stabilité, la santé, la culture, l'environnement, l'éducation et les infrastructures, avant d'établir le classement qu'il attribuera à chaque ville.",
+      "date": "2026-07-30T16:35:57",
+      "source": "BBC Afrique"
     },
     {
-      "title": "Incendies en Grèce : trois pompiers tués dans des feux de forêt",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-incendies-en-gr%C3%A8ce-trois-pompiers-tu%C3%A9s-dans-des-feux-de-for%C3%AAt",
-      "desc": "Trois pompiers grecs ⁠sont morts en ​luttant contre des feux de forêt en Crète et sur le continent tandis que ​l'Espagne a dit mercredi s'attendre encore à des jours difficiles en matière d'incendies, alimentés, comme en France, par des vents violents et des températures caniculaires sur le sud ​de ",
-      "date": "2026-07-30T08:41:21",
-      "source": "France 24"
+      "title": "Guinée : les victimes du massacre de Zogota optimistes après la décision française",
+      "link": "https://www.bbc.com/afrique/articles/cx2dvlgp2vro?at_medium=RSS&at_campaign=rss",
+      "desc": "À Zogota, en Guinée, où vivent toujours de nombreuses familles des victimes, cette décision est accueillie avec prudence mais aussi avec espoir.",
+      "date": "2026-07-30T14:47:42",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Projet de cession de la Coupe du monde : Infantino va-t-il trop loin ?",
+      "link": "https://www.bbc.com/afrique/articles/c0m78gp3n1no?at_medium=RSS&at_campaign=rss",
+      "desc": "BBC Sport examine les raisons qui poussent le président de la FIFA, Gianni Infantino, à se sentir suffisamment puissant pour vendre des parts dans la Coupe du monde, et quelles pourraient en être les conséquences.",
+      "date": "2026-07-30T13:09:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ukraine : le chef de l’ONU condamne de nouvelles frappes russes meurtrières",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159246",
+      "desc": "Le Secrétaire général de l’ONU, António Guterres, a vivement condamné jeudi les frappes de missiles et de drones menées dans la nuit par les forces armées russes contre Kiev et plusieurs autres villes ukrainiennes, qui auraient fait de nombreuses victimes civiles et provoqué d'importantes destructio",
+      "date": "2026-07-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Inspection du hijab, gifle, arrestation : le quotidien sous le régime taliban",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159243",
+      "desc": "Une femme est interpellée pour avoir fait ses courses seule. Le commerçant qui l'a servie est giflé puis emmené pour être interrogé. Une enseignante est refoulée à l'entrée de sa propre école parce qu'elle ne porte pas le vêtement jugé conforme.",
+      "date": "2026-07-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ouganda : l’ONU dénonce un verrouillage accéléré du pouvoir après les élections",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159245",
+      "desc": "Un opposant arrêté, une organisation suspendue, un média réduit au silence, une nouvelle loi qui resserre un peu plus l’étau. Six mois après les élections générales du 15 janvier en Ouganda, le bureau des droits de l’homme de l’ONU dresse le portrait d’un pays où les espaces de contestation se refer",
+      "date": "2026-07-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Traite des êtres humains : les nouveaux esclaves derrière les escroqueries en ligne",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159244",
+      "desc": "Les chaînes n’ont pas disparu. Elles ont désormais la forme d’une offre d’emploi alléchante, d’un billet d’avion offert, d’un contrat promettant un salaire confortable à l’étranger. Au bout du voyage, pourtant, ni bureau climatisé ni carrière internationale : des sites surveillés, des passeports con",
+      "date": "2026-07-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L’Afrique de l’Ouest et du Centre menacée par une catastrophe alimentaire",
+      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159242",
+      "desc": "Impacts du conflit au Moyen-Orient, recul historique des financements humanitaires, épidémie d’Ebola et période de soudure se conjuguent pour aggraver une crise alimentaire déjà critique en Afrique de l’Ouest et du Centre.",
+      "date": "2026-07-30T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Pourquoi les États-Unis soutiennent-ils le retrait de certains pays de la CPI ?",
@@ -44,69 +107,6 @@
       "desc": "La CPI est depuis longtemps confrontée au départ de certains de ses membres et traverse actuellement une crise dans sa recherche d'un nouveau procureur général, suite au limogeage de Karim Khan.",
       "date": "2026-07-30T08:40:26",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Incendies en Gironde : le maire de Lanton fait le point sur la situation",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260730-incendies-en-gironde-le-maire-de-lanton-fait-le-point-sur-la-situation",
-      "desc": "Malgré les fortes chaleurs, le mégafeu qui a ravagé 42.000 hectares en Gironde n'a pas progressé mercredi, pour la troisième journée consécutive. Une stabilisation qui nourrit l'optimisme des autorités, lesquelles envisagent un retour progressif à une vie plus normale pour les quelque 200.000 person",
-      "date": "2026-07-30T08:37:19",
-      "source": "France 24"
-    },
-    {
-      "title": "Pourquoi les hommes et les femmes ont-ils des voix différentes ?",
-      "link": "https://www.bbc.com/afrique/articles/c9v4y4k7p80o?at_medium=RSS&at_campaign=rss",
-      "desc": "Pour comprendre pourquoi les hommes et les femmes ont des voix différentes, il faut d'abord examiner le moteur principal de la voix : le larynx - ou boîte vocale -et les cordes vocales qui s'y trouvent.",
-      "date": "2026-07-29T16:45:32",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "\"Mon application de fitness savait que j'étais enceinte avant même que je le sache\"",
-      "link": "https://www.bbc.com/afrique/articles/cd7ldz8zj2do?at_medium=RSS&at_campaign=rss",
-      "desc": "Ravika fait partie des centaines de femmes qui ont remarqué des signes précoces de grossesse dans leurs applications de suivi de forme physique.",
-      "date": "2026-07-29T14:27:29",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La célèbre prison camerounaise qui possède son propre label musical",
-      "link": "https://www.bbc.com/afrique/articles/cx2vy95vk87o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les détenus de New Bell sont devenus de véritables mini-stars, enregistrant des chansons et des clips vidéo depuis l'enceinte de la prison.",
-      "date": "2026-07-29T12:07:45",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Haïti : les violences sexuelles s'intensifient à un rythme alarmant",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159240",
-      "desc": "Les violences sexuelles contre les femmes et les filles s'intensifient à un rythme alarmant en Haïti. Plus de 5.500 cas de violences basées sur le genre ont été recensés au premier semestre de 2026, soit près de 70 % du total enregistré durant toute l'année 2025, sur fond d'insécurité persistante et",
-      "date": "2026-07-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "À Chypre, António Guterres tente de relancer le processus de paix",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159239",
-      "desc": "Plus d’un demi-siècle après l’établissement d’une zone tampon separant le nord du sud de Chypre, le chef de l’ONU veut croire qu’un espace existe encore pour le dialogue. En visite mercredi dans la capitale Nicosie, sa première dans l’île depuis son entrée en fonction, António Guterres a annoncé son",
-      "date": "2026-07-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "En RDC, l’écart se creuse entre l’épidémie d’Ebola et la riposte",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159238",
-      "desc": "Cinquante morts en vingt-quatre heures. Dans l’est de la République démocratique du Congo (RDC), l’épidémie d’Ebola accélère à un rythme qui dépasse désormais celui de la réponse sanitaire. Les Nations Unies appellent à une mobilisation immédiate pour éviter que le virus ne prenne définitivement l’a",
-      "date": "2026-07-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Cisjordanie : l'annexion israélienne s'accélère, sur fond de violences croissantes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159236",
-      "desc": "Deux ans après l’avis de la Cour internationale de justice déclarant illégale l’occupation israélienne de la Cisjordanie, la violence des colons et l’annexion de territoires « ne font qu’empirer », a dénoncé mercredi le bureau des droits de l’homme de l’ONU.",
-      "date": "2026-07-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Gaza : l'éprouvant trajet d'un patient sous dialyse jusqu'à l'hôpital… en charrette tirée par un âne",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159234",
-      "desc": "Peu avant le lever du soleil, le Palestinien Fathi Hajji entame un périple éprouvant — qu'il effectue trois fois par semaine — vers l'hôpital Nasser de Khan Younès, dans la bande de Gaza ravagée par la guerre.",
-      "date": "2026-07-29T12:00:00",
-      "source": "ONU Info"
     }
   ]
 }
