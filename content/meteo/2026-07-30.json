@@ -3,19 +3,19 @@
   "title": "Météo du 30 juillet 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 22,
-    "feels_like": 22.71,
-    "humidity": 94,
-    "description": "Couvert",
-    "wind_kmh": 4.2
+    "temp": 26.68,
+    "feels_like": 28.19,
+    "humidity": 68,
+    "description": "Nuageux",
+    "wind_kmh": 7.5
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 35.26,
-    "feels_like": 37.7,
-    "humidity": 40,
-    "description": "Nuageux",
-    "wind_kmh": 5.9
+    "temp": 34.7,
+    "feels_like": 37.56,
+    "humidity": 43,
+    "description": "Légère pluie",
+    "wind_kmh": 5.2
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 30 juillet 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Couvert. À Port-au-Prince: 35 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 30 juillet 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Nuageux. À Port-au-Prince: 35 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
