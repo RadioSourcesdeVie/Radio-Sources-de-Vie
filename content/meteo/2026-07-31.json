@@ -1,0 +1,21 @@
+{
+  "date": "2026-07-31",
+  "title": "Météo du 31 juillet 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 26.68,
+    "feels_like": 28.19,
+    "humidity": 68,
+    "description": "Nuageux",
+    "wind_kmh": 7.5
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 34.7,
+    "feels_like": 37.56,
+    "humidity": 43,
+    "description": "Légère pluie",
+    "wind_kmh": 5.2
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 31 juillet 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Nuageux. À Port-au-Prince: 35 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+}
