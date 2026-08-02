@@ -3,19 +3,19 @@
   "title": "Météo du 2 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 22.16,
-    "feels_like": 22.83,
-    "humidity": 92,
-    "description": "Couvert",
-    "wind_kmh": 12.6
+    "temp": 21.18,
+    "feels_like": 21.83,
+    "humidity": 95,
+    "description": "Forte pluie",
+    "wind_kmh": 6.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 34.76,
-    "feels_like": 37.37,
-    "humidity": 42,
-    "description": "Ciel dégagé",
-    "wind_kmh": 7.2
+    "temp": 33.29,
+    "feels_like": 36.58,
+    "humidity": 49,
+    "description": "Légère pluie",
+    "wind_kmh": 8.4
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 2 août 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Couvert. À Port-au-Prince: 35 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 2 août 2026 sur Radio Sources de Vie. À Ottawa: 21 degrés Celsius. Forte pluie. À Port-au-Prince: 33 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
