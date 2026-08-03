@@ -1,76 +1,83 @@
 {
   "category": "monde",
   "date": "2026-08-03",
-  "updated": "2026-08-03T10:00:16.347788Z",
+  "updated": "2026-08-03T19:00:15.521352Z",
   "articles": [
     {
-      "title": "Incendies dans le Var : situation sous contrôle, mais les sinistrés restent craintifs",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-incendies-dans-le-var-situation-sous-contr%C3%B4le-mais-les-sinistr%C3%A9s-restent-craintifs",
-      "desc": "En France, les feux sont désormais globalement maîtrisés. Dans le Var cependant, les habitants et sinistrés restent méfiants face au risque de reprise des flammes. Reportage de R.Radenac et A.Metais (France 2).",
-      "date": "2026-08-03T09:52:21",
+      "title": "Guinée-Bissau : les médiations de la CEDEAO ont-elles échoué à sortir le pays de l'impasse politique ?",
+      "link": "https://www.bbc.com/afrique/articles/cy9wle9nzplo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des voix s'élèvent pour demander à la CEDEAO de prendre ses responsabilités face à la situation qui prévaut dans le pays depuis le coup d'État du 26 novembre 2025.",
+      "date": "2026-08-03T16:58:25",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "À Paris, \"voler\" sur la Seine avec une planche électrique",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-%C3%A0-paris-voler-sur-la-seine-avec-une-planche-%C3%A9lectrique",
+      "desc": "La base nautique Foil in Paris propose aux amateurs de glisse de \"voler\" sur la Seine, grâce à l'eFoil, une planche de surf électrique.",
+      "date": "2026-08-03T16:49:03",
       "source": "France 24"
     },
     {
-      "title": "Incendies en Grèce : plus de 12 000 hectares ravagés en une semaine",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-incendies-en-gr%C3%A8ce-plus-de-12-000-hectares-ravag%C3%A9s-en-une-semaine",
-      "desc": "En une semaine, plus de 12 000 hectares de forêts et de terres agricoles ont brûlé en Grèce. Le pays traverse ses \"jours les plus difficiles\" a martelé le porte-parole des pompiers. Récit de Matthieu Bellini (France 2).",
-      "date": "2026-08-03T09:48:50",
+      "title": "Mali : le FLA montre des militaires maliens capturés",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-mali-le-fla-montre-des-militaires-maliens-captur%C3%A9s",
+      "desc": "Au Mali, les rebelles indépendantistes du Front de libération de l'Azawad (FLA) ont rendu public des vidéos montrant des militaires maliens prisonniers qu'ils détiennent.\n \nCela intervient dans un contexte précis : plusieurs associations de défense des droits de l'Homme ont accusé l'alliance \"jihadi",
+      "date": "2026-08-03T16:43:02",
       "source": "France 24"
     },
     {
-      "title": "Sahara occidental : une autoroute rebaptisée Trump par Mohammed VI",
-      "link": "https://www.france24.com/fr/afrique/20260803-sahara-occidental-autoroute-rebaptisee-trump-mohammed-vi-maroc-tiznit-dakhla",
-      "desc": "Sur décision du roi Mohammed VI, le Maroc a donné le nom du président américain Donald Trump à une autoroute reliant le sud du pays au territoire disputé du Sahara occidental, revendiqué par les indépendantistes sahraouis, a annoncé l'agence officielle marocaine MAP samedi.",
-      "date": "2026-08-03T09:44:30",
+      "title": "Tour de France Femmes, étape 3 : victorieuse, la Norvégienne Sigrid Haugset prend le maillot jaune",
+      "link": "https://www.france24.com/fr/sports/20260803-tour-de-france-femmes-%C3%A9tape-3-victorieuse-la-norv%C3%A9gienne-sigrid-haugset-prend-le-maillot-jaune",
+      "desc": "La Norvégienne Sigrid Haugset a remporté la troisième étape du Tour de France Femmes lundi à Poligny où elle a endossé le maillot jaune au détriment de la Néerlandaise Lorena Wiebes.",
+      "date": "2026-08-03T16:25:12",
       "source": "France 24"
     },
     {
-      "title": "En Sicile, des vacanciers découvrent près de 700 000 euros en billets sur une plage",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-en-sicile-des-vacanciers-d%C3%A9couvrent-pr%C3%A8s-de-700-000-euros-en-billets-sur-une-plage",
-      "desc": "Sur une plage de Casuzze, en Sicile, des vacanciers ont découvert des sacs contenant d’importantes liasses de billets, échoués après l’intervention des garde-côtes auprès d’un bateau en difficulté. Le montant retrouvé est estimé à près de 700 000 euros, selon les autorités italiennes, qui ont ouvert",
-      "date": "2026-08-03T09:26:48",
+      "title": "Cameroun : les œuvres africaines à l'honneur au 9e Salon international de l'artisanat",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-cameroun-les-%C5%93uvres-africaines-%C3%A0-l-honneur-au-9e-salon-international-de-l-artisanat",
+      "desc": "À Yaoundé, le Salon international de l'artisanat du Cameroun réunit plus de 600 artisans, créateurs, sculpteurs et maroquiniers venus célébrer le savoir-faire africain. Pour cette 9ᵉ édition, la Côte d'Ivoire est le pays invité d'honneur.",
+      "date": "2026-08-03T15:54:21",
       "source": "France 24"
     },
     {
-      "title": "Fifa : le président Infantino poussé vers la sortie ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260803-fifa-le-pr%C3%A9sident-infantino-pouss%C3%A9-vers-la-sortie",
-      "desc": "Gianni Infantino fait face à une contestation grandissante au sein de la Fifa. Après la fronde de l’UEFA et du Concacaf contre son projet d’ouverture du capital lié au Mondial, la pression s’est accentuée sur le président de l’instance, accusé par ces organisations de mauvaise gouvernance et de manq",
-      "date": "2026-08-03T09:23:18",
+      "title": "Politique migratoire : la crise de Ceuta ravive les divisions européennes",
+      "link": "https://www.france24.com/fr/europe/20260803-politique-migratoire-crise-ceuta-ravive-divisions-europ%C3%A9ennes-maroc-fronti%C3%A8res-espace-schengen-union-europ%C3%A9enne",
+      "desc": "Les ministres de l’Intérieur des pays membres de l’Union européenne tiendront mardi une réunion en visioconférence sur la situation à Ceuta, enclave espagnole en Afrique du Nord où plus de 60 000 personnes, selon Madrid, sont entrées illégalement la semaine dernière. Le débat sur la politique migrat",
+      "date": "2026-08-03T15:40:43",
       "source": "France 24"
+    },
+    {
+      "title": "Félix Tshisekedi, 30 jours sur les routes du Congo : les coulisses d'une campagne marathon",
+      "link": "https://www.bbc.com/afrique/articles/cy45j4pw1kxo?at_medium=RSS&at_campaign=rss",
+      "desc": "En trente jours de campagne électorale, le président-candidat a multiplié les déplacements, les meetings et les discours à travers un territoire vaste comme l'Europe de l'Ouest.",
+      "date": "2026-08-03T14:35:41",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Cinq petits symptômes que beaucoup de gens ignorent, mais qui pourraient indiquer une maladie grave",
+      "link": "https://www.bbc.com/afrique/articles/cp8794j304po?at_medium=RSS&at_campaign=rss",
+      "desc": "Les changements corporels apparaissent progressivement et peuvent être attribués à une fatigue normale ou à des variations dans la vie quotidienne. Cependant, ils peuvent constituer un signe avant-coureur d'un problème de santé sous-jacent nécessitant un examen médical.",
+      "date": "2026-08-03T12:29:30",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Piégée par une offre d’emploi sur Facebook, elle échappe à ses ravisseurs grâce à une inconnue",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159255",
+      "desc": "La séquence avait des allures de bénédiction. Une offre d’emploi publiée sur Facebook Marketplace, un billet d’avion payé, un poste garanti à l’arrivée, à Trinité-et-Tobago. Pour Sofia, cette promesse sonnait comme l’opportunité de la dernière chance.",
+      "date": "2026-08-03T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Les six femmes les plus influentes d'Afrique",
+      "link": "https://www.bbc.com/afrique/articles/c4gx0lzl6xyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Selon McKinsey et Lean In, seulement 54 % des entreprises ont fait de l'aide aux employées pour gravir les échelons hiérarchiques une priorité, contre 90 % il y a quatre ans.",
+      "date": "2026-08-03T10:29:26",
+      "source": "BBC Afrique"
     },
     {
       "title": "Pourquoi une guerre limitée contre les États-Unis pourrait mieux convenir à l'Iran que la paix",
       "link": "https://www.bbc.com/afrique/articles/c9807366g9lo?at_medium=RSS&at_campaign=rss",
       "desc": "L'Iran pourrait penser qu'il est en mesure de gérer ce conflit avec suffisamment de prudence pour maintenir la pression sur les États-Unis tout en évitant une guerre totale.",
       "date": "2026-08-03T08:18:07",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Nous avons traversé l'Atlantique dans deux voitures flottantes pour réaliser le rêve de mon père mourant",
-      "link": "https://www.bbc.com/afrique/articles/c5yv6dd4w9no?at_medium=RSS&at_campaign=rss",
-      "desc": "Deux jeunes Italiens ont tenté de traverser l'Atlantique dans des voitures flottantes par amour pour leur père mourant.",
-      "date": "2026-08-02T15:52:58",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Le pique-nique présidentiel de 1939 qui a donné naissance à la \"relation privilégiée\" entre les États-Unis et le Royaume-Uni",
-      "link": "https://www.bbc.com/afrique/articles/cre4qe00y01o?at_medium=RSS&at_campaign=rss",
-      "desc": "Alors que les nazis progressaient en Europe, le président Roosevelt invita le roi George VI et son épouse à se rendre dans sa résidence de campagne. C'était la première fois qu'un monarque britannique posait le pied sur le sol américain. Autour de hot-dogs et de bières, les conversations qui s'y son",
-      "date": "2026-08-02T13:51:15",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Musclés et forts – mais pourquoi certains culturistes meurent-ils jeunes ?",
-      "link": "https://www.bbc.com/afrique/articles/clyem20vr4ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Une série de décès parmi de jeunes culturistes brésiliens bien connus a remis sur le devant de la scène les dangers de l'utilisation des stéroïdes.",
-      "date": "2026-08-02T11:32:56",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ces 10 explorateurs européens qui ont redessiné la carte de l'Afrique",
-      "link": "https://www.bbc.com/afrique/articles/cedjgj20zyqo?at_medium=RSS&at_campaign=rss",
-      "desc": "Du Niger au Congo, du Sahara aux Grands Lacs, ces dix explorateurs européens ont parcouru des milliers de kilomètres à travers l'Afrique entre la fin du XVIIIᵉ et le XIXᵉ siècle. Leurs expéditions ont permis de cartographier des régions encore peu connues des Européens, de mieux comprendre les grand",
-      "date": "2026-08-02T08:53:07",
       "source": "BBC Afrique"
     },
     {
@@ -99,13 +106,6 @@
       "link": "https://news.un.org/feed/view/fr/story/2026/07/1159248",
       "desc": "Des inondations en Afrique orientale, une sécheresse persistante en Afrique australe. Le retour du phénomène climatique El Niño pourrait bouleverser le quotidien de millions de personnes. L’ONU tente de mettre à profit les mois de préavis offerts par les prévisions climatiques pour limiter les dégât",
       "date": "2026-07-31T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : le chef de l’ONU condamne de nouvelles frappes russes meurtrières",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159246",
-      "desc": "Le Secrétaire général de l’ONU, António Guterres, a vivement condamné jeudi les frappes de missiles et de drones menées dans la nuit par les forces armées russes contre Kiev et plusieurs autres villes ukrainiennes, qui auraient fait de nombreuses victimes civiles et provoqué d'importantes destructio",
-      "date": "2026-07-30T12:00:00",
       "source": "ONU Info"
     }
   ]
