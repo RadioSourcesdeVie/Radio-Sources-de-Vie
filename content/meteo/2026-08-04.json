@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-04",
+  "title": "Météo du 4 août 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 25.27,
+    "feels_like": 25.45,
+    "humidity": 61,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 8.1
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 32.9,
+    "feels_like": 36.09,
+    "humidity": 50,
+    "description": "Nuageux",
+    "wind_kmh": 9.2
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 4 août 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 33 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+}
