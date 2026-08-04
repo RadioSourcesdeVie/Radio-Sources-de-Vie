@@ -1,42 +1,91 @@
 {
   "category": "monde",
   "date": "2026-08-04",
-  "updated": "2026-08-04T10:00:14.454246Z",
+  "updated": "2026-08-04T19:00:15.363548Z",
   "articles": [
     {
-      "title": "Le Rhin et le Danube au plus bas : la sécheresse menace l'industrie européenne",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260804-le-rhin-et-le-danube-au-plus-bas-la-s%C3%A9cheresse-menace-l-industrie-europ%C3%A9enne",
-      "desc": "Le niveau du Rhin atteint des records historiques de faiblesse. Sur cette voie navigable essentielle pour l'économie européenne, les péniches naviguent à charge réduite, renchérissant le transport des matières premières et faisant peser une nouvelle menace sur l'industrie allemande. Explications.",
-      "date": "2026-08-04T09:50:46",
+      "title": "Énergie : pourquoi le nucléaire n'est pas épargné par le dérèglement climatique",
+      "link": "https://www.france24.com/fr/plan%C3%A8te/20260804-%C3%A9nergie-pourquoi-nucl%C3%A9aire-n-est-pas-%C3%A9pargn%C3%A9-d%C3%A9r%C3%A8glement-climatique",
+      "desc": "La sécheresse qui sévit sur une partie de l'Europe fragilise de nouveau la production électrique des centrales nucléaires installées au bord des cours d'eau, dont le volume se raréfie. Plusieurs réacteurs viennent d'être mis à l'arrêt en Europe de l'Est et en France. Explications.",
+      "date": "2026-08-04T17:41:35",
       "source": "France 24"
     },
     {
-      "title": "Ceuta : après les tensions, quels enseignements tirés de la crise ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-apr%C3%A8s-les-tensions-quels-enseignements-tir%C3%A9s-de-la-crise",
-      "desc": "\"Une réponse européenne commune\" pour \"renforcer les frontières\" : voici la demande d'Ursula von der Leyen après la crise migratoire de Ceuta. Dans une missive adressée à Pedro Sanchez, la présidente de la Commission européenne remercie Madrid pour sa gestion de l'afflux de migrants. Le tout, à la v",
-      "date": "2026-08-04T09:41:17",
+      "title": "\"Nous étions stupéfaits\" : ce qu'un requin qui a vécu 400 ans peut nous apprendre sur la longévité",
+      "link": "https://www.bbc.com/afrique/articles/czdmn5z0ej4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Certains requins du Groenland vivants auraient pu être contemporains de Shakespeare. Avec un cœur marqué par les cicatrices et battant depuis des siècles, et une vue qui ne se détériore pas, ce requin des profondeurs défie le déclin de l'âge.",
+      "date": "2026-08-04T17:25:50",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Tour de France Femmes : la Suissesse Reusser remporte le contre-la-montre, Ferrand-Prévot distancée",
+      "link": "https://www.france24.com/fr/sports/20260804-tour-de-france-femmes-suissesse-reusser-remporte-contre-la-montre-ferrand-pr%C3%A9vot-distanc%C3%A9e",
+      "desc": "La ​Suissesse Marlen Reusser (Movistar) a remporté mardi le ​contre-la-montre en Côte-d'Or entre Gevrey-Chambertin et Dijon lors de la quatrième étape du Tour de France Femmes, ​s'emparant ‌par la même occasion du ⁠maillot jaune, tandis que Pauline Ferrand-Prévot (Visma Lease a Bike) a ‌perdu du tem",
+      "date": "2026-08-04T16:37:56",
       "source": "France 24"
     },
     {
-      "title": "Ceuta : plus de 2 500 migrants toujours sur place, ils témoignent de leur précarité",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-plus-de-2-500-migrants-toujours-sur-place-ils-t%C3%A9moignent-de-leur-pr%C3%A9carit%C3%A9",
-      "desc": "Selon de premiers témoignages et selon plusieurs experts, un allègement des contrôles marocains dans la zone frontalière de Ceuta a favorisé la crise migratoire sans précédent qu'a connue l'enclave espagnole la semaine dernière. Ils étaient 50 000 à franchir illégalement la frontière et selon Madrid",
-      "date": "2026-08-04T09:10:58",
+      "title": "Ceuta : l'espace Schengen pas \"compromis\" pendant la crise migratoire assure Madrid",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-ceuta-l-espace-schengen-pas-compromis-pendant-la-crise-migratoire-assure-madrid",
+      "desc": "Malgré l’entrée illégale d’au moins 72 000 migrants à Ceuta, l’espace Schengen n'a pas été \"compromis\", selon le ministre espagnol de l’Intérieur Fernando Grande-Marlaska. La quasi-totalité des migrants, soit près de 70 000 personnes (sur 72 000), ont regagné le Maroc voisin.",
+      "date": "2026-08-04T16:01:52",
       "source": "France 24"
     },
     {
-      "title": "En Europe, plusieurs centrales nucléaires à l'arrêt face aux canicules",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-en-europe-plusieurs-centrales-nucl%C3%A9aires-%C3%A0-l-arr%C3%AAt-face-aux-canicules",
-      "desc": "Le niveau historiquement bas du Danube à cause de la sècheresse contraint les centrales hydroélectriques à baisser nettement leur production. Récit de Julien Dubois et Noémie Roche.",
-      "date": "2026-08-04T09:08:25",
+      "title": "Liberia : une douzaine de hauts responsables limogés après des saisies record de cocaïne",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-liberia-une-douzaine-de-hauts-responsables-limog%C3%A9s-apr%C3%A8s-des-saisies-record-de-coca%C3%AFne",
+      "desc": "Au Liberia, le président Joseph Boakai a limogé une douzaine de hauts responsables de l'aéroport, de la police et des services de sécurité après des saisies record de cocaïne, estimées à 336 millions de dollars. Une enquête a été ouverte.",
+      "date": "2026-08-04T15:54:13",
       "source": "France 24"
     },
     {
-      "title": "Incendies en France : l'intelligence artificielle vient en aide aux pompiers",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-incendies-en-france-l-intelligence-artificielle-vient-en-aide-aux-pompiers",
-      "desc": "Face aux incendies en France, des caméras assistées par l'intelligence artificielle pourraient permettre d'améliorer l'observation et l'alerte des départs de feux. Reportage France 2.",
-      "date": "2026-08-04T09:05:38",
+      "title": "Le Liban et Israël tiennent à Rome une septième session de discussions",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260804-le-liban-et-isra%C3%ABl-tiennent-%C3%A0-rome-une-septi%C3%A8me-session-de-discussions",
+      "desc": "Le Liban a entamé ce mardi une nouvelle session de pourparlers avec Israël à Rome, sous parrainage américain. Washington dit œuvrer pour des retraits des forces israéliennes du sud du Liban. Les explications avec Jules Boiteau.",
+      "date": "2026-08-04T15:29:25",
       "source": "France 24"
+    },
+    {
+      "title": "Elle hypothèque sa fortune pour sauver des vies",
+      "link": "https://www.bbc.com/afrique/articles/c9w0d194vwlo?at_medium=RSS&at_campaign=rss",
+      "desc": "\"J’avais tellement mal en cherchant un hôpital, un médecin et des médicaments pour ma sœur atteinte d’un cancer. C’est à ce moment-là que j’ai décidé qu’un jour je construirais un hôpital spécialisé dans le traitement du cancer\", explique le Dr Catherine Nyongesa.",
+      "date": "2026-08-04T14:46:16",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Barracuda, Manta, Léopard… ces opérations militaires françaises en Afrique qui ont marqué l'histoire",
+      "link": "https://www.bbc.com/afrique/articles/cdrv343426jo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ancienne puissance coloniale, la France a longtemps maintenu une présence militaire en Afrique, nourrissant de nombreuses interrogations sur son influence dans les affaires du continent.",
+      "date": "2026-08-04T12:34:49",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Liban : six ans après l'explosion du port de Beyrouth, la quête de justice reste inachevée",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159263",
+      "desc": "Six ans ont passé. Mais pour les familles des victimes de l'explosion d'un entrepôt où étaient stockées des tonnes de nitrate d'ammonium dans le port de Beyrouth, le temps n'a pas refermé la blessure. L'une des plus puissantes explosions non nucléaires de l'histoire, qui a dévasté une large partie d",
+      "date": "2026-08-04T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Afghanistan : les coupes dans l’aide aggravent la malnutrition infantile",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159261",
+      "desc": "La crise de la malnutrition infantile s’aggrave en Afghanistan au moment où les financements humanitaires s’effondrent. Le Programme alimentaire mondial (PAM) met en garde contre une réduction drastique des programmes nutritionnels alors que les besoins atteignent des niveaux sans précédent, exposan",
+      "date": "2026-08-04T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "En RDC, l’épidémie d’Ebola sans précédent propulse la recherche de nouveaux traitements",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159262",
+      "desc": "La République démocratique du Congo affronte la plus vaste épidémie d’Ebola jamais enregistrée sur son territoire. Alors que la riposte peine encore à freiner la progression du virus Bundibugyo, l’Organisation mondiale de la santé (OMS) et les autorités congolaises accélèrent le lancement d’essais c",
+      "date": "2026-08-04T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Une lettre du roi du Maroc confirme que l'une des principales autoroutes du pays sera baptisée en l'honneur de Trump",
+      "link": "https://www.bbc.com/afrique/articles/c5yr9q34wv3o?at_medium=RSS&at_campaign=rss",
+      "desc": "L'autoroute pénètre au Sahara occidental, un territoire contesté sur lequel le Maroc revendique sa souveraineté.",
+      "date": "2026-08-04T10:17:51",
+      "source": "BBC Afrique"
     },
     {
       "title": "Exécutions en Arabie saoudite : quand des condamnés à mort désespérés appellent la BBC depuis le couloir de la mort",
@@ -46,66 +95,17 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Guinée-Bissau : les médiations de la CEDEAO ont-elles échoué à sortir le pays de l'impasse politique ?",
-      "link": "https://www.bbc.com/afrique/articles/cy9wle9nzplo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des voix s'élèvent pour demander à la CEDEAO de prendre ses responsabilités face à la situation qui prévaut dans le pays depuis le coup d'État du 26 novembre 2025.",
-      "date": "2026-08-03T16:58:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Félix Tshisekedi, 30 jours sur les routes du Congo : les coulisses d'une campagne marathon",
-      "link": "https://www.bbc.com/afrique/articles/cy45j4pw1kxo?at_medium=RSS&at_campaign=rss",
-      "desc": "En trente jours de campagne électorale, le président-candidat a multiplié les déplacements, les meetings et les discours à travers un territoire vaste comme l'Europe de l'Ouest.",
-      "date": "2026-08-03T14:35:41",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Cinq petits symptômes que beaucoup de gens ignorent, mais qui pourraient indiquer une maladie grave",
-      "link": "https://www.bbc.com/afrique/articles/cp8794j304po?at_medium=RSS&at_campaign=rss",
-      "desc": "Les changements corporels apparaissent progressivement et peuvent être attribués à une fatigue normale ou à des variations dans la vie quotidienne. Cependant, ils peuvent constituer un signe avant-coureur d'un problème de santé sous-jacent nécessitant un examen médical.",
-      "date": "2026-08-03T12:29:30",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Piégée par une offre d’emploi sur Facebook, elle échappe à ses ravisseurs grâce à une inconnue",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159255",
-      "desc": "La séquence avait des allures de bénédiction. Une offre d’emploi publiée sur Facebook Marketplace, un billet d’avion payé, un poste garanti à l’arrivée, à Trinité-et-Tobago. Pour Sofia, cette promesse sonnait comme l’opportunité de la dernière chance.",
+      "title": "Gaza : l’ONU dénonce la poursuite de frappes meurtrières",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159259",
+      "desc": "Les Nations Unies ont exprimé lundi leur vive inquiétude face à la poursuite des frappes israéliennes dans la bande de Gaza, qui ont fait des dizaines de morts au cours du week-end, dont des enfants, tout en dénonçant les conséquences croissantes des pénuries de matériel médical.",
       "date": "2026-08-03T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Les six femmes les plus influentes d'Afrique",
-      "link": "https://www.bbc.com/afrique/articles/c4gx0lzl6xyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Selon McKinsey et Lean In, seulement 54 % des entreprises ont fait de l'aide aux employées pour gravir les échelons hiérarchiques une priorité, contre 90 % il y a quatre ans.",
-      "date": "2026-08-03T10:29:26",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Allaitement maternel : des progrès réels, mais des millions de mères manquent encore de soutien",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159252",
-      "desc": "L'allaitement maternel progresse dans le monde, mais les avancées demeurent trop inégales pour atteindre les objectifs mondiaux en la matière.&nbsp;",
-      "date": "2026-07-31T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Moyen-Orient : Guterres alerte contre une guerre aux conséquences mondiales",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159251",
-      "desc": "Le Secrétaire général de l'ONU, António Guterres, a lancé vendredi un appel pressant à mettre fin à l'escalade militaire dans le Golfe persique, estimant que le conflit, qui dure depuis plus de cinq mois, est devenu « un moteur d'instabilité mondiale » dont les répercussions se font désormais sentir",
-      "date": "2026-07-31T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "El Niño : le monde est entré « en terrain inconnu »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159249",
-      "desc": "Il revient tous les deux à sept ans. Mais cette fois-ci, le phénomène climatique El Niño sévit sur une planète dont les océans n’ont jamais été aussi chauds. Alors que de nouvelles prévisions météorologiques font craindre le pire, le chef de l’ONU avertit que le monde est désormais entré « en terrai",
-      "date": "2026-07-31T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "El Niño : pourquoi des millions de vies sont en danger",
-      "link": "https://news.un.org/feed/view/fr/story/2026/07/1159248",
-      "desc": "Des inondations en Afrique orientale, une sécheresse persistante en Afrique australe. Le retour du phénomène climatique El Niño pourrait bouleverser le quotidien de millions de personnes. L’ONU tente de mettre à profit les mois de préavis offerts par les prévisions climatiques pour limiter les dégât",
-      "date": "2026-07-31T12:00:00",
+      "title": "RDC : face à une épidémie d'Ebola qui bat tous les records, la riposte change d'échelle",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159258",
+      "desc": "L’épidémie d’Ebola qui frappe l’est de la République démocratique du Congo (RDC) progresse à un rythme inédit. Pour tenter de combler son retard, la riposte change d’échelle : nouveaux centres de traitement, renforcement de la surveillance, déploiement accru des agences de l'ONU sur le terrain. Malg",
+      "date": "2026-08-03T12:00:00",
       "source": "ONU Info"
     }
   ]
