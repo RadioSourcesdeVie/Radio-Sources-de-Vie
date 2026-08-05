@@ -156,8 +156,24 @@ def slugify(s):
     return s or "sweeper"
 
 
+def clear_radiodj_folder(out_dir):
+    """Vide le dossier RadioDJ (Nouvelles/Radio SDV Sweepers{FR,EN}) avant d'y
+    déposer le nouveau lot — RadioDJ ne doit jamais avoir un mélange d'anciens
+    et de nouveaux sweepers, sinon rotation confuse. L'archive (audio/sweepers)
+    n'est JAMAIS vidée, elle garde tout l'historique."""
+    if not out_dir.exists():
+        return
+    removed = 0
+    for f in out_dir.glob("*.mp3"):
+        f.unlink()
+        removed += 1
+    if removed:
+        print(f"🗑️  {removed} ancien(s) fichier(s) retiré(s) de {out_dir}")
+
+
 def synth_language(sweepers, lang, voice, out_dir, index):
     out_dir.mkdir(parents=True, exist_ok=True)
+    clear_radiodj_folder(out_dir)
     clips = []
     for sw in sweepers:
         slug = slugify(sw.get("slug") or sw["reference"])
