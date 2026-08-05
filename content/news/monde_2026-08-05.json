@@ -1,35 +1,98 @@
 {
   "category": "monde",
   "date": "2026-08-05",
-  "updated": "2026-08-05T10:00:15.166004Z",
+  "updated": "2026-08-05T19:00:15.280741Z",
   "articles": [
     {
-      "title": "Juillet 2026 : le mois le plus chaud fait grimper les inquiétudes sur l'économie française",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260805-juillet-2026-le-mois-le-plus-chaud-fait-grimper-les-inqui%C3%A9tudes-sur-l-%C3%A9conomie-fran%C3%A7aise",
-      "desc": "Jamais l'été n'aura été aussi chaud en France, et ce n'est pas l'État qui va dire le contraire. Les interventions des pompiers et services de secours, les évacuations de 220 000 personnes et le recours au chômage partiel pour les entreprises contraintes de fermer face aux incendies sont autant de so",
-      "date": "2026-08-05T09:43:49",
+      "title": "Crash d'un débris de fusée SpaceX sur la Lune : petit impact, grandes ambitions",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260805-crash-d%C3%A9bris-fus%C3%A9e-spacex-lune-petit-impact-grandes-ambitions",
+      "desc": "L'étage supérieur de la fusée Falcon 9 de SpaceX lancée en janvier 2025 s'est écrasé sur la Lune mercredi. S'il n'y laisse qu'un cratère d'une trentaine de mètres, son analyse devrait nourrir la compréhension de notre satellite et servir les ambitions lunaires, américaines surtout.",
+      "date": "2026-08-05T18:35:47",
       "source": "France 24"
     },
     {
-      "title": "TikTok, YouTube, Facebook... l'accès aux réseaux sociaux perturbé en Guinée",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-tiktok-youtube-facebook-l-acc%C3%A8s-aux-r%C3%A9seaux-sociaux-perturb%C3%A9s-en-guin%C3%A9e",
-      "desc": "En Guinée, l’accès à plusieurs réseaux sociaux est fortement perturbé dans le pays. Depuis près d’une semaine, les Guinéens ont recours à des VPN pour accéder notamment à Facebook, TikTok et YouTube. Une situation que dénonce l’association des blogueurs de Guinée. Elle accuse les autorités de vouloi",
-      "date": "2026-08-05T09:38:00",
+      "title": "En Malaisie, la montée des discours de haine menace les réfugiés rohingyas",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260805-malaisie-mont%C3%A9e-discours-haine-menace-r%C3%A9fugi%C3%A9s-rohingyas",
+      "desc": "La propagation de contenus hostiles sur les réseaux sociaux en Malaisie a aggravé les tensions envers la communauté de réfugiés rohingyas, entraînant l’expulsion d'un village de plus de 100 personnes et la fermeture temporaire d’écoles accueillant des enfants réfugiés.",
+      "date": "2026-08-05T17:54:05",
       "source": "France 24"
     },
     {
-      "title": "Ebola en RD Congo : un nouveau centre de traitement ouvre à Bunia",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-ebola-en-rd-congo-un-nouveau-centre-de-traitement-%C3%A0-bunia",
-      "desc": "Un nouveau centre de traitement contre Ebola ouvre ses portes dans le nord-est de la RD Congo, à Bunia, épicentre de l’épidémie. Les autorités sanitaires s'efforcent de contenir une épidémie que l'Organisation mondiale de la Santé qualifie d'intensification à un rythme “exceptionnel”.",
-      "date": "2026-08-05T09:36:04",
+      "title": "La Côte d'Ivoire reconduit Renard dans ses fonctions alors que le sélectionneur du Cap-Vert, Bubista, démissionne de son poste",
+      "link": "https://www.bbc.com/afrique/articles/cvgj16z8l27o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le sélectionneur Bubista quitte le Cap-Vert après avoir atteint les seizièmes de finale de la Coupe du monde, tandis que la Côte d'Ivoire reconduit Hervé Renard, double vainqueur de la CAN.",
+      "date": "2026-08-05T17:08:11",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Tour de France Femmes : Vollering remporte la 5e étape, Ferrand-Prévot perd sa chance d'un doublé",
+      "link": "https://www.france24.com/fr/sports/20260805-tour-de-france-femmes-vollering-remporte-cinqui%C3%A8me-%C3%A9tape-ferrand-pr%C3%A9vot-perd-chance-doubl%C3%A9",
+      "desc": "La Néerlandaise ⁠Demi Vollering a remporté mercredi la cinquième étape du Tour de France Femmes à Belleville-en-Beaujolais, tandis que la Suissesse Marlen Reusser, deuxième, a réussi à conserver son maillot jaune. Arrivée près de deux minutes et demie après la vainqueuse du jour, la Française Paulin",
+      "date": "2026-08-05T16:41:20",
       "source": "France 24"
     },
     {
-      "title": "Guerre en Ukraine : quelle urgence à améliorer la défense anti-aérienne ukrainienne ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-guerre-en-ukraine-quelle-urgence-%C3%A0-am%C3%A9liorer-la-d%C3%A9fense-anti-a%C3%A9rienne-ukrainienne",
-      "desc": "Le président Volodymyr Zelensky a de nouveau exhorté ses alliés à fournir à l'Ukraine des intercepteurs de missiles balistiques, qui \"auraient pu sauver des vies\" dans la nuit, après les nouvelles frappes russes qui ont fait au moins 17 morts.",
-      "date": "2026-08-05T09:31:51",
+      "title": "FIFA L'avenir de Infantino se joue-t-il en Afrique ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-fifa-l-avenir-de-infantino-se-joue-t-il-en-afrique",
+      "desc": "En campagne pour sa réélection, Gianni Infantino fait face à une fronde après l'abandon de son projet controversé d'ouverture aux investisseurs privés. Une réunion de crise se tient ce mercredi au Maroc, où l'élection à la présidence de la FIFA est prévue en mars 2027.",
+      "date": "2026-08-05T16:17:18",
       "source": "France 24"
+    },
+    {
+      "title": "Gaza : des funérailles collectives pour une centaine de Palestiniens",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260805-gaza-des-fun%C3%A9railles-collectives-pour-une-centaine-de-palestiniens-1",
+      "desc": "À Gaza, les dépouilles de 112 Palestiniens retrouvées sous les décombres ont été inhumées mardi 4 août lors de funérailles collectives. Une foule nombreuse est venue assister à ces obsèques, parmi les plus importantes jamais organisées à Gaza.",
+      "date": "2026-08-05T15:50:44",
+      "source": "France 24"
+    },
+    {
+      "title": "Les 10 secteurs qui créeront le plus d'emplois d'ici 2030",
+      "link": "https://www.bbc.com/afrique/articles/cp8e513vg08o?at_medium=RSS&at_campaign=rss",
+      "desc": "D’ici à 2030, certains secteurs ont été identifiés par le Forum économique mondial (World Economic Forum), dans son rapport Future of Jobs 2025, comme offrant les meilleures perspectives d’emploi. Nous vous proposons de découvrir dix domaines qui devraient jouer un rôle majeur dans la création d’emp",
+      "date": "2026-08-05T14:38:53",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Le plus vieux président du monde remanie l'armée, son absence alimentant l'inquiétude",
+      "link": "https://www.bbc.com/afrique/articles/clyq321kr72o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le président du Cameroun est absent depuis deux mois, tandis que son équipe dément les rumeurs concernant son état de santé.",
+      "date": "2026-08-05T12:23:56",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "El Niño menace de faire basculer 49 millions de personnes dans la faim : le PAM renforce sa riposte",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159269",
+      "desc": "Le phénomène climatique El Niño pourrait aggraver l’insécurité alimentaire dans 45 pays déjà fragilisés, selon une analyse publiée mercredi par le Programme alimentaire mondial (PAM). D’ici à la fin de 2027, près de 49 millions de personnes supplémentaires risquent de basculer dans une situation de ",
+      "date": "2026-08-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Daech : l'Afrique au cœur de la menace",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159270",
+      "desc": "Malgré les revers militaires infligés à son commandement central ces dernières années, le groupe terroriste État islamique en Iraq et au Levant (EIIL), plus connu sous le nom de Daech, continue de représenter une menace sérieuse pour la paix et la sécurité internationales, en particulier en Afrique ",
+      "date": "2026-08-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Iran : dans l'ombre de la guerre au Moyen-Orient, les exécutions s'accélèrent",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159268",
+      "desc": "Alors que l'attention internationale reste accaparée par la guerre au Moyen-Orient, les exécutions se multiplient en Iran. Depuis le mois de mars, au moins 56 personnes ont été mises à mort pour des infractions liées à la sécurité nationale, dont plusieurs condamnées après les manifestations du débu",
+      "date": "2026-08-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ukraine : le bilan civil s’alourdit encore après un mois de juillet particulièrement meurtrier",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159267",
+      "desc": "Après un mois de juillet que l’ONU qualifie de plus meurtrier pour les civils ukrainiens depuis avril 2022, le conflit n’offre aucun répit. Deux attaques nocturnes de grande ampleur menées par la Russie en ce début de mois d’août, dont la dernière en date dans la nuit de mardi à mercredi, ont de nou",
+      "date": "2026-08-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Comment les rebelles font entrer des armes en Centrafrique malgré l'embargo de l'ONU",
+      "link": "https://www.bbc.com/afrique/articles/c935033p1qwo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ces sanctions sont en vigueur depuis 2013, ce qui a conduit plusieurs analystes à se demander pourquoi et comment les groupes armés continuent d'avoir accès aux armes qu'ils utilisent pour attaquer les civils, les forces gouvernementales et leurs alliés.",
+      "date": "2026-08-05T10:17:33",
+      "source": "BBC Afrique"
     },
     {
       "title": "Comment un navire russe a bravé les sanctions pour acheminer des véhicules militaires au Mali",
@@ -39,74 +102,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "🔴 Chef présumé de la DZ Mafia, Mehdi Laribi a été arrêté en Algérie sur exécution d’un mandat d’arrêt français ⤵️",
-      "link": "https://www.france24.com/fr/france/20260805-narcotrafic-chef-pr%C3%A9sum%C3%A9-dz-mafia-interpell%C3%A9-fin-juillet-alg%C3%A9rie-marseille-mehdi-laribi",
-      "desc": "",
-      "date": "2026-08-05T08:39:11",
-      "source": "France 24"
-    },
-    {
-      "title": "\"Nous étions stupéfaits\" : ce qu'un requin qui a vécu 400 ans peut nous apprendre sur la longévité",
-      "link": "https://www.bbc.com/afrique/articles/czdmn5z0ej4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Certains requins du Groenland vivants auraient pu être contemporains de Shakespeare. Avec un cœur marqué par les cicatrices et battant depuis des siècles, et une vue qui ne se détériore pas, ce requin des profondeurs défie le déclin de l'âge.",
-      "date": "2026-08-04T17:25:50",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Elle hypothèque sa fortune pour sauver des vies",
-      "link": "https://www.bbc.com/afrique/articles/c9w0d194vwlo?at_medium=RSS&at_campaign=rss",
-      "desc": "\"J’avais tellement mal en cherchant un hôpital, un médecin et des médicaments pour ma sœur atteinte d’un cancer. C’est à ce moment-là que j’ai décidé qu’un jour je construirais un hôpital spécialisé dans le traitement du cancer\", explique le Dr Catherine Nyongesa.",
-      "date": "2026-08-04T14:46:16",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Barracuda, Manta, Léopard… ces opérations militaires françaises en Afrique qui ont marqué l'histoire",
-      "link": "https://www.bbc.com/afrique/articles/cdrv343426jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Ancienne puissance coloniale, la France a longtemps maintenu une présence militaire en Afrique, nourrissant de nombreuses interrogations sur son influence dans les affaires du continent.",
-      "date": "2026-08-04T12:34:49",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "En Somalie, l'IA aide le PAM à anticiper la faim et mieux cibler l'aide",
       "link": "https://news.un.org/feed/view/fr/story/2026/08/1159266",
       "desc": "En Somalie, où près de six millions de personnes souffrent d'une insécurité alimentaire aiguë, l'intelligence artificielle (IA) aide le Programme alimentaire mondial (PAM) à acheminer l'aide vers les populations les plus vulnérables avant que la situation ne se dégrade.",
       "date": "2026-08-04T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Sri Lanka : l’ONU réclame justice, vingt ans après le massacre de Muttur",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159265",
-      "desc": "Vingt ans après le massacre de 17 travailleurs humanitaires de l'organisation Action contre la Faim (ACF) à Muttur, au Sri Lanka, le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, et des experts* ont appelé mardi les autorités sri-lankaises à mettre fin à l’impunité en ouvran",
-      "date": "2026-08-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Liban : six ans après l'explosion du port de Beyrouth, la quête de justice reste inachevée",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159263",
-      "desc": "Six ans ont passé. Mais pour les familles des victimes de l'explosion d'un entrepôt où étaient stockées des tonnes de nitrate d'ammonium dans le port de Beyrouth, le temps n'a pas refermé la blessure. L'une des plus puissantes explosions non nucléaires de l'histoire, qui a dévasté une large partie d",
-      "date": "2026-08-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Afghanistan : les coupes dans l’aide aggravent la malnutrition infantile",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159261",
-      "desc": "La crise de la malnutrition infantile s’aggrave en Afghanistan au moment où les financements humanitaires s’effondrent. Le Programme alimentaire mondial (PAM) met en garde contre une réduction drastique des programmes nutritionnels alors que les besoins atteignent des niveaux sans précédent, exposan",
-      "date": "2026-08-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "En RDC, l’épidémie d’Ebola sans précédent propulse la recherche de nouveaux traitements",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159262",
-      "desc": "La République démocratique du Congo affronte la plus vaste épidémie d’Ebola jamais enregistrée sur son territoire. Alors que la riposte peine encore à freiner la progression du virus Bundibugyo, l’Organisation mondiale de la santé (OMS) et les autorités congolaises accélèrent le lancement d’essais c",
-      "date": "2026-08-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Exécutions en Arabie saoudite : quand des condamnés à mort désespérés appellent la BBC depuis le couloir de la mort",
-      "link": "https://www.bbc.com/afrique/articles/c33067jv01lo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des dizaines d'Éthiopiens attendent leur exécution ; certains ont contacté la BBC pour raconter leur histoire.",
-      "date": "2026-08-04T08:23:47",
-      "source": "BBC Afrique"
     }
   ]
 }
