@@ -3,19 +3,19 @@
   "title": "Météo du 5 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 27.63,
-    "feels_like": 28.55,
-    "humidity": 56,
+    "temp": 30.15,
+    "feels_like": 30.96,
+    "humidity": 48,
     "description": "Ciel dégagé",
-    "wind_kmh": 1.6
+    "wind_kmh": 8.9
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 31.33,
-    "feels_like": 34.3,
-    "humidity": 55,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 9.0
+    "temp": 30.01,
+    "feels_like": 33.26,
+    "humidity": 62,
+    "description": "Légère pluie",
+    "wind_kmh": 10.5
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 5 août 2026 sur Radio Sources de Vie. À Ottawa: 28 degrés Celsius. Ciel dégagé. À Port-au-Prince: 31 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 5 août 2026 sur Radio Sources de Vie. À Ottawa: 30 degrés Celsius. Ciel dégagé. À Port-au-Prince: 30 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
