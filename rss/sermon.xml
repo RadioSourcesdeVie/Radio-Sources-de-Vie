@@ -5,15 +5,15 @@
     <description>Sermon quotidien</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Wed, 05 Aug 2026 09:02:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 06 Aug 2026 09:02:38 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Restauré par la Miséricorde: De la Blessure à la Liberté — 2026-08-05</title>
-      <description>Sermon quotidien — 2026-08-05</description>
-      <pubDate>Wed, 05 Aug 2026 09:02:32 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-08-05.mp3" length="4835808" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-08-05.mp3</guid>
+      <title>Repos en Christ: Quand l'Âme Trouve son Refuge — 2026-08-06</title>
+      <description>Sermon quotidien — 2026-08-06</description>
+      <pubDate>Thu, 06 Aug 2026 09:02:38 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-08-06.mp3" length="4820688" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-08-06.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
