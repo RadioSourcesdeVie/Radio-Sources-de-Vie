@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-09",
+  "title": "Météo du 9 août 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 27.12,
+    "feels_like": 30.86,
+    "humidity": 88,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 10.8
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 30.7,
+    "feels_like": 33.54,
+    "humidity": 57,
+    "description": "Couvert",
+    "wind_kmh": 14.0
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 9 août 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 31 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+}
