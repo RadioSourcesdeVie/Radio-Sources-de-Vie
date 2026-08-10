@@ -94,5 +94,53 @@
     "text": "Did you know... Mondays feel like they last forty-eight hours? But this is the day the Lord has made; let us rejoice and be glad in it. You're listening to Radio Sources de Vie — the way to salvation.",
     "audio_file": "Nouvelles/Radio SDV SweepersEN/sweeper_en_2026-08-04_monday-morning.mp3",
     "date_added": "2026-08-04"
+  },
+  {
+    "language": "fr",
+    "slug": "cafe-matinal",
+    "reference": "Proverbes 27:12",
+    "text": "Le saviez-vous... que le café du matin est la prière des gens pressés? Nous, on appelle ça une méditation rapide! Mais Salomon disait: « L'homme prudent voit le mal et se met en sûreté ». Vous écoutez Radio Sources de Vie, le chemin du salut.",
+    "audio_file": "Nouvelles/Radio SDV SweepersFR/sweeper_fr_2026-08-10_cafe-matinal.mp3",
+    "date_added": "2026-08-10"
+  },
+  {
+    "language": "fr",
+    "slug": "resolutions-janvier",
+    "reference": "2 Corinthiens 5:17",
+    "text": "Le saviez-vous... que 80% des résolutions de janvier disparaissent avant février? Parce que changer, c'est difficile! Mais Paul nous rappelle: « Si quelqu'un est en Christ, il est une nouvelle créature ». Vous écoutez Radio Sources de Vie, le chemin du salut.",
+    "audio_file": "Nouvelles/Radio SDV SweepersFR/sweeper_fr_2026-08-10_resolutions-janvier.mp3",
+    "date_added": "2026-08-10"
+  },
+  {
+    "language": "fr",
+    "slug": "enfants-questions",
+    "reference": "Matthieu 11:25",
+    "text": "Le saviez-vous... que les enfants posent 300 questions par jour? C'est pour ça que les parents deviennent gris! Jésus disait: « Je te loue, Père, de ce que tu as caché ces choses aux sages et de ce que tu les as révélées aux enfants ». Vous écoutez Radio Sources de Vie, le chemin du salut.",
+    "audio_file": "Nouvelles/Radio SDV SweepersFR/sweeper_fr_2026-08-10_enfants-questions.mp3",
+    "date_added": "2026-08-10"
+  },
+  {
+    "language": "en",
+    "slug": "coffee-patience",
+    "reference": "Proverbs 27:12",
+    "text": "Did you know... the prudent see danger and take refuge, but the simple keep going and suffer for it? Like ordering decaf at a coffee shop—think ahead! Proverbs 27:12. You're listening to Radio Sources de Vie — the way to salvation.",
+    "audio_file": "Nouvelles/Radio SDV SweepersEN/sweeper_en_2026-08-10_coffee-patience.mp3",
+    "date_added": "2026-08-10"
+  },
+  {
+    "language": "en",
+    "slug": "money-worries",
+    "reference": "1 Timothy 6:10",
+    "text": "Did you know... the love of money is a root of all kinds of evil? Not money itself—just loving it more than your peace of mind. That'll stress you out faster than a tax deadline! First Timothy 6:10. You're listening to Radio Sources de Vie — the way to salvation.",
+    "audio_file": "Nouvelles/Radio SDV SweepersEN/sweeper_en_2026-08-10_money-worries.mp3",
+    "date_added": "2026-08-10"
+  },
+  {
+    "language": "en",
+    "slug": "rest-needed",
+    "reference": "Matthew 11:28",
+    "text": "Did you know... Jesus invites the weary and burdened to come to Him for rest? Pretty good deal—better than another energy drink at midnight! Matthew 11:28. You're listening to Radio Sources de Vie — the way to salvation.",
+    "audio_file": "Nouvelles/Radio SDV SweepersEN/sweeper_en_2026-08-10_rest-needed.mp3",
+    "date_added": "2026-08-10"
   }
 ]
