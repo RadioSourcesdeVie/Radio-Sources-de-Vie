@@ -1,0 +1,21 @@
+{
+  "date": "2026-08-10",
+  "title": "Météo du 10 août 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 26.93,
+    "feels_like": 27.72,
+    "humidity": 56,
+    "description": "Ciel dégagé",
+    "wind_kmh": 1.6
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 31.47,
+    "feels_like": 34.57,
+    "humidity": 55,
+    "description": "Ciel dégagé",
+    "wind_kmh": 12.0
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 10 août 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Ciel dégagé. À Port-au-Prince: 31 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
+}
