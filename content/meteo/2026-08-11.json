@@ -3,19 +3,19 @@
   "title": "Météo du 11 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 25.45,
-    "feels_like": 25.64,
-    "humidity": 61,
-    "description": "Peu nuageux",
-    "wind_kmh": 1.6
+    "temp": 26.99,
+    "feels_like": 27.29,
+    "humidity": 48,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 6.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 33.97,
-    "feels_like": 34.89,
-    "humidity": 38,
-    "description": "Ciel dégagé",
-    "wind_kmh": 9.4
+    "temp": 32.44,
+    "feels_like": 35.72,
+    "humidity": 52,
+    "description": "Légère pluie",
+    "wind_kmh": 16.5
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 11 août 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Peu nuageux. À Port-au-Prince: 34 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 11 août 2026 sur Radio Sources de Vie. À Ottawa: 27 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 32 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
