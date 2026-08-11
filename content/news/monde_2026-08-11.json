@@ -1,42 +1,98 @@
 {
   "category": "monde",
   "date": "2026-08-11",
-  "updated": "2026-08-11T10:00:15.428618Z",
+  "updated": "2026-08-11T19:00:31.432098Z",
   "articles": [
     {
-      "title": "Sécheresse en France : des restrictions d'eau sur 70% du territoire",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-s%C3%A9cheresse-en-france-des-restrictions-d-eau-sur-70-du-territoire",
-      "desc": "En France, la canicule accentue la sécheresse dans l’hexagone : deux tiers des nappes phréatiques sont en dessous des normales. Conséquence : 70% du territoire fait l’objet de mesures de restrictions d’eau. Le point avec Mathieu Rio et Alexandra Quarini.",
-      "date": "2026-08-11T09:49:03",
+      "title": "Avec la canicule, la France produit moins d’électricité et en consomme davantage",
+      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260811-avec-la-canicule-la-france-produit-moins-d-%C3%A9lectricit%C3%A9-et-en-consomme-davantage",
+      "desc": "Invasion de méduses, cours d’eau trop bas ou trop chaud... le parc nucléaire français n’avait jamais connu un tel été et un taux de puissante manquante de 15,6 %. Dans ce contexte, les centrales à gaz reprennent du service, et représentent 5% à 6% du mix énergétique contre 1% habituellement. Malgré ",
+      "date": "2026-08-11T18:39:29",
       "source": "France 24"
     },
     {
-      "title": "Tourisme, croisières, lunettes : le lumineux business de l'éclipse",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260811-tourisme-croisi%C3%A8res-lunettes-le-lumineux-business-de-l-%C3%A9clipse",
-      "desc": "L’éclipse solaire du 12 août provoque un véritable boom touristique en Espagne et en Islande. Réservations en hausse, chambres hors de prix, croisières spéciales et millions de lunettes vendues : quelques minutes d’obscurité font déjà tourner un marché très lucratif. Explications.",
-      "date": "2026-08-11T09:46:35",
+      "title": "Guinée : le \"Visa médical\", la carte qui révolutionne le suivi des patients",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-guin%C3%A9e-le-visa-m%C3%A9dical-la-carte-qui-r%C3%A9volutionne-le-suivi-des-patients",
+      "desc": "En Guinée, une start-up mise sur le numérique pour améliorer le suivi des patients. Kouma Academy a lancé le \"Visa médical\", une carte numérique qui centralise les données de santé des patients et les rend accessibles aux soignants. Une solution digitale qui révolutionne le suivi médical.",
+      "date": "2026-08-11T18:05:04",
       "source": "France 24"
     },
     {
-      "title": "Esport : l’Esports World Cup délocalisée à Paris, l'Arabie Saoudite aux manettes",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-esport-l-esports-world-cup-d%C3%A9localis%C3%A9e-%C3%A0-paris-l-arabie-saoudite-aux-manettes",
-      "desc": "Pour la première fois, l’Esports World Cup se tient à Paris, du 6 juillet au 23 août 2026, après deux éditions organisées à Riyad. Sa dotation globale atteint 75 millions de dollars. Pour comprendre ce nouvel outil de softpower, France 24 reçoit Olivier Mauco, président de Game in Society et docteur",
-      "date": "2026-08-11T09:45:48",
+      "title": "Le syndrome de Paris existe-t-il vraiment ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-syndrome-de-paris-existe-t-il-vraiment-france-culture-prime",
+      "desc": "Pour certains touristes, le contraste entre le Paris dont ils rêvent et celui qu'ils visitent est tel qu'il pourrait provoquer des troubles psychologiques, notamment chez les visiteurs japonais. Un \"syndrome de Paris\" largement remis en question dans la communauté scientifique.",
+      "date": "2026-08-11T17:41:15",
       "source": "France 24"
     },
     {
-      "title": "En France, les associations de protection animale sous pression",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-en-france-les-associations-de-protection-animale-sous-pression",
-      "desc": "Pendant la période estivale, l’abandon des animaux de compagnie se multiplie et notamment des chats et des chatons, mettant les associations de protection animale sous pression. Ils sont des milliers d’animaux à attendre derrière les grilles des refuges, parfois pendant des mois, avant de trouver un",
-      "date": "2026-08-11T09:44:59",
+      "title": "La France gagnée par la canicule, 78 départements en vigilance orange mercredi",
+      "link": "https://www.france24.com/fr/france/20260811-france-gagn%C3%A9e-canicule-78-d%C3%A9partements-vigilance-orange-mercredi",
+      "desc": "L'épisode caniculaire en France s'étendra progressivement mercredi à la quasi-totalité du pays avec 78 départements classés en vigilance orange, contre 43 mardi, selon Météo-France.",
+      "date": "2026-08-11T17:10:35",
       "source": "France 24"
     },
     {
-      "title": "États-Unis : trente ans après le meurtre de Tupac Shakur, un ex-chef de gang en procès",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-%C3%A9tats-unis-trente-ans-apr%C3%A8s-le-meurtre-de-tupac-shakur-un-ex-chef-de-gang-en-proc%C3%A8s",
-      "desc": "Le procès de l'ancien chef de gang accusé d'avoir orchestré le meurtre de Tupac Shakur a débuté lundi à Las Vegas et devrait durer près d'un mois, trente ans après la mort jamais élucidée du célèbre rappeur californien. Correspondance de Wassim Cornet depuis Los Angeles pour France 24.",
-      "date": "2026-08-11T09:35:57",
+      "title": "Ukraine, Russie : Le bilan des victimes s'alourdit",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260811-ukraine-russie-le-bilan-des-victimes-s-alourdit",
+      "desc": "La Russie et l'Ukraine ont échangé de nouvelles frappes dans la nuit du mardi 11 août, Moscou ciblant Kiev, Zaporijjia et Dnipro. L'Ukraine a riposté par une attaque de drones contre la région russe de Voronej; la chute de débris a provoqué un incendie dans un entrepôt de Wildberries. L'armée ukrain",
+      "date": "2026-08-11T17:02:02",
       "source": "France 24"
+    },
+    {
+      "title": "La « Sainte Vierge du Kent », qui avait prédit la mort du roi Henri VIII",
+      "link": "https://www.bbc.com/afrique/articles/c4g32rpw7w7o?at_medium=RSS&at_campaign=rss",
+      "desc": "Au XVIe siècle, Elizabeth Barton, une servante domestique, devint une visionnaire célèbre ; mais lorsqu'elle défia le monarque, elle en paya le prix fort et connut une fin atroce. Était-elle une charlatane ou une héroïne courageuse de l'époque des Tudor ?",
+      "date": "2026-08-11T15:53:22",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Que sait-on du séisme de magnitude 7,4 qui a fait plus d'une centaine de morts et causé d'importants dégâts en Colombie ?",
+      "link": "https://www.bbc.com/afrique/articles/cqlx7gdxxx4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Au moins 169 personnes ont perdu la vie et l'état d'urgence a été déclaré après que la Colombie a été frappée par l'un des plus violents séismes de ces dernières années.",
+      "date": "2026-08-11T13:41:38",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Séisme en Colombie : l’ONU se joint aux secours",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159295",
+      "desc": "Les Nations Unies se mobilisent aux côtés des autorités colombiennes après le puissant séisme de magnitude 7,4 qui a frappé le pays lundi, faisant plus de 160 morts et de nombreux blessés.",
+      "date": "2026-08-11T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Climat : juillet parmi les plus chauds jamais enregistrés, des records sur plusieurs continents",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159291",
+      "desc": "Juillet figure parmi les deux mois de juillet les plus chauds jamais enregistrés, à égalité avec un précédent record, avec une température moyenne mondiale supérieure de 1,47 °C au niveau préindustriel, a annoncé mardi l’Organisation météorologique mondiale (OMM). De l’Europe à l’Asie, du Moyen-Orie",
+      "date": "2026-08-11T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ebola en RDC : le nombre de décès liés au virus Bundibugyo dépasse le cap des 2.000 morts",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159293",
+      "desc": "Au moins 2.000 personnes sont décédées parmi les cas confirmés de l’épidémie d’Ebola qui sévit en République démocratique du Congo (RDC), dont la progression est la plus rapide jamais enregistrée, selon les dernières données gouvernementales relayées par un haut responsable des Nations Unies.",
+      "date": "2026-08-11T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Cisjordanie : l’ONU alerte sur une annexion de facto alors que la violence s’installe",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159292",
+      "desc": "La Cisjordanie occupée a atteint un « point de rupture ». Derrière l’escalade des violences, l’ONU décrit une transformation profonde du territoire. Extension accélérée des colonies israéliennes, déplacements de communautés, multiplication des avant-postes et affaiblissement de l’Autorité palestinie",
+      "date": "2026-08-11T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Myanmar : l’armée accusée de mener des attaques délibérées contre les civils",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159290",
+      "desc": "Torture, violences sexuelles, frappes aériennes contre des habitations et des écoles. L’armée du Myanmar a mené une campagne soutenue d’attaques délibérées contre les civils, selon des enquêteurs indépendants mandatés par le Conseil des droits de l’homme des Nations Unies.",
+      "date": "2026-08-11T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Quand les vêtements de luxe de seconde main retrouvent une ''seconde vie'' au Sénégal",
+      "link": "https://www.bbc.com/afrique/articles/ckg3lj3r4vxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Maket, une petite startup née en 2025 séduit de plus en plus de monde en ligne et dans sa boutique en mettant des vêtements et accessoires de luxe de seconde main, à la disposition d'une clientèle fan de luxe.",
+      "date": "2026-08-11T11:41:55",
+      "source": "BBC Afrique"
     },
     {
       "title": "Quelles sont les six conditions que l'Iran impose à Trump pour rouvrir le détroit d'Ormuz ?",
@@ -46,67 +102,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Un bunker de la Guerre froide transformé en appartements de luxe pour « survivre à la fin du monde »",
-      "link": "https://www.bbc.com/afrique/articles/crk5ryy77xpo?at_medium=RSS&at_campaign=rss",
-      "desc": "Un ancien abri anti-nucléaire du gouvernement canadien, situé dans une zone rurale de la Nouvelle-Écosse, pourrait bientôt accueillir le premier abri de survie de luxe à grande échelle du pays.",
-      "date": "2026-08-10T16:23:03",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les 10 créatures les plus laides du monde",
-      "link": "https://www.bbc.com/afrique/articles/cm2g17j1gm3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Beaucoup de gens sont attirés par les animaux aux traits enfantins : de grands yeux, un petit nez, un visage rond, par exemple. C'est parce que nous aimons nos enfants.",
-      "date": "2026-08-10T12:37:19",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Enfants en ligne : l’ONU appelle à agir contre les risques de l’IA et de la désinformation",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159287",
-      "desc": "Plus de huit jeunes sur dix âgés de 15 à 24 ans dans le monde sont désormais connectés à Internet. Dans les pays à faible revenu, leur taux de connexion est même près de deux fois supérieur à celui du reste de la population.",
-      "date": "2026-08-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Au Soudan, ces étudiants qui refusent que la guerre mette fin à leurs études",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159286",
-      "desc": "Sarah Tekhlu était prête à renoncer à l’université. Réfugiée érythréenne, elle avait déjà dû fuir une première fois Khartoum pour Madani, puis une seconde fois pour Port-Soudan, à mesure que la guerre ravageait le pays autour d’elle. Elle avait fini par se convaincre que les études supérieures étaie",
-      "date": "2026-08-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola en RDC : la majorité des décès surviennent loin des centres de soins",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159285",
-      "desc": "En République démocratique du Congo (RDC), l’épidémie d’Ebola a déjà fait plus 1&nbsp;900 morts. Mais un autre chiffre résume à lui seul l’une des principales difficultés auxquelles est confrontée la riposte : 60&nbsp;% à 70&nbsp;% des décès surviennent dans les communautés, loin des centres de trai",
-      "date": "2026-08-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : un entrepôt de l’OMS détruit à Dnipro après avoir été frappé à deux reprises",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159284",
-      "desc": "Un entrepôt de l’Organisation mondiale de la Santé (OMS) stockant des fournitures médicales à Dnipro, dans le centre-est de l’Ukraine, « a été frappé à deux reprises en moins de 24 heures et détruit », a dénoncé lundi l’agence des Nations Unies. Aucune victime n’a été signalée.",
-      "date": "2026-08-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
       "title": "Quatre équipes africaines se qualifient pour la Coupe du monde féminine",
       "link": "https://www.bbc.com/afrique/articles/c1j17dzwyjyo?at_medium=RSS&at_campaign=rss",
       "desc": "L'Algérie, le Maroc, le Cameroun et le Malawi se sont tous qualifiés pour la Coupe du monde féminine 2027 au Brésil en atteignant les demi-finales de la Coupe d'Afrique des nations féminine.",
       "date": "2026-08-10T11:53:06",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Les enfants invisibles du Soudan – nés en temps de guerre, sans identité légale",
-      "link": "https://www.bbc.com/afrique/articles/cr49kne0rg3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les bébés nés d'un viol sont souvent dans l'impossibilité d'obtenir un certificat de naissance, ce qui leur causera des problèmes tout au long de leur vie.",
-      "date": "2026-08-10T10:46:27",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Face à la crise climatique, la jeunesse autochtone du Brésil fait de sa culture une résistance",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159282",
-      "desc": "Alors que le changement climatique bouleverse les territoires autochtones du Brésil, une nouvelle génération refuse de rester silencieuse.",
-      "date": "2026-08-07T12:00:00",
-      "source": "ONU Info"
     }
   ]
 }
