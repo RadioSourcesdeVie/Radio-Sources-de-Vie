@@ -1,42 +1,98 @@
 {
   "category": "monde",
   "date": "2026-08-12",
-  "updated": "2026-08-12T10:00:14.786312Z",
+  "updated": "2026-08-12T19:00:15.031673Z",
   "articles": [
     {
-      "title": "Éclipse solaire : une opportunité scientifique pour la Nasa",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-%C3%A9clipse-solaire-une-opportunit%C3%A9-scientifique-pour-la-nasa",
-      "desc": "Au-delà du spectacle, l’éclipse solaire représente une occasion rare pour les scientifiques d’étudier le Soleil. La NASA profitera du phénomène pour mener plusieurs observations et recueillir de nouvelles données. Reportage France 2.",
-      "date": "2026-08-12T09:55:04",
+      "title": "Séisme en Colombie : le secteur du cinéma se mobilise la nuit pour éclairer les décombres",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260812-seisme-colombie-travailleurs-secteur-cinema-audiovisuel-se-mobilisent-nuit-eclairer-decombres",
+      "desc": "Armés de projecteurs habituellement utilisés en studio, des travailleurs du secteur du cinéma se mobilisent dans la ville de Cali depuis lundi, à la nuit tombée, pour éclairer les décombres et ainsi faciliter le travail de recherche des survivants. Le séisme qui a touché l’ouest de la Colombie a fai",
+      "date": "2026-08-12T18:59:35",
       "source": "France 24"
     },
     {
-      "title": "Meta face à la justice américaine pour l'addiction des mineurs aux réseaux sociaux",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260812-meta-face-%C3%A0-la-justice-am%C3%A9ricaine-pour-l-addiction-des-mineurs-aux-r%C3%A9seaux-sociaux",
-      "desc": "Meta est jugé à partir de ce mercredi en Californie dans une vaste procédure sur la protection des mineurs. Quatre États américains portent devant la justice les accusations de dizaines d'autres : le groupe aurait notamment conçu Facebook et Instagram pour retenir les jeunes le plus longtemps possib",
-      "date": "2026-08-12T09:53:54",
+      "title": "Ebola en RDC : le cap des 2000 morts franchi",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-ebola-en-rdc-le-cap-des-2000-morts-franchi",
+      "desc": "En RDC, l’épidémie d’Ebola approche du bilan le plus meurtrier jamais enregistré dans le pays. Le virus a déjà fait 2 011 morts sur 4 381 cas confirmés, contre 2 300 décès lors de l’épidémie de 2018-2020. Les autorités congolaises estiment que le pic n’est pas encore atteint.",
+      "date": "2026-08-12T17:27:27",
       "source": "France 24"
     },
     {
-      "title": "Football : l'AS Monaco veut se séparer de Paul Pogba",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-football-l-as-monaco-veut-se-s%C3%A9parer-de-paul-pogba",
-      "desc": "L’AS Monaco souhaite mettre fin au contrat de Paul Pogba après une nouvelle blessure à l’entraînement. Un accord financier devrait être trouvé entre les deux parties selon Nice Matin. L’ancien international français aura très peu joué sous les couleurs monégasques, en raison de blessures à répétitio",
-      "date": "2026-08-12T09:53:25",
+      "title": "LIBYE : Funérailles du chef des renseignements de Haftar tué dans un attentat",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-libye-fun%C3%A9railles-du-chef-des-renseignements-de-haftar-tu%C3%A9-dans-un-attentat",
+      "desc": "🇱🇾 En Libye, Fauzi al-Mansouri, chef des renseignements de l’Est a été tué lundi dans un attentat à la voiture piégée à Benghazi. Une attaque qui porte un coup au camp du maréchal Haftar, qui vise à étendre son contrôle sur la Libye.",
+      "date": "2026-08-12T17:13:08",
       "source": "France 24"
     },
     {
-      "title": "Corée du Nord : un deuxième tir de missile balistique en moins d’une semaine",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-cor%C3%A9e-du-nord-un-deuxi%C3%A8me-tir-de-missile-balistique-en-moins-d-une-semaine",
-      "desc": "La Corée du Nord a tiré mercredi un missile balistique depuis la région de Wonsan, sur sa côte est, en direction de la mer du Japon. Le projectile a parcouru plus de 700 kilomètres avant de retomber en mer, en dehors de la zone économique exclusive du Japon. Correspondance de Chloé Borgnon depuis Sé",
-      "date": "2026-08-12T09:46:31",
+      "title": "Éclipse solaire: quelles conséquences sur l'Environnement?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20260812-%C3%A9clipse-solaire-quelles-cons%C3%A9quences-sur-l-environnement",
+      "desc": "L'éclipse solaire perturbe les activités de la faune, fait baisser la température et la force du vent. On passe en revue les effets de cette absence momentanée de lumière en plein jour sur l'Environnement.",
+      "date": "2026-08-12T16:54:07",
       "source": "France 24"
     },
     {
-      "title": "Meta de retour au tribunal : jusqu’à 1 400 milliards de dollars de pénalités ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260812-meta-de-retour-au-tribunal-jusqu-%C3%A0-1-400-milliards-de-dollars-de-p%C3%A9nalit%C3%A9s",
-      "desc": "Meta retourne devant la justice américaine. Quatre États - la Californie, le Colorado, le Kentucky et le New Jersey - accusent le groupe d’avoir conçu Instagram et Facebook pour rendre les mineurs dépendants, tout en minimisant les risques liés à ses plateformes. Wassim Cornet, correspondant pour Fr",
-      "date": "2026-08-12T09:44:48",
+      "title": "Éclipse : le gouvernement français avait-il distribué 35 millions de lunettes gratuites en 1999 ?",
+      "link": "https://www.france24.com/fr/france/20260812-gouvernement-fran%C3%A7ais-distribu%C3%A9-35-millions-lunettes-gratuites-%C3%A9clipse-1999",
+      "desc": "Fustigeant la gestion gouvernementale de l'éclipse partielle de 2026, des personnalités politiques affirment que lors de l’éclipse solaire de 1999, le gouvernement français aurait distribué gratuitement 35 millions de paires de lunettes de protection. Si la mobilisation gouvernementale a été plus im",
+      "date": "2026-08-12T16:47:04",
       "source": "France 24"
+    },
+    {
+      "title": "Avertissement d'un homme dont les yeux ont été endommagés par l'éclipse",
+      "link": "https://www.bbc.com/afrique/articles/ce97pxr55l0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Peter Smith s'est abîmé les yeux en regardant l'éclipse de 1999 sans lunettes adaptées.",
+      "date": "2026-08-12T16:25:40",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Trois façons d'observer l'éclipse solaire en toute sécurité et sans lunettes",
+      "link": "https://www.bbc.com/afrique/articles/cp8epyem4zko?at_medium=RSS&at_campaign=rss",
+      "desc": "Certains magasins étant en rupture de stock, il est peut-être trop tard pour acheter des lunettes d'éclipse, mais vous pouvez toujours observer le spectacle en toute sécurité à l'aide de certains objets du quotidien.",
+      "date": "2026-08-12T15:45:36",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "J'ai eu mes premières règles à six ans… et les médecins n'avaient aucune idée de la raison pour laquelle cela s'était produit.",
+      "link": "https://www.bbc.com/afrique/articles/c0m7ke8wdmro?at_medium=RSS&at_campaign=rss",
+      "desc": "La puberté précoce entraîne l'apparition précoce des caractéristiques sexuelles chez les enfants et touche de manière disproportionnée les filles.",
+      "date": "2026-08-12T13:59:35",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ebola en RDC : l’épidémie est en passe de devenir la plus importante jamais enregistrée",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159300",
+      "desc": "L’épidémie d’Ebola qui frappe l’est de la République démocratique du Congo progresse plus vite que toutes celles qui l’ont précédée. Avec près de 4 500 cas confirmés et plus de 2 000 morts, l’OMS redoute désormais qu’elle ne dépasse, si son rythme actuel se maintient, la catastrophe qui avait ravagé",
+      "date": "2026-08-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Afrique de l’Ouest et du Centre : le choléra gagne du terrain",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159299",
+      "desc": "Le choléra se propage rapidement en Afrique de l’Ouest et du Centre, où des flambées touchent désormais six pays et exposent des millions d’enfants à un risque croissant, alerte l’UNICEF. Les pluies saisonnières, les inondations, les déplacements de population et la transmission transfrontalière acc",
+      "date": "2026-08-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Cinq ans de pouvoir taliban : les Afghanes toujours plus enfermées",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159297",
+      "desc": "Cinq ans après le retour des talibans au pouvoir, les Afghanes voient leur liberté de mouvement et leur accès aux espaces publics se réduire encore. Selon ONU Femmes, la moitié des femmes interrogées ne sortent désormais qu’une ou deux fois par mois. Peur du « mahram », surveillance, accès aux soins",
+      "date": "2026-08-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Vaccination : l’OMS conteste le revirement américain, données scientifiques à l’appui",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159298",
+      "desc": "L’Organisation mondiale de la santé (OMS) s’inquiète des changements apportés à la politique vaccinale des États-Unis, estimant qu’ils vont à l’encontre de décennies de données scientifiques sur les risques liées aux maladies, l’efficacité des vaccins et les pratiques optimales en matière d'immunisa",
+      "date": "2026-08-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ces 7 chefs-d'œuvre africains bâtis en banco qui défient le temps",
+      "link": "https://www.bbc.com/afrique/articles/cdrvmpm6xrzo?at_medium=RSS&at_campaign=rss",
+      "desc": "En Afrique, la terre a longtemps été bien plus qu'un simple matériau de construction. Du Mali au Bénin, en passant par le Burkina Faso, le Niger, le Ghana et le Cameroun, plusieurs générations de bâtisseurs ont développé une architecture ingénieuse, adaptée au climat et profondément ancrée dans les ",
+      "date": "2026-08-12T11:53:26",
+      "source": "BBC Afrique"
     },
     {
       "title": "Trump confirme avoir changé d'avion après le sommet de l'OTAN en raison d'une menace potentielle.",
@@ -46,67 +102,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "La « Sainte Vierge du Kent », qui avait prédit la mort du roi Henri VIII",
-      "link": "https://www.bbc.com/afrique/articles/c4g32rpw7w7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Au XVIe siècle, Elizabeth Barton, une servante domestique, devint une visionnaire célèbre ; mais lorsqu'elle défia le monarque, elle en paya le prix fort et connut une fin atroce. Était-elle une charlatane ou une héroïne courageuse de l'époque des Tudor ?",
-      "date": "2026-08-11T15:53:22",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Que sait-on du séisme de magnitude 7,4 qui a fait plus d'une centaine de morts et causé d'importants dégâts en Colombie ?",
-      "link": "https://www.bbc.com/afrique/articles/cqlx7gdxxx4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Au moins 169 personnes ont perdu la vie et l'état d'urgence a été déclaré après que la Colombie a été frappée par l'un des plus violents séismes de ces dernières années.",
-      "date": "2026-08-11T13:41:38",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Le chômage des jeunes repart à la hausse",
       "link": "https://news.un.org/feed/view/fr/story/2026/08/1159296",
       "desc": "Le chômage des jeunes progresse dans le monde, tandis que l’accès à un travail décent devient plus difficile pour des millions d’entre eux. Selon un nouveau rapport de l’Organisation internationale du Travail (OIT), le ralentissement de la croissance, la faiblesse des créations d’emplois, les tensio",
       "date": "2026-08-11T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Séisme en Colombie : l’ONU se joint aux secours",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159295",
-      "desc": "Les Nations Unies se mobilisent aux côtés des autorités colombiennes après le puissant séisme de magnitude 7,4 qui a frappé le pays lundi, faisant plus de 160 morts et de nombreux blessés.",
-      "date": "2026-08-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Climat : juillet parmi les plus chauds jamais enregistrés, des records sur plusieurs continents",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159291",
-      "desc": "Juillet figure parmi les deux mois de juillet les plus chauds jamais enregistrés, à égalité avec un précédent record, avec une température moyenne mondiale supérieure de 1,47 °C au niveau préindustriel, a annoncé mardi l’Organisation météorologique mondiale (OMM). De l’Europe à l’Asie, du Moyen-Orie",
-      "date": "2026-08-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola en RDC : le nombre de décès liés au virus Bundibugyo dépasse le cap des 2.000 morts",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159293",
-      "desc": "Au moins 2.000 personnes sont décédées parmi les cas confirmés de l’épidémie d’Ebola qui sévit en République démocratique du Congo (RDC), dont la progression est la plus rapide jamais enregistrée, selon les dernières données gouvernementales relayées par un haut responsable des Nations Unies.",
-      "date": "2026-08-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Cisjordanie : l’ONU alerte sur une annexion de facto alors que la violence s’installe",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159292",
-      "desc": "La Cisjordanie occupée a atteint un « point de rupture ». Derrière l’escalade des violences, l’ONU décrit une transformation profonde du territoire. Extension accélérée des colonies israéliennes, déplacements de communautés, multiplication des avant-postes et affaiblissement de l’Autorité palestinie",
-      "date": "2026-08-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Quand les vêtements de luxe de seconde main retrouvent une ''seconde vie'' au Sénégal",
-      "link": "https://www.bbc.com/afrique/articles/ckg3lj3r4vxo?at_medium=RSS&at_campaign=rss",
-      "desc": "Maket, une petite startup née en 2025 séduit de plus en plus de monde en ligne et dans sa boutique en mettant des vêtements et accessoires de luxe de seconde main, à la disposition d'une clientèle fan de luxe.",
-      "date": "2026-08-11T11:41:55",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Quelles sont les six conditions que l'Iran impose à Trump pour rouvrir le détroit d'Ormuz ?",
-      "link": "https://www.bbc.com/afrique/articles/clyj0lk0nlgo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'Iran et Oman ont tous deux déclaré que les négociations sur la réouverture du détroit d'Ormuz avaient été « positives », mais l'Iran vient de présenter aux États-Unis une liste d'exigences.",
-      "date": "2026-08-11T08:39:44",
-      "source": "BBC Afrique"
     }
   ]
 }
