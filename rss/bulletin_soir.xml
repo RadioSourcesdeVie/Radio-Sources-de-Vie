@@ -5,15 +5,15 @@
     <description>Journal complet 10-15 minutes, Lundi-Vendredi 18h — Voix Charline & Antoine</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Wed, 12 Aug 2026 22:01:49 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 22:05:51 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Journal du Soir — 2026-08-12 — 2026-08-12</title>
-      <description>Journal complet 10-15 minutes, Lundi-Vendredi 18h — Voix Charline & Antoine — 2026-08-12</description>
-      <pubDate>Wed, 12 Aug 2026 22:01:49 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/bulletin_soir/2026-08-12.mp3" length="3358368" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/bulletin_soir/2026-08-12.mp3</guid>
+      <title>Sans titre — 2026-08-13</title>
+      <description>Journal complet 10-15 minutes, Lundi-Vendredi 18h — Voix Charline & Antoine — 2026-08-13</description>
+      <pubDate>Thu, 13 Aug 2026 22:05:51 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/bulletin_soir/2026-08-13.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/bulletin_soir/2026-08-13.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
