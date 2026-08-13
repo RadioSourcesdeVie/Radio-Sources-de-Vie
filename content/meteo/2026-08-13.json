@@ -1,5 +1,6 @@
 {
-  "updated": "2026-08-13T22:05:05.056023Z",
+  "date": "2026-08-13",
+  "title": "Météo du 13 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
     "temp": 24.78,
@@ -15,5 +16,6 @@
     "humidity": 62,
     "description": "Légère pluie",
     "wind_kmh": 22.2
-  }
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 13 août 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Nuageux. À Port-au-Prince: 33 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
