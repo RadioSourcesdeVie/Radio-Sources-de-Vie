@@ -3,19 +3,19 @@
   "title": "Météo du 14 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 21.94,
-    "feels_like": 21.7,
-    "humidity": 58,
+    "temp": 24.27,
+    "feels_like": 24.14,
+    "humidity": 53,
     "description": "Nuageux",
-    "wind_kmh": 7.4
+    "wind_kmh": 18.5
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 31.79,
-    "feels_like": 36.02,
-    "humidity": 58,
+    "temp": 35.79,
+    "feels_like": 42.17,
+    "humidity": 49,
     "description": "Couvert",
-    "wind_kmh": 25.9
+    "wind_kmh": 33.3
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 14 août 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Nuageux. À Port-au-Prince: 32 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 14 août 2026 sur Radio Sources de Vie. À Ottawa: 24 degrés Celsius. Nuageux. À Port-au-Prince: 36 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
