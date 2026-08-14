@@ -1,14 +1,91 @@
 {
   "category": "monde",
   "date": "2026-08-14",
-  "updated": "2026-08-14T10:00:15.302633Z",
+  "updated": "2026-08-14T19:00:15.681385Z",
   "articles": [
     {
-      "title": "Guerre de l'eau en Cisjordanie occupée : les colons israéliens acculent les Palestiniens",
-      "link": "https://www.france24.com/fr/moyen-orient/20260814-guerre-eau-cisjordanie-occup%C3%A9e-colons-isra%C3%A9liens-acculent-palestiniens",
-      "desc": "En Cisjordanie occupée, des colons israéliens ont détourné l'eau d'agriculteurs palestiniens à Fasayil, dans la vallée du Jourdain, pour alimenter une piscine située sur un site archéologique. Une guerre de l'eau pour priver les Palestiniens de leurs moyens de subsistances et les forcer à quitter le",
-      "date": "2026-08-14T09:55:11",
+      "title": "Le jeune cycliste Finlay Tarling trouve la mort dans un accident au Tour du Portugal",
+      "link": "https://www.france24.com/fr/sports/20260814-le-jeune-cycliste-finlay-tarling-trouve-la-mort-dans-un-accident-au-tour-du-portugal",
+      "desc": "Le cycliste britannique Finlay Tarling, 19 ans, est mort vendredi dans accident survenu pendant la huitième étape du Tour du Portugal, a annoncé l'organisation de la course. L'évènement sportif a été suspendu \"en signe de respect et de deuil\".",
+      "date": "2026-08-14T17:47:55",
       "source": "France 24"
+    },
+    {
+      "title": "Non, le lac de Côme en Italie ne s’est pas vidé",
+      "link": "https://www.france24.com/fr/europe/20260814-non-le-lac-de-c%C3%B4me-en-italie-ne-s-est-pas-vid%C3%A9",
+      "desc": "Le lac de Côme au nord de l’Italie aurait disparu à la suite d’une “rupture géologique”, annonce un reportage diffusé sur TikTok. C’est inexact : d’une part, les images de ce reportage ont été générées par intelligence artificielle. D’autre part, si le niveau du lac a effectivement baissé c’est-à-ca",
+      "date": "2026-08-14T17:21:34",
+      "source": "France 24"
+    },
+    {
+      "title": "À Colombey, une bataille autour de la vente de la maison du général de Gaulle",
+      "link": "https://www.france24.com/fr/france/20260814-%C3%A0-colombey-une-bataille-autour-de-la-vente-de-la-maison-du-g%C3%A9n%C3%A9ral-de-gaulle",
+      "desc": "Un des petits-fils et héritiers du général de Gaulle s'est récemment opposé au rachat par l'État ou le département de la demeure où vécut le général, à Colombey-les-deux Églises. Qu'adviendra-t-il de cette maison historique ?",
+      "date": "2026-08-14T16:57:40",
+      "source": "France 24"
+    },
+    {
+      "title": "L'athlète qui n'a jamais porté sa médaille Olympique",
+      "link": "https://www.bbc.com/afrique/articles/c98vjm008n7o?at_medium=RSS&at_campaign=rss",
+      "desc": "L’histoire du parcours exceptionnel de Madias Ngake, médaillée olympique camerounaise, qui, après avoir vécu dans la rue et demandé l’asile, a remporté une médaille d’argent pour l’Angleterre aux Jeux de Glasgow 2026.",
+      "date": "2026-08-14T16:51:30",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Le Mali fait un geste envers Paris en graciant un agent français de la DGSE",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-le-mali-fait-un-geste-envers-paris-en-graciant-un-agent-fran%C3%A7ais-de-la-dgse",
+      "desc": "Le chef de la junte malienne, Assimi Goïta, a gracié Yann Vézilier, un agent du renseignement français arrêté en août 2025 et condamné à 20 ans de prison en juin 2026. Cette libération intervient après des années de fortes tensions entre Paris et Bamako.",
+      "date": "2026-08-14T16:38:56",
+      "source": "France 24"
+    },
+    {
+      "title": "Au Népal, la difficile cohabitation entre humains et animaux sauvages",
+      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20260814-n%C3%A9pal-difficile-cohabitation-humains-animaux-sauvages-conservation-attaques",
+      "desc": "En un demi-siècle, le Népal s’est imposé comme une référence mondiale en matière de conservation. Près de 20 % du territoire de ce petit État enclavé dans l’Himalaya est classé en zones protégées, fruit d’une politique de lutte contre le braconnage. Des espèces emblématiques comme le rhinocéros unic",
+      "date": "2026-08-14T15:35:31",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment une publication sur les réseaux sociaux a déclenché une vague de désinformation contre les migrants en Libye",
+      "link": "https://www.bbc.com/afrique/articles/cly5p54lrn5o?at_medium=RSS&at_campaign=rss",
+      "desc": "La BBC enquête sur une campagne de désinformation visant les migrants en Libye et s'entretient avec des réfugiés qui ont été victimes de violences durant la même période.",
+      "date": "2026-08-14T14:28:41",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Le Nigeria ne participera pas à la Coupe du monde féminine après les victoires de l'Afrique du Sud et du Ghana lors des barrages",
+      "link": "https://www.bbc.com/afrique/articles/cy45en7v91no?at_medium=RSS&at_campaign=rss",
+      "desc": "L'Afrique du Sud et le Ghana se qualifient pour un match de barrage interconfédéral en vue de la Coupe du monde féminine 2027, tandis que le Nigeria ne participera pas à la compétition pour la première fois.",
+      "date": "2026-08-14T12:23:19",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Séisme en Colombie : à Cali, la solidarité s’organise au milieu des décombres",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159316",
+      "desc": "Dans l’une des villes les plus durement frappées par le séisme qui a secoué la Colombie lundi, des centaines de personnes attendent encore des nouvelles de proches, d’amis ou de voisins portés disparus. Alors que les secouristes fouillent les bâtiments effondrés à la recherche de survivants, les hab",
+      "date": "2026-08-14T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Guerre au Soudan : le périlleux parcours pour accoucher au Darfour",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159314",
+      "desc": "Au Darfour, des femmes enceintes marchent pendant des heures ou empruntent des moyens de transport de fortune pour atteindre un hôpital en mesure de les prendre en charge. Certaines arrivent trop tard et meurent, parfois avec leur bébé. En visite dans cette région de l’ouest du Soudan, une responsab",
+      "date": "2026-08-14T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ebola en RDC : une sixième province touchée, l’OMS renforce la riposte régionale",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159315",
+      "desc": "Une sixième province de la République démocratique du Congo (RDC) est désormais touchée par l’épidémie de maladie à virus Ebola. La détection d’un cas mortel dans le Bas-Uele, frontalier de la Centrafrique, intervient alors que l’Organisation mondiale de la santé (OMS) réunit à Bangui les autorités ",
+      "date": "2026-08-14T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Succès Masra gracié par le président tchadien Mahamat Déby",
+      "link": "https://www.bbc.com/afrique/articles/c771vdd7zzeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le président tchadien Mahamat Deby a gracié le chef de l'opposition et ancien Premier ministre Succès Masra, ouvrant ainsi la voie à sa libération.",
+      "date": "2026-08-14T10:07:00",
+      "source": "BBC Afrique"
     },
     {
       "title": "Des Palestiniens ont reçu l'ordre de quitter leurs maisons dans un village assiégé par des colons israéliens.",
@@ -18,94 +95,17 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Tchad : l'ex-Premier ministre Succès Masra et huit autres opposants graciés",
-      "link": "https://www.france24.com/fr/afrique/20260814-tchad-ex-premier-ministre-masra-opposants-grace-prison",
-      "desc": "Le président tchadien Mahamat Idriss Déby a gracié, vendredi, par décret, neuf dirigeants de l'opposition, dont l'ex-Premier ministre Succès Masra, qui purgeait une peine de vingt ans de prison ferme. Il avait été reconnu coupable de complicité de meurtre et de diffusion de messages à caractère hain",
-      "date": "2026-08-14T09:39:53",
-      "source": "France 24"
-    },
-    {
-      "title": "Ebola en RD Congo, agent français gracié au Mali, présidentielle en Zambie : l'hebdo Afrique",
-      "link": "https://www.france24.com/fr/afrique/20260814-ebola-en-rd-congo-agent-fran%C3%A7ais-graci%C3%A9-au-mali-pr%C3%A9sidentielle-en-zambie-l-hebdo-afrique",
-      "desc": "",
-      "date": "2026-08-14T09:37:01",
-      "source": "France 24"
-    },
-    {
-      "title": "Tunisie : derrière les droits acquis, les violences faites aux femmes persistent",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-tunisie-derri%C3%A8re-les-droits-acquis-les-violences-faites-aux-femmes-persistent",
-      "desc": "En Tunisie, le 13 août marque la Journée nationale de la femme et l’anniversaire de la promulgation du Code du statut personnel, adopté quelques mois après l’indépendance, le 13 août 1956. Ce texte fondateur a consacré plusieurs droits majeurs pour les Tunisiennes. Mais près de 70 ans plus tard, cet",
-      "date": "2026-08-14T09:34:54",
-      "source": "France 24"
-    },
-    {
-      "title": "Royaume-Uni : Nigel Farage réélu député face au candidat satirique Tête-de-Poubelle",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260814-royaume-uni-nigel-farage-r%C3%A9%C3%A9lu-d%C3%A9put%C3%A9-face-au-candidat-satirique-t%C3%AAte-de-poubelle",
-      "desc": "Nigel Farage, le chef du parti anti-immigration Reform UK, a été réélu facilement député lors d'une législative partielle pour laquelle il avait pour principal rival un candidat satirique, Tête-de-Poubelle, qui a fait un score plus important que prévu.",
-      "date": "2026-08-14T09:28:56",
-      "source": "France 24"
-    },
-    {
-      "title": "Grâce présidentielle pour un Français soupçonné d'espionnage et accusé de comploter un coup d'État au Mali",
-      "link": "https://www.bbc.com/afrique/articles/cwy425523xvo?at_medium=RSS&at_campaign=rss",
-      "desc": "La France n'a pas encore commenté la grâce accordée à Yann Vézilier et avait précédemment qualifié les accusations de « non fondées ».",
-      "date": "2026-08-13T16:32:35",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "J'ai été kidnappée par la Corée du Nord et forcée d'épouser un soldat américain",
-      "link": "https://www.bbc.com/afrique/articles/c9w0qk77x2jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Hitomi Soga, une adolescente, a été détenue pendant plus de vingt ans – elle fait partie des 17 citoyens au moins que le Japon affirme avoir été enlevés dans les années 1970 et 1980.",
-      "date": "2026-08-13T16:17:48",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Des preuves indiquant que les forces spéciales sud-africaines ont assassiné un enquêteur de haut rang ont été transmises à la BBC",
-      "link": "https://www.bbc.com/afrique/articles/c79gjn8d934o?at_medium=RSS&at_campaign=rss",
-      "desc": "Frans Mathipa a été abattu au volant de sa voiture – nous avons eu accès au dossier de l'accusation contre huit hommes.",
-      "date": "2026-08-13T13:11:15",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Après quatre ans de calme, un retour de la guerre est possible au Yémen",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159306",
-      "desc": "Le Yémen est confronté à son risque le plus grave de retour à une guerre de grande ampleur depuis la trêve négociée par l’ONU en 2022, a averti jeudi l’Envoyé spécial du Secrétaire général de l’ONU, Hans Grundberg, devant le Conseil de sécurité.",
+      "title": "Afghanistan : cinq ans après le retour des talibans, l’ONU appelle à miser sur l’inclusion",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159304",
+      "desc": "Cinq ans après le retour des talibans au pouvoir, l’Afghanistan connaît une amélioration de la sécurité, mais reste confronté à des obstacles majeurs sur la voie d’une paix et d’une stabilité durables, avertit l’ONU.",
       "date": "2026-08-13T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Cisjordanie : les violences des colons ont « dépassé le point de rupture »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159303",
-      "desc": "Les violences des colons israéliens contre les Palestiniens et leurs habitations en Cisjordanie occupée ont « dépassé le point de rupture », a dénoncé jeudi le Bureau des droits de l’homme de l’ONU, appelant les autorités israéliennes à « expulser immédiatement » les colons qui déplacent de force de",
+      "title": "Ukraine : juillet, mois le plus meurtrier pour les civils depuis le printemps 2022",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159310",
+      "desc": "La guerre en Ukraine a franchi en juillet un nouveau seuil. Avec plus de 3&nbsp;000 civils tués ou blessés en un mois, le pays a connu son bilan le plus lourd depuis les premières semaines de l’invasion russe à grande échelle. Une dégradation qui tient moins aux combats sur la ligne de front qu’à la",
       "date": "2026-08-13T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "CAN féminine 2026: Bihina héroïque, le Cameroun élimine le Maroc et file en finale",
-      "link": "https://www.bbc.com/afrique/articles/cddjpldqmy2o?at_medium=RSS&at_campaign=rss",
-      "desc": "La Camerounaise Michaely Bihina a arrêté un penalty en prolongation, puis trois autres lors de la séance de tirs au but, permettant ainsi à son équipe de se qualifier pour la finale de la Can Féminine 2026 aux dépens du Maroc, pays hôte.",
-      "date": "2026-08-13T10:04:44",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Mer Rouge : après une nouvelle attaque meurtrière, l’ONU alerte sur la sécurité des marins",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159302",
-      "desc": "La mort de plusieurs marins dans l’attaque du cargo&nbsp;Tihamah, mardi au large du Yémen, ravive les inquiétudes sur la sécurité de la navigation en mer Rouge. L’Organisation maritime internationale (OMI) dénonce la persistance d’attaques qui mettent directement en danger les équipages et menacent ",
-      "date": "2026-08-12T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Jeunesse : les mêmes rêves, pas les mêmes chances",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159301",
-      "desc": "Ils veulent apprendre, travailler, décider et construire leur avenir. Mais selon l’endroit où ils grandissent, les jeunes ne partent pas avec les mêmes chances. Pour la Journée internationale de la jeunesse, célébrée ce 12 août, l’ONU met en lumière un paradoxe mondial : des réalités profondément di",
-      "date": "2026-08-12T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola en RDC : l’épidémie est en passe de devenir la plus importante jamais enregistrée",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159300",
-      "desc": "L’épidémie d’Ebola qui frappe l’est de la République démocratique du Congo progresse plus vite que toutes celles qui l’ont précédée. Avec près de 4 500 cas confirmés et plus de 2 000 morts, l’OMS redoute désormais qu’elle ne dépasse, si son rythme actuel se maintient, la catastrophe qui avait ravagé",
-      "date": "2026-08-12T12:00:00",
       "source": "ONU Info"
     }
   ]
