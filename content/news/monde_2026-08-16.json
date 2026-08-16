@@ -1,28 +1,63 @@
 {
   "category": "monde",
   "date": "2026-08-16",
-  "updated": "2026-08-16T10:00:15.827798Z",
+  "updated": "2026-08-16T19:00:16.624771Z",
   "articles": [
     {
-      "title": "🔴 En direct : l'Ukraine lance l'une de ses plus importantes attaques aériennes en Russie depuis le début de la guerre",
-      "link": "https://www.france24.com/fr/europe/20260816-ukraine-en-direct-des-explosions-retentissent-%C3%A0-kiev-moscou-vis%C3%A9e-par-600-drones",
+      "title": "Le pongiste Félix Lebrun remporte son premier Grand Smash, l'équivalent d'un Grand Chelem",
+      "link": "https://www.france24.com/fr/sports/20260816-tennis-de-table-f%C3%A9lix-lebrun-remporte-son-premier-grand-smash-pongiste-fran%C3%A7ais",
       "desc": "",
-      "date": "2026-08-16T09:48:29",
+      "date": "2026-08-16T18:39:35",
       "source": "France 24"
     },
     {
-      "title": "Mort de Jason Arday : ses proches dénoncent une \"campagne de harcèlement\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-mort-de-jason-arday-ses-proches-d%C3%A9noncent-une-campagne-de-harc%C3%A8lement",
-      "desc": "Les hommages affluent en mémoire de Jason Arday, ancien professeur de l'université de Cambridge retrouvé mort vendredi après avoir été au cœur d'un scandale de plagiat. Des proches et des collègues dénoncent une campagne de harcèlement envers le professeur Arday, sur fond de racisme, depuis sa nomin",
-      "date": "2026-08-16T09:22:46",
+      "title": "Tennis de table : Félix Lebrun remporte son premier Grand Smash",
+      "link": "https://www.france24.com/fr/sports/20260816-tennis-de-table-f%C3%A9lix-lebrun-remporte-son-premier-grand-smash-pongiste-fran%C3%A7ais",
+      "desc": "Le pongiste français Félix Lebrun a remporté dimanche un Grand Smash, l'équivalent d'un Grand Chelem en tennis, à Malmö en Suède. Une première pour le tennis de table français.",
+      "date": "2026-08-16T18:38:03",
       "source": "France 24"
     },
     {
-      "title": "Face à la sécheresse en France, des terrains de football impraticables",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-face-%C3%A0-la-s%C3%A9cheresse-en-france-des-terrains-de-football-impraticables",
-      "desc": "La sécheresse qui sévit en France met à rude épreuve les terrains de football. Privées d’eau et fragilisées par des températures élevées, les pelouses se dessèchent, se fissurent et deviennent dangereuses pour les joueurs. Reportage France 2.",
-      "date": "2026-08-16T09:19:27",
+      "title": "Léon Marchand, champion d’Europe sur 400 mètres nage libre, nouvelle médaille d'or pour la France",
+      "link": "https://www.france24.com/fr/sports/20260816-l%C3%A9on-marchand-champion-europe-sur-400-m%C3%A8tres-nage-libre-nouvelle-m%C3%A9daille-or-pour-%C3%A9quipe-de-france-natation",
+      "desc": "",
+      "date": "2026-08-16T17:58:01",
       "source": "France 24"
+    },
+    {
+      "title": "Léon Marchand, champion d’Europe sur 400 m nage libre, nouvelle médaille d'or pour la France",
+      "link": "https://www.france24.com/fr/sports/20260816-l%C3%A9on-marchand-champion-europe-sur-400-m%C3%A8tres-nage-libre-nouvelle-m%C3%A9daille-or-pour-%C3%A9quipe-de-france-natation",
+      "desc": "Le nageur français Léon Marchand a remporté dimanche la finale du 400 mètres nage libre lors des championnats d'Europe de natation à Saint-Denis, près de Paris. Il bat le record de France en 3 min 43 sec 14 et apporte une nouvelle médaille d'or à l'équipe de France.",
+      "date": "2026-08-16T17:56:07",
+      "source": "France 24"
+    },
+    {
+      "title": "Des hommes chinois solitaires victimes d'escroqueries par de fausses épouses",
+      "link": "https://www.bbc.com/afrique/articles/cy5d17e6x00o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les arnaques liées aux \"mariages éclair\" sont un symptôme extrême d'une crise démographique qui se préparait depuis longtemps en Chine.",
+      "date": "2026-08-16T16:21:23",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Sénégal : les régates de pirogues, une tradition vieille de deux siècles à Saint-Louis",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9n%C3%A9gal-les-r%C3%A9gates-de-pirogues-une-tradition-vieille-de-deux-si%C3%A8cles-%C3%A0-saint-louis",
+      "desc": "À Saint-Louis, au Sénégal, les traditionnelles régates de pirogues perpétuent une tradition vieille de près de deux siècles. Dans le quartier de pêcheurs de Guet Ndar, cette course de 3,5 km rassemble chaque année rameurs et habitants autour d'un événement culturel et sportif majeur. Mais malgré son",
+      "date": "2026-08-16T16:03:10",
+      "source": "France 24"
+    },
+    {
+      "title": "Nous nous trompons sur les horaires des repas : voici le meilleur moment pour dîner",
+      "link": "https://www.bbc.com/afrique/articles/cdx7kyv1g7po?at_medium=RSS&at_campaign=rss",
+      "desc": "Ce n'est pas seulement ce que vous mangez qui compte : votre horloge biologique joue un rôle important dans la façon dont vous métabolisez les aliments.",
+      "date": "2026-08-16T13:36:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La guerre de Troie a-t-elle réellement eu lieu ? Que disent les archéologues et les historiens ?",
+      "link": "https://www.bbc.com/afrique/articles/cx2r19v8eydo?at_medium=RSS&at_campaign=rss",
+      "desc": "Plus de trois mille ans se sont écoulés depuis la bataille qui a inspiré l'une des légendes les plus célèbres de l'histoire, mais la question de la réalité de la guerre de Troie demeure sans réponse. Si le film \"L'Odyssée\" de Christopher Nolan a remis ce récit sur le devant de la scène, archéologues",
+      "date": "2026-08-16T11:22:57",
+      "source": "BBC Afrique"
     },
     {
       "title": "\"Poutine peut détruire l'Ukraine, mais il ne peut pas la conquérir\"",
@@ -32,45 +67,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Sénégal : Pape Thiaw met en demeure la Fédération sénégalaise de football",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-s%C3%A9n%C3%A9gal-pape-thiaw-met-en-demeure-la-f%C3%A9d%C3%A9ration-s%C3%A9n%C3%A9galaise-de-football",
-      "desc": "Pape Thiaw, l'ex-sélectionneur des Lions de la Teranga, met en demeure l'équipe nationale du Sénégal de football. Il réclame six mois d'arriérés de salaire, des primes et indemnités non payées, pour un montant dépassant les 400 millions de francs CFA. Explications d'Elimane Ndao depuis Dakar pour Fr",
-      "date": "2026-08-16T09:13:18",
-      "source": "France 24"
-    },
-    {
-      "title": "Cisjordanie occupée : la violence des colons hors de contrôle",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260816-cisjordanie-occup%C3%A9e-la-violence-des-colons-hors-de-contr%C3%B4le",
-      "desc": "Depuis une semaine, des familles vivant à Qusra, un ​village de Cisjordanie, sont encerclées et assiégées par des colons israéliens. Washington, d'ordinaire fervent soutien d'Israël, souhaite que Benyamin Netanyahu les condamne, mais son ministre de la défense Israël Katz, annonce lui le transfert d",
-      "date": "2026-08-16T09:10:50",
-      "source": "France 24"
-    },
-    {
-      "title": "Pourquoi, 30 ans plus tard, l'assassinat de Tupac Shakur n'a-t-il toujours pas été résolu ?",
-      "link": "https://www.bbc.com/afrique/articles/cpq8p722g0ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Trois décennies se sont écoulées depuis la mort de Tupac, et depuis, sa légende n’a cessé de grandir.",
-      "date": "2026-08-15T15:53:52",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Jason Arday, le professeur de l'université de Cambridge accusé de plagiat, a été retrouvé mort",
       "link": "https://www.bbc.com/afrique/articles/cm2ggz90z2ro?at_medium=RSS&at_campaign=rss",
       "desc": "Jason Arday a été retrouvé sans vie dans un logement à Battersea, dans le sud de Londres, vendredi après-midi, ont indiqué les autorités.",
       "date": "2026-08-15T15:37:39",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les 10 routes les plus dangereuses au monde en 2026",
-      "link": "https://www.bbc.com/afrique/articles/crrvp7x8prvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Attachez votre ceinture et préparez-vous à un voyage vertigineux à la découverte de certaines des routes les plus dangereuses au monde.",
-      "date": "2026-08-15T13:55:24",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Qui sont les sœurs Chawinga qui mènent l'équipe du Malawi dans sa quête de gloire à la CAN féminine?",
-      "link": "https://www.bbc.com/afrique/articles/c98v2nm0386o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les sœurs Tabitha et Temwa Chawinga sont incontestablement les stars du parcours inattendu du Malawi jusqu'en finale de la Coupe d'Afrique des Nations féminine 2026.",
-      "date": "2026-08-15T11:06:25",
       "source": "BBC Afrique"
     },
     {
