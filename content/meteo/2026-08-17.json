@@ -3,19 +3,19 @@
   "title": "Météo du 17 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 22.86,
-    "feels_like": 22.77,
-    "humidity": 60,
+    "temp": 19.04,
+    "feels_like": 19.48,
+    "humidity": 95,
     "description": "Couvert",
     "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 35.79,
-    "feels_like": 42.17,
-    "humidity": 49,
-    "description": "Légère pluie",
-    "wind_kmh": 29.6
+    "temp": 25.18,
+    "feels_like": 25.92,
+    "humidity": 83,
+    "description": "Couvert",
+    "wind_kmh": 7.2
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 17 août 2026 sur Radio Sources de Vie. À Ottawa: 23 degrés Celsius. Couvert. À Port-au-Prince: 36 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 17 août 2026 sur Radio Sources de Vie. À Ottawa: 19 degrés Celsius. Couvert. À Port-au-Prince: 25 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
