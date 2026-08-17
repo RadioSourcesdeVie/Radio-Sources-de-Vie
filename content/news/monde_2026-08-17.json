@@ -1,42 +1,84 @@
 {
   "category": "monde",
   "date": "2026-08-17",
-  "updated": "2026-08-17T10:00:16.234862Z",
+  "updated": "2026-08-17T19:00:16.756011Z",
   "articles": [
     {
-      "title": "Sénégal : à Saint-Louis, les régates perpétuent une tradition séculaire",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-s%C3%A9n%C3%A9gal-%C3%A0-saint-louis-les-r%C3%A9gates-perp%C3%A9tuent-une-tradition-s%C3%A9culaire",
-      "desc": "À Saint-Louis, dans le nord du Sénégal, les régates de pirogues, héritées des pêcheurs de Guet-Ndar, rassemblent des milliers de personnes autour d’une tradition séculaire. Une course devenue un véritable marqueur de l’identité de la ville. \"Nous avons hérité cette course de nos aïeux et maintenant,",
-      "date": "2026-08-17T09:55:48",
+      "title": "Gaza : Kushner rencontre Netanyahu pour tenter de sortir le plan Trump de l'impasse",
+      "link": "https://www.france24.com/fr/moyen-orient/20260817-gaza-kushner-rencontre-netanyahu-pour-tenter-de-sortir-le-plan-trump-de-l-impasse",
+      "desc": "Jared Kushner, émissaire américain et gendre du Donald Trump, a clôturé lundi deux jours de rencontres avec les dirigeants israéliens et ceux du ​Hamas mais aucun signe d'une avancée imminente n'est apparu, les deux parties campant sur leurs positions. Principale pomme de discorde : le désarmement d",
+      "date": "2026-08-17T17:48:37",
       "source": "France 24"
     },
     {
-      "title": "Italie : quatre oeuvres d'Antonello de Messine volées dans un musée sicilien",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-italie-quatre-oeuvres-d-antonello-de-messine-vol%C3%A9es-dans-un-mus%C3%A9e-sicilien",
-      "desc": "Quatre oeuvres \"d'une valeur exceptionnelle\" du célèbre peintre de la Renaissance Antonello de Messine ont été dérobées dans un musée en Sicile, a annoncé dimanche le ministère italien de la Culture dans un communiqué.",
-      "date": "2026-08-17T09:53:29",
+      "title": "À Ceuta, des migrants bloqués aux portes de l'Europe attendent de connaître leur sort",
+      "link": "https://www.france24.com/fr/europe/20260817-ceuta-enclave-espagne-le-sort-des-migrants-suspendu-porte-europe-immigration-fronti%C3%A8re-maroc",
+      "desc": "L'enclave espagnole située en Afrique du Nord a vu, fin juillet, des milliers de migrants arriver sur son territoire. Certains d'entre eux se sont installés sur la plage El Trampolin, à Ceuta. Ces personnes de différentes nationalités, qui parlent des langues diverses, vivent dans des conditions som",
+      "date": "2026-08-17T17:15:16",
       "source": "France 24"
     },
     {
-      "title": "Le parquet de Paris ouvre une enquête sur le piratage massif du fisc",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-le-parquet-de-paris-ouvre-une-enqu%C3%AAte-sur-le-piratage-massif-du-fisc",
-      "desc": "\"Extraction frauduleuse de données\" et \"association de malfaiteurs\" : la section cyber du parquet de Paris a ouvert une enquête après la cyberattaque touchant près de 700.000 usagers de l'administration fiscale.",
-      "date": "2026-08-17T09:52:35",
+      "title": "Des influenceurs se font mordre alors qu'ils tentent de capturer la photo parfaite d'un requin",
+      "link": "https://www.bbc.com/afrique/articles/c8jnd9dyn2mo?at_medium=RSS&at_campaign=rss",
+      "desc": "Tayane Dalazen participait à une sortie de plongée avec les requins au Brésil lorsqu'elle a été attaquée.",
+      "date": "2026-08-17T17:00:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La SAPE à l'honneur à la 6e édition de la DRC Fashion Week à Kinshasa",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-la-sape-%C3%A0-l-honneur-%C3%A0-la-6e-%C3%A9dition-de-la-drc-fashion-week-%C3%A0-kinshasa",
+      "desc": "La mode congolaise à l’honneur à Kinshasa avec la 6e édition de la DRC Fashion Week. Jeunes créateurs de RDC et du Congo-Brazza y célèbrent notamment la SAPE, mouvement culturel et vestimentaire emblématique, né au début du XXe siècle.",
+      "date": "2026-08-17T16:32:53",
       "source": "France 24"
     },
     {
-      "title": "Nouvelles frappes russo-ukrainiennes, plusieurs morts dans la région russe de Belgorod",
-      "link": "https://www.france24.com/fr/europe/20260817-nouvelles-frappes-russo-ukrainiennes-plusieurs-morts-dans-la-r%C3%A9gion-russe-de-belgorod",
-      "desc": "Au moins six personnes sont mortes dans une frappe de missiles ukrainiens dans la région russe de Belgorod, près de la frontière, ont annoncé, lundi, les autorités locales, tandis que Kiev fait état d'attaques russes dans la région d'Odessa. L'Ukraine et la Russie sont entraînées dans une nette esca",
-      "date": "2026-08-17T09:48:29",
+      "title": "Russie : vague d'arrestations lors d'un rassemblement de soutien à un parti antiguerre",
+      "link": "https://www.france24.com/fr/europe/20260817-russie-vague-d-arrestations-lors-d-un-rassemblement-de-soutien-%C3%A0-un-parti-antiguerre",
+      "desc": "Des dizaines de personnes ont été arrêtées lundi à Moscou en marge d'un rassemblement de soutien au seul parti antiguerre de Russie, Iabloko, exclu des prochaines législatives. Dans une procédure distincte, le vice président de cette formation politique, Lev Chlosberg, a été condamné à 11 ans et un ",
+      "date": "2026-08-17T16:04:27",
       "source": "France 24"
     },
     {
-      "title": "Incendie en Belgique : la progression du feu \"limitée\", des moyens aériens mobilisés",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-incendie-en-belgique-la-progression-du-feu-limit%C3%A9e-des-moyens-a%C3%A9riens-mobilis%C3%A9s",
-      "desc": "L'incendie en Belgique n'est pas encore fixé lundi mais sa \"progression est restée limitée\" grâce à \"des vents plus favorables et aux précipitations enregistrées en fin de nuit\", ont indiqué les autorités dans un communiqué.",
-      "date": "2026-08-17T09:44:53",
+      "title": "Incendies : Lecornu annonce un plan d'aide qui pourrait dépasser 100 millions d'euros",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260817-incendies-lecornu-annonce-un-plan-d-aide-qui-pourrait-d%C3%A9passer-100-millions-d-euros",
+      "desc": "Après les mégafeux qui ont ravagé la Gironde et les Landes, Sébastien Lecornu promet de sortir \"l’artillerie lourde\". Le Premier ministre français a annoncé un plan d’aide qui pourrait dépasser 100 millions d’euros.",
+      "date": "2026-08-17T15:50:22",
       "source": "France 24"
+    },
+    {
+      "title": "Comment une femme de 97 ans a survécu aux inondations meurtrières en Inde grâce à un radeau de troncs de bananiers",
+      "link": "https://www.bbc.com/afrique/articles/c3w0210v88go?at_medium=RSS&at_campaign=rss",
+      "desc": "Le sauvetage spectaculaire d'une personne de 97 ans illustre comment les inondations en Assam atteignent des endroits autrefois considérés comme sûrs.",
+      "date": "2026-08-17T14:07:46",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L’herbe sous nos pieds : pourquoi les terres de parcours naturels sont essentielles",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159322",
+      "desc": "Alors qu’une conférence internationale sur la désertification s’ouvre en Mongolie, les participants cherchent à accélérer les réponses à la dégradation des terres, à la désertification et à la sécheresse, qui menacent la sécurité alimentaire et hydrique ainsi que les moyens de subsistance de million",
+      "date": "2026-08-17T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Yémen : l’ONU met en garde contre une escalade du conflit",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159321",
+      "desc": "Le chef des droits de l’homme de l’ONU a appelé lundi les parties au conflit au Yémen à désamorcer immédiatement les tensions, avertissant que toute nouvelle escalade pourrait replonger le pays dans « une guerre totale ».",
+      "date": "2026-08-17T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ebola : l’épidémie devient la plus meurtrière de l’histoire de la RDC",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159320",
+      "desc": "L’épidémie d’Ebola en République démocratique du Congo (RDC) est devenue lundi la plus meurtrière de l’histoire du pays, a confirmé l’Organisation mondiale de la Santé (OMS). En trois mois, elle a déjà fait 2.325 morts sur 4.945 cas confirmés, dépassant le bilan de la précédente flambée, en 2018-202",
+      "date": "2026-08-17T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L’épidémie d’Ebola en République démocratique du Congo devient la plus meurtrière de son histoire",
+      "link": "https://www.bbc.com/afrique/articles/cp8741g38nlo?at_medium=RSS&at_campaign=rss",
+      "desc": "L'épidémie était déjà la plus rapide jamais enregistrée, causée par une souche rare d'Ebola appelée Bundibugyo.",
+      "date": "2026-08-17T11:40:37",
+      "source": "BBC Afrique"
     },
     {
       "title": "Avoir des cuisses plus grosses peut-il vous aider à vivre plus longtemps ?",
@@ -53,27 +95,6 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Des hommes chinois solitaires victimes d'escroqueries par de fausses épouses",
-      "link": "https://www.bbc.com/afrique/articles/cy5d17e6x00o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les arnaques liées aux \"mariages éclair\" sont un symptôme extrême d'une crise démographique qui se préparait depuis longtemps en Chine.",
-      "date": "2026-08-16T16:21:23",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Nous nous trompons sur les horaires des repas : voici le meilleur moment pour dîner",
-      "link": "https://www.bbc.com/afrique/articles/cdx7kyv1g7po?at_medium=RSS&at_campaign=rss",
-      "desc": "Ce n'est pas seulement ce que vous mangez qui compte : votre horloge biologique joue un rôle important dans la façon dont vous métabolisez les aliments.",
-      "date": "2026-08-16T13:36:09",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La guerre de Troie a-t-elle réellement eu lieu ? Que disent les archéologues et les historiens ?",
-      "link": "https://www.bbc.com/afrique/articles/cx2r19v8eydo?at_medium=RSS&at_campaign=rss",
-      "desc": "Plus de trois mille ans se sont écoulés depuis la bataille qui a inspiré l'une des légendes les plus célèbres de l'histoire, mais la question de la réalité de la guerre de Troie demeure sans réponse. Si le film \"L'Odyssée\" de Christopher Nolan a remis ce récit sur le devant de la scène, archéologues",
-      "date": "2026-08-16T11:22:57",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Soudan du Sud : les réfugiés pourraient être privés d’aide alimentaire dès l'automne",
       "link": "https://news.un.org/feed/view/fr/story/2026/08/1159319",
       "desc": "Ils ne reçoivent déjà plus que la moitié d’une ration. A partir de la fin septembre, les réfugiés au Soudan du Sud pourraient être entièrement privés d’aide alimentaire, faute de financement, alertent les Nations Unies. Une nouvelle réduction qui intervient alors que plus de la moitié de la populati",
@@ -84,27 +105,6 @@
       "title": "Afghanistan : les femmes ont disparu de l’espace public",
       "link": "https://news.un.org/feed/view/fr/story/2026/08/1159318",
       "desc": "Cinq ans après leur retour au pouvoir, les talibans ont méthodiquement réduit l’espace réservé aux femmes en Afghanistan. Ecole, travail, déplacements, accès à la justice : plus d’une centaine de décrets ont progressivement institutionnalisé leur exclusion.",
-      "date": "2026-08-14T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Séisme en Colombie : à Cali, la solidarité s’organise au milieu des décombres",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159316",
-      "desc": "Dans l’une des villes les plus durement frappées par le séisme qui a secoué la Colombie lundi, des centaines de personnes attendent encore des nouvelles de proches, d’amis ou de voisins portés disparus. Alors que les secouristes fouillent les bâtiments effondrés à la recherche de survivants, les hab",
-      "date": "2026-08-14T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Guerre au Soudan : le périlleux parcours pour accoucher au Darfour",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159314",
-      "desc": "Au Darfour, des femmes enceintes marchent pendant des heures ou empruntent des moyens de transport de fortune pour atteindre un hôpital en mesure de les prendre en charge. Certaines arrivent trop tard et meurent, parfois avec leur bébé. En visite dans cette région de l’ouest du Soudan, une responsab",
-      "date": "2026-08-14T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola en RDC : une sixième province touchée, l’OMS renforce la riposte régionale",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159315",
-      "desc": "Une sixième province de la République démocratique du Congo (RDC) est désormais touchée par l’épidémie de maladie à virus Ebola. La détection d’un cas mortel dans le Bas-Uele, frontalier de la Centrafrique, intervient alors que l’Organisation mondiale de la santé (OMS) réunit à Bangui les autorités ",
       "date": "2026-08-14T12:00:00",
       "source": "ONU Info"
     }
