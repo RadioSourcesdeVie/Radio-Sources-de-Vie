@@ -3,19 +3,19 @@
   "title": "Météo du 21 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 23.94,
-    "feels_like": 23.59,
-    "humidity": 46,
-    "description": "Couvert",
-    "wind_kmh": 13.0
+    "temp": 13.17,
+    "feels_like": 12.87,
+    "humidity": 89,
+    "description": "Ciel dégagé",
+    "wind_kmh": 11.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 35.79,
-    "feels_like": 42.79,
-    "humidity": 52,
-    "description": "Légère pluie",
-    "wind_kmh": 24.1
+    "temp": 26.13,
+    "feels_like": 26.13,
+    "humidity": 75,
+    "description": "Ciel dégagé",
+    "wind_kmh": 8.4
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 21 août 2026 sur Radio Sources de Vie. À Ottawa: 24 degrés Celsius. Couvert. À Port-au-Prince: 36 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 21 août 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Ciel dégagé. À Port-au-Prince: 26 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
 }
