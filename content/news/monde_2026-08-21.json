@@ -1,69 +1,83 @@
 {
   "category": "monde",
   "date": "2026-08-21",
-  "updated": "2026-08-21T10:00:16.859643Z",
+  "updated": "2026-08-21T19:00:17.071712Z",
   "articles": [
     {
-      "title": "Angélique Kidjo à Hollywood, Paul Biya de retour au Cameroun, Ebola en RD Congo : l'hebdo afrique",
-      "link": "https://www.france24.com/fr/afrique/20260821-paul-biya-retour-cameroun-%C3%A9pidemie-ebola-rd-congo-chanteuse-ang%C3%A9lique-kidjo-walk-of-fame-l-hebdo-afrique",
-      "desc": "",
-      "date": "2026-08-21T09:11:30",
+      "title": "Sénégal : pourquoi la réforme sur la déclaration du patrimoine fait débat ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-s%C3%A9n%C3%A9gal-pourquoi-la-r%C3%A9forme-sur-la-d%C3%A9claration-du-patrimoine-fait-d%C3%A9bat",
+      "desc": "🇸🇳 Au Sénégal, les députés ont adopté, lundi 17 août, une réforme de la déclaration de patrimoine au sommet de l'Etat. Président, Premier ministre et Président de l’Assemblée devront désormais publier leurs biens au début et à la fin de leur mandat. Une mesure de transparence sur fond de tensions po",
+      "date": "2026-08-21T18:44:29",
       "source": "France 24"
     },
     {
-      "title": "La spationaute Sophie Adenot va effectuer une nouvelle sortie dans l’espace mardi",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20260821-spationaute-sophie-adenot-va-effectuer-nouvelle-sortie-dans-espace-mardi",
-      "desc": "La Française Sophie Adenot va de nouveau sortir mardi de la Station spatiale internationale (ISS) en compagnie de l’Américain Anil Menon, annonce la Nasa. Elle va poursuivre le remplacement d'une antenne défectueuse, pour lequel elle a déjà passé plus de six heures dans l’espace.",
-      "date": "2026-08-21T09:02:09",
+      "title": "Côte d'ivoire : pourquoi la basilique de Yamoussoukro reste fraiche ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260821-c%C3%B4te-d-ivoire-pourquoi-la-basilique-de-yamoussoukro-reste-fraiche",
+      "desc": "La basilique Notre-Dame de la Paix à Yamoussoukro est considérée comme la plus grande basilique au monde. Malgré un climat tropical, les fidèles y sont toujours au frais.",
+      "date": "2026-08-21T18:25:14",
       "source": "France 24"
     },
     {
-      "title": "Qui remplacera Salah en tant que roi de la Premier League africaine ?",
+      "title": "Cyclisme : l'ancien champion du monde Julian Alaphilippe annonce la fin de sa carrière sportive",
+      "link": "https://www.france24.com/fr/sports/20260821-cyclisme-l-ancien-champion-du-monde-julian-alaphilippe-annonce-la-fin-de-sa-carri%C3%A8re-sportive",
+      "desc": "Le Français Julian Alaphilippe a annoncé officiellement \"la fin de sa carrière sportive\" vendredi sur ses réseaux sociaux. Ce cycliste de 34 ans notamment a remporté deux titres consécutifs de champion du monde (2020 et 2021), un doublé inédit pour un coureur français.",
+      "date": "2026-08-21T17:51:11",
+      "source": "France 24"
+    },
+    {
+      "title": "En Ukraine, des frappes russes font au moins 18 morts et plus de 120 blessés",
+      "link": "https://www.france24.com/fr/europe/20260821-en-ukraine-des-frappes-russes-font-au-moins-18-morts-et-plus-de-120-bless%C3%A9s",
+      "desc": "Au ​moins 18 personnes ont été tuées dans une ​attaque russe de drones visant un centre commercial, qui a également blessé plus de 120 personnes dans la ville ​ukrainienne de ‌Kryvyï Rig, ont annoncé, vendredi, ⁠les autorités locales. Le président ukrainien, Volodymyr Zelensky, dénonce des \"actes te",
+      "date": "2026-08-21T17:49:15",
+      "source": "France 24"
+    },
+    {
+      "title": "\"Flottille pour Gaza\" : la Turquie lance un mandat d'arrêt international contre Netanyahu",
+      "link": "https://www.france24.com/fr/moyen-orient/20260821-flottille-pour-gaza-la-turquie-lance-un-mandat-d-arr%C3%AAt-d-international-contre-netanyahu",
+      "desc": "La justice turque a annoncé, vendredi, avoir émis un mandat d'arrêt international contre le Premier ministre israélien, Benjamin Netanyahu, dans le cadre d'une enquête sur les conditions d'incarcération de militants de la \"Flottille pour Gaza\". Partis des côtes turques en mai, ces militants voulaien",
+      "date": "2026-08-21T17:40:21",
+      "source": "France 24"
+    },
+    {
+      "title": "Une campagne en faveur de l'excision suscite l'indignation au Mali",
+      "link": "https://www.bbc.com/afrique/articles/c4g3nr40drwo?at_medium=RSS&at_campaign=rss",
+      "desc": "Alors que de nombreuses organisations de défense des droits des femmes militent pour l’abandon de l’excision, une campagne visant à défendre cette pratique a récemment été lancée au Mali. Cette initiative a suscité l’indignation de plusieurs organisations féministes et acteurs de la société civile.",
+      "date": "2026-08-21T17:02:47",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "\"J'ai traversé les continents pour confronter l'escroc sentimental qui a piégé ma mère. Voici ce que j'ai découvert.\"",
+      "link": "https://www.bbc.com/afrique/articles/crl766yd031o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les « Yahoo Boys » nigérians sont de jeunes hommes qui utilisent leur téléphone et leur intelligence pour persuader certaines victimes de leur remettre des milliers de dollars.",
+      "date": "2026-08-21T15:12:52",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Comment l'alcool contribue au vieillissement accéléré",
+      "link": "https://www.bbc.com/afrique/articles/ce857jnzg8do?at_medium=RSS&at_campaign=rss",
+      "desc": "Arrêter de consommer de l'alcool peut vous faire gagner des années de vie en ralentissant le processus de vieillissement du corps.",
+      "date": "2026-08-21T12:44:57",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Somalie : les coupes budgétaires mettent en péril l’aide aux enfants vulnérables",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159341",
+      "desc": "Les coupes de l’aide publique au développement entraînent la fermeture des services de santé et de nutrition en Somalie, rendant l’accès à l’eau, à l’éducation et aux services de protection toujours plus difficile, a mis en garde vendredi une agence des Nations Unies.&nbsp;",
+      "date": "2026-08-21T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Pourquoi les femmes sont souvent de meilleures investisseuses que les hommes",
+      "link": "https://www.bbc.com/afrique/articles/c9d88ypwy88o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les femmes peuvent obtenir des rendements plus élevés, mais seulement un quart environ des femmes britanniques possèdent des investissements, contre environ 40 % des hommes.",
+      "date": "2026-08-21T10:16:05",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Qui remplacera Salah en tant que roi africain de la Premier League ?",
       "link": "https://www.bbc.com/afrique/articles/c5yrn73je73o?at_medium=RSS&at_campaign=rss",
       "desc": "Après le départ de Mohamed Salah de Liverpool après neuf saisons, qui pourrait prendre la place du roi égyptien en tant que plus grande star africaine de Premier League ?",
       "date": "2026-08-21T08:28:56",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Le sud du Pérou touché par un séisme de magnitude 6,7",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20260821-sud-p%C3%A9rou-touch%C3%A9-s%C3%A9isme-magnitude-6-7",
-      "desc": "Un séisme de magnitude 6,7 – selon l'Institut d'études géologiques des États-Unis – a frappé jeudi le sud du Pérou. Les données préliminaires font état de trois personnes légèrement blessées, ainsi que de 22 bâtiments résidentiels, six écoles et 12 centres médicaux endommagés.",
-      "date": "2026-08-21T08:24:32",
-      "source": "France 24"
-    },
-    {
-      "title": "Ligue Conférence : Monaco prend une option en Pologne",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260821-ligue-conf%C3%A9rence-monaco-prend-option-pologne",
-      "desc": "Monaco s’est imposé sur le terrain du Gornik Zabrze (3-2), en barrages aller de la Ligue Conférence. Mika Biereth a ouvert le score pour les Monégasques, avant que Lamine Camara ne double la mise après la pause. Paris Brunner a ensuite redonné l’avantage au club de la Principauté, après deux réducti",
-      "date": "2026-08-21T05:13:34",
-      "source": "France 24"
-    },
-    {
-      "title": "Désormais incontournable, le RN entre présidentialisation et refus de l’État de droit (3/3)",
-      "link": "https://www.france24.com/fr/france/20260821-france-rassemblement-national-entre-presidentialisation-refus-etat-de-droit-incontournable",
-      "desc": "De la dédiabolisation à la présidentialisation du RN (3/3). Fort de nombreux députés élus à l’Assemblée nationale, le RN influence de plus en plus la vie politique française. Sa participation à la marche contre l’antisémitisme après les attaques du 7-Octobre en Israël marque une étape décisive dans ",
-      "date": "2026-08-21T05:10:19",
-      "source": "France 24"
-    },
-    {
-      "title": "La vie dans les meilleurs pays au monde pour les expatriés en 2026",
-      "link": "https://www.bbc.com/afrique/articles/cly5redd1dxo?at_medium=RSS&at_campaign=rss",
-      "desc": "De nouveaux classements mondiaux révèlent les meilleurs endroits où s'installer à l'étranger – et ceux qui ont franchi le pas expliquent pourquoi.",
-      "date": "2026-08-20T17:19:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Un fonctionnaire français nous a droguées pour nous faire uriner dessus, affirment les accusatrices",
-      "link": "https://www.bbc.com/afrique/articles/c204wqj36n7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Plus de 200 femmes accusent Christian Nègre de les avoir droguées lors d'entretiens d'embauche pour les faire uriner ; deux d'entre elles témoignent.",
-      "date": "2026-08-20T14:46:57",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Angélique Kidjo réagit à son entrée dans l'histoire du Hollywood Walk of Fame",
-      "link": "https://www.bbc.com/afrique/articles/cvg0j2re94vo?at_medium=RSS&at_campaign=rss",
-      "desc": "« Nous ne voyons pas ce que la musique de nos ancêtres a accompli », déplore cette icône musicale béninoise de 66 ans.",
-      "date": "2026-08-20T12:37:10",
       "source": "BBC Afrique"
     },
     {
@@ -93,20 +107,6 @@
       "desc": "La moitié des cas suspects de variole simienne (mpox) signalés en Guinée-Bissau concernent des enfants de moins de 15 ans, a averti jeudi l’agence de l’ONU pour l’enfance, appelant à renforcer la surveillance, la prévention et la sensibilisation communautaire alors que le pays est confronté à sa pre",
       "date": "2026-08-20T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Ebola : la RDC va recevoir 70.000 doses de vaccin pour tenter d’enrayer l'épidémie",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159338",
-      "desc": "La République démocratique du Congo va recevoir 70.000 doses du vaccin Ervebo de Merck contre Ebola, a annoncé jeudi l’Organisation mondiale de la Santé (OMS), alors que le pays tente de contenir une flambée du virus Bundibugyo qui se propage à une « vitesse sans précédent ».",
-      "date": "2026-08-20T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Le prince Harry et Meghan vont retourner vivre au Royaume-Uni",
-      "link": "https://www.bbc.com/afrique/articles/c62qyylz9vyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les enfants du couple, le prince Archie, âgé de sept ans, et la princesse Lilibet, âgée de cinq ans, sont inscrits pour intégrer une école britannique en septembre.",
-      "date": "2026-08-20T10:15:42",
-      "source": "BBC Afrique"
     }
   ]
 }
