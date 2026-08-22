@@ -1,62 +1,62 @@
 {
   "category": "haiti",
   "date": "2026-08-22",
-  "updated": "2026-08-22T10:00:17.714307Z",
+  "updated": "2026-08-22T19:00:15.561612Z",
   "articles": [
     {
-      "title": "Haïti - CFU Challenge 2026 (U-14) : Haïti qualifié pour la finale écrase les dominicains [6-1] en 1/2 finale",
-      "link": "https://www.haitilibre.com/article-48269-haiti-cfu-challenge-2026-u-14-haiti-qualifie-pour-la-finale-ecrase-les-dominicains-[6-1]-en-1-2-finale.html",
-      "desc": "Vendredi 21 août, dans le cadre de la CFU Challenge 2026 U-14, nos jeunes Grenadiers ont écrasé  en demi finale les « Quisqueyanos » la sélection de la République Dominicaine [6-1] et validé leur billet pour la grande finale...",
-      "date": "2026-08-22T09:56:28",
+      "title": "Haïti - Actualité : Zapping",
+      "link": "https://www.haitilibre.com/article-48275-haiti-actualite-zapping.html",
+      "desc": "Le groupe terroriste « Kraze Bary » sous pression - USA : Sans TPS évitez les voyages intérieurs - CFU U14 : Wensley Dumorné MVP de la demi finale - Renforcement de la sécurité sociale en Haïti - Cayes : Exercice de simulation à l&apos;Aéroport - Avis aux...",
+      "date": "2026-08-22T15:04:47",
       "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Agriculture : Forum national sur les femmes rurales",
+      "link": "https://www.icihaiti.com/article-48274-icihaiti-agriculture-forum-national-sur-les-femmes-rurales.html",
+      "desc": "Pedrica Saint Jean la Ministre de la Condition Féminine a pris part cette semaine au Forum national sur les femmes rurales, organisé par la Confédération des Organisations de Femmes Rurales d&apos;Haïti…",
+      "date": "2026-08-22T14:01:25",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - COP17 : Une délégation haïtienne en Mongolie",
+      "link": "https://www.icihaiti.com/article-48273-icihaiti-cop17-une-delegation-haitienne-en-mongolie.html",
+      "desc": "Une délégation d&apos;Haïti participe à la 17e Conférence des Parties (COP17) à la Convention des Nations Unies sur la lutte contre la désertification, qui se tient à Oulan-Bator, en Mongolie, autour du thème « Restaurer la terre, restaurer l&apos;espoir...",
+      "date": "2026-08-22T13:52:07",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Sécurité : Le Ministère de la Défense, les FAd'H et l'UEH ont signé un protocole d'accord de partenariat stratégique",
+      "link": "https://www.haitilibre.com/article-48272-haiti-securite-le-ministere-de-la-defense-les-fad-h-et-l-ueh-ont-signe-un-protocole-d-accord-de-partenariat-strategique.html",
+      "desc": "Vendredi 21 août, à l&apos;occasion du lancement du Forum national sur la vision et l&apos;avenir des FAd&apos;H, le Ministère de la Défense, les FAd&apos;H et l&apos;Université d&apos;État d&apos;Haïti (UEH) ont signé un protocole d&apos;accord-cadre de partenariat stratégique...",
+      "date": "2026-08-22T13:20:54",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Cérémonie de départ de l'Ambassadeur du Canada André François Giroux",
+      "link": "https://www.icihaiti.com/article-48271-icihaiti-ceremonie-de-depart-de-l-ambassadeur-du-canada-andre-francois-giroux.html",
+      "desc": "Vendredi 21 août 2026, le Premier Ministre,Alix Didier Fils-Aimé, a participé, à une cérémonie marquant le départ d&apos;André François Giroux, l&apos;Ambassadeur du Canada en Haïti, au terme de son mandat…",
+      "date": "2026-08-22T12:58:08",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Magali Bessone, la philosophe qui veut rendre justice à Haïti - Le Nouvel Obs",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONWdMaTJrMi1zeFFEdVdMcm55RHlZNmtHR3piblRfUjFYdFNrUUU4WXZna1dDV3pBNnlDRHV4eTZhNVRwRXNDNGVfZXdEaUFUeGFMQkhtYTd2aUF1azdzM1VlRS1KXzQ2QWpuUWVjRXh0MlZELTNLTkptcXowRHpHNGg0dGlKQ0lnZTVFOGNpVDE3clBva0xJUTUzMncyYWxJRTMtTWkzOGhmRUpxdlpuNk54UFVrNW02Z1E?oc=5",
+      "desc": "Magali Bessone, la philosophe qui veut rendre justice à Haïti&nbsp;&nbsp;Le Nouvel Obs",
+      "date": "2026-08-22T10:00:12",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Un premier groupe d'Haïtiens expulsé des États-Unis depuis la fin du statut de protection temporaire - RFI",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNTXdtSlpnRWJncllBS2lMQk1BRHJjZzMwTHUzS1BjeUVndHF3dGJjOVAwbUlKdFlMeFlNU0JXZXBXY1IyaGx6Nmg4amFfbVIwcGVQU0tPVExyVVlpLUhHbktCdjBXTmpCR1g2OHZVbjJTelhpeGk2c29JUElURWdacWpaaHFPZHEwc2ZqbXZtd3IxVFBvSURFNGk5YUZCVjFodFA1Ql95VlE2a0JDb1N2X19zaU1pNkgyaWRuajVkeV9DY0ZzWG9qOE5hMkNCbUVDMEJ3WTJkaFRTcTN1VHkyMmhzNHZ0OUxEQmZhcDRFUjUxSnc?oc=5",
+      "desc": "Un premier groupe d'Haïtiens expulsé des États-Unis depuis la fin du statut de protection temporaire&nbsp;&nbsp;RFI",
+      "date": "2026-08-21T19:56:56",
+      "source": "Google News Haiti"
     },
     {
       "title": "Un premier groupe d'Haïtiens expulsé des États-Unis depuis la fin du statut de protection temporaire - Yahoo Actualités",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQV0ctQXYydXUxUWp3RWZXWUstaEpNenhsX1lldG9FVV82LXl0SW9BYlZXbG93cUM3RzVBZ2xxYlR3dmVzWXFtSFlLUFcxMHc1U2pTaFlfWUlNX2haUFlZMXowMGNQdE9UQlFPdWRCSWY0UnpQWV9xMVJ3aWFkWnlId0VTNG5mSlA4SVZfdm56Tjh0OGdrYnRzbDNn?oc=5",
       "desc": "Un premier groupe d'Haïtiens expulsé des États-Unis depuis la fin du statut de protection temporaire&nbsp;&nbsp;Yahoo Actualités",
       "date": "2026-08-21T19:56:56",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Haïti - Actualité : Zapping",
-      "link": "https://www.haitilibre.com/article-48268-haiti-actualite-zapping.html",
-      "desc": "CFU Challenge 2026 : Programme des demi-finales confirmé - Circulaire sur la sécurité du processus électoral - Saisie de 281,5 kg de marijuana - 5 dangereux criminels arrêtés - Transport aérien entre le Pérou et Haïti - Suivi résultats du Bac..",
-      "date": "2026-08-21T15:05:57",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Économie : Semaine de l'Industrie 2026",
-      "link": "https://www.icihaiti.com/article-48267-icihaiti-economie-semaine-de-l-industrie-2026.html",
-      "desc": "Le Ministère du Commerce et de l&apos;Industrie (MCI) informe de la tenue, sous le haut patronage de la Primature, de la Semaine de l&apos;Industrie 2026, qui se déroulera les 3, 4 et 5 septembre 2026...",
-      "date": "2026-08-21T14:22:20",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Économie : Installation du nouveau Conseil d'Administration de la BRH",
-      "link": "https://www.haitilibre.com/article-48266-haiti-economie-installation-du-nouveau-conseil-d-administration-de-la-brh.html",
-      "desc": "Le Premier Ministre, Alix Didier Fils-Aimé, a présidé cette semaine au siège de la Banque de la République d&apos;Haïti (BRH), la cérémonie d&apos;installation du nouveau Conseil d&apos;Administration de la Banque Centrale…",
-      "date": "2026-08-21T14:07:42",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - CEP : Session d'échanges avec les acteurs politiques autour du processus électoral",
-      "link": "https://www.icihaiti.com/article-48265-icihaiti-cep-session-d-echanges-avec-les-acteurs-politiques-autour-du-processus-electoral.html",
-      "desc": "Jeudi 20 août le CEP a tenu, une première journée d&apos;échanges avec un groupe de représentants de structures politiques agréées, consacrée à la présentation de la plateforme d&apos;inscription des candidats et à l&apos;état d&apos;avancement du processus électoral...",
-      "date": "2026-08-21T13:44:16",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "La fabrique du monde - Les lieux de pouvoir: en Haïti, le Karibe et le Montana accueillent les réunions politiques - RFI",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQbGxQYmxZQ0g3QlFXSEJRS010RGh5NmotVVRhSndtMjZUWmdtSFU4ajFNNlZ4OG9fUEQwX3dDSE9CR0RqNjVqN3ZKUDEtTUJGeVJQeHJKZEYxQmRod2hSVkZWUF91NElDQUtGaDZqYnVWanFLUmtLcWZXbUVTaUV6dzdfRGtMZGNRVEpoMmlkeXRtcERiYnRfOWdYcWhIMU94QnFRMUxDODUzbUNaaFBnbzF2MGZKVFd4cWVnR1BUNVN3cXl2WW5rZm5qMDIyRndiUHVObl9aOXItOHF0RkNlYXg4U25CSkpwQU1VWWZ1VEZJUQ?oc=5",
-      "desc": "La fabrique du monde - Les lieux de pouvoir: en Haïti, le Karibe et le Montana accueillent les réunions politiques&nbsp;&nbsp;RFI",
-      "date": "2026-08-21T10:18:13",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Elections en Haïti : l'OEA souhaite l'accélération des inscriptions sur les listes - rci.fm",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVG9TQVQ3RHV0VVlhR2M5VkVRNGpHTm9uOVlaZzZiQmdscjhnckJIekZzTm4ydGRBSzFPeXhUd2tRUTZTRmxEdkJ6bXl1U1pXb3pRU0hoVkpiZnJfTVNOYWVNdXdZdWw4MHZxMnFyUVNzR0tzR2syeFJRNkszX0xuQnhDSUJNTS1BQzBRenZ3MF9rT29LVWtZQmQtX0NWRVNrVTUxcUlRTjFLajU0emlNTUFONkhmWExk?oc=5",
-      "desc": "Elections en Haïti : l'OEA souhaite l'accélération des inscriptions sur les listes&nbsp;&nbsp;rci.fm",
-      "date": "2026-08-20T15:56:36",
       "source": "Google News Haiti"
     },
     {
