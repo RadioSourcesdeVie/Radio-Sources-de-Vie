@@ -3,19 +3,19 @@
   "title": "Météo du 22 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 24.53,
-    "feels_like": 24.37,
-    "humidity": 51,
-    "description": "Peu nuageux",
+    "temp": 12.61,
+    "feels_like": 12.28,
+    "humidity": 90,
+    "description": "Partiellement nuageux",
     "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 34.38,
-    "feels_like": 37.88,
-    "humidity": 46,
-    "description": "Nuageux",
-    "wind_kmh": 15.0
+    "temp": 24.9,
+    "feels_like": 25.35,
+    "humidity": 73,
+    "description": "Ciel dégagé",
+    "wind_kmh": 7.4
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 22 août 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Peu nuageux. À Port-au-Prince: 34 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 22 août 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 25 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
 }
