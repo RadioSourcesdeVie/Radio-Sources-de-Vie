@@ -1,28 +1,98 @@
 {
   "category": "monde",
   "date": "2026-08-26",
-  "updated": "2026-08-26T10:00:17.299474Z",
+  "updated": "2026-08-26T19:00:17.381263Z",
   "articles": [
     {
-      "title": "Droits de douane : le Canada durcit sa riposte face aux États-Unis",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-droits-de-douane-le-canada-durcit-sa-riposte-face-aux-%C3%A9tats-unis",
-      "desc": "Le Canada imposera à partir du 8 septembre des droits de douane de 15 à 50% sur une série de produits américains et ripostera encore si son secteur automobile est touché par de nouvelles surtaxes des Etats-Unis, avec qui la guerre commerciale s'envenime. Les précisions de Serge Jaumain, professeur d",
-      "date": "2026-08-26T09:04:06",
+      "title": "Tchad : l’extraction de sable menace le fleuve Chari",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-tchad-l-extraction-de-sable-menace-le-fleuve-chari-1",
+      "desc": "Au Tchad, l’extraction de sable dans des carrières qui longent le fleuve Chari met en péril le cours d’eau et l’environnement alentour. C’est pour cette raison que le ministère des Mines a interdit cette activité. Mais cette décision ne plaît pas à tout le monde.",
+      "date": "2026-08-26T18:06:17",
       "source": "France 24"
     },
     {
-      "title": "ChatGPT, Gemini, Claude : l'IA peut-elle être raciste ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-chatgpt-gemini-claude-l-ia-peut-elle-%C3%AAtre-raciste",
-      "desc": "Une intelligence artificielle peut-elle reproduire des préjugés racistes ? C’est la question posée après un test mené par des internautes sur . À une même phrase, ses réponses peuvent varier selon la nationalité de la personne évoquée : avec un Italien, elle suggère parfois de parler gastronomie, ta",
-      "date": "2026-08-26T09:03:39",
+      "title": "Ebola : l'OMS alerte et réclame davantage de moyens face à l'épidémie en RDC",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-ebola-l-oms-alerte-et-r%C3%A9clame-davantage-de-moyens-face-%C3%A0-l-%C3%A9pid%C3%A9mie-en-rdc",
+      "desc": "🇨🇩 En République démocratique du Congo, la propagation de l’épidémie d’Ebola inquiète les acteurs humanitaires. Selon l’OMS, une personne meurt d’Ebola toutes les 30 minutes.",
+      "date": "2026-08-26T17:47:43",
       "source": "France 24"
     },
     {
-      "title": "Afghanistan : un million d’enfants menacés par la malnutrition, alerte l’Unicef",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-afghanistan-un-million-d-enfants-menac%C3%A9s-par-la-malnutrition-alerte-l-unicef",
-      "desc": "Un million d'enfants souffrant de malnutrition aigüe sévère en Afghanistan se trouvent en danger de mort si rien n'est fait pour leur venir en aide, a prévenu mardi le Fonds des Nations unies pour l'enfance (Unicef).",
-      "date": "2026-08-26T09:02:51",
+      "title": "Avec le réchauffement climatique, l'avenir du vin est-il au Nord ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-avec-le-r%C3%A9chauffement-climatique-l-avenir-du-vin-est-il-au-nord",
+      "desc": "Dans les pays viticoles comme la France, la vigne souffre du réchauffement climatique, phénomène qui déplace vers le nord des températures d'ordinaire observées plus au sud. Faut-il envisager l’avenir du vin dans les pays nordiques ? Une question que nous avons posée à Sophian Aubin de la rédaction ",
+      "date": "2026-08-26T17:33:06",
       "source": "France 24"
+    },
+    {
+      "title": "Se montrer nu en public peut vous aider à améliorer l'image que vous avez de votre corps",
+      "link": "https://www.bbc.com/afrique/articles/ceq85j9l9gqo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des recherches suggèrent que le fait d'être entouré d'autres corps nus peut aider les gens à améliorer l'image qu'ils ont de leur corps. Des naturistes et des psychologues expliquent pourquoi cela peut être un moyen puissant de redéfinir notre rapport à notre corps.",
+      "date": "2026-08-26T17:05:46",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Espace : Sophie Adenot raconte ses deux premières sorties",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-espace-sophie-adenot-raconte-ses-deux-premi%C3%A8res-sorties",
+      "desc": "👩‍🚀🇫🇷 L'astronaute française Sophie Adenot, première astronaute française à sortir dans l'espace, a accordé un entretien exclusif à #France24 et #RFI depuis la Station spatiale internationale. Elle revient notamment sur ses deux premières sorties dans l'espace, les 18 et 25 a",
+      "date": "2026-08-26T16:36:37",
+      "source": "France 24"
+    },
+    {
+      "title": "Rien n’indique que cette vidéo montre un crash d’avion à Tel-Aviv",
+      "link": "https://www.france24.com/fr/moyen-orient/20260826-rien-n-indique-que-cette-vid%C3%A9o-montre-un-crash-d-avion-%C3%A0-tel-aviv",
+      "desc": "Une vidéo montrant un avion encastré dans un immeuble circule largement sur les réseaux sociaux. Présentée comme les images d’un crash survenu à Tel-Aviv après une attaque iranienne, elle soulève plusieurs questions quant à son origine et à son authenticité.",
+      "date": "2026-08-26T16:27:41",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment Dolly Parton a raconté son histoire à travers six chansons emblématiques",
+      "link": "https://www.bbc.com/afrique/articles/cqlwve10r0ko?at_medium=RSS&at_campaign=rss",
+      "desc": "Auteure-compositrice-interprète légendaire, sa musique abordait des thèmes tels que l'amour, le deuil, l'émancipation féminine et la spiritualité.",
+      "date": "2026-08-26T15:40:16",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Elle était l'une des quinze épouses, puis elle s'est enfuie pour bâtir un empire artistique",
+      "link": "https://www.bbc.com/afrique/articles/c8xkln9wxlgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Mama Nike possède la plus grande galerie d'art du Nigeria. Mais enfant, elle a connu la pauvreté et un mariage précoce.",
+      "date": "2026-08-26T12:03:25",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ebola en RDC : la riposte progresse mais demeure insuffisante",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159368",
+      "desc": "Plus de 5&nbsp;600 cas, quelque 2&nbsp;700 morts et six provinces touchées. L’épidémie d’Ebola qui frappe la République démocratique du Congo continue de progresser à un rythme sans précédent. L’OMS estime avoir freiné sa propagation sans toutefois parvenir à inverser la courbe.",
+      "date": "2026-08-26T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ukraine : près de 4 000 enfants tués ou blessés depuis 2022",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159366",
+      "desc": "Près de 4&nbsp;000 enfants ont été tués ou blessés en Ukraine depuis l'invasion de grande ampleur déclenchée par la Russie en février 2022, selon l’UNICEF, pour qui ce bilan est probablement sous-estimé. Les dernières attaques à Kryvyi Rih et Mykolaïv surviennent après un mois de juillet particulièr",
+      "date": "2026-08-26T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Des soignants en plus, des systèmes de santé plus solides : le pari africain",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159365",
+      "desc": "Face à une pénurie qui pourrait dépasser six millions de professionnels de santé d’ici 2035, les pays africains veulent changer de stratégie. Les ministres africains de la Santé ont approuvé mercredi un programme décennal visant à former, employer et retenir trois millions de soignants supplémentair",
+      "date": "2026-08-26T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Gaza : le pari du désarmement face à un cessez-le-feu qui continue de tuer",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159367",
+      "desc": "Pour la première fois, le Hamas a accepté le principe d’un désarmement complet et d’un transfert du pouvoir à une administration palestinienne transitoire. Mais sur le terrain, les frappes israéliennes se poursuivent, la reconstruction demeure en suspend et la Cisjordanie s’enfonce dans une crise qu",
+      "date": "2026-08-26T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Le Liban menacé par Israël du « même niveau de destruction » qu’à Gaza",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159364",
+      "desc": "Plus de 4&nbsp;300 morts, des villages du sud du Liban rendus inhabitables et une rhétorique visant notamment la population chiite. Un comité d’experts indépendants de l'ONU s’inquiète des conséquences des opérations militaires israéliennes et de déclarations de responsables évoquant pour le Liban «",
+      "date": "2026-08-26T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Cinq ans après l'arrivée au pouvoir des talibans, l'Occident a-t-il encore une influence ?",
@@ -32,80 +102,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Le Canada riposte en imposant des surtaxes de 15 à 50% aux Etats-Unis",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-le-canada-riposte-en-imposant-des-surtaxes-de-15-%C3%A0-50-aux-etats-unis",
-      "desc": "Le Canada imposera à partir du 8 septembre des droits de douane de 15 à 50% sur une série de produits américains et ripostera encore si son secteur automobile est touché par de nouvelles surtaxes des Etats-Unis, avec qui la guerre commerciale s'envenime.",
-      "date": "2026-08-26T08:40:51",
-      "source": "France 24"
-    },
-    {
-      "title": "France : Pomas, village des Corbières, dévasté par une tornade",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260826-france-pomas-village-des-corbi%C3%A8res-d%C3%A9vast%C3%A9-par-une-tornade",
-      "desc": "Au lendemain du passage d'une tornade d'une violence exceptionnelle, les habitants de Pomas (Aude), traumatisés, évaluent l'ampleur des dégâts : 300 maisons sur 500 ont été endommagées, mais le bilan humain reste limité à une cinquantaine de blessés.",
-      "date": "2026-08-26T08:40:18",
-      "source": "France 24"
-    },
-    {
       "title": "L'Éthiopie soumet sa candidature officielle pour accueillir la CAN 2028",
       "link": "https://www.bbc.com/afrique/articles/c87vg99417zo?at_medium=RSS&at_campaign=rss",
       "desc": "L'Éthiopie soumet sa candidature pour accueillir la Coupe d'Afrique des Nations 2028 malgré un nombre insuffisant de stades pour un tournoi à 24 équipes.",
       "date": "2026-08-25T16:24:03",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Sur les traces d'un fantôme : comment la BBC a retrouvé la trace du chef des services secrets d'Al-Assad, en fuite, après des mois de recherches",
-      "link": "https://www.bbc.com/afrique/articles/c87vg17p39wo?at_medium=RSS&at_campaign=rss",
-      "desc": "Un carnet a permis de retrouver Hussam Luka, alias « La Araña », qui était l'un des hommes les plus redoutés de Syrie à l'époque de Bachar al-Assad.",
-      "date": "2026-08-25T15:33:27",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Le président de l'UEFA, Ceferin, exclut toute candidature à la présidence de la FIFA",
-      "link": "https://www.bbc.com/afrique/articles/clymgngzmv7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le président de l'UEFA, Aleksander Ceferin, exclut toute candidature pour remplacer Gianni Infantino, mais s'attend à ce qu'un candidat conteste la direction du président de la FIFA en mars.",
-      "date": "2026-08-25T12:34:04",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Afghanistan : les hôpitaux débordés par la flambée de la malnutrition infantile",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159357",
-      "desc": "Les hôpitaux afghans sont débordés face à la flambée de la malnutrition infantile, alors qu’un million d’enfants souffrant de malnutrition aiguë sévère risquent de mourir sans prise en charge rapide, a alerté mardi l’UNICEF.",
-      "date": "2026-08-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan du Sud : deux Casques bleus tués dans une embuscade",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159361",
-      "desc": "Deux Casques bleus éthiopiens ont été tués lundi dans une embuscade visant une patrouille de la Mission des Nations Unies au Soudan du Sud (MINUSS) dans l’État de Jonglei, a indiqué l’ONU. Sept autres personnes ont été blessées, dont trois Casques bleus, deux policiers sud-soudanais et deux membres ",
-      "date": "2026-08-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "RDC : face à Ebola, l’OMS appelle à une trêve humanitaire de six mois",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159359",
-      "desc": "Alors que l’épidémie d'Ebola due au virus Bundibugyo continue de se propager à un rythme sans précédent en République démocratique du Congo (RDC), l’Organisation mondiale de la Santé (OMS) appelle à une trêve humanitaire d’au moins six mois pour permettre aux équipes médicales d’atteindre les popula",
-      "date": "2026-08-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Des champs aux routes maritimes, les guerres ébranlent le système alimentaire mondial",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159358",
-      "desc": "En frappant les exploitations agricoles, les marchés, les ports et les grandes routes maritimes, les conflits propagent désormais leurs effets bien au-delà des champs de bataille. De la mer Noire au détroit d’Ormuz, la guerre augmente les coûts de l’énergie, des engrais et des denrées alimentaires, ",
-      "date": "2026-08-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Myanmar : les minorités prises dans l’étau de la violence et de l'économie de guerre",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159356",
-      "desc": "Torture, recrutement forcé, travail des enfants, extraction sauvage de terres rares. Au Myanmar, les violations commises contre les civils se doublent d’une économie prédatrice qui contribue à alimenter le conflit. Dans un nouveau rapport, l’ONU décrit un pays où l’effondrement de l’État de droit ex",
-      "date": "2026-08-25T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Une arrière-grand-mère de 101 ans arrêtée au Nigéria pour vente de cannabis",
-      "link": "https://www.bbc.com/afrique/articles/cq63rd23qqyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Esther Ogunmabo est accusée d'avoir vendu des « sachets de détail » d'une variété de cannabis connue sous le nom de skunk.",
-      "date": "2026-08-25T10:16:29",
       "source": "BBC Afrique"
     }
   ]
