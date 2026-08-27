@@ -3,19 +3,19 @@
   "title": "Météo du 27 août 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 25.6,
-    "feels_like": 25.55,
-    "humidity": 51,
+    "temp": 16.42,
+    "feels_like": 16.39,
+    "humidity": 87,
     "description": "Nuageux",
-    "wind_kmh": 13.0
+    "wind_kmh": 11.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 33.79,
-    "feels_like": 39.67,
-    "humidity": 55,
-    "description": "Légère pluie",
-    "wind_kmh": 24.1
+    "temp": 25.35,
+    "feels_like": 25.9,
+    "humidity": 75,
+    "description": "Couvert",
+    "wind_kmh": 6.3
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 27 août 2026 sur Radio Sources de Vie. À Ottawa: 26 degrés Celsius. Nuageux. À Port-au-Prince: 34 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 27 août 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Nuageux. À Port-au-Prince: 25 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
