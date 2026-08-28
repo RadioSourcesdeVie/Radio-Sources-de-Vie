@@ -1,69 +1,90 @@
 {
   "category": "monde",
   "date": "2026-08-28",
-  "updated": "2026-08-28T10:00:15.811576Z",
+  "updated": "2026-08-28T19:00:16.996979Z",
   "articles": [
     {
-      "title": "Syrie : le chef kurde Mazloum Abdi nommé conseiller présidentiel, le kurde autorisé dans les écoles",
-      "link": "https://www.france24.com/fr/moyen-orient/20260828-syrie-dirigeant-kurde-mazloum-abdi-nomm%C3%A9-conseiller-pr%C3%A9sident-ahmed-al-charaa-%C3%A9coles",
-      "desc": "Le chef kurde Mazloum Abdi a été nommé vendredi conseiller à la présidence syrienne par Ahmed al-Charaa, après la dissolution des Forces démocratiques syriennes. La langue kurde est par ailleurs autorisée dans les écoles \"publiques et privées dans les régions où les citoyens kurdes forment une part ",
-      "date": "2026-08-28T09:43:37",
+      "title": "Un meurtre anti-chrétien en Syrie ? Confusion autour d'un acte de \"vengeance\" instrumentalisé",
+      "link": "https://www.france24.com/fr/moyen-orient/20260828-syrie-homs-meurtre-anti-chr%C3%A9tien-confusion-vengeance-instrumentalis%C3%A9-israel",
+      "desc": "Le 15 août 2026, un chrétien syrien du nom de Nader Boulos Tannous a été tué à Homs. Israël, mais aussi des pays européens comme la Grèce et Chypre, ont aussitôt dénoncé un acte antichrétien. Les autorités de la ville ont toutefois déclaré quelques jours plus tard que le suspect arrêté avait reconnu",
+      "date": "2026-08-28T17:46:49",
       "source": "France 24"
     },
     {
-      "title": "Népal - Tibet : l’aide internationale s’organise après la catastrophe",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260828-n%C3%A9pal-tibet-l-aide-internationale-s-organise-apr%C3%A8s-la-catastrophe",
-      "desc": "Alors que les secours se poursuivent dans les régions dévastées du Népal et du Tibet, l’aide internationale commence à affluer. L’Inde a acheminé près de 50 tonnes de matériel d’urgence - abris temporaires, couvertures, kits d’hygiène, lampes et médicaments - tandis que la Chine coordonne l’envoi de",
-      "date": "2026-08-28T09:18:25",
-      "source": "France 24"
-    },
-    {
-      "title": "Adoptions en Chine : la quête des enfants perdus",
-      "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20260828-chine-adoption-enfants-disparus-temoignages-trafic-enfant-unique",
-      "desc": "À l'apogée de la politique de l’enfant unique en Chine, des enfants ont été arrachés à leur famille et placés à l’adoption. Notre reporter Yena Lee a suivi la quête d'une enfant adoptée, désormais adulte, qui veut comprendre son histoire.",
-      "date": "2026-08-28T09:14:47",
-      "source": "France 24"
-    },
-    {
-      "title": "Diplomatie au Sahel, El Niño au Soudan, Ebola en RD Congo : l'hebdo Afrique",
-      "link": "https://www.france24.com/fr/afrique/20260828-diplomatie-sahel-el-nino-soudan-ebola-rd-congo-hebdo-afrique",
+      "title": "🔴 En direct - Crue au Népal-Tibet : le Quai d’Orsay confirme la disparition de quatre Français",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260828-en-direct-nepal-tibet-chine-crue-meurtriere-nouvelles-coulees-boue-redoutees-aide-humanitaire-touristes",
       "desc": "",
-      "date": "2026-08-28T09:02:04",
+      "date": "2026-08-28T17:06:17",
       "source": "France 24"
+    },
+    {
+      "title": "Sénégal : la Cour suprême maintient le flou sur la date des élections locales",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260828-s%C3%A9n%C3%A9gal-la-cour-supr%C3%AAme-maintient-le-flou-sur-la-date-des-%C3%A9lections-locales",
+      "desc": "🇸🇳 Au Sénégal, toujours pas de date pour les élections municipales et locales. La Cour suprême a rejeté, ce jeudi, le recours d'une partie de l’opposition et de la société civile, qui lui demandait de contraindre le président de la République à fixer la date du scrutin. Le mandat des élus expire dan",
+      "date": "2026-08-28T16:24:34",
+      "source": "France 24"
+    },
+    {
+      "title": "Félix Tshisekedi lance un dialogue national, voici ce qui va changer",
+      "link": "https://www.bbc.com/afrique/articles/cddv0q3qzeeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le président congolais affirme vouloir bâtir un dialogue « conçu par les Congolais et pour les Congolais », destiné à identifier les causes profondes des crises récurrentes qui fragilisent le pays.",
+      "date": "2026-08-28T16:08:45",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Cyberattaques contre l’État français : Lecornu réclame une unité d’intervention rapide",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260828-cyberattaques-contre-l-%C3%A9tat-fran%C3%A7ais-lecornu-r%C3%A9clame-une-unit%C3%A9-d-intervention-rapide",
+      "desc": "Après une série de piratages visant des administrations françaises, dont la Direction générale des finances publiques et le ministère de l’Éducation nationale, Sébastien Lecornu demande la création d’une nouvelle unité cyber. Pour en parler, France 24 reçoit sur son plateau Karim Hamia, expert en cy",
+      "date": "2026-08-28T16:06:24",
+      "source": "France 24"
+    },
+    {
+      "title": "Tunisie : Sidi Bou Saïd, un patrimoine désormais protégé par l'Unesco",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260828-tunisie-sidi-bou-sa%C3%AFd-un-patrimoine-d%C3%A9sormais-prot%C3%A9g%C3%A9-par-l-unesco",
+      "desc": "En Tunisie, le classement du village de Sidi Bou Saïd au patrimoine mondial de l’Unesco fin juillet marque une nouvelle étape dans la préservation de ce lieu touristique et chargé d’histoire. Mais au-delà de la protection de son architecture et de la colline, fragilisés par des inondations en janvie",
+      "date": "2026-08-28T16:05:07",
+      "source": "France 24"
+    },
+    {
+      "title": "Ce que nous savons de la découverte de 6 corps dans une fosse commune en Guinée",
+      "link": "https://www.bbc.com/afrique/articles/c2l8900x8nxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des questions subsistent quant à la découverte par des jeunes, ce lundi 24 août, de six corps dans la préfecture de Forécariah, Basse Guinée.",
+      "date": "2026-08-28T14:57:32",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Haïti : les armes illicites alimentent la spirale meurtrière des gangs",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159377",
+      "desc": "Malgré l’embargo de l’ONU sur les armes à destination d’Haïti, les trafics continuent d’alimenter l’arsenal des gangs et de renforcer leur puissance de feu. Pour le Haut-Commissariat des Nations Unies aux droits de l’homme (HCDH), l’attaque meurtrière menée à Kenscoff en est une nouvelle illustratio",
+      "date": "2026-08-28T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Népal : les secours en alerte face au risque de nouvelles inondations",
+      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159376",
+      "desc": "Alors que les opérations de recherche et de sauvetage se poursuivent vendredi après les crues soudaines et les glissements de terrain meurtriers qui ont frappé le nord du Népal, les agences humanitaires de l’ONU évaluent l’étendue des dégâts et se préparent à de nouvelles inondations.",
+      "date": "2026-08-28T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "« Le silence est synonyme de complicité » : une footballeuse de haut niveau dénonce les féminicides au Cameroun",
+      "link": "https://www.bbc.com/afrique/articles/cx2z8yj3rz4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le meurtre d'au moins huit femmes en une semaine a suscité l'indignation au Cameroun.",
+      "date": "2026-08-28T11:49:29",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Quelles sont les causes de l'avalanche et 3 autres questions concernant la catastrophe au Népal et au Tibet",
+      "link": "https://www.bbc.com/afrique/articles/cj06j1ng1d6o?at_medium=RSS&at_campaign=rss",
+      "desc": "La catastrophe aurait-elle pu être évitée ? Quelle a été l'ampleur de l'événement ? Découvrez les réponses concernant la tragédie qui a débuté mercredi (26 août).",
+      "date": "2026-08-28T10:00:35",
+      "source": "BBC Afrique"
     },
     {
       "title": "Qui était le roi Harald V de Norvège, le souverain qui a modernisé la monarchie ?",
       "link": "https://www.bbc.com/afrique/articles/cy8znv2ww86o?at_medium=RSS&at_campaign=rss",
       "desc": "Le défunt roi, qui régna pendant 35 ans, rompit avec la tradition en épousant une roturière et était très aimé des Norvégiens.",
       "date": "2026-08-28T08:35:27",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Des Indiens partent à la recherche de leurs proches au Népal",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260828-des-indiens-partent-%C3%A0-la-recherche-de-leurs-proches-au-n%C3%A9pal",
-      "desc": "De nombreuses familles indiennes venues du monde entier sont arrivées à l'aéroport de Katmandou au Népal, afin de rechercher leurs proches disparus. Notre correspondante a rencontré des Indiens, prêts par tous les moyens à se rendre directement sur les lieux, afin de localiser leurs proches, alors q",
-      "date": "2026-08-28T08:20:31",
-      "source": "France 24"
-    },
-    {
-      "title": "Qui était John Ponsonby, ce diplomate britannique qui a joué un rôle clé dans la « création » de l'Uruguay et de la Belgique ?",
-      "link": "https://www.bbc.com/afrique/articles/cj068z793q2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Décrit comme un « fin orateur » et un grand séducteur, ce lord d'origine irlandaise a joué un rôle de médiateur en Amérique et en Europe pour faire prévaloir les intérêts de Londres.",
-      "date": "2026-08-27T17:00:14",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Trump espère peut-être que les sanctions feront pression sur le régime iranien, mais ses dirigeants parient sur le contraire.",
-      "link": "https://www.bbc.com/afrique/articles/c4gv5kqnkw7o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les États-Unis qualifient ces nouvelles sanctions de « jour J économique », mais les dirigeants de Téhéran ont déjà survécu à des restrictions par le passé.",
-      "date": "2026-08-27T12:59:37",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Si vous vous mettiez à courir, ils vous tiraient dessus » : au cœur de la crise croissante des enlèvements au Nigéria",
-      "link": "https://www.bbc.com/afrique/articles/c4gvxd8zwj5o?at_medium=RSS&at_campaign=rss",
-      "desc": "De nombreuses communautés vivent dans la crainte d'être kidnappées contre rançon à mesure que la crise s'étend vers le sud.",
-      "date": "2026-08-27T12:34:45",
       "source": "BBC Afrique"
     },
     {
@@ -86,27 +107,6 @@
       "desc": "Meurtres, déplacements forcés, enlèvements, pillages et perquisitions : un Comité de l’ONU tire la sonnette d’alarme face à la recrudescence des violences xénophobes et des crimes de haine visant les migrants en Afrique du Sud.",
       "date": "2026-08-27T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Ebola : face à la flambée la plus rapide jamais enregistrée, Guterres fustige « l’indifférence »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159370",
-      "desc": "Avec plus de 5&nbsp;700 cas et 2&nbsp;700 morts en République démocratique du Congo, l’épidémie d’Ebola progresse toujours plus vite que la riposte. Jeudi, le chef de l’ONU a appelé la communauté internationale à se mobiliser, alors que les moyens disponibles risquent d’être épuisés d’ici quelques s",
-      "date": "2026-08-27T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Syrie : l’ONU appelle à transformer l’espoir en reconstruction",
-      "link": "https://news.un.org/feed/view/fr/story/2026/08/1159372",
-      "desc": "La Syrie se trouve à un « moment charnière », marqué par des signes encourageants de reprise mais aussi par des besoins humanitaires toujours immenses, ont souligné jeudi de hauts responsables de l’ONU devant le Conseil de sécurité.",
-      "date": "2026-08-27T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "5 aliments africains que la science considère comme excellents pour la santé",
-      "link": "https://www.bbc.com/afrique/articles/cqjkln9l857o?at_medium=RSS&at_campaign=rss",
-      "desc": "Du Moringa au Fonio, en passant par le Baobab, le Sorgho ou le Teff, plusieurs aliments africains sont réputés pour leur richesse nutritionnelle. Certains sont même qualifiés de « superaliments », en raison de leur forte concentration en nutriments et des vertus dont ils regorgent.",
-      "date": "2026-08-27T10:03:49",
-      "source": "BBC Afrique"
     }
   ]
 }
