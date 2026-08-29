@@ -1,62 +1,76 @@
 {
   "category": "monde",
   "date": "2026-08-29",
-  "updated": "2026-08-29T10:00:18.040509Z",
+  "updated": "2026-08-29T19:00:17.472119Z",
   "articles": [
     {
-      "title": "Etats-Unis : Trump annonce un accord pétrolier avec le Venezuela",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-etats-unis-trump-annonce-un-accord-p%C3%A9trolier-avec-le-venezuela",
-      "desc": "Le président ​américain Donald Trump a annoncé vendredi que les Etats-Unis et le ​Venezuela avaient conclu un accord pétrolier qui voit Washington prendre le contrôle d'un cinquième des réserves de pétrole vénézuéliennes.",
-      "date": "2026-08-29T09:41:15",
+      "title": "Cisjordanie occupée : Netanyahu condamne des \"actes de violence criminels\" commis par des colons",
+      "link": "https://www.france24.com/fr/moyen-orient/20260829-cisjordanie-occup%C3%A9e-benjamin-netanyahu-condamne-actes-violence-criminels-commis-colons-palestiniens",
+      "desc": "Des dizaines de colons israéliens ont attaqué samedi un village palestinien, à Qusra, en Cisjordanie occupée, selon l'armée israélienne. Le Premier ministre israélien, Benjamin Netanyahu, a dénoncé des \"actes de violence criminels\" perpétrés dans deux villages palestiniens, une prise de position inh",
+      "date": "2026-08-29T18:42:15",
       "source": "France 24"
     },
     {
-      "title": "Rock en Seine, l'incontournable festival au domaine de Saint-Cloud près de Paris",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-rock-en-seine-l-incontournable-festival-au-domaine-de-saint-cloud-pr%C3%A8s-de-paris",
-      "desc": "Un reportage signé Anaïs Chesnel.",
-      "date": "2026-08-29T09:37:38",
+      "title": "La petite ville écossaise qui cherche à attirer des migrants pour enrayer la baisse de sa population",
+      "link": "https://www.bbc.com/afrique/articles/c24j3zjydl8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Greenock souhaite attirer des immigrés pour qu'ils s'installent dans la ville et inverser la tendance à la baisse de sa population.",
+      "date": "2026-08-29T17:58:45",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Niger : situation confuse après des explosions et des tirs entendus à Niamey",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-niger-situation-confuse-apr%C3%A8s-des-explosions-et-des-tirs-entendus-%C3%A0-niamey",
+      "desc": "🇳🇪 Au Niger, des explosions et des tirs entendus depuis la nuit à Niamey, notamment autour de l’aéroport et du palais présidentiel. Alors que les raisons de ces combats restent floues, la junte affirme \"reprendre le contrôle\" de la situation. Les casernes sont en alerte maximale.",
+      "date": "2026-08-29T16:52:23",
       "source": "France 24"
     },
     {
-      "title": "🔴 Ukraine : une frappe russe sur un entrepôt fait au moins 27 morts près de Kiev",
-      "link": "https://www.france24.com/fr/europe/20260829-ukraine-une-frappe-russe-sur-un-entrep%C3%B4t-fait-au-moins-27-morts-pr%C3%A8s-de-kiev",
-      "desc": "",
-      "date": "2026-08-29T09:22:28",
+      "title": "La contraception forcée des inuites, le traumatisme national du Groenland",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-la-contraception-forc%C3%A9e-des-inuites-le-traumatisme-national-du-groenland",
+      "desc": "Mélina Huet, chroniqueuse internationale France 24 et grand reporter, analyse les faits.",
+      "date": "2026-08-29T16:35:21",
       "source": "France 24"
     },
     {
-      "title": "Epidémie de rougeole aux Etats-Unis, en cause la politique antivax de Trump",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-epid%C3%A9mie-de-rougeole-aux-etats-unis-en-cause-la-politique-antivax-de-trump",
-      "desc": "Anne Senequier, médecin et co-directrice de l'Observatoire pour la santé mondiale de l'IRIS, est notre invitée.",
-      "date": "2026-08-29T09:17:24",
+      "title": "Crue dans l'Himalaya : opérations de secours en cours au Népal",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-crue-dans-l-himalaya-op%C3%A9rations-de-secours-en-cours-au-n%C3%A9pal",
+      "desc": "Fanny Mraz, directrice Urgence chez Handicap International - Humanité & Inclusion, est notre invitée.",
+      "date": "2026-08-29T16:32:15",
       "source": "France 24"
     },
     {
-      "title": "Les Islandais votent sur une reprise des négociations d'adhésion à l'UE",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-les-islandais-votent-sur-une-reprise-des-n%C3%A9gociations-d-adh%C3%A9sion-%C3%A0-l-ue",
-      "desc": "Rouvrir la porte à Bruxelles ou la laisser fermée? Les Islandais votent samedi dans un référendum sur une reprise des négociations d'adhésion à l'Union européenne, un thriller électoral scruté de près à Bruxelles",
-      "date": "2026-08-29T09:12:53",
+      "title": "Guerre en Ukraine : 37 morts dans une frappe sur un entrepôt près de Kiev",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260829-guerre-en-ukraine-37-morts-dans-une-frappe-sur-un-entrep%C3%B4t-pr%C3%A8s-de-kiev",
+      "desc": "Emmanuelle Chaze est en direct de Kiev.",
+      "date": "2026-08-29T16:16:05",
       "source": "France 24"
     },
     {
-      "title": "Appel au calme des autorités après des tirs entendus à Niamey",
+      "title": "Concours « Photographe animalier de l'année 2026 » - les meilleures images à ce jour",
+      "link": "https://www.bbc.com/afrique/articles/cly7l41nnnmo?at_medium=RSS&at_campaign=rss",
+      "desc": "La photo de l'ours polaire prise par Audun Rikardsen figurait parmi les clichés « hautement recommandés » du concours organisé cette année par le Muséum d'histoire naturelle du Royaume-Uni.",
+      "date": "2026-08-29T13:58:12",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Amélioration des relations entre le Mali et l'Algérie : un tournant pour la sécurité aux frontières ?",
+      "link": "https://www.bbc.com/afrique/articles/cvgyw5l80npo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le dégel des relations entre Bamako et Alger a également relancé les débats autour de la possibilité d'une médiation de l'Algérie dans le conflit opposant la junte malienne au Front de libération de l'Azawad (FLA), un groupe composé majoritairement de séparatistes touaregs opérant dans le nord du Ma",
+      "date": "2026-08-29T11:59:12",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "\"Il m’a offert une poupée à son effigie\" : la fille de Fidel Castro se souvient de l’homme qu’elle n’a jamais voulu appeler papa",
+      "link": "https://www.bbc.com/afrique/articles/clylpqex75eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Aussi loin qu'elle s'en souvienne, Alina Fernandez recevait fréquemment la visite de Fidel Castro, ignorant que le leader révolutionnaire cubain était son père.",
+      "date": "2026-08-29T09:58:19",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Les autorités du Niger accusent \"un groupe de soldats en rupture avec le règlement militaire'' d'être à l'origine des tirs entendus à Niamey",
       "link": "https://www.bbc.com/afrique/articles/c0klv846x4vo?at_medium=RSS&at_campaign=rss",
       "desc": "Les autorités militaires du Niger ont appelé la population de la capitale, Niamey, à rester calme après que de violentes fusillades et des explosions ont été signalées dans plusieurs quartiers de la ville.",
       "date": "2026-08-29T08:03:23",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Félix Tshisekedi lance un dialogue national, voici ce qui va changer",
-      "link": "https://www.bbc.com/afrique/articles/cddv0q3qzeeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le président congolais affirme vouloir bâtir un dialogue « conçu par les Congolais et pour les Congolais », destiné à identifier les causes profondes des crises récurrentes qui fragilisent le pays.",
-      "date": "2026-08-28T16:08:45",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ce que nous savons de la découverte de 6 corps dans une fosse commune en Guinée",
-      "link": "https://www.bbc.com/afrique/articles/c2l8900x8nxo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des questions subsistent quant à la découverte par des jeunes, ce lundi 24 août, de six corps dans la préfecture de Forécariah, Basse Guinée.",
-      "date": "2026-08-28T14:57:32",
       "source": "BBC Afrique"
     },
     {
@@ -93,20 +107,6 @@
       "desc": "Malgré l’embargo de l’ONU sur les armes à destination d’Haïti, les trafics continuent d’alimenter l’arsenal des gangs et de renforcer leur puissance de feu. Pour le Haut-Commissariat des Nations Unies aux droits de l’homme (HCDH), l’attaque meurtrière menée à Kenscoff en est une nouvelle illustratio",
       "date": "2026-08-28T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "« Le silence est synonyme de complicité » : une footballeuse de haut niveau dénonce les féminicides au Cameroun",
-      "link": "https://www.bbc.com/afrique/articles/cx2z8yj3rz4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le meurtre d'au moins huit femmes en une semaine a suscité l'indignation au Cameroun.",
-      "date": "2026-08-28T11:49:29",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Quelles sont les causes de l'avalanche et 3 autres questions concernant la catastrophe au Népal et au Tibet",
-      "link": "https://www.bbc.com/afrique/articles/cj06j1ng1d6o?at_medium=RSS&at_campaign=rss",
-      "desc": "La catastrophe aurait-elle pu être évitée ? Quelle a été l'ampleur de l'événement ? Découvrez les réponses concernant la tragédie qui a débuté mercredi (26 août).",
-      "date": "2026-08-28T10:00:35",
-      "source": "BBC Afrique"
     }
   ]
 }
