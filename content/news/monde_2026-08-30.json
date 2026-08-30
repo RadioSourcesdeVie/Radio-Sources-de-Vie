@@ -1,8 +1,64 @@
 {
   "category": "monde",
   "date": "2026-08-30",
-  "updated": "2026-08-30T10:00:17.375676Z",
+  "updated": "2026-08-30T19:00:17.140253Z",
   "articles": [
+    {
+      "title": "Ils sont tombés amoureux puis ont enfreint la loi pour vérifier qu'ils n'étaient pas frère et sœur",
+      "link": "https://www.bbc.com/afrique/articles/cp8xpx0gn81o?at_medium=RSS&at_campaign=rss",
+      "desc": "Un couple français, tous deux conçus par don de sperme, désire des enfants. Mais les tests ADN à domicile étant illégaux, comment peuvent-ils être sûrs de ne pas être apparentés ?",
+      "date": "2026-08-30T17:59:04",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Midterms 2026 : Trump veut faire sanctionner une journaliste de NBC pour sa couverture médiatique",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20260830-midterms-2026-trump-veut-sanctionner-une-journaliste-de-nbc-pour-sa-couverture-m%C3%A9diatique",
+      "desc": "Mécontent de la couverture qui est consacrée aux candidats républicains qu'il soutient en vue des élections de mi-mandat en novembre, le président américain a annoncé dimanche vouloir signaler la journaliste de la chaîne NBC Kristen Welker à l'autorité américaine des communications (FCC) pour blâme ",
+      "date": "2026-08-30T17:22:16",
+      "source": "France 24"
+    },
+    {
+      "title": "Espace : lancement de Roman, le télescope spatial de la Nasa",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-espace-lancement-de-roman-le-t%C3%A9lescope-spatial-de-la-nasa",
+      "desc": "Mélina Huet analyse les faits.",
+      "date": "2026-08-30T16:36:34",
+      "source": "France 24"
+    },
+    {
+      "title": "Au Niger, la vie reprend son cours à Niamey après une mutinerie déjouée",
+      "link": "https://www.france24.com/fr/afrique/20260830-au-niger-la-vie-reprend-son-cours-%C3%A0-niamey-apr%C3%A8s-une-mutinerie-d%C3%A9jou%C3%A9e",
+      "desc": "Le calme est revenu, dimanche, à Niamey, la capitale du Niger, après que l'armée et ses alliés russes, les paramilitaires d'Africa Corps, ont repris le contrôle face à des mutins qui avaient notamment tenté de pénétrer dans les locaux de la présidence.",
+      "date": "2026-08-30T15:34:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Venezuela : Delcy Rodriguez défend l'accord pétrolier avec les Etats Unis",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-venezuela-delcy-rodriguez-d%C3%A9fend-l-accord-p%C3%A9trolier-avec-les-etats-unis",
+      "desc": "La présidente par intérim Delcy Rodriguez a défendu samedi l'accord \"historique\" signé entre Washington et Caracas, assurant face aux doutes que le Venezuela conserverait sa souveraineté sur les champs pétroliers amenés à être exploités par les Etats-Unis.",
+      "date": "2026-08-30T15:31:51",
+      "source": "France 24"
+    },
+    {
+      "title": "Au moins 7 morts et 23 disparus dans un naufrage au large de Chypre du Nord",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-au-moins-7-morts-et-23-disparus-dans-un-naufrage-au-large-de-chypre-du-nord",
+      "desc": "Jenna Le Bras est en direct d'Istanbul, Turquie.",
+      "date": "2026-08-30T15:30:09",
+      "source": "France 24"
+    },
+    {
+      "title": "« Je ne savais pas que j'avais un parasite dans mon corps depuis des années. »",
+      "link": "https://www.bbc.com/afrique/articles/c70g9kn1e5go?at_medium=RSS&at_campaign=rss",
+      "desc": "Un agriculteur atteint de kystes à croissance lente causés par un ténia affirme qu'il n'avait aucune idée que quelque chose n'allait pas.",
+      "date": "2026-08-30T14:08:21",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Comment le Madd de Casamance crée de la richesse locale grâce à l'indication géographique",
+      "link": "https://www.bbc.com/afrique/articles/c87vx5y2yq3o?at_medium=RSS&at_campaign=rss",
+      "desc": "De la brousse aux marchés, le Madd de Casamance est une source de revenus pour les communautés locales.",
+      "date": "2026-08-30T11:58:57",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Qu'est-ce que le « Réseau Foxtrot », ce groupe criminel scandinave énigmatique accusé d'avoir attaqué des cibles israéliennes et juives pour le compte de l'Iran ?",
       "link": "https://www.bbc.com/afrique/articles/c98v6p7lm71o?at_medium=RSS&at_campaign=rss",
@@ -11,67 +67,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Cisjordanie : Netanyahu critique les colons après de nouvelles violences",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-cisjordanie-netanyahu-critique-les-colons-apr%C3%A8s-de-nouvelles-violences",
-      "desc": "Des dizaines de colons israéliens ont attaqué samedi le village palestinien de Qusra dans le nord de la Cisjordanie occupée, selon l'armée israélienne et un habitant, provoquant une rare critique du Premier ministre Benjamin Netanyahu après une période de tensions dans ce secteur.",
-      "date": "2026-08-30T09:36:33",
-      "source": "France 24"
-    },
-    {
-      "title": "Niger : la junte déjoue une mutinerie avec l'aide de la Russie",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260830-niger-la-junte-d%C3%A9joue-une-mutinerie-avec-l-aide-de-la-russie",
-      "desc": "Le pouvoir militaire au Niger a déjoué samedi une mutinerie avec l'aide de son partenaire russe, après la reprise d'une importante base militaire de la capitale Niamey, théâtre d'intenses combats depuis la nuit de vendredi à samedi.",
-      "date": "2026-08-30T09:32:41",
-      "source": "France 24"
-    },
-    {
-      "title": "🔴 Référendum en Islande : les électeurs rejettent la reprise des négociations d’adhésion à l’UE",
-      "link": "https://www.france24.com/fr/europe/20260830-r%C3%A9f%C3%A9rendum-en-islande-le-non-l-emporte-sur-la-reprise-des-n%C3%A9gociations-d-adh%C3%A9sion-%C3%A0-l-ue",
-      "desc": "",
-      "date": "2026-08-30T09:31:21",
-      "source": "France 24"
-    },
-    {
-      "title": "Référendum en Islande : le \"non\" l'emporte sur la reprise des négociations d'adhésion à l'UE",
-      "link": "https://www.france24.com/fr/europe/20260830-r%C3%A9f%C3%A9rendum-en-islande-le-non-l-emporte-sur-la-reprise-des-n%C3%A9gociations-d-adh%C3%A9sion-%C3%A0-l-ue",
-      "desc": "Les Islandais ont rejeté une reprise des négociations d'adhésion à l'Union européenne, selon les résultats définitifs du référendum sur la question, publiés dimanche. La candidature avait été déposée en 2009, avant d'être gelée en 2013 sur fond d'euroscepticisme.",
-      "date": "2026-08-30T09:30:48",
-      "source": "France 24"
-    },
-    {
-      "title": "Olivier Faure candidat à la primaire de la gauche",
-      "link": "https://www.france24.com/fr/info-en-continu/20260830-olivier-faure-candidat-%C3%A0-la-primaire-de-la-gauche",
-      "desc": "L'attente n'aura pas été longue: quelques heures après son discours en clôture de l'université d'été de Blois, le premier secrétaire du Parti socialiste, Olivier Faure, a annoncé aux députés de son groupe sa candidature à la primaire de le gauche en vue de la présidentielle.",
-      "date": "2026-08-30T08:27:21",
-      "source": "France 24"
-    },
-    {
-      "title": "La petite ville écossaise qui cherche à attirer des migrants pour enrayer la baisse de sa population",
-      "link": "https://www.bbc.com/afrique/articles/c24j3zjydl8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Greenock souhaite attirer des immigrés pour qu'ils s'installent dans la ville et inverser la tendance à la baisse de sa population.",
-      "date": "2026-08-29T17:58:45",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Concours « Photographe animalier de l'année 2026 » - les meilleures images à ce jour",
-      "link": "https://www.bbc.com/afrique/articles/cly7l41nnnmo?at_medium=RSS&at_campaign=rss",
-      "desc": "La photo de l'ours polaire prise par Audun Rikardsen figurait parmi les clichés « hautement recommandés » du concours organisé cette année par le Muséum d'histoire naturelle du Royaume-Uni.",
-      "date": "2026-08-29T13:58:12",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Montée des eaux : une menace qui redessine le monde",
       "link": "https://news.un.org/feed/view/fr/story/2026/08/1159375",
       "desc": "Le niveau de la mer monte plus rapidement qu’à aucun autre moment de l’histoire documentée. Déjà visibles, ses effets vont bien au-delà des côtes : logements détruits, terres agricoles submergées, moyens de subsistance menacés, mais aussi conséquences croissantes sur la santé, les économies, les dro",
       "date": "2026-08-29T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Amélioration des relations entre le Mali et l'Algérie : un tournant pour la sécurité aux frontières ?",
-      "link": "https://www.bbc.com/afrique/articles/cvgyw5l80npo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le dégel des relations entre Bamako et Alger a également relancé les débats autour de la possibilité d'une médiation de l'Algérie dans le conflit opposant la junte malienne au Front de libération de l'Azawad (FLA), un groupe composé majoritairement de séparatistes touaregs opérant dans le nord du Ma",
-      "date": "2026-08-29T11:59:12",
-      "source": "BBC Afrique"
     },
     {
       "title": "Les autorités du Niger accusent \"un groupe de soldats en rupture avec le règlement militaire'' d'être à l'origine des tirs entendus à Niamey",
