@@ -27,7 +27,7 @@ NOM_DIASPORA = ""                         # Ex: "la diaspora haïtienne au Canad
 # Format OpenWeatherMap: "Ville,CODE_PAYS" (ISO 3166, ex: HT, CA, FR, CD)
 VILLE_PRINCIPALE = {"owm_query": "Port-au-Prince,HT", "label": "Port-au-Prince, Haïti"}
 
-# Ville secondaire / diaspora, optionnelle. Mettre VILLE_DIASPORA = None pour désactiver.
+# Ville secondaire / diaspora, optionnelle. Laisser VILLE_DIASPORA = None pour désactiver.
 VILLE_DIASPORA = None
 # Ex: VILLE_DIASPORA = {"owm_query": "Ottawa,CA", "label": "Ottawa, Canada"}
 
