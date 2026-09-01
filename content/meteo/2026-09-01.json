@@ -3,19 +3,19 @@
   "title": "Météo du 1 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 16.66,
-    "feels_like": 16.78,
-    "humidity": 92,
-    "description": "Légère pluie",
-    "wind_kmh": 11.1
+    "temp": 21.24,
+    "feels_like": 21.33,
+    "humidity": 73,
+    "description": "Couvert",
+    "wind_kmh": 22.2
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 26.96,
-    "feels_like": 30.03,
-    "humidity": 84,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 4.9
+    "temp": 30.79,
+    "feels_like": 35.93,
+    "humidity": 66,
+    "description": "Nuageux",
+    "wind_kmh": 25.9
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 1 septembre 2026 sur Radio Sources de Vie. À Ottawa: 17 degrés Celsius. Légère pluie. À Port-au-Prince: 27 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 1 septembre 2026 sur Radio Sources de Vie. À Ottawa: 21 degrés Celsius. Couvert. À Port-au-Prince: 31 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
