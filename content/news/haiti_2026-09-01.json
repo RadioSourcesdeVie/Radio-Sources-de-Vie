@@ -1,47 +1,61 @@
 {
   "category": "haiti",
   "date": "2026-09-01",
-  "updated": "2026-09-01T10:00:17.165383Z",
+  "updated": "2026-09-01T19:00:17.361585Z",
   "articles": [
     {
+      "title": "Journal d'Haïti et des Amériques - En Colombie, 20 morts dans un bombardement contre un groupe armé - RFI",
+      "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNQndsS0JBM0dSdGt2NjdHQUJabEdZaXcyMWJPWU9PZzI4NC1tMEx4QVA3NVY4UXVtSzFnNlNrRGZSZHBBZGYzLWE5TWtTYnlCUXdNR2V5cEV4SHZPN0ZNUUxWc2liWTQ4Z1ExZWV2Q3NqWHA4dk9ua3IwaDlmNFN2ZVRSd2N3MnRGVEI2MGFkYXZyc3pFM19KWWcyZDk3emZVcUo0VXhpaUNZTWhFU1ZxLW1pTHAtZlhhcktFYU43clN4VUI4LVlLSF90XzZmYzVfUHlyelVFbU5DUmpxcFV5b29FeHlUUQ?oc=5",
+      "desc": "Journal d'Haïti et des Amériques - En Colombie, 20 morts dans un bombardement contre un groupe armé&nbsp;&nbsp;RFI",
+      "date": "2026-09-01T17:18:58",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Haïti - FLASH : Près de 250 jeux maintenant disponibles sur «Quiz.HaitiLibre» (septembre 2026)",
+      "link": "https://www.haitilibre.com/article-48348-haiti-flash-pres-de-250-jeux-maintenant-disponibles-sur-quizhaitilibre-septembre-2026.html",
+      "desc": "Notre plateforme de jeux exclusifs « Quiz.HaitiLibre » a été mise à jour comme chaque mois. 30 nouveaux jeux ont été ajoutés ce 1 septembre 2026…",
+      "date": "2026-09-01T14:53:22",
+      "source": "HaitiLibre"
+    },
+    {
       "title": "Haïti - Actualité : Zapping",
-      "link": "https://www.haitilibre.com/article-48340-haiti-actualite-zapping.html",
-      "desc": "Le Pape Léon XIV demande la libération des otages de Kenscoff - AVIS : horaires de collecte des ordures - Kenscoff PNH : Le nouveau responsable sur le terrain - Antoine Michon diplomate invité - UNEPH : 103 jeunes médecins diplômés - Fête patronale...",
-      "date": "2026-08-31T14:56:31",
+      "link": "https://www.haitilibre.com/article-48347-haiti-actualite-zapping.html",
+      "desc": "La FRG prend le relai de la PNH - Répertoire des métiers 2026-2027 - Démenti du Parti Renmen Ayiti - Nord-Est : 114 écoles obtiennent 100% de réussite en 9 A.F (liste) - Justice : 20 professionnels laissent le pays à destination de la France...",
+      "date": "2026-09-01T14:42:53",
       "source": "HaitiLibre"
     },
     {
-      "title": "iciHaïti - Grand Sud : Mission stratégique du CAN à Jérémie",
-      "link": "https://www.icihaiti.com/article-48339-icihaiti-grand-sud-mission-strategique-du-can-a-jeremie.html",
-      "desc": "Le Dr. Ricardo Jean Baptiste, Directeur Général du Centre Ambulancier National poursuit sa démarche visant à renforcer et améliorer ses bases départementales pour une meilleure qualité des services pré-hospitaliers à travers le territoire national…",
-      "date": "2026-08-31T14:00:12",
+      "title": "iciHaïti - Coopération : Réunion entre le SEMANAH à l'APN",
+      "link": "https://www.icihaiti.com/article-48346-icihaiti-cooperation-reunion-entre-le-semanah-a-l-apn.html",
+      "desc": "Patrick Norzéus, le Directeur Général du Service Maritime et de Navigation d&apos;Haïti (SEMANAH), s&apos;est entretenu avec son homologue, l&apos;ingénieur Jean Evens Charles, Directeur Général de l&apos;Autorité Portuaire Nationale (APN)...",
+      "date": "2026-09-01T14:01:15",
       "source": "HaitiLibre"
     },
     {
-      "title": "Haïti - USA : Traitement des visas d'immigrant, mise à jour",
-      "link": "https://www.haitilibre.com/article-48338-haiti-usa-traitement-des-visas-d-immigrant-mise-a-jour.html",
-      "desc": "Mise à jour du 28 août 2026 concernant le traitement des visas d&apos;immigrant pour les nationalités à haut risque de dépendance aux aides sociales américaines…",
-      "date": "2026-08-31T13:41:00",
+      "title": "Haïti - Agriculture : Plusieurs tronçons de pistes rurales provisoirement réceptionnés dans la Grande-Anse",
+      "link": "https://www.haitilibre.com/article-48345-haiti-agriculture-plusieurs-troncons-de-pistes-rurales-provisoirement-receptionnes-dans-la-grande-anse.html",
+      "desc": "Dans le cadre de l&apos;exécution du Projet d&apos;Agriculture Résiliente pour la Sécurité Alimentaire (PARSA), les travaux de réhabilitation de plusieurs tronçons de pistes rurales réalisés par le Ministère de l&apos;Agriculture arrivent à leur terme...",
+      "date": "2026-09-01T13:49:54",
       "source": "HaitiLibre"
     },
     {
-      "title": "iciHaïti - Concours : Layla Vulcain sacré Jeune Mairesse de Jacmel",
-      "link": "https://www.icihaiti.com/article-48337-icihaiti-concours-layla-vulcain-sacre-jeune-mairesse-de-jacmel.html",
-      "desc": "Vendredi 28 août 2026, Mie-Angèle Layla Vulcain aux côtés de 6 finalistes, retenues à la phase d&apos;audition organisée le 25 août dernier, a été sacrée Jeune Mairesse de Jacmel 2026, à l&apos;issue de la grande finale du concours…",
-      "date": "2026-08-31T13:30:13",
+      "title": "iciHaïti - Prévention : Couvre-feu et mesures de sécurité",
+      "link": "https://www.icihaiti.com/article-48344-icihaiti-prevention-couvre-feu-et-mesures-de-securite.html",
+      "desc": "Dans l&apos;objectif de protéger la population de Léogâne de la panique provoquée par des terroristes qui menacent la ville, la Mairie de Léogâne a adopté des mesures et rappelle d&apos;autres dispositions légales qui sont déjà en application…",
+      "date": "2026-09-01T13:37:53",
       "source": "HaitiLibre"
     },
     {
-      "title": "Haïti - USA : Les haïtiens expulsés poignets et chevilles entravés, reliés par une chaîne à la taille",
-      "link": "https://www.haitilibre.com/article-48336-haiti-usa-les-haitiens-expulses-poignets-et-chevilles-entraves-relies-par-une-chaine-a-la-taille.html",
-      "desc": "Le Département américain de la Sécurité intérieure (DHS) a diffusé une vidéo choquante montrant des migrants haïtiens enchaînés, poignets et chevilles liés par une chaîne à la taille, gravissant l&apos;escalier d&apos;un avion…",
-      "date": "2026-08-31T13:21:03",
-      "source": "HaitiLibre"
+      "title": "Les Observateurs - Haïti : des ateliers de capoeira pour promouvoir la paix - France 24",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNN3lSaW9zTWY5aDNwREhnalNqSFpJelh3dzlXaFRrMldHY0VuNGtycEJzZWNOMlJYMXFxSFJaaXNwSzBab0pfdTNuTGZVeGgxTmJ6dW9WZGZsRUNGRlVwYlRISXlvd1FVYlZxaW13M0M1anFiUFpFZW04Y3ZyM3VmaTVXaEFCcThjM2UySGVtbVJYUDJtbFYzWTYxRUR4bFdBbGYzQzJnMXcwOHA3UkRqNXRrYVZpb0c0TjZYZUM3czN3QjhJYUNn?oc=5",
+      "desc": "Les Observateurs - Haïti : des ateliers de capoeira pour promouvoir la paix&nbsp;&nbsp;France 24",
+      "date": "2026-09-01T12:21:41",
+      "source": "Google News Haiti"
     },
     {
-      "title": "Haïti : Kenscoff rend hommage aux victimes d’une attaque meurtrière de gangs - fr.africanews.com",
+      "title": "Haïti : Kenscoff rend hommage aux victimes d’une attaque meurtrière de gangs - Africanews",
       "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVJ2YkJsTlc4OXhsNldOTWVXamdwWTg0S1BPNWh6dnRfMUFfSk10UkNNbGMtVk00OVdPR3QzUW5md2NTYnpFV3JCeUtrUWlWdUVncFUyRnhmU2dOdnRHQVNSQ3IyR2l2bnpvQUJBWjZrMXhRajR4NzFOTGJ3QmZZNmhKNENhb2g1aDJQYnBjNUppUUNTQVNKVk9jM0Z6eUlSMTJYQ2ZSc3VETEVzc2szZNIBtgFBVV95cUxOS1l3SmI4cEROTG10YjZiSFdwT1BFdDh2Q0RLeGs2TmlIc3Q0NXRpNUZ3ZUNiNFlaR0FSdjh2ZWJFTDRad1ZOU3dsUGlmRHVCbk1tMElITWtXT2REYXlxb2JhRDJMUjYzNDIwZXd6eHBqREt6QV9rdUhCcmpuY0VQV2lLYlVhVjlVeXZnMG9ha3dOc0V3VFlaVUxMMWF1R3EtYjEyYmVQVHpqanJBa3VjTXVZOS16dw?oc=5",
-      "desc": "Haïti : Kenscoff rend hommage aux victimes d’une attaque meurtrière de gangs&nbsp;&nbsp;fr.africanews.com",
+      "desc": "Haïti : Kenscoff rend hommage aux victimes d’une attaque meurtrière de gangs&nbsp;&nbsp;Africanews",
       "date": "2026-08-31T10:21:28",
       "source": "Google News Haiti"
     },
@@ -53,23 +67,9 @@
       "source": "Google News Haiti"
     },
     {
-      "title": "René Depestre, un centenaire entre Haïti et Lézignan - lindependant.fr",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSFdPSUNMZ2R5bGlpbnFqOWJjdXZuRGYwTjQ5RTFJcHNFSjJxZS00bTlNc3hpRjJMWk54RjVBOUFpQ215VDNDZHU5bVFwNEFhMjZ5YWdaV1hTdlJKZGh2OVRTN0c1SGxxcldYa3VEVnVsZ2JpeFpTbEd0ZXk0UGxIYnREcTBiWWVqdDdqNENwa1ZVWEgxQUl1QTY3ek5yNnMzQ1p6VDd3?oc=5",
-      "desc": "René Depestre, un centenaire entre Haïti et Lézignan&nbsp;&nbsp;lindependant.fr",
-      "date": "2026-08-29T15:21:00",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Massacre de Kenscoff en Haïti : l’ONU réclame une action urgente face à l’escalade de la violence des gangs - guadeloupe.franceantilles.fr",
-      "link": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxQbGY2aGJ6S2dwc3BLNXEtYWc4YXR1ODB5cGJDVGJGeDBpMTlKQ21TYmdGdExWWjQxaHdzbDNaYV9UWFJIYUgzbmgtblNxYmx1aHk5bVlBdDZjcENrdmJia3RzMzc1ZFpKLUpBaWRlZjVDMnhJZUtpY1Y2dXlaX0pJWXA1VHNTSlA5RXZQSE5kSG9aT2I0NEcyT1BLb2R2bzN2TWV1QXVaemRBQW5rRkhHcFB1RDBNZU80T0NBZWtWTG05WUVpUnZhTGpuTVhkb3MzWE91TkRhY3F6Z1ZrOUVpQ1BGTkVkWk04M2ZOTm45NWFrOWltb2puUm1XdXZyZnl6R0pWNHBuZDFZYlU?oc=5",
-      "desc": "Massacre de Kenscoff en Haïti : l’ONU réclame une action urgente face à l’escalade de la violence des gangs&nbsp;&nbsp;guadeloupe.franceantilles.fr",
-      "date": "2026-08-29T15:13:34",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Haïti : près d’un enfant de moins de cinq ans sur treize souffre de malnutrition aiguë en Haïti - UNICEF",
+      "title": "Haïti : près d’un enfant de moins de cinq ans sur treize souffre de malnutrition aiguë en Haïti - unicef.fr",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMTFTd0thdGhqM2tFWUd3Q0dockdwZWlqcTBMNVpBb1dTMmp1ZS1TWk9DQ1FKdGxtZG05dUJsXzYzdmdNZFE2dVBUX3BDUWZheHNHd0FDZlVBYWdOOEpfb2tiZjI5U2wzMHg4cHpZZWJmeGJGMDlMWEpkdkpkWmpfNEpQcWVRQlpVNkt6cldfN0d5cDVwS0NMdjBCRlZJak9nVWdkV3ZfU25PTlJLN2taQzJDNHN0Z1R5?oc=5",
-      "desc": "Haïti : près d’un enfant de moins de cinq ans sur treize souffre de malnutrition aiguë en Haïti&nbsp;&nbsp;UNICEF",
+      "desc": "Haïti : près d’un enfant de moins de cinq ans sur treize souffre de malnutrition aiguë en Haïti&nbsp;&nbsp;unicef.fr",
       "date": "2026-08-28T07:00:00",
       "source": "Google News Haiti"
     }
