@@ -3,19 +3,19 @@
   "title": "Météo du 2 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 21.72,
-    "feels_like": 22.09,
+    "temp": 24.27,
+    "feels_like": 24.89,
     "humidity": 82,
-    "description": "Couvert",
-    "wind_kmh": 16.7
+    "description": "Pluie modérée",
+    "wind_kmh": 11.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.13,
-    "feels_like": 35.91,
-    "humidity": 55,
+    "temp": 34.79,
+    "feels_like": 41.79,
+    "humidity": 59,
     "description": "Légère pluie",
-    "wind_kmh": 6.7
+    "wind_kmh": 18.5
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 2 septembre 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Couvert. À Port-au-Prince: 32 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 2 septembre 2026 sur Radio Sources de Vie. À Ottawa: 24 degrés Celsius. Pluie modérée. À Port-au-Prince: 35 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
