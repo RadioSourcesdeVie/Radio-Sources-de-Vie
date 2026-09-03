@@ -3,19 +3,19 @@
   "title": "Météo du 3 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 23.63,
-    "feels_like": 23.88,
-    "humidity": 70,
-    "description": "Ciel dégagé",
-    "wind_kmh": 11.1
-  },
-  "pap": {
-    "label": "Port-au-Prince, Haïti",
-    "temp": 33.79,
-    "feels_like": 39.67,
-    "humidity": 55,
+    "temp": 25.72,
+    "feels_like": 25.99,
+    "humidity": 63,
     "description": "Partiellement nuageux",
     "wind_kmh": 14.8
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 3 septembre 2026 sur Radio Sources de Vie. À Ottawa: 24 degrés Celsius. Ciel dégagé. À Port-au-Prince: 34 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 32.79,
+    "feels_like": 39.79,
+    "humidity": 66,
+    "description": "Légère pluie",
+    "wind_kmh": 29.6
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 3 septembre 2026 sur Radio Sources de Vie. À Ottawa: 26 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 33 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
