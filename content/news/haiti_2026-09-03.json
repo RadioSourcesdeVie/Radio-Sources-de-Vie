@@ -1,8 +1,43 @@
 {
   "category": "haiti",
   "date": "2026-09-03",
-  "updated": "2026-09-03T10:00:18.086552Z",
+  "updated": "2026-09-03T19:00:16.396447Z",
   "articles": [
+    {
+      "title": "Haïti - Loisirs : Le Saviez-vous ? #56",
+      "link": "https://www.haitilibre.com/article-48364-haiti-loisirs-le-saviez-vous-56.html",
+      "desc": "Quiz.HaitiLibre, vous propose une chronique intitulée « Le Saviez-vous ? ». Aujourd&apos;hui nous vous demandons,quelle héroïne haïtienne s&apos;est illustrée par sa bravoure extraordinaire au cours de la célèbre bataille de la Crête-à-Pierrot en 1802...?",
+      "date": "2026-09-03T14:50:09",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Actualité : Zapping",
+      "link": "https://www.haitilibre.com/article-48363-haiti-actualite-zapping.html",
+      "desc": "CARICOM : Éminentes Personnalités en Haïti - La FRG se déploie au Centre ville - Rentrée scolaire et accompagnement psychosocial - Jeux panaméricains : 5ème qualification pour nos Grenadiers U-20 - Kenscoff : Mise à jour des personnes déplacées...",
+      "date": "2026-09-03T14:37:22",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Jacmel : La police dans le Sud-Est arrête 11 personnes et saisit 2,6 kg de marijuana",
+      "link": "https://www.icihaiti.com/article-48362-icihaiti-jacmel-la-police-dans-le-sud-est-arrete-11-personnes-et-saisit-2-6-kg-de-marijuana.html",
+      "desc": "La Direction Départementale du Sud-Est de la Police Nationale d&apos;Haïti (DDSE-PNH) a mené une opération, dans les localités de Monchil et Saint-Hélène (arrondissement de Jacmel) au cours de laquelle, les policiers ont arrêté 11 personnes…",
+      "date": "2026-09-03T13:54:56",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Suisse : Bourses d'excellences, appel a candidatures",
+      "link": "https://www.haitilibre.com/article-48361-haiti-suisse-bourses-d-excellences-appel-a-candidatures.html",
+      "desc": "Le Ministère des Affaires Étrangères informe les intéressés  que la Confédération Suisse, lance un appel à candidature pour des bourses d&apos;excellence du Gouvernement Suisse pour l&apos;année académique 2027-2028...",
+      "date": "2026-09-03T13:49:48",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - FLASH Élections : Prolongation de la période d'inscription des candidats",
+      "link": "https://www.icihaiti.com/article-48360-icihaiti-flash-elections-prolongation-de-la-periode-d-inscription-des-candidats.html",
+      "desc": "Sur demande par des partis et groupements politiques adressées au Conseil Électoral Provisoire (CEP), l&apos;institution informe en date du 2 septembre 2026, de la prolongation de la période d&apos;inscription des candidats...",
+      "date": "2026-09-03T13:41:57",
+      "source": "HaitiLibre"
+    },
     {
       "title": "Et si le pape Léon XIV se rendait en Haïti ? - franceguyane.fr",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNb3JoTzdCYnBua2I1Ymc1OXFudldvb3RaeElLUG5OS0FhamlvYklXcEdGTk4wMGpLZTRVNm1oZV9JTzNaTE1iRUR6WURMdE9wb0xhZ3dvcjRnYlBtT3BoVEhTcVNxTDlKVkhZOVdaUWx3azlDeE00WWRQbFNfVWQ0NzhyaVJ4MW5RaWR0RWNNSEMyQjFrbVFsbTNMd2o1NUNDRk85anlHMjZSczdUa3Z3bm02OGE?oc=5",
@@ -11,39 +46,11 @@
       "source": "Google News Haiti"
     },
     {
-      "title": "Haïti - Loisirs : Le Saviez-vous ? #55",
-      "link": "https://www.haitilibre.com/article-48356-haiti-loisirs-le-saviez-vous-55.html",
-      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? ». Aujourd&apos;hui nous vous demandons, Pour quelle raison principale les paysans haïtiens élèvent-ils des ânes (bourik) dans les régions montagneuses...?",
-      "date": "2026-09-02T15:21:05",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Actualité : Zapping",
-      "link": "https://www.haitilibre.com/article-48355-haiti-actualite-zapping.html",
-      "desc": "La FRG ne disposera pas de 5,500 hommes dans les délais - 2 Otages coréens libérés - Personnalités de la CARICOM attendues - Levée de l&apos;alerte jaune - L&apos;Ambassadeur Madsen Chérubin à Taipei - Météo : Dégâts mineurs sur le site du Palais Sans Souci…",
-      "date": "2026-09-02T15:09:51",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Contentieux électoral : Clôture de la formation des membres des BED et des BEC",
-      "link": "https://www.icihaiti.com/article-48354-icihaiti-contentieux-electoral-cloture-de-la-formation-des-membres-des-bed-et-des-bec.html",
-      "desc": "Clôture de la session de formation sur le contentieux électoral organisée à l&apos;intention des membres des structures déconcentrées du CEP, notamment les Bureaux Électoraux Départementaux (BED) et les Bureaux Électoraux Communaux (BEC)…",
-      "date": "2026-09-02T14:18:45",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Sécurité : Les douanes dominicaines renforcent les contrôles des conteneurs en transit à destination d'Haïti",
-      "link": "https://www.haitilibre.com/article-48353-haiti-securite-les-douanes-dominicaines-renforcent-les-controles-des-conteneurs-en-transit-a-destination-d-haiti.html",
-      "desc": "Nelson Arroyo, le Directeur Général des Douanes (DGA), a annoncé que l&apos;institution met en œuvre de nouvelles mesures pour renforcer le contrôle et la traçabilité des marchandises destinées à Haïti…",
-      "date": "2026-09-02T14:10:36",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Justice : La France averti le Premier Ministre",
-      "link": "https://www.icihaiti.com/article-48352-icihaiti-justice-la-france-averti-le-premier-ministre.html",
-      "desc": "En marge d&apos;une cérémonie en l&apos;honneur de vingt professionnels haïtiens qui se rendront en France  ce mercredi 2 septembre 2026 pour une formation spécialisée en vue de la réforme pénale haïtienne…",
-      "date": "2026-09-02T13:57:21",
-      "source": "HaitiLibre"
+      "title": "Haïti : la Force de répression des gangs ne sera pas au complet avant octobre - Outre-mer La 1ère",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPdWNPaFoyX1ZKRzd6a1lJSE1NaHZvazlhaHJST2t6QUJUMEkzVVJvbTI0OGI1TURJNnRvYlZkMTVnNi1Ob0ZoZk5ISWFOVzVLUXE3VkF3a2hqWXdyNlV3anBZYWNXS3lVVnV5MTZfZnNXNVdYM2xRdUJRNkw1M0kzTy14TjJhcmRRWDV1cHZteHoxOHRTR092UXlxY1NRYlFUZjg3Q0ZUVkcxY1VuWHJieTNYMzRHMzZOMFZhN1FBSXdneWR1d29n?oc=5",
+      "desc": "Haïti : la Force de répression des gangs ne sera pas au complet avant octobre&nbsp;&nbsp;Outre-mer La 1ère",
+      "date": "2026-09-02T19:00:02",
+      "source": "Google News Haiti"
     },
     {
       "title": "Le cas Haïti - La chronique philo de Cynthia Fleury - 2 septembre 2026 | L'Humanité : lire, agir - L'Humanité",
@@ -53,24 +60,17 @@
       "source": "Google News Haiti"
     },
     {
-      "title": "Haïti : la Force de répression des gangs ne sera pas au complet avant octobre - Outre-mer La 1ère",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTC1Qa29PN0phdU4yelppWmdCMV82d1dGWTJRNE5QSnpWWlZjdHh4Q2hTbFFWRmtZbWR2X2QtYVd1UUFmODgwV1ZtbmRxaks0VmtvbWR4aERQcEtmdjJjMWtBU21PSnpZWDhvY3Q5OGFJSU40c2hkNkpVVUszOTB0SFhydEVIdVVDenY4dmtHa0YxRFdXd2VPUzZBZ25LZzdkRzZsQldlcTFPNzZMN2lpYk42OUlpWjlS?oc=5",
-      "desc": "Haïti : la Force de répression des gangs ne sera pas au complet avant octobre&nbsp;&nbsp;Outre-mer La 1ère",
-      "date": "2026-09-02T06:46:28",
+      "title": "Haïti : Kenscoff rend hommage aux victimes d’une attaque meurtrière de gangs - fr.africanews.com",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMVJ2YkJsTlc4OXhsNldOTWVXamdwWTg0S1BPNWh6dnRfMUFfSk10UkNNbGMtVk00OVdPR3QzUW5md2NTYnpFV3JCeUtrUWlWdUVncFUyRnhmU2dOdnRHQVNSQ3IyR2l2bnpvQUJBWjZrMXhRajR4NzFOTGJ3QmZZNmhKNENhb2g1aDJQYnBjNUppUUNTQVNKVk9jM0Z6eUlSMTJYQ2ZSc3VETEVzc2szZNIBtgFBVV95cUxOS1l3SmI4cEROTG10YjZiSFdwT1BFdDh2Q0RLeGs2TmlIc3Q0NXRpNUZ3ZUNiNFlaR0FSdjh2ZWJFTDRad1ZOU3dsUGlmRHVCbk1tMElITWtXT2REYXlxb2JhRDJMUjYzNDIwZXd6eHBqREt6QV9rdUhCcmpuY0VQV2lLYlVhVjlVeXZnMG9ha3dOc0V3VFlaVUxMMWF1R3EtYjEyYmVQVHpqanJBa3VjTXVZOS16dw?oc=5",
+      "desc": "Haïti : Kenscoff rend hommage aux victimes d’une attaque meurtrière de gangs&nbsp;&nbsp;fr.africanews.com",
+      "date": "2026-08-31T10:21:28",
       "source": "Google News Haiti"
     },
     {
-      "title": "Léon XIV appelle à la libération des otages de Kenscoff, en Haïti - Vatican News",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQbV9WQ0NDR0tvT0xZTGNFZWhDUXlmTF9FVXlSVjRxZWJSRlFCWDBFZVdZNUpReGxTbHpDSl9EN29sbTNBMU1Xbm9WUFdqSTF2VlAzVzg1aHBhUVFTcGUzVmIybWtJU3lYOTRLMVdqTjRMcjhIZnBuWmRoZnpwczNuTlRmTHoyaVExaFF4S1hSNFg1d1JvT2IxWjR1cDNQYkQxQzBRRm5JOVpLbGR0aVAw?oc=5",
-      "desc": "Léon XIV appelle à la libération des otages de Kenscoff, en Haïti&nbsp;&nbsp;Vatican News",
-      "date": "2026-08-30T11:45:28",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Haïti : les armes illicites alimentent la spirale meurtrière des gangs - UN News",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5XYVNXOXpVTTFRSVo4bjBSb0hja3BXc1VYMGVXVnpadkZITzRmU3A0WTAzcEdhdGZfd1RJVVBPZXEwc3JZYWx1aVhoOFlfdFppVEpuQlNSbw?oc=5",
-      "desc": "Haïti : les armes illicites alimentent la spirale meurtrière des gangs&nbsp;&nbsp;UN News",
-      "date": "2026-08-28T14:38:06",
+      "title": "Haïti: «La violence ne doit pas nous décourager» affirme une missionnaire - Vatican News",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNVU5kbENCel9QTTgtRWhiTlJzME9jbjlwdks4bUoyTHFyM1NlWkE0SnQ0WS04TVZPSXJUN3cyTzdhVkZ3dUxBeTRNN1JYSFVzVEY2eFVZaVpMeUJuZF90X1lWZ0Y0R0doT0UwRzI5LTNXa3ZaMFpESFFLVkVnYTRCVk9jREFlMXBZZWhWYXhCTGJEcE9GR0dnZlFDOGZ0cjNiazRONzBYZW5KUE01VUw3a2lnbzQtTndH?oc=5",
+      "desc": "Haïti: «La violence ne doit pas nous décourager» affirme une missionnaire&nbsp;&nbsp;Vatican News",
+      "date": "2026-08-30T07:00:00",
       "source": "Google News Haiti"
     }
   ]
