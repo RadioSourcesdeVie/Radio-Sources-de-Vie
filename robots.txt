@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /content/
+Disallow: /audio/
+
+Sitemap: https://radiosourcesdevie.org/sitemap.xml
