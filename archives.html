@@ -25,6 +25,23 @@ nav a:hover{color:var(--white)}
 .date-selector{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:1.5rem}
 .date-btn{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;font-family:'Inter',sans-serif;font-weight:500}
 .date-btn:hover,.date-btn.active{background:var(--green);border-color:var(--green);color:var(--white)}
+.date-tools{display:flex;gap:12px;align-items:center;flex-wrap:wrap;margin-bottom:1.2rem}
+.date-picker-wrap{display:flex;align-items:center;gap:8px;background:var(--light);border:1.5px solid #E5E7EB;border-radius:12px;padding:8px 14px}
+.date-picker-wrap label{font-size:.82rem;color:var(--gray);font-weight:600}
+.date-picker-wrap input[type=date]{border:none;background:transparent;font-family:'Inter',sans-serif;font-size:.9rem;color:var(--green-dark);font-weight:600;cursor:pointer}
+.date-picker-wrap input[type=date]:focus{outline:none}
+.btn-all-archives{background:var(--green-dark);color:var(--white);border:none;border-radius:12px;padding:10px 20px;font-size:.85rem;font-weight:600;cursor:pointer;font-family:'Inter',sans-serif;transition:background .2s;display:inline-flex;align-items:center;gap:8px}
+.btn-all-archives:hover{background:var(--green)}
+.month-group{margin-bottom:1.5rem;border:1.5px solid var(--green-pale);border-radius:14px;overflow:hidden}
+.month-header{background:var(--green-pale);padding:12px 18px;font-family:'Playfair Display',serif;font-size:1.05rem;color:var(--green-dark);font-weight:700;cursor:pointer;display:flex;justify-content:space-between;align-items:center;transition:background .2s}
+.month-header:hover{background:#c8ecd0}
+.month-header .count{font-size:.78rem;color:var(--gray);font-weight:500;font-family:'Inter',sans-serif}
+.month-header .chevron{transition:transform .2s;font-size:.8rem}
+.month-header.open .chevron{transform:rotate(90deg)}
+.month-days{display:none;padding:12px 18px;flex-wrap:wrap;gap:8px}
+.month-days.open{display:flex}
+.month-day-btn{background:var(--light);border:1.5px solid #E5E7EB;border-radius:18px;padding:6px 14px;font-size:.8rem;cursor:pointer;color:var(--green-dark);font-weight:500;transition:all .2s}
+.month-day-btn:hover{background:var(--green);border-color:var(--green);color:var(--white)}
 .tabs{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:1.5rem}
 .tab{background:var(--light);border:1.5px solid #E5E7EB;border-radius:20px;padding:7px 16px;font-size:.82rem;cursor:pointer;color:var(--gray);transition:all .2s;white-space:nowrap;font-weight:500}
 .tab:hover,.tab.active{background:var(--green);border-color:var(--green);color:var(--white)}
@@ -74,6 +91,7 @@ footer strong{color:var(--white)}
   <nav>
     <a href="index.html">🏠 Accueil</a>
     <a href="index.html#horaire">Horaire</a>
+    <a href="contact.html">Contact / Prière</a>
     <a href="https://stream.zeno.fm/sgnhqhl2oeevv" target="_blank" class="btn-live">● EN DIRECT</a>
   </nav>
 </header>
@@ -81,21 +99,28 @@ footer strong{color:var(--white)}
 <div class="hero">
   <div style="font-size:2rem;margin-bottom:.5rem">📚</div>
   <h1>Archive des Émissions</h1>
-  <p>Retrouvez tous les contenus des 7 derniers jours</p>
+  <p>Retrouvez tous les contenus depuis le début — sermons, prières, témoignages et plus</p>
 </div>
 
 <div class="section">
   <div class="section-title">📅 Sélectionner une date</div>
+  <div class="date-tools">
+    <div class="date-picker-wrap">
+      <label for="date-picker">🗓️ Choisir une date :</label>
+      <input type="date" id="date-picker" onchange="loadArchive(this.value)">
+    </div>
+    <button class="btn-all-archives" onclick="toggleAllArchives()">📚 Voir toutes les archives</button>
+  </div>
   <div class="date-selector" id="date-selector"></div>
+  <div id="all-archives" style="display:none;margin-bottom:1.5rem"></div>
   <div class="tabs" id="archive-tabs" style="display:none">
     <div class="tab active" onclick="showTab('all',this)">📋 Tout</div>
     <div class="tab" onclick="showTab('prayers',this)">🙏 Prières</div>
     <div class="tab" onclick="showTab('sermon',this)">📖 Sermon</div>
     <div class="tab" onclick="showTab('testimony',this)">❤️ Témoignage</div>
-    <div class="tab" onclick="showTab('sabbat',this)">🕯️ Sabbat</div>
     <div class="tab" onclick="showTab('meteo',this)">🌡️ Météo</div>
     <div class="tab" onclick="showTab('resumes',this)">📰 Résumés</div>
-    <div class="tab" onclick="showTab('gemini',this)">🤖 Bulletin</div>
+    <div class="tab" onclick="showTab('bulletin_soir',this)">📻 Journal du Soir</div>
   </div>
   <div id="archive-content">
     <div class="empty">Sélectionnez une date ci-dessus</div>
@@ -113,12 +138,21 @@ footer strong{color:var(--white)}
 let currentTab = 'all';
 let currentData = {};
 
-function getLast7Days(){
+// Date locale (pas UTC) — toISOString() bascule au jour suivant dès 20h en heure de l'Est,
+// ce qui cassait l'affichage du contenu du jour en soirée.
+function localDateStr(d){
+  const y = d.getFullYear();
+  const m = String(d.getMonth()+1).padStart(2,'0');
+  const day = String(d.getDate()).padStart(2,'0');
+  return `${y}-${m}-${day}`;
+}
+
+function getLast30Days(){
   const days = [];
-  for(let i=0;i<7;i++){
+  for(let i=0;i<30;i++){
     const d = new Date();
     d.setDate(d.getDate()-i);
-    days.push(d.toISOString().slice(0,10));
+    days.push(localDateStr(d));
   }
   return days;
 }
@@ -153,37 +187,110 @@ function articleLink(type, date){
 }
 
 function initDates(){
-  const days = getLast7Days();
+  const days = getLast30Days();
   const sel = document.getElementById('date-selector');
-  sel.innerHTML = days.map((d,i) =>
+  // N'afficher en boutons rapides que les 7 premiers jours (les plus récents)
+  sel.innerHTML = days.slice(0,7).map((d,i) =>
     `<button class="date-btn${i===0?' active':''}" onclick="loadArchive('${d}',this)">${fmtShort(d)}${i===0?' (Aujourd\'hui)':''}</button>`
   ).join('');
+  // Configurer le calendrier : max = aujourd'hui
+  const picker = document.getElementById('date-picker');
+  if(picker){ picker.max = days[0]; picker.value = days[0]; }
   loadArchive(days[0], sel.querySelector('.date-btn'));
 }
 
+// ===== NIVEAU 3 : Voir toutes les archives (groupées par mois) =====
+let allArchivesLoaded = false;
+async function toggleAllArchives(){
+  const box = document.getElementById('all-archives');
+  if(box.style.display === 'none'){
+    box.style.display = 'block';
+    if(!allArchivesLoaded){
+      allArchivesLoaded = true;
+      box.innerHTML = '<div class="loading"><span class="spinner"></span>Recherche de tout l\'historique…</div>';
+      await buildAllArchives(box);
+    }
+  } else {
+    box.style.display = 'none';
+  }
+}
+
+async function buildAllArchives(box){
+  // Remonte dans le temps, teste chaque jour (via météo = présent presque chaque jour),
+  // s'arrête après 20 jours vides consécutifs.
+  const MOIS = ['janvier','février','mars','avril','mai','juin','juillet','août','septembre','octobre','novembre','décembre'];
+  const found = {}; // 'YYYY-MM' -> [dates]
+  let emptyStreak = 0;
+  const d = new Date();
+  const MAX_DAYS = 400; // sécurité (un peu plus d'un an)
+  for(let i=0; i<MAX_DAYS && emptyStreak<20; i++){
+    const ds = localDateStr(d);
+    // On teste météo OU sermon OU prière (un seul suffit pour marquer le jour)
+    const hit = await fetchJSON('/content/meteo/'+ds+'.json')
+             || await fetchJSON('/content/sermons/'+ds+'.json')
+             || await fetchJSON('/content/prayers/matin_'+ds+'.json');
+    if(hit){
+      emptyStreak = 0;
+      const key = ds.slice(0,7);
+      (found[key] = found[key] || []).push(ds);
+    } else {
+      emptyStreak++;
+    }
+    d.setDate(d.getDate()-1);
+  }
+  const keys = Object.keys(found).sort().reverse();
+  if(!keys.length){ box.innerHTML = '<div class="empty">Aucune archive trouvée.</div>'; return; }
+  let html = '';
+  keys.forEach((key,idx)=>{
+    const [y,m] = key.split('-');
+    const label = MOIS[parseInt(m,10)-1] + ' ' + y;
+    const dates = found[key];
+    const open = idx===0 ? 'open' : ''; // premier mois ouvert par défaut
+    html += `<div class="month-group">
+      <div class="month-header ${open}" onclick="toggleMonth(this)">
+        <span>📅 ${label}</span>
+        <span class="count">${dates.length} jour${dates.length>1?'s':''} <span class="chevron">▶</span></span>
+      </div>
+      <div class="month-days ${open}">
+        ${dates.map(ds=>`<button class="month-day-btn" onclick="loadArchive('${ds}')">${fmtShort(ds)}</button>`).join('')}
+      </div>
+    </div>`;
+  });
+  box.innerHTML = html;
+}
+
+function toggleMonth(header){
+  header.classList.toggle('open');
+  const days = header.nextElementSibling;
+  days.classList.toggle('open');
+}
+
 async function loadArchive(date, btn){
+  if(!date) return;
   document.querySelectorAll('.date-btn').forEach(b=>b.classList.remove('active'));
   if(btn) btn.classList.add('active');
+  // Synchroniser le calendrier avec la date choisie
+  const picker = document.getElementById('date-picker');
+  if(picker && picker.value !== date) picker.value = date;
   document.getElementById('archive-tabs').style.display='flex';
   document.getElementById('archive-content').innerHTML=
     '<div class="loading"><span class="spinner"></span>Chargement...</div>';
 
-  const [pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+  const [pMatin,pSoir,sermon,testimony,meteo,bulletinSoir,
          rChretien,rHaiti,rMonde,rSport] = await Promise.all([
     fetchJSON('/content/prayers/matin_'+date+'.json'),
     fetchJSON('/content/prayers/soir_'+date+'.json'),
     fetchJSON('/content/sermons/'+date+'.json'),
     fetchJSON('/content/testimonies/'+date+'.json'),
-    fetchJSON('/content/sabbat/'+date+'.json'),
     fetchJSON('/content/meteo/'+date+'.json'),
-    fetchJSON('/content/gemini/'+date+'.json'),
+    fetchJSON('/content/bulletin_soir/'+date+'.json'),
     fetchJSON('/content/resumes/chretien_'+date+'.json'),
     fetchJSON('/content/resumes/haiti_'+date+'.json'),
     fetchJSON('/content/resumes/monde_'+date+'.json'),
     fetchJSON('/content/resumes/sport_'+date+'.json'),
   ]);
 
-  currentData={pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+  currentData={pMatin,pSoir,sermon,testimony,meteo,bulletinSoir,
                rChretien,rHaiti,rMonde,rSport,date};
   renderTab(currentTab);
 }
@@ -231,7 +338,7 @@ function makeMeteoCard(meteo, date){
 }
 
 function renderTab(tab){
-  const {pMatin,pSoir,sermon,testimony,sabbat,meteo,gemini,
+  const {pMatin,pSoir,sermon,testimony,meteo,bulletinSoir,
          rChretien,rHaiti,rMonde,rSport,date} = currentData;
   const c = document.getElementById('archive-content');
   let html = '<div class="archive-grid">';
@@ -252,10 +359,6 @@ function renderTab(tab){
     const ct = makeCard('temoignage','❤️','Témoignage',testimony,date,true);
     if(ct){empty=false; html+=ct;}
   }
-  if(show('sabbat')){
-    const cs = makeCard('sabbat','🕯️','Sabbat School',sabbat,date,true);
-    if(cs){empty=false; html+=cs;}
-  }
   if(show('meteo') && meteo){
     empty=false;
     html+=makeMeteoCard(meteo,date);
@@ -269,14 +372,9 @@ function renderTab(tab){
     ].filter(Boolean);
     if(cards.length){empty=false; html+=cards.join('');}
   }
-  if(show('gemini') && gemini){
-    empty=false;
-    if(gemini.bulletin) html+=`<div class="archive-card">
-      <div class="archive-type">📻 Bulletin</div>
-      <div class="archive-title">Bulletin du ${fmtDate(date)}</div>
-      <div class="archive-excerpt">${excerpt(gemini.bulletin)}</div>
-      <a href="${articleLink('gemini-bulletin',date)}" class="read-more">Lire la suite →</a>
-    </div>`;
+  if(show('bulletin_soir')){
+    const cb = makeCard('bulletin_soir','📻','Journal du Soir',bulletinSoir,date,true);
+    if(cb){empty=false; html+=cb;}
   }
 
   html += '</div>';
