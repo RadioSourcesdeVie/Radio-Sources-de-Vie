@@ -3,19 +3,19 @@
   "title": "Météo du 6 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 20.48,
-    "feels_like": 20.28,
-    "humidity": 65,
-    "description": "Ciel dégagé",
-    "wind_kmh": 11.1
+    "temp": 23.48,
+    "feels_like": 23.14,
+    "humidity": 48,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 9.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
     "temp": 33.79,
     "feels_like": 40.79,
-    "humidity": 59,
-    "description": "Ciel dégagé",
-    "wind_kmh": 25.9
+    "humidity": 62,
+    "description": "Nuageux",
+    "wind_kmh": 13.0
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 6 septembre 2026 sur Radio Sources de Vie. À Ottawa: 20 degrés Celsius. Ciel dégagé. À Port-au-Prince: 34 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 6 septembre 2026 sur Radio Sources de Vie. À Ottawa: 23 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 34 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
