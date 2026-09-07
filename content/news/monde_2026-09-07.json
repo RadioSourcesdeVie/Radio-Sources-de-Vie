@@ -1,14 +1,98 @@
 {
   "category": "monde",
   "date": "2026-09-07",
-  "updated": "2026-09-07T10:00:16.256754Z",
+  "updated": "2026-09-07T19:00:15.707210Z",
   "articles": [
     {
-      "title": "Les Bleues au top, Sinayoko terrasse l'OM, Antonelli triomphe à Monza : les infos sport du week-end",
-      "link": "https://www.france24.com/fr/sports/20260907-basket-bleus-au-top-paris-fc-sinayoko-terrasse-om-antonelli-triomphe-f1-monza-infos-sport-du-week-end",
-      "desc": "L'équipe de France féminine de basket-ball a obtenu son billet pour les quarts de finale du Mondial. Marseille a subi un deuxième revers d'affilée en s'inclinant 3-2 à domicile face au Paris FC, porté par un triplé de Lassine Sinayoko. L'Italien Kimi Antonelli (Mercedes), qui s'était élancé en 19ᵉ p",
-      "date": "2026-09-07T08:38:08",
+      "title": "AfD : l'Allemagne bascule-t-elle ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260907-afd-l-allemagne-bascule-t-elle",
+      "desc": "La victoire de l’AfD en Saxe-Anhalt marque une nouvelle progression de l’extrême droite en Allemagne. Avec 44 % des suffrages, le parti n’est plus qu’à trois sièges de la majorité absolue. Ce scrutin régional dépasse le cadre local et fragilise davantage le chancelier Friedrich Merz. Le dirigeant al",
+      "date": "2026-09-07T18:36:01",
       "source": "France 24"
+    },
+    {
+      "title": "Le crash d’un avion-cargo à Miami fait cinq morts",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-le-crash-d-un-avion-cargo-%C3%A0-miami-fait-cinq-morts",
+      "desc": "Un avion-cargo de l'entreprise Amazon est sorti de piste dimanche et a percuté plusieurs voitures. Cinq personnes ont été tuées dans l’accident.",
+      "date": "2026-09-07T18:32:22",
+      "source": "France 24"
+    },
+    {
+      "title": "Sénégal : manifestation à Dakar contre la hausse du coût de la vie",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260907-s%C3%A9n%C3%A9gal-manifestation-%C3%A0-dakar-contre-la-hausse-du-co%C3%BBt-de-la-vie",
+      "desc": "🇸🇳 À Dakar, des centaines de personnes ont manifesté samedi contre la cherté de la vie, à l’appel d’influenceurs très suivis sur les réseaux sociaux. Baptisée \"La marche des paniers vides\", la mobilisation réclame des mesures concrètes contre l’inflation. Une mobilisation portée par le hashtag #30Jo",
+      "date": "2026-09-07T17:52:14",
+      "source": "France 24"
+    },
+    {
+      "title": "Grève à la tour Eiffel après l'éviction de salariées pour la visite d'un groupe hindou",
+      "link": "https://www.france24.com/fr/france/20260907-gr%C3%A8ve-tour-eiffel-%C3%A9viction-salari%C3%A9es-visite-groupe-hindou",
+      "desc": "La tour Eiffel a été fermée lundi en raison d'une grève des salariés, qui dénoncent l'éviction d'employées lors de la visite, samedi, d'une délégation hindoue, venue à l'occasion de l'inauguration d'un temple près de la capitale. La CGT pointe des consignes ayant conduit des femmes à être \"écartées\"",
+      "date": "2026-09-07T17:18:22",
+      "source": "France 24"
+    },
+    {
+      "title": "Ce que les différentes cartes du monde représentent correctement… et ce qu'elles représentent de façon erronée",
+      "link": "https://www.bbc.com/afrique/articles/cx2zvq5dg4ro?at_medium=RSS&at_campaign=rss",
+      "desc": "Alors que l'ONU adopte une nouvelle carte du monde reflétant la taille réelle de l'Afrique, examinons de plus près ce que les différentes cartes font bien et ce qu'elles font mal.",
+      "date": "2026-09-07T16:45:45",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Un \"vent de panique\" : avec la victoire de l'AfD en Saxe-Anhalt, les étrangers redoutent un tournant",
+      "link": "https://www.france24.com/fr/europe/20260907-vent-panique-victoire-afd-saxe-anhalt-%C3%A9trangers-redoutent-tournant-extr%C3%AAme-droite",
+      "desc": "À l'approche des élections régionales en Saxe-Anhalt, remportées dimanche par l'AfD, de nombreux étrangers installés en Allemagne redoutaient déjà les conséquences d'une victoire de l'extrême droite. Amara Makhoul, rédactrice en chef d'InfoMigrants, revient lundi sur les mesures promises par le part",
+      "date": "2026-09-07T16:16:58",
+      "source": "France 24"
+    },
+    {
+      "title": "Des Burundais fuient le Kenya avant la répression du commerce informel",
+      "link": "https://www.bbc.com/afrique/articles/c4g78kgnr11o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le Kenya devrait commencer à appliquer des mesures visant à restreindre la possibilité pour les ressortissants étrangers d'exploiter des petites entreprises.",
+      "date": "2026-09-07T15:41:41",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Voici ce qu'il faut manger pour protéger les bonnes bactéries de votre bouche",
+      "link": "https://www.bbc.com/afrique/articles/ceq8g7z1wndo?at_medium=RSS&at_campaign=rss",
+      "desc": "Votre microbiome buccal est la clé d'une bouche et d'un corps en bonne santé. Voici comment vous assurer qu'il soit bien nourri.",
+      "date": "2026-09-07T15:33:36",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Myanmar : trafics, escroqueries et mines illégales nourrissent le conflit",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159421",
+      "desc": "Les trafics de drogue, les centres d’escroquerie et l’exploitation minière illégale prospèrent sur fond d’effondrement de l’État de droit au Myanmar. Selon le chef des droits de l’homme de l’ONU, ces activités alimentent le conflit, aggravent les atteintes aux droits humains et privent la population",
+      "date": "2026-09-07T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "IA : Volker Türk appelle à agir avant qu’elle ne devienne « un risque existentiel pour l’humanité »",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159420",
+      "desc": "À Genève, le Haut-Commissaire de l’ONU aux droits de l’homme tire la sonnette d’alarme : une IA avancée pourrait devenir un « risque existentiel pour l’humanité ». Volker Türk appelle les États à imposer des règles contraignantes, des contrôles indépendants et des limites claires avant que la techno",
+      "date": "2026-09-07T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Soudan : les drones armés étendent les ravages du conflit, frappant hôpitaux et écoles",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159419",
+      "desc": "Au Soudan, les Forces armées soudanaises (SAF) et les Forces de soutien rapide (RSF) recourent de plus en plus à des drones à longue portée, ce qui se traduit par des attaques s’étendant désormais bien au-delà des lignes de front traditionnelles. Ecoles, hôpitaux, marchés : les populations sont ains",
+      "date": "2026-09-07T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Agir pour l’air et le climat : chaque dollar investi en générerait 15",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159418",
+      "desc": "Agir de concert contre la pollution de l’air et le changement climatique pourrait sauver des millions de vies, freiner le réchauffement et produire environ 15 dollars de retombées économiques pour chaque dollar investi, selon un nouveau rapport soutenu par l’ONU.",
+      "date": "2026-09-07T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Comment le conflit entre les États-Unis et l'Iran pourrait-il prendre fin ? Trois experts donnent leur avis",
+      "link": "https://www.bbc.com/afrique/articles/c93eyk2150qo?at_medium=RSS&at_campaign=rss",
+      "desc": "Après la reprise des frappes ces derniers jours, l'une ou l'autre des parties dispose-t-elle d'une stratégie de sortie ?",
+      "date": "2026-09-07T11:10:54",
+      "source": "BBC Afrique"
     },
     {
       "title": "La Russie se montre-t-elle plus efficace pour protéger ses alliés que pour combattre ses ennemis en Afrique de l'Ouest ?",
@@ -18,94 +102,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Ballon d'or : la liste des nominés dévoilée mardi",
-      "link": "https://www.france24.com/fr/%C3%A9missions/caf%C3%A9-des-sports/20260907-ballon-d-or-la-liste-des-nomin%C3%A9s-d%C3%A9voil%C3%A9e-mardi",
-      "desc": "La liste des nominés au Ballon d'Or 2026 sera dévoilée mardi. La cérémonie aura lieu le lundi 26 octobre prochain à Londres. Y a-t-il un favori pour remporter le prestigieux trophée ?",
-      "date": "2026-09-07T07:31:41",
-      "source": "France 24"
-    },
-    {
-      "title": "Ligue 1 : le Paris FC et Sinayoko plongent l'OM dans la crise",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260907-ligue-1-paris-fc-sinayoko-plongent-om-dans-la-crise",
-      "desc": "Le Paris FC a battu l’Olympique de Marseille au stade Vélodrome (3-2) grâce à un triplé de Lassine Sinayoko. Alors que le Paris FC est deuxième au classement, l’OM reste englué à la dixième place.",
-      "date": "2026-09-07T06:57:50",
-      "source": "France 24"
-    },
-    {
-      "title": "🔴 Allemagne en direct : la victoire de l'AfD, \"un signal très préoccupant\" pour le ministre Roland Lescure",
-      "link": "https://www.france24.com/fr/europe/20260906-allemagne-en-direct-extreme-droite-favorite-saxe-anhalt-estimations-resultats",
-      "desc": "",
-      "date": "2026-09-07T06:55:37",
-      "source": "France 24"
-    },
-    {
-      "title": "Victoire de l'AfD en Saxe-Anhalt : \"L'Allemagne à un tournant\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20260907-victoire-de-l-afd-en-saxe-anhalt-l-allemagne-%C3%A0-un-tournant",
-      "desc": "À la Une de la presse, ce lundi 7 septembre, la victoire de l’AfD dans le Land de Saxe-Anhalt, où le parti d’extrême-droite frôle la majorité absolue. Les tensions grandissantes, au RN, entre Marine Le Pen et Jordan Bardella. Et la \"Célinemania\" à Paris.",
-      "date": "2026-09-07T05:54:39",
-      "source": "France 24"
-    },
-    {
-      "title": "''Brother Wang'', ce diplômé chinois accusé d'être le « roi du fentanyl » au Mexique",
-      "link": "https://www.bbc.com/afrique/articles/c39yg20047vo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des membres du cartel et d'anciens collègues expliquent comment Zhang Zhidong aurait fourni des produits chimiques chinois à des laboratoires de fabrication de drogue mexicains.",
-      "date": "2026-09-06T18:03:16",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Vous voulez améliorer votre capacité à prendre des décisions ? Observez les fourmis",
-      "link": "https://www.bbc.com/afrique/articles/c2042l51ly1o?at_medium=RSS&at_campaign=rss",
-      "desc": "Des cafards arrogants aux mouches conscientes d'elles-mêmes, nous pouvons apprendre beaucoup de ces petites bêtes rampantes sur la façon de prendre de meilleures décisions.",
-      "date": "2026-09-06T15:59:30",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "''J'ai entendu des voix qui me disaient de poignarder mon enfant au cou avec un couteau'' - Une mère",
-      "link": "https://www.bbc.com/afrique/articles/cn8n72mjgyro?at_medium=RSS&at_campaign=rss",
-      "desc": "La dépression post-partum et la psychose post-partum sont deux troubles distincts tant par leurs symptômes que par leur gravité.",
-      "date": "2026-09-06T13:59:48",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Central Park s’adapte au changement climatique tout en aidant New York à rester au frais",
       "link": "https://news.un.org/feed/view/fr/story/2026/09/1159417",
       "desc": "À Manhattan, le changement climatique ne se lit plus seulement dans les rapports scientifiques : il se voit aussi à Central Park. Ce poumon vert emblématique de New York doit faire face à des pluies plus violentes, aux inondations et à l’érosion des sols, tandis que des vagues de chaleur toujours pl",
       "date": "2026-09-06T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Pourquoi Cuba ne produit-il pas suffisamment de nourriture et dépend-il de l'étranger pour nourrir sa population ?",
-      "link": "https://www.bbc.com/afrique/articles/cx2zvvzgq9xo?at_medium=RSS&at_campaign=rss",
-      "desc": "Cuba importe 80 % de ses denrées alimentaires malgré son potentiel agricole, en raison de décennies de mauvaise planification, de sa dépendance vis-à-vis du sucre et des sanctions américaines.",
-      "date": "2026-09-06T11:58:47",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "L’ONU soutient la campagne africaine pour redessiner la carte du monde",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159416",
-      "desc": "Depuis des siècles, la carte du monde qui s’est imposée dans les écoles, les atlas et les esprits donne de l’Afrique une image bien plus petite qu’elle ne l’est réellement, selon certains. Vendredi, à l’ONU, une écrasante majorité de pays a soutenu une initiative africaine visant à corriger cette di",
-      "date": "2026-09-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : sécheresse, conflit et pénuries d’intrants menacent les récoltes de cette année",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159412",
-      "desc": "Alors que l’insécurité alimentaire demeure critique et qu’un risque de famine plane sur 14 zones du pays, les perspectives de la prochaine récolte céréalière se dégradent au Soudan. Pluies insuffisantes, insécurité et pénuries d’intrants agricoles compromettent déjà la saison. La FAO souligne que la",
-      "date": "2026-09-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Inondations au Népal : l’ONU lance un appel de 49,6 millions de dollars",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159414",
-      "desc": "Face à l’ampleur des besoins après les inondations et glissements de terrain qui ont dévasté le nord du Népal, l’ONU et ses partenaires humanitaires ont lancé vendredi un appel de fonds de 49,6 millions de dollars pour venir en aide à plus de 84.000 personnes parmi les plus durement touchées.",
-      "date": "2026-09-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : trois entrepôts de l’OMS ciblés depuis juillet",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159411",
-      "desc": "Un entrepôt de l’Organisation mondiale de la Santé (OMS) situé dans la région de Kyïv, où sont stockées des fournitures médicales destinées aux populations les plus vulnérables, a été endommagé par une frappe aérienne russe dans la nuit de jeudi à vendredi. Il s’agit du troisième entrepôt de l’OMS p",
-      "date": "2026-09-04T12:00:00",
       "source": "ONU Info"
     }
   ]
