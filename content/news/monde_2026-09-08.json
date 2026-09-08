@@ -1,42 +1,98 @@
 {
   "category": "monde",
   "date": "2026-09-08",
-  "updated": "2026-09-08T10:00:16.594297Z",
+  "updated": "2026-09-08T19:00:15.960693Z",
   "articles": [
     {
-      "title": "Immigration : naufrage meurtrier, ouverture du procès des passeurs présumés",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-immigration-naufrage-meurtrier-ouverture-du-proc%C3%A8s-des-passeurs-pr%C3%A9sum%C3%A9s",
-      "desc": "Ouverture du procès de 14 passeurs poursuivis pour leur implication présumée dans la mort de 31 personnes migrantes, dont un enfant, au cours de la nuit du 24 novembre 2021 dans la Manche.",
-      "date": "2026-09-08T09:56:51",
+      "title": "Cisjordanie : trois questions autour des sanctions occidentales contre les colonies israéliennes",
+      "link": "https://www.france24.com/fr/moyen-orient/20260908-cisjordanie-trois-questions-autour-sanctions-occidentales-contre-colonies-isra%C3%A9liennes-territoires-palestiniens-royaume-uni-france-canada",
+      "desc": "Douze pays, dont la France, le Royaume-Uni et le Canada, ont indiqué mardi vouloir imposer des restrictions de commerce sur les biens issus des colonies israéliennes implantées en Cisjordanie occupée. France 24 fait le point sur les questions qui se posent après cette annonce.",
+      "date": "2026-09-08T18:59:04",
       "source": "France 24"
     },
     {
-      "title": "En grève, les pompiers français en appellent à l'État : \"On est traités comme du bétail !\"",
-      "link": "https://www.france24.com/fr/france/20260908-gr%C3%A8ve-pompiers-france-appel-%C3%A0-%C3%A9tat-on-est-trait%C3%A9s-comme-du-b%C3%A9tail",
-      "desc": "En première ligne depuis juin face aux mégafeux subis par plusieurs régions de France, tout en continuant d'assurer au quotidien les secours à la personne – et jusqu'à des missions qui ne leur incombent normalement pas –, les pompiers sont appelés à une grève de plus de six semaines à compter de mar",
-      "date": "2026-09-08T09:51:46",
+      "title": "Le Canada peut-il résister à Trump ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20260908-le-canada-peut-il-r%C3%A9sister-%C3%A0-trump",
+      "desc": "La guerre commerciale s’intensifie entre le Canada et les États-Unis. Ottawa riposte aux nouveaux droits de douane américains imposés en août par Washington avec des surtaxes sur plusieurs produits importés des États-Unis. Le Premier ministre canadien Mark Carney a averti que cette stratégie, visant",
+      "date": "2026-09-08T18:38:18",
       "source": "France 24"
     },
     {
-      "title": "Benjamin Netanyahu accusé d'avoir ignoré une alerte sur le massacre du 7-Octobre",
-      "link": "https://www.france24.com/fr/moyen-orient/20260908-benjamin-netanyahu-accus%C3%A9-ignor%C3%A9-alerte-massacre-7-octobre-%C3%A9lections-hamas-isra%C3%ABl",
-      "desc": "Une enquête de Haaretz révèle que Benjamin Netanyahu a gardé pour lui une alerte émiratie sur une attaque d'ampleur du Hamas quelques jours avant les attaques terroristes du 7 octobre 2023. Son cabinet rejette catégoriquement l'accusation, tandis que ses adversaires lui réclament des comptes. Certai",
-      "date": "2026-09-08T09:31:26",
+      "title": "Kenya : les petits commerçants étrangers menacés d'expulsion",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-kenya-les-petits-commer%C3%A7ants-%C3%A9trangers-menac%C3%A9s-d-expulsion",
+      "desc": "🇰🇪 Des milliers de Burundais cherchent à quitter le Kenya après l’annonce du président William Ruto de fermer les petits commerces tenus par des étrangers. Se sentant visés, ils affluent depuis lundi à leur ambassade à Nairobi.",
+      "date": "2026-09-08T17:29:49",
       "source": "France 24"
     },
     {
-      "title": "Élections régionales en Allemagne : un défilé contre l'extrême droite prend place",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-%C3%A9lections-r%C3%A9gionales-en-allemagne-un-d%C3%A9fil%C3%A9-contre-l-extr%C3%AAme-droite-prend-place",
-      "desc": "Suite à la victoire de l'AfD en Saxe-Anhalt, les Berlinois se sont mobilisés devant la porte de Brandebourg, symbole de la réunification allemande, pour chercher des solutions contre la montée de ce parti pro-Trump et anti-immigration.",
-      "date": "2026-09-08T09:21:22",
+      "title": "Douze pays veulent sanctionner les colonies israéliennes en Cisjordanie occupée",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-douze-pays-veulent-sanctionner-les-colonies-isra%C3%A9liennes-en-cisjordanie-occup%C3%A9e",
+      "desc": "Le chef de la diplomatie israélienne a annoncé mardi la fermeture du consulat britannique à Jérusalem. Douze pays dont le Royaume-Uni avaient annoncé des sanctions contre les colonies israéliennes en Cisjordanie. Le secrétaire d'État américain Marco Rubio a déploré les \"tensions en Cisjordanie\" occu",
+      "date": "2026-09-08T17:13:24",
       "source": "France 24"
     },
     {
-      "title": "Ukraine - Russie : reprise des négociations, une trêve pour l'hiver ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260908-ukraine-russie-reprise-des-n%C3%A9gociations-une-tr%C3%AAve-pour-l-hiver",
-      "desc": "La Russie a repris ses frappes aériennes sur la capitale ukrainienne, bien que le Kremlin ait signalé aux deux émissaires américains être prêt à reprendre les négociations à partir de cet hiver, menant à une \"désescalade\" du conflit, selon la déclaration du président Zelensky, cité dans le média amé",
-      "date": "2026-09-08T09:16:46",
+      "title": "Ballon d'or : Mbappé, Messi, Dembélé nommés, Bonmati absente de la sélection",
+      "link": "https://www.france24.com/fr/sports/20260908-ballon-or-mbapp%C3%A9-messi-demb%C3%A9l%C3%A9-hakimi-marquinhos-nomm%C3%A9s-bonmati-absente-s%C3%A9lection",
+      "desc": "Les joueurs Kylian Mbappé, Lionel Messi et Ousmane Dembélé figurent parmi les 30 nommés pour le Ballon d'or 2026, qui sera décerné le 26 octobre. En revanche, la triple lauréate Aitana Bonmatí ne fait pas partie de la sélection féminine dévoilée mardi par les organisateurs.",
+      "date": "2026-09-08T17:02:00",
       "source": "France 24"
+    },
+    {
+      "title": "Pourquoi les femmes sont-elles plus nombreuses que les hommes à souffrir de crises de migraine ? Et comment y remédier ?",
+      "link": "https://www.bbc.com/afrique/articles/cp8065rd3g5o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les hormones, le manque de sommeil et le stress contribuent tous à expliquer pourquoi les femmes sont plus susceptibles de souffrir de cette affection neurologique invalidante.",
+      "date": "2026-09-08T16:01:21",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Les 10 créatures les plus dangereuses au monde",
+      "link": "https://www.bbc.com/afrique/articles/czrzy6n5j74o?at_medium=RSS&at_campaign=rss",
+      "desc": "Bien que de nombreuses créatures soient réputées pour effrayer les gens, une seule détient le titre de la plus dangereuse. Cette créature est notamment responsable du plus grand nombre de décès.",
+      "date": "2026-09-08T13:37:01",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Liban : l’ONU appelle à stopper l’escalade dans le Sud",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159430",
+      "desc": "Le Secrétaire général de l’ONU, António Guterres, s’alarme de l’intensification des opérations militaires israéliennes dans le sud du Liban, notamment à Nabatieh et dans ses environs, où des civils sont tués et blessés, des familles contraintes de fuir et des infrastructures lourdement endommagées.",
+      "date": "2026-09-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Syrie : pas de transition durable sans justice, avertissent des enquêteurs de l’ONU",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159429",
+      "desc": "La transition syrienne ne pourra être durable sans justice pour les victimes, inclusion politique et garanties solides pour empêcher la répétition des violations des droits humains, ont averti mardi des enquêteurs indépendants de l’ONU devant le Conseil des droits de l’homme, à Genève.",
+      "date": "2026-09-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Yémen : plus de 18 500 personnes déplacées en trois jours par la reprise des combats",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159424",
+      "desc": "La brusque intensification des affrontements sur la côte ouest du Yémen a contraint des milliers de personnes à fuir leur foyer en seulement trois jours. Une nouvelle escalade qui menace la relative accalmie observée dans le pays depuis 2022 et fait craindre le retour d’une guerre à grande échelle.",
+      "date": "2026-09-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Les enfants afghans grandissent sous l’emprise de l’idéologie talibane",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159425",
+      "desc": "Cinq ans après leur retour au pouvoir, les Talibans ont instauré un système qui transforme durablement la société afghane. Les filles sont privées d’école, tandis que les garçons reçoivent un enseignement fortement idéologisé. Pour un expert indépendant de l’ONU, cette politique de discrimination ne",
+      "date": "2026-09-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "À Gaza, les femmes dirigent un foyer sur quatre – deux fois plus qu’avant la guerre",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159427",
+      "desc": "Depuis le cessez-le-feu d'octobre 2025, six femmes et filles continuent d’être tuées chaque semaine à Gaza. Dans le même temps, une famille sur quatre est désormais dirigée par une femme, soit deux fois plus qu’avant la guerre. Veuves, épouses de disparus, de détenus ou de blessés, elles doivent ass",
+      "date": "2026-09-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "La Ligue des champions fait son retour : quels sont les favoris et quels joueurs faut-il suivre ?",
+      "link": "https://www.bbc.com/afrique/articles/cd94792374no?at_medium=RSS&at_campaign=rss",
+      "desc": "La Ligue des champions est de retour et BBC Sport passe en revue les favoris pour remporter le titre, ainsi que les pronostics des experts.",
+      "date": "2026-09-08T10:32:25",
+      "source": "BBC Afrique"
     },
     {
       "title": "La Tour Eiffel fermée en raison d'une manifestation du personnel après le déplacement de certaines employées pour un pèlerinage religieux",
@@ -46,66 +102,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Ce que les différentes cartes du monde représentent correctement… et ce qu'elles représentent de façon erronée",
-      "link": "https://www.bbc.com/afrique/articles/cx2zvq5dg4ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Alors que l'ONU adopte une nouvelle carte du monde reflétant la taille réelle de l'Afrique, examinons de plus près ce que les différentes cartes font bien et ce qu'elles font mal.",
-      "date": "2026-09-07T16:45:45",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Des Burundais fuient le Kenya avant la répression du commerce informel",
       "link": "https://www.bbc.com/afrique/articles/c4g78kgnr11o?at_medium=RSS&at_campaign=rss",
       "desc": "Le Kenya devrait commencer à appliquer des mesures visant à restreindre la possibilité pour les ressortissants étrangers d'exploiter des petites entreprises.",
       "date": "2026-09-07T15:41:41",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Voici ce qu'il faut manger pour protéger les bonnes bactéries de votre bouche",
-      "link": "https://www.bbc.com/afrique/articles/ceq8g7z1wndo?at_medium=RSS&at_campaign=rss",
-      "desc": "Votre microbiome buccal est la clé d'une bouche et d'un corps en bonne santé. Voici comment vous assurer qu'il soit bien nourri.",
-      "date": "2026-09-07T15:33:36",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Afghanistan : un an d’exclusion pour les employées afghanes de l’ONU, un avenir qui se ferme pour les filles",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159422",
-      "desc": "Un an après l’interdiction faite aux employées afghanes des Nations Unies d’accéder aux locaux de l’Organisation dans tout le pays, le Secrétaire général réclame la levée immédiate de cette mesure. L’ONU estime qu’elle entrave l’aide destinée aux femmes et aux filles, alors que les besoins humanitai",
-      "date": "2026-09-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Myanmar : trafics, escroqueries et mines illégales nourrissent le conflit",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159421",
-      "desc": "Les trafics de drogue, les centres d’escroquerie et l’exploitation minière illégale prospèrent sur fond d’effondrement de l’État de droit au Myanmar. Selon le chef des droits de l’homme de l’ONU, ces activités alimentent le conflit, aggravent les atteintes aux droits humains et privent la population",
-      "date": "2026-09-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "IA : Volker Türk appelle à agir avant qu’elle ne devienne « un risque existentiel pour l’humanité »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159420",
-      "desc": "À Genève, le Haut-Commissaire de l’ONU aux droits de l’homme tire la sonnette d’alarme : une IA avancée pourrait devenir un « risque existentiel pour l’humanité ». Volker Türk appelle les États à imposer des règles contraignantes, des contrôles indépendants et des limites claires avant que la techno",
-      "date": "2026-09-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : les drones armés étendent les ravages du conflit, frappant hôpitaux et écoles",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159419",
-      "desc": "Au Soudan, les Forces armées soudanaises (SAF) et les Forces de soutien rapide (RSF) recourent de plus en plus à des drones à longue portée, ce qui se traduit par des attaques s’étendant désormais bien au-delà des lignes de front traditionnelles. Ecoles, hôpitaux, marchés : les populations sont ains",
-      "date": "2026-09-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Agir pour l’air et le climat : chaque dollar investi en générerait 15",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159418",
-      "desc": "Agir de concert contre la pollution de l’air et le changement climatique pourrait sauver des millions de vies, freiner le réchauffement et produire environ 15 dollars de retombées économiques pour chaque dollar investi, selon un nouveau rapport soutenu par l’ONU.",
-      "date": "2026-09-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Comment le conflit entre les États-Unis et l'Iran pourrait-il prendre fin ? Trois experts donnent leur avis",
-      "link": "https://www.bbc.com/afrique/articles/c93eyk2150qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Après la reprise des frappes ces derniers jours, l'une ou l'autre des parties dispose-t-elle d'une stratégie de sortie ?",
-      "date": "2026-09-07T11:10:54",
       "source": "BBC Afrique"
     }
   ]

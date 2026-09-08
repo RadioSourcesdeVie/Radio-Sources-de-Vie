@@ -1,56 +1,49 @@
 {
   "category": "haiti",
   "date": "2026-09-08",
-  "updated": "2026-09-08T10:00:16.593297Z",
+  "updated": "2026-09-08T19:00:15.959691Z",
   "articles": [
+    {
+      "title": "Haïti - Actualité : Zapping",
+      "link": "https://www.haitilibre.com/article-48399-haiti-actualite-zapping.html",
+      "desc": "Obtention du certificat de police pour la diaspora - Football : Ricardo Adé, prend sa retraite - Artibonite : Dégagement des routes - 6 bandits tués - Élections : La diaspora dans le brouillard - Jacmel : Conditions sanitaire des détenus…",
+      "date": "2026-09-08T14:56:01",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Académie : Signature d'une mémorandum diplomatique entre Haïti et la France",
+      "link": "https://www.icihaiti.com/article-48398-icihaiti-academie-signature-d-une-memorandum-diplomatique-entre-haiti-et-la-france.html",
+      "desc": "L&apos;Académie diplomatique Jean Price-Mars du Ministère des Affaires Étrangères d&apos;Haïti et l&apos;Académie diplomatique et consulaire du Ministère de l&apos;Europe et des Affaires étrangères de la République française ont procédé, à la signature d&apos;un mémorandum…",
+      "date": "2026-09-08T14:12:04",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Politique : Forum national sur la modernisation et la consolidation du régime de retraite en Haïti",
+      "link": "https://www.haitilibre.com/article-48397-haiti-politique-forum-national-sur-la-modernisation-et-la-consolidation-du-regime-de-retraite-en-haiti.html",
+      "desc": "L&apos;Office National d&apos;Assurance-Vieillesse (ONA) annonce la tenue, les 16, 17 et 18 septembre 2026, au Karibe Convention Center, du Forum national sur la modernisation et la consolidation du régime général de retraite en Haïti…",
+      "date": "2026-09-08T13:55:23",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - BRH : Évolution récente du taux de change et de l'inflation",
+      "link": "https://www.icihaiti.com/article-48396-icihaiti-brh-evolution-recente-du-taux-de-change-et-de-l-inflation.html",
+      "desc": "Dans le cadre de la célébration de ses 47 ans, la Banque de la République d&apos;Haïti (BRH) propose quelques repères pour mieux comprendre l&apos;évolution récente du taux de change des réserves nettes de change et de l&apos;inflation…",
+      "date": "2026-09-08T13:41:02",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - FLASH : NATCOM lance une phase pilote de 5G en Haïti",
+      "link": "https://www.haitilibre.com/article-48395-haiti-flash-natcom-lance-une-phase-pilote-de-5g-en-haiti.html",
+      "desc": "Lundi 7 septembre à l&apos;hôtel Karibe, la compagnie de téléphonie mobile NATCOM, dans le cadre de la célébration de son 15e anniversaire d&apos;activités en Haïti a procédé au lancement de la phase pilote de la technologie 5G au pays...",
+      "date": "2026-09-08T13:27:04",
+      "source": "HaitiLibre"
+    },
     {
       "title": "En Haïti, les gangs étendent de plus en plus leur emprise dans les zones rurales - Outre-mer La 1ère",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPRnppTzl2eDlOekp5dDJTanhDRmhsc2k0OGF6emlkS0FMODVtbWV2ajVvX2JoajFKS3dTOE1vTWI2cTNJdnJkM0hiOHFjT0xRZkl2ZHA3S1ZVV1hyd213SW5sdmlCcG1xWkVJSE1yZm9XcDFoc1NOU253RXY2NWdtQ3hSWVVLSGV3Sks0MVY4b2c5dk5KZzhTNlVTVWVRTERDTUZDWlMyT1lQN2g5VGdXS2I0NmJoUWZzOWFwZF9sdm1VQ0FJU0xKLXNKb3I?oc=5",
       "desc": "En Haïti, les gangs étendent de plus en plus leur emprise dans les zones rurales&nbsp;&nbsp;Outre-mer La 1ère",
       "date": "2026-09-08T09:00:02",
       "source": "Google News Haiti"
-    },
-    {
-      "title": "Haïti - Actualité : Zapping",
-      "link": "https://www.haitilibre.com/article-48392-haiti-actualite-zapping.html",
-      "desc": "Justice : Bélizaire convoqué - La RD en état d&apos;alerte maximale - L&apos;UNNOEH reproche au Gouvernement - 30,000 parrainages, 21 structures sur 105 ont complété leur liste - Cap-Haïtien : 100 premiers jours - Ambassade américaine fermée...",
-      "date": "2026-09-07T15:17:46",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Journal d'Haïti et des Amériques - En Haïti, une rentrée sous le signe de l'insécurité et de la vie chère - RFI",
-      "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbkZtdElMNEctUDdWQjRZRXdMZEljYmM1XzhPcFlsMGVYTVJHazI0V29LTUNYM200OUxwSEQxRVBHZkdYOTlLeXAyQk5FNHJoelBXeEI2bVpFWDhrdlFnZTU3TnduYkNJOFZaVXlrdHA0Y1dMRDFRSkdnaFN4S2djczdubzZERDNFNFk2VFBLYUdTMDFCd2paZmdrZEpXVGNuanlxc0FtT01WZ3hLZktmWmpoc0czYmhlSTdQMF92b1pmNWJwU0ZrRUw0Q0NhRklLb3JxSEZGZEh0ZENFOXBHYUc3eFNlLXowV2Q5TDc0LXFOWEw2SldSRlg1OVRobnJYalhHbmZMZXM?oc=5",
-      "desc": "Journal d'Haïti et des Amériques - En Haïti, une rentrée sous le signe de l'insécurité et de la vie chère&nbsp;&nbsp;RFI",
-      "date": "2026-09-07T15:15:37",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "iciHaïti - Élections : Le CEP échange avec le groupe des éminentes personnalités de la CARICOM",
-      "link": "https://www.icihaiti.com/article-48391-icihaiti-elections-le-cep-echange-avec-le-groupe-des-eminentes-personnalites-de-la-caricom.html",
-      "desc": "Une réunion s&apos;est tenue, entre des membres du Conseil Électoral Provisoire (CEP) et le Groupe des Éminentes Personnalités de la Communauté des Caraïbes (CARICOM), au siège de l&apos;institution électorale, à Pétion-ville...",
-      "date": "2026-09-07T14:34:38",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Rep.Dom. : L'industrie militaire dominicaine en plein développement",
-      "link": "https://www.haitilibre.com/article-48390-haiti-repdom-l-industrie-militaire-dominicaine-en-plein-developpement.html",
-      "desc": "La frontière terrestre entre la République Dominicaine et Haïti s&apos;étend sur 391 kilomètres, qui combine des zones terrestres, fluviales et routes. 172 kilomètres de la ligne frontalière correspondent à des zones fluviales, principalement à travers...",
-      "date": "2026-09-07T14:25:51",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - DINEPA : Eau Potable en service à Vallières",
-      "link": "https://www.icihaiti.com/article-48389-icihaiti-dinepa-eau-potable-en-service-a-vallieres.html",
-      "desc": "Vendredi 4 septembre 2026, l&apos;Ing. Théophil Ostinvil, a procédé à la mise en service du Système d&apos;Adduction d&apos;Eau Potable de Vallières, commune du département du Nord-Est…",
-      "date": "2026-09-07T13:35:47",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Éducation : Bourses d'études en Italie, Inscriptions ouvertes",
-      "link": "https://www.haitilibre.com/article-48388-haiti-education-bourses-d-etudes-en-italie-inscriptions-ouvertes.html",
-      "desc": "Le Ministère haïtiens des Affaires Étrangères informe les personnes intéressées de l&apos;ouverture de l&apos;appel à candidatures au programme de bourses…",
-      "date": "2026-09-07T13:24:21",
-      "source": "HaitiLibre"
     },
     {
       "title": "En Haïti, les autorités impuissantes à endiguer la violence des gangs à l’approche des élections - Le Monde.fr",
@@ -71,6 +64,13 @@
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pV09HY1RUeHRxcnFnam5MdzJqT3BxSkYzdjZBVDhaNXpmS3BHX2VXUEMwZkdwdmtUZzMzejdpNHQ3TUUxYl9EZ09TaDJ5NmMteUpDcmVPOA?oc=5",
       "desc": "Violence des gangs en Haïti : l’ONU appelle à briser l'engrenage&nbsp;&nbsp;UN News",
       "date": "2026-08-28T07:00:00",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "A Haïti, un nouveau massacre éloigne la perspective d’un scrutin présidentiel - Libération",
+      "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQS2RIWGlHX0lyRjVoT2JaVnlMMk8zY2tXM3lTakJ1ME9Ia0EyU2huaVp5aHI4cl9MODBqYVZ0dnMzbkYxRmRPRkxOSThzVzY4UWVSTGllWVpZQjBoeEdkOElUSV9Lal9FTEZSQkRzMTJ6ZFBoSjRLUkRnVDZxQ3RHVFExLWpud2RUT1F2cEFhd1ZadUEyX0RlR05yczV0enhKeUkzWS00OUc0dEQ1NG5BZkJ3SHFsaWhJV3pGY3VvZTQ3N25YMTY4UEkzUms1UFZXeHpKUlFTcmRKbG12djJ6dVdMSUJSNkw0cTRBcmJJQ0YyekU?oc=5",
+      "desc": "A Haïti, un nouveau massacre éloigne la perspective d’un scrutin présidentiel&nbsp;&nbsp;Libération",
+      "date": "2026-08-26T07:00:00",
       "source": "Google News Haiti"
     }
   ]
