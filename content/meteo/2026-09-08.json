@@ -3,19 +3,19 @@
   "title": "Météo du 8 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 24.32,
-    "feels_like": 24.09,
-    "humidity": 49,
-    "description": "Nuageux",
-    "wind_kmh": 18.5
+    "temp": 16.35,
+    "feels_like": 16.5,
+    "humidity": 94,
+    "description": "Couvert",
+    "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 31.79,
-    "feels_like": 38.79,
-    "humidity": 70,
-    "description": "Nuageux",
-    "wind_kmh": 22.2
+    "temp": 26.71,
+    "feels_like": 29.03,
+    "humidity": 79,
+    "description": "Couvert",
+    "wind_kmh": 7.5
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 8 septembre 2026 sur Radio Sources de Vie. À Ottawa: 24 degrés Celsius. Nuageux. À Port-au-Prince: 32 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 8 septembre 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Couvert. À Port-au-Prince: 27 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
