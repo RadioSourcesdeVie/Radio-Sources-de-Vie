@@ -3,19 +3,19 @@
   "title": "Météo du 11 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 21.23,
-    "feels_like": 20.87,
-    "humidity": 56,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 25.9
+    "temp": 9.22,
+    "feels_like": 8.72,
+    "humidity": 94,
+    "description": "Ciel dégagé",
+    "wind_kmh": 5.5
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 35.79,
-    "feels_like": 42.17,
-    "humidity": 49,
+    "temp": 26.59,
+    "feels_like": 26.59,
+    "humidity": 76,
     "description": "Couvert",
-    "wind_kmh": 24.1
+    "wind_kmh": 7.5
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 11 septembre 2026 sur Radio Sources de Vie. À Ottawa: 21 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 36 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 11 septembre 2026 sur Radio Sources de Vie. À Ottawa: 9 degrés Celsius. Ciel dégagé. À Port-au-Prince: 27 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
