@@ -5,23 +5,23 @@
     <description>Résumé des nouvelles chrétiennes — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Thu, 10 Sep 2026 22:02:20 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 09:02:37 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Actu chrétienne : tensions en Afrique et espérance à Paray-le-Monial — 2026-09-10</title>
-      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-09-10</description>
-      <pubDate>Thu, 10 Sep 2026 22:02:20 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-10.mp3" length="190944" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-10.mp3</guid>
+      <title>Sans titre — 2026-09-11</title>
+      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-09-11</description>
+      <pubDate>Fri, 11 Sep 2026 09:02:37 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-11.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-11.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
     <item>
-      <title>Météo du 10 septembre 2026 — 2026-09-10</title>
-      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-09-10</description>
-      <pubDate>Thu, 10 Sep 2026 22:02:20 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-09-10.mp3" length="116064" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-09-10.mp3</guid>
+      <title>Météo du 11 septembre 2026 — 2026-09-11</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-09-11</description>
+      <pubDate>Fri, 11 Sep 2026 09:02:37 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-09-11.mp3" length="116352" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-09-11.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
