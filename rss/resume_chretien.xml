@@ -5,23 +5,23 @@
     <description>Résumé des nouvelles chrétiennes — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 22:02:09 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2026 09:02:37 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Jeûne au Cameroun, musique de louange et vigilance spirituelle — 2026-09-11</title>
-      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-09-11</description>
-      <pubDate>Fri, 11 Sep 2026 22:02:09 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-11.mp3" length="180288" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-11.mp3</guid>
+      <title>Sans titre — 2026-09-12</title>
+      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-09-12</description>
+      <pubDate>Sat, 12 Sep 2026 09:02:37 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-12.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-09-12.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
     <item>
-      <title>Météo du 11 septembre 2026 — 2026-09-11</title>
-      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-09-11</description>
-      <pubDate>Fri, 11 Sep 2026 22:02:09 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-09-11.mp3" length="114768" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-09-11.mp3</guid>
+      <title>Météo du 12 septembre 2026 — 2026-09-12</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-09-12</description>
+      <pubDate>Sat, 12 Sep 2026 09:02:37 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-09-12.mp3" length="115488" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-09-12.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
