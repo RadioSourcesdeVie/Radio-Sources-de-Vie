@@ -1,69 +1,76 @@
 {
   "category": "monde",
   "date": "2026-09-12",
-  "updated": "2026-09-12T10:00:15.906543Z",
+  "updated": "2026-09-12T19:00:15.869092Z",
   "articles": [
     {
-      "title": "Nouvelle défaite pour l'Olympique de Marseille, battu 1-0 par Rennes",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20260912-nouvelle-d%C3%A9faite-olympique-marseille-battu-rennes",
-      "desc": "Les jours et les matchs se ressemblent pour l'OM, battu une troisième fois consécutive en championnat. Sans solutions et en difficulté dans tous les secteurs du jeu, les Marseillais n'ont remporté qu'un seul match sur quatre disputés cette saison en Ligue 1.",
-      "date": "2026-09-12T09:41:40",
+      "title": "\"Interdisez l'AfD\" : des dizaines de milliers d'Allemands manifestent contre l'extrême droite",
+      "link": "https://www.france24.com/fr/europe/20260912-interdisez-l-afd-des-dizaines-de-milliers-d-allemands-manifestent-contre-l-extr%C3%AAme-droite",
+      "desc": "Quelque 150 000 personnes ont manifesté samedi dans une vingtaine de villes allemandes, dont Berlin, Hambourg et Munich, pour protester contre l'AfD qui s'apprête à diriger la région de Saxe-Anhalt, dans l'est du pays. Ces manifestations répondaient à une campagne nationale qui réclame l'interdictio",
+      "date": "2026-09-12T17:52:34",
       "source": "France 24"
     },
     {
-      "title": "Déraillement d'un TER en Normandie : la piste de l'acte malveillant privilégiée",
-      "link": "https://www.france24.com/fr/france/20260912-france-deraillement-ter-normandie-piste-acte-malveillant-privilegiee",
-      "desc": "La piste de l'acte malveillant était privilégiée par les enquêteurs samedi matin, au lendemain du déraillement d'un train régional transportant 186 passagers et assurant la liaison Rouen-Caen en Seine-Maritime. Une quarantaine de personnes ont été blessées, dont une femme évacuée \"en urgence absolue",
-      "date": "2026-09-12T09:04:16",
+      "title": "Les boissons chaudes augmentent-elles le risque de cancer ?",
+      "link": "https://www.bbc.com/afrique/articles/cgqdngpxwxzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les boissons chaudes peuvent endommager la muqueuse de l'œsophage lors de leur descente vers l'estomac, selon les experts.",
+      "date": "2026-09-12T16:59:38",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mondial de basket : les Bleues en finale pour la première fois après avoir battu l'Allemagne",
+      "link": "https://www.france24.com/fr/sports/20260912-mondial-basket-bleues-en-finale-premiere-fois-battu-allemagne-france-sports",
+      "desc": "Les basketteuses françaises ont battu l'Allemagne 86-64 en demi-finale de la Coupe du monde samedi après-midi à Berlin. Elles se qualifient pour la première finale de leur histoire et s'assurent une première médaille au Mondial depuis 1953.",
+      "date": "2026-09-12T16:33:50",
       "source": "France 24"
+    },
+    {
+      "title": "Céline Dion de retour sur scène à Paris pour un spectacle extraordinaire",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-c%C3%A9line-dion-de-retour-sur-sc%C3%A8ne-%C3%A0-paris-pour-un-spectacle-extraordinaire",
+      "desc": "Anaïs Chesnel est sur place.",
+      "date": "2026-09-12T16:02:27",
+      "source": "France 24"
+    },
+    {
+      "title": "Après des attaques de drones venus d'Irak, l'Arabie saoudite ferme l'oléoduc Est-Ouest",
+      "link": "https://www.france24.com/fr/moyen-orient/20260912-apres-attaques-drones-irak-arabie-saoudite-ferme-oleoduc-est-ouest-guerre-moyen-orient-ryad-mer-rouge",
+      "desc": "Les autorités saoudiennes ont annoncé vendredi la fermeture temporaire de l'oléoduc Est-Ouest, voie d'exportation de brut cruciale pour contourner le verrouillage du détroit d'Ormuz, après des attaques attribuées à des drones venant d'Irak. Depuis le début de la guerre au Moyen-Orient, Riyad a accru",
+      "date": "2026-09-12T16:01:27",
+      "source": "France 24"
+    },
+    {
+      "title": "Les BRICS exhortent à la \"retenue maximale\" dans le conflit au Moyen-Orient",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-les-brics-exhortent-%C3%A0-la-retenue-maximale-dans-le-conflit-au-moyen-orient",
+      "desc": "Les dirigeants des pays des BRICS, dont l'Inde, la Chine, la Russie, l'Iran et les Emirats, sont parvenus samedi à New Delhi à surmonter leurs différences sur le conflit au Moyen-Orient pour exhorter ensemble les parties à la \"retenue maximale\".",
+      "date": "2026-09-12T15:55:11",
+      "source": "France 24"
+    },
+    {
+      "title": "Espionnage, stratégies et occasions manquées : comment les leçons du 11 septembre sont encore tirées",
+      "link": "https://www.bbc.com/afrique/articles/cd087mr1n2yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Vingt-cinq ans après, ces attentats ont marqué toute une génération de politiques étrangères, de sécurité et de renseignement, écrit le correspondant de la BBC spécialisé dans les questions de sécurité.",
+      "date": "2026-09-12T15:11:23",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "\"Cela fait 7 ans que j'attends que mon fils m'appelle maman\"",
+      "link": "https://www.bbc.com/afrique/articles/cqlweg36y4go?at_medium=RSS&at_campaign=rss",
+      "desc": "Rehema, qui s'est fait connaître sur la scène gospel d'Afrique de l'Est dès le début de l'année 2020 grâce à des titres tels que \"Chanzo\", \"Ndiyo Yako\" et \"Nina Ushuhuda\", explique qu'à cette époque, elle luttait contre le chagrin et l'amertume liés à son refus d'accepter l'état de santé de son prem",
+      "date": "2026-09-12T12:41:02",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Trump peut-il vraiment verser 5 000 dollars à chaque adulte américain ?",
+      "link": "https://www.bbc.com/afrique/articles/cz6z9v3n1j9o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les analystes se demandent si l'offre du président américain en cette année électorale est réalisable, légale ou abordable.",
+      "date": "2026-09-12T10:51:21",
+      "source": "BBC Afrique"
     },
     {
       "title": "\"Mes enfants sont morts brûlés vifs sous mes yeux\"",
       "link": "https://www.bbc.com/afrique/articles/c0e395w503no?at_medium=RSS&at_campaign=rss",
       "desc": "Florence Amunga est une survivante des violences postélectorales de 2007 au Kenya. Sa maison a été incendiée en pleine nuit alors qu’elle s’y trouvait avec ses enfants.",
       "date": "2026-09-12T08:56:01",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Biennale panafricaine d'architecture au Kenya : penser la ville de demain",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-biennale-panafricaine-d-architecture-au-kenya-penser-la-ville-de-demain",
-      "desc": "Comment penser la ville africaine de demain ?",
-      "date": "2026-09-12T08:27:15",
-      "source": "France 24"
-    },
-    {
-      "title": "Le grand soir pour Céline Dion, après 6 ans d'absence à Paris",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-le-grand-soir-pour-c%C3%A9line-dion-apr%C3%A8s-6-ans-d-absence-%C3%A0-paris",
-      "desc": "Plus de six ans qu'elle en rêvait : Céline Dion donne samedi soir le coup d'envoi d'une série de concerts devant des fans du monde entier, un retour en grande pompe près de Paris comme un symbole de sa résilience.",
-      "date": "2026-09-12T08:25:00",
-      "source": "France 24"
-    },
-    {
-      "title": "Céline et la France, une histoire qui dure depuis plus de 40 ans",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260912-c%C3%A9line-et-la-france-une-histoire-qui-dure-depuis-plus-de-40-ans",
-      "desc": "Plus de six ans qu'elle en rêvait : Céline Dion donne samedi soir le coup d'envoi d'une série de concerts devant des fans du monde entier, un retour en grande pompe près de Paris comme un symbole de sa résilience.",
-      "date": "2026-09-12T08:21:11",
-      "source": "France 24"
-    },
-    {
-      "title": "Mao Zedong est mort il y a 50 ans, alors pourquoi la génération Z est-elle si fascinée par « le Maître » ?",
-      "link": "https://www.bbc.com/afrique/articles/c7v4l00q4dro?at_medium=RSS&at_campaign=rss",
-      "desc": "Les vidéos de l'ancien dirigeant communiste accumulent des millions de vues en ligne, signe d'un regain de popularité auprès de certains jeunes.",
-      "date": "2026-09-11T15:54:08",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "De nouvelles vidéos d'un homme impliqué dans un procès lié au 11 septembre révèlent ses liens avec des groupes extrémistes",
-      "link": "https://www.bbc.com/afrique/articles/cx2zgeylldeo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les images et les autres éléments de preuve que le FBI n'a pas communiqués remettent en cause les 25 années de dénégations d'Omar al-Bayoumi.",
-      "date": "2026-09-11T13:16:05",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Célébrations du Nouvel An dans différents pays du monde",
-      "link": "https://www.bbc.com/afrique/articles/cq8jepnknpjo?at_medium=RSS&at_campaign=rss",
-      "desc": "Dans différents pays du monde, les gens célèbrent le Nouvel An à des dates différentes.\nDe nombreux pays occidentaux et pays apparentés célèbrent le Nouvel An en janvier, Certains pays asiatiques, en revanche, célèbrent le Nouvel An différemment. Comment les pays des différentes régions du monde cél",
-      "date": "2026-09-11T13:03:43",
       "source": "BBC Afrique"
     },
     {
@@ -100,13 +107,6 @@
       "desc": "Faire du climat un champ de bataille politique revient à ignorer une réalité désormais comptable : le dérèglement climatique coûte cher. Devant le Parlement européen, jeudi, le chef de l’ONU pour le climat a décrit une Europe prise en étau entre les dégâts provoqués par les événements météorologique",
       "date": "2026-09-11T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "25 ans après le 11 septembre : l'agonie des proches des victimes des pires attentats de l'histoire des États-Unis.",
-      "link": "https://www.bbc.com/afrique/articles/cm27zez7zygo?at_medium=RSS&at_campaign=rss",
-      "desc": "Un quart de siècle plus tard, le procès contre le cerveau présumé des attentats n'a toujours pas commencé et les familles des victimes craignent que le temps ne vienne à manquer pour que justice soit faite.",
-      "date": "2026-09-11T08:00:37",
-      "source": "BBC Afrique"
     }
   ]
 }
