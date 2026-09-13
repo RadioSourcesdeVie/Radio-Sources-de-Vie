@@ -3,19 +3,19 @@
   "title": "Météo du 13 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 25.35,
-    "feels_like": 25.43,
-    "humidity": 57,
+    "temp": 19.3,
+    "feels_like": 19.71,
+    "humidity": 93,
     "description": "Couvert",
-    "wind_kmh": 18.5
+    "wind_kmh": 5.5
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 33.79,
-    "feels_like": 40.79,
-    "humidity": 66,
-    "description": "Légère pluie",
-    "wind_kmh": 20.4
+    "temp": 24.63,
+    "feels_like": 25.26,
+    "humidity": 81,
+    "description": "Couvert",
+    "wind_kmh": 8.7
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 13 septembre 2026 sur Radio Sources de Vie. À Ottawa: 25 degrés Celsius. Couvert. À Port-au-Prince: 34 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 13 septembre 2026 sur Radio Sources de Vie. À Ottawa: 19 degrés Celsius. Couvert. À Port-au-Prince: 25 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
