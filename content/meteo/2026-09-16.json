@@ -3,19 +3,19 @@
   "title": "Météo du 16 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 16.24,
-    "feels_like": 16.22,
-    "humidity": 88,
-    "description": "Couvert",
+    "temp": 16.5,
+    "feels_like": 16.56,
+    "humidity": 90,
+    "description": "Nuageux",
     "wind_kmh": 9.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 30.79,
-    "feels_like": 37.04,
-    "humidity": 70,
+    "temp": 28.18,
+    "feels_like": 31.16,
+    "humidity": 71,
     "description": "Légère pluie",
-    "wind_kmh": 16.7
+    "wind_kmh": 14.3
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 16 septembre 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Couvert. À Port-au-Prince: 31 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 16 septembre 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Nuageux. À Port-au-Prince: 28 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
