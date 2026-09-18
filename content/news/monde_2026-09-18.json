@@ -1,111 +1,111 @@
 {
   "category": "monde",
   "date": "2026-09-18",
-  "updated": "2026-09-18T10:00:18.810060Z",
+  "updated": "2026-09-18T19:00:16.310923Z",
   "articles": [
     {
-      "title": "Qui doit fixer les règles de l’IA ? L’ONU veut peser sur l’avenir numérique",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159493",
-      "desc": "L’intelligence artificielle avance à grande vitesse. Mais qui doit fixer les règles d’une technologie dont les effets dépassent largement les frontières ? Pour les Nations Unies, la réponse passe par une coopération internationale capable de permettre aux pays de tirer parti des promesses de l’IA to",
+      "title": "L'UEFA et la Concacaf réclament à la Fifa \"10 millions de dollars\" pour chaque fédération",
+      "link": "https://www.france24.com/fr/sports/20260918-l-uefa-et-la-concacaf-r%C3%A9clament-%C3%A0-la-fifa-de-verser-10-millions-de-dollars-%C3%A0-chaque-f%C3%A9d%C3%A9ration",
+      "desc": "Les présidents de l'UEFA et la Concacaf ont demandé, vendredi, au président de la Fifa, Gianni Infantino, de verser \"au moins 10 millions de dollars\" à chacune des 211 associations membres. Une somme qu'ils justifient par les réserves d'environ six milliards de dollars détenues par la fédération int",
+      "date": "2026-09-18T18:03:51",
+      "source": "France 24"
+    },
+    {
+      "title": "Les effets du phénomène El Nino se font ressentir jusqu'aux Antilles",
+      "link": "https://www.france24.com/fr/%C3%A9missions/outre-mer/20260918-les-effets-du-ph%C3%A9nom%C3%A8ne-el-nino-se-font-ressentir-jusqu-aux-antilles",
+      "desc": "La Martinique subit une nouvelle vague de chaleur. Des températures records ont été enregistrées ces dernières semaines. La faute, notamment, au phénomène El Nino, particulièrement intense cette année.",
+      "date": "2026-09-18T17:35:21",
+      "source": "France 24"
+    },
+    {
+      "title": "REPLAY - Zidane dévoile sa première liste en tant que sélectionneur de l'équipe de France",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-replay-zidane-d%C3%A9voile-sa-premi%C3%A8re-liste-en-tant-que-s%C3%A9lectionneur-de-l-%C3%A9quipe-de-france",
+      "desc": "Zinédine Zidane a rendu sa première copie ce vendredi 18 septembre à 18 h 00. Le nouveau sélectionneur des Bleus a annoncé sa liste de 23 joueurs sans le milieu Aurélien Tchouaméni ni l'attaquant Marcus Thuram, mais avec cinq nouveaux. L'ex numéro dix des Bleus annonce que Kylian Mbappé restera son ",
+      "date": "2026-09-18T17:14:37",
+      "source": "France 24"
+    },
+    {
+      "title": "Marie-Antoinette, de reine mal-aimée à première influenceuse de France",
+      "link": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20260918-marie-antoinette-de-reine-mal-aim%C3%A9e-%C3%A0-premi%C3%A8re-influenceuse-de-france",
+      "desc": "Plus de deux cents ans après son exécution, Marie-Antoinette continue de fasciner. De Versailles à Fontainebleau, les hommages se multiplient. Au XVIIIe siècle déjà, la reine imposait ses codes vestimentaires et cultivait une image qui faisait parler d’elle dans toute l’Europe. Et si Marie-Antoinett",
+      "date": "2026-09-18T17:12:55",
+      "source": "France 24"
+    },
+    {
+      "title": "Sadio Mané investit dans l'agro-industrie pour développer son village de Bambali",
+      "link": "https://www.bbc.com/afrique/articles/c6y8zgl8j00ko?at_medium=RSS&at_campaign=rss",
+      "desc": "Avec un investissement annoncé de 11,7 milliards de francs CFA dans un vaste projet agro-industriel consacré notamment à la transformation de la mangue, l'international sénégalais veut franchir un nouveau cap.",
+      "date": "2026-09-18T16:55:31",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Psychose du post-partum : donner la vie et perdre la raison",
+      "link": "https://www.france24.com/fr/%C3%A9missions/actuelles/20260918-psychose-du-post-partum-donner-la-vie-et-perdre-la-raison",
+      "desc": "Le procès de Lindsay Clancy a relancé aux États-Unis le débat sur la psychose du post-partum. Accusée d’avoir tué ses trois enfants, avant de tenter de se suicider, cette mère affirme avoir agi lors d’un épisode délirant. Comment reconnaître cette maladie psychiatrique rare et grave ? Quels sont ses",
+      "date": "2026-09-18T16:52:42",
+      "source": "France 24"
+    },
+    {
+      "title": "Les attaques hybrides russes contre l'Europe s'intensifient, déclare Macron",
+      "link": "https://www.bbc.com/afrique/articles/c639mwgzr8rmo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le président français affirme avoir chargé le gouvernement de protéger les infrastructures critiques et les sites de l'industrie de la défense.",
+      "date": "2026-09-18T15:06:00",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Comment la course pieds nus d'une maman est devenue virale, relançant ainsi un débat national sur l'accès à l'éducation",
+      "link": "https://www.bbc.com/afrique/articles/c9dr72gr8vlko?at_medium=RSS&at_campaign=rss",
+      "desc": "Pour certains, la course de 3 km pieds nus de Ramabai Ranveer, qui lui a valu 3 000 roupies, incarne le sacrifice maternel et les efforts considérables que les parents sont prêts à déployer pour sortir leurs enfants de la pauvreté. Pour d’autres, elle symbolise la pourriture qui ronge le système édu",
+      "date": "2026-09-18T14:39:06",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "\"C'est notre entreprise\" : quand l'achat d'actions de la raffinerie Dangote déclenche une frénésie au Nigéria",
+      "link": "https://www.bbc.com/afrique/articles/crx2zjl3vpjwo?at_medium=RSS&at_campaign=rss",
+      "desc": "De nombreux Nigérians achètent leurs toutes premières actions : celles de la raffinerie de pétrole appartenant à l'homme le plus riche d'Afrique, Aliko Dangote.",
+      "date": "2026-09-18T12:20:04",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Haïti : la malnutrition infantile s’aggrave sur fond de violence",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159499",
+      "desc": "Haïti se rapproche d’un nouveau seuil d’urgence humanitaire : près de 254.000 enfants pourraient souffrir de malnutrition aiguë au cours des douze prochains mois, dont près de 94.000 d’une forme sévère, potentiellement mortelle, selon une nouvelle analyse soutenue par les Nations Unies. Sur fond d’e",
       "date": "2026-09-18T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "À Ceuta, des migrants évacués des plages vers un camp de 1 700 places",
-      "link": "https://www.france24.com/fr/afrique/20260918-ceuta-migrants-%C3%A9vacu%C3%A9s-des-plages-vers-camp-de-1-700-places",
-      "desc": "Plus d'un mois et demi après l'afflux de migrants des 30 et 31 juillet à Ceuta, les autorités espagnoles ont commencé, vendredi, à transférer les personnes installées sur les plages vers un camp de tentes de 1 700 places aménagé dans le port de cette enclave espagnole en Afrique du Nord.",
-      "date": "2026-09-18T09:57:51",
-      "source": "France 24"
-    },
-    {
-      "title": "France : \"La Niaque. Comment devenir plus que soi\", un ouvrage de Jacques Attali",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-france-la-niaque-comment-devenir-plus-que-soi-un-ouvrage-de-jacques-attali",
-      "desc": "Jacques Attali, ancien conseiller de François Mitterrand, président de l'ONG \"Positive Planet\" et auteur de nombreux livres était invité sur France 24. Son dernier ouvrage publié par les éditions Flammarion s’intitule : \"La Niaque. Comment devenir plus que soi\".",
-      "date": "2026-09-18T09:39:19",
-      "source": "France 24"
-    },
-    {
-      "title": "Israël : Netanyahu amplifie ses menaces contre les réalisateurs du documentaire \"Naza\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-isra%C3%ABl-netanyahu-amplifie-ses-menaces-contre-les-r%C3%A9alisateurs-du-documentaire-naza",
-      "desc": "Une semaine après avoir reçu le prix spécial du jury à la Mostra de Venise, le 13 septembre, les réalisateurs du documentaire \"Naza\" sont très critiqués en Israël. Benjamin Netanyahu lui-même exige la révocation de leur citoyenneté.",
-      "date": "2026-09-18T09:34:13",
-      "source": "France 24"
-    },
-    {
-      "title": "France : la colère des pêcheurs retombe, les blocages levés",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-france-la-col%C3%A8re-des-p%C3%AAcheurs-retombe-les-blocages-lev%C3%A9s",
-      "desc": "La ministre déléguée à la Mer et à la Pêche, Catherine Chabaud, a annoncé vendredi 18 septembre, au lendemain d'une réunion de six heures à Paris avec les représentants des pêcheurs de Méditerranée, qu'elle viendrait lundi 21 à leur rencontre au Grau-du-Roi (Gard) et à Sète (Hérault).",
-      "date": "2026-09-18T09:29:16",
-      "source": "France 24"
-    },
-    {
-      "title": "Budget 2027 en France : 54 milliards d'économie prévus, un objectif \"ambitieux mais réalisable\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260918-budget-2027-en-france-54-milliards-d-%C3%A9conomie-pr%C3%A9vus-un-objectif-ambitieux-mais-r%C3%A9alisable",
-      "desc": "En France, les discussions autour du budget 2027 prennent place. Le gouvernement annonce \"54 milliards d'efforts sur les dépenses qui amènent, du coup, le déficit public à 5 % l'année prochaine\", a-t-il ajouté, après des annonces en ce sens du Premier ministre Sébastien Lecornu. Cet objectif de défi",
-      "date": "2026-09-18T09:26:45",
-      "source": "France 24"
-    },
-    {
-      "title": "Comment l'escalade de la crise pétrolière saoudienne pourrait faire grimper les prix partout dans le monde",
-      "link": "https://www.bbc.com/afrique/articles/c65ymj80y1ngo?at_medium=RSS&at_campaign=rss",
-      "desc": "Ben Chu, de BBC Verify, examine l'impact que la hausse des coûts de l'énergie pourrait avoir sur l'économie mondiale.",
-      "date": "2026-09-18T07:49:51",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La polémique autour des centres de données constitue une autre menace pour le mastodonte qu'est l'IA",
-      "link": "https://www.bbc.com/afrique/articles/c6kg0vpxnkn1o?at_medium=RSS&at_campaign=rss",
-      "desc": "La course mondiale à l'IA est confrontée à des préoccupations politiques et environnementales très localisées.",
-      "date": "2026-09-17T17:38:54",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Moscou se tourne vers l'Afrique alors que les « Maisons russes » ferment leurs portes en Europe",
-      "link": "https://www.bbc.com/afrique/articles/cmkgw3rewg0ko?at_medium=RSS&at_campaign=rss",
-      "desc": "Cette annonce intervient une semaine après que l'Allemagne a annoncé la fermeture de la Maison russe de Berlin, reprochant à Moscou un incident impliquant un drone à l'aéroport de Leipzig/Halle.",
-      "date": "2026-09-17T14:22:08",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« J'étais à quelques semaines de me marier avec un violeur en série. Mes proches m'ont sauvé la vie. »",
-      "link": "https://www.bbc.com/afrique/articles/cj750xl7vxgvo?at_medium=RSS&at_campaign=rss",
-      "desc": "La femme a raconté à la BBC comment sa famille et ses amis avaient transmis des éléments de preuve décisifs à la police, ce qui a conduit à l'arrestation du violeur.",
-      "date": "2026-09-17T12:21:45",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Égalité des genres : le pouvoir reste largement entre les mains des hommes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159486",
-      "desc": "Six pays sur sept sont dirigés par des hommes, tandis que les institutions chargées de faire progresser l’égalité des genres voient leurs moyens et leur influence s’éroder. À ce rythme, il faudra encore 171 ans pour parvenir à l’égalité entre les femmes et les hommes, selon un nouveau rapport de l’O",
-      "date": "2026-09-17T12:00:00",
+      "title": "Yémen : plus de 112.000 déplacés et des stocks humanitaires au bord de l’épuisement",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159496",
+      "desc": "Plus de 112.000 personnes ont été déplacées à l’intérieur du Yémen en deux semaines, tandis que près de 3.000 autres ont traversé le golfe d’Aden pour trouver refuge à Djibouti, face à l’intensification des combats, ont indiqué vendredi plusieurs agences des Nations Unies.",
+      "date": "2026-09-18T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "IA, surveillance, oligopoles : les droits de l’homme face au nouveau rapport de force",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159489",
-      "desc": "Lorsque les Pactes internationaux relatifs aux droits de l’homme ont été adoptés il y a soixante ans, l’intelligence artificielle, la surveillance de masse et les géants économiques capables de peser à l’échelle des États n’existaient pas. En six décennies, le monde a profondément changé.",
-      "date": "2026-09-17T12:00:00",
+      "title": "Développement durable : à quatre ans de 2030, le compte n’y est pas",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159497",
+      "desc": "À quatre ans de l’échéance fixée pour atteindre les objectifs de développement durable, l’ONU tente de ranimer une ambition malmenée par les guerres, la dette et le dérèglement climatique. Vendredi, à New York, António Guterres a rappelé les gouvernements à leur promesse, alors qu’un peu plus d’un t",
+      "date": "2026-09-18T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Lutter contre les discours de haine : « Nous avons tous un rôle à jouer »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159492",
-      "desc": "Face à la propagation rapide des discours de haine, notamment sur les plateformes numériques, le Secrétaire général de l’ONU, António Guterres, a appelé jeudi à renforcer le dialogue entre religions et cultures et à « rejeter la haine », en associant gouvernements, société civile et entreprises tech",
-      "date": "2026-09-17T12:00:00",
+      "title": "Ukraine : l’ONU dénonce les violences sexuelles infligées à des prisonniers et civils par les forces russes",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159494",
+      "desc": "Des violences sexuelles ont été infligées à des civils et à des prisonniers de guerre en Ukraine dans le cadre d’un schéma généralisé de torture, d’intimidation et de coercition depuis le début de l’invasion russe à grande échelle, selon un nouveau rapport du Haut-Commissariat des Nations Unies aux ",
+      "date": "2026-09-18T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Yémen : les enfants paient le prix de la reprise des combats",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159488",
-      "desc": "La reprise des combats au Yémen a déjà forcé plus de 57.000 enfants à fuir leur foyer en seulement deux semaines, aggravant une crise humanitaire qui touchait déjà des millions de jeunes. L’UNICEF alerte sur les conséquences de cette nouvelle escalade pour les 12,2 millions d’enfants qui avaient bes",
-      "date": "2026-09-17T12:00:00",
+      "title": "L’ONU au centre du monde : les enjeux de la semaine de haut niveau",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159479",
+      "desc": "Chaque année en septembre, New York devient le théâtre du plus grand rendez-vous diplomatique de la planète. Présidents, premiers ministres, ministres et diplomates des 193 États membres convergent vers le siège des Nations Unies pour une semaine de rencontres au sommet.",
+      "date": "2026-09-18T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Mbappé affirme \"soutenir Ceuta\" après la polémique autour des t-shirts",
-      "link": "https://www.bbc.com/afrique/articles/ckz7zgvj1nxwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Vini Jr, Mbappé et Konaté dissimulent le message de soutien de Ceuta avant le match du Real Madrid contre Elche.",
-      "date": "2026-09-17T10:16:52",
+      "title": "Les 5 dirigeants les mieux payés au monde et ce qu'on peut faire avec leur salaire",
+      "link": "https://www.bbc.com/afrique/articles/cp8dyz30j7wo?at_medium=RSS&at_campaign=rss",
+      "desc": "L'annonce d'une forte augmentation de salaire pour le Premier ministre singapourien, Lawrence Wong, a suscité un débat sur la rémunération des dirigeants politiques dans le monde.",
+      "date": "2026-09-18T10:02:41",
       "source": "BBC Afrique"
     }
   ]
