@@ -3,19 +3,19 @@
   "title": "Météo du 18 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 21.88,
-    "feels_like": 21.74,
-    "humidity": 62,
-    "description": "Nuageux",
-    "wind_kmh": 7.4
+    "temp": 13.41,
+    "feels_like": 13.18,
+    "humidity": 91,
+    "description": "Ciel dégagé",
+    "wind_kmh": 14.8
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 33.17,
-    "feels_like": 40.17,
-    "humidity": 63,
+    "temp": 27.79,
+    "feels_like": 31.17,
+    "humidity": 77,
     "description": "Nuageux",
-    "wind_kmh": 5.1
+    "wind_kmh": 12.7
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 18 septembre 2026 sur Radio Sources de Vie. À Ottawa: 22 degrés Celsius. Nuageux. À Port-au-Prince: 33 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 18 septembre 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Ciel dégagé. À Port-au-Prince: 28 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
