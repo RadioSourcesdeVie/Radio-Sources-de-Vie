@@ -3,19 +3,19 @@
   "title": "Météo du 20 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 15.38,
-    "feels_like": 14.67,
-    "humidity": 65,
-    "description": "Ciel dégagé",
-    "wind_kmh": 7.4
+    "temp": 20.41,
+    "feels_like": 19.73,
+    "humidity": 47,
+    "description": "Nuageux",
+    "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 39.69,
-    "humidity": 62,
+    "temp": 31.79,
+    "feels_like": 38.79,
+    "humidity": 70,
     "description": "Couvert",
-    "wind_kmh": 24.1
+    "wind_kmh": 25.9
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 20 septembre 2026 sur Radio Sources de Vie. À Ottawa: 15 degrés Celsius. Ciel dégagé. À Port-au-Prince: 33 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 20 septembre 2026 sur Radio Sources de Vie. À Ottawa: 20 degrés Celsius. Nuageux. À Port-au-Prince: 32 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }
