@@ -3,19 +3,19 @@
   "title": "Météo du 21 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 13.05,
-    "feels_like": 11.79,
+    "temp": 14.3,
+    "feels_like": 13.17,
     "humidity": 53,
     "description": "Couvert",
-    "wind_kmh": 14.8
+    "wind_kmh": 16.7
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 39.79,
-    "humidity": 66,
-    "description": "Couvert",
-    "wind_kmh": 22.2
+    "temp": 34.79,
+    "feels_like": 41.79,
+    "humidity": 59,
+    "description": "Légère pluie",
+    "wind_kmh": 14.8
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 21 septembre 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Couvert. À Port-au-Prince: 33 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 21 septembre 2026 sur Radio Sources de Vie. À Ottawa: 14 degrés Celsius. Couvert. À Port-au-Prince: 35 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
