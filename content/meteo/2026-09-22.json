@@ -3,19 +3,19 @@
   "title": "Météo du 22 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 6.94,
-    "feels_like": 4.18,
-    "humidity": 85,
-    "description": "Couvert",
-    "wind_kmh": 14.8
+    "temp": 13.89,
+    "feels_like": 12.85,
+    "humidity": 58,
+    "description": "Ciel dégagé",
+    "wind_kmh": 18.5
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 28,
-    "feels_like": 31.5,
-    "humidity": 76,
+    "temp": 33.79,
+    "feels_like": 40.79,
+    "humidity": 62,
     "description": "Partiellement nuageux",
-    "wind_kmh": 12.1
+    "wind_kmh": 16.7
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 22 septembre 2026 sur Radio Sources de Vie. À Ottawa: 7 degrés Celsius. Couvert. À Port-au-Prince: 28 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 22 septembre 2026 sur Radio Sources de Vie. À Ottawa: 14 degrés Celsius. Ciel dégagé. À Port-au-Prince: 34 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
 }
