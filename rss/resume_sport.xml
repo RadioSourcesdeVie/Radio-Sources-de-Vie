@@ -5,15 +5,15 @@
     <description>Résumé sportif du jour — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 22:02:08 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 09:02:03 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Le PSG écrase Marseille, la France en alerte gardiens! — 2026-09-21</title>
-      <description>Résumé sportif du jour — Voix Charlotte — 2026-09-21</description>
-      <pubDate>Mon, 21 Sep 2026 22:02:08 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-09-21.mp3" length="191664" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-09-21.mp3</guid>
+      <title>Sans titre — 2026-09-22</title>
+      <description>Résumé sportif du jour — Voix Charlotte — 2026-09-22</description>
+      <pubDate>Tue, 22 Sep 2026 09:02:03 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-09-22.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-09-22.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
