@@ -1,0 +1,21 @@
+{
+  "date": "2026-09-24",
+  "title": "Météo du 24 septembre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 19.39,
+    "feels_like": 18.46,
+    "humidity": 41,
+    "description": "Ciel dégagé",
+    "wind_kmh": 22.2
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 30.79,
+    "feels_like": 37.04,
+    "humidity": 70,
+    "description": "Couvert",
+    "wind_kmh": 18.5
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 24 septembre 2026 sur Radio Sources de Vie. À Ottawa: 19 degrés Celsius. Ciel dégagé. À Port-au-Prince: 31 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+}
