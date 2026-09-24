@@ -3,19 +3,19 @@
   "title": "Météo du 24 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 5.87,
-    "feels_like": 4.89,
-    "humidity": 93,
+    "temp": 17.21,
+    "feels_like": 16.27,
+    "humidity": 49,
     "description": "Ciel dégagé",
-    "wind_kmh": 5.5
+    "wind_kmh": 9.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.19,
-    "feels_like": 25.91,
-    "humidity": 82,
-    "description": "Nuageux",
-    "wind_kmh": 15.7
+    "temp": 32.71,
+    "feels_like": 38.12,
+    "humidity": 58,
+    "description": "Couvert",
+    "wind_kmh": 4.3
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 24 septembre 2026 sur Radio Sources de Vie. À Ottawa: 6 degrés Celsius. Ciel dégagé. À Port-au-Prince: 25 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 24 septembre 2026 sur Radio Sources de Vie. À Ottawa: 17 degrés Celsius. Ciel dégagé. À Port-au-Prince: 33 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
 }

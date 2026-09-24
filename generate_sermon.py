@@ -11,6 +11,8 @@ TODAY = datetime.now().strftime("%Y-%m-%d")
 DAY_NUM = datetime.now().timetuple().tm_yday  # jour de l'année, pour faire tourner les thèmes
 
 # Rotation de thèmes pour éviter que Claude retombe toujours sur "La puissance de la foi"
+# Liste volontairement large et variée (sujets doctrinaux, vie chrétienne, figures et récits
+# bibliques, paraboles) — élargie en 2026-09 à la demande de Souvenan pour plus de diversité.
 SERMON_THEMES = [
     "la foi", "l'espérance", "le pardon", "la persévérance dans l'épreuve", "la prière",
     "la grâce de Dieu", "l'obéissance à Dieu", "la guérison intérieure", "la paix intérieure",
@@ -21,6 +23,23 @@ SERMON_THEMES = [
     "la nouvelle naissance", "le fruit du Saint-Esprit", "la mission de l'Église", "la crainte de Dieu",
     "la sanctification", "le pardon des offenses", "l'amour du prochain", "la persévérance de la prière",
     "la restauration après la chute", "l'identité en Christ",
+    # -- thèmes ajoutés pour plus de variété --
+    "le Saint-Esprit et ses dons", "l'adoration et la louange", "l'évangélisation et le témoignage",
+    "l'amour de Dieu", "la souveraineté de Dieu", "les promesses de Dieu", "la vie éternelle",
+    "le combat contre la peur", "le renouvellement de l'esprit", "la compassion", "l'unité dans l'Église",
+    "l'attente et la patience envers Dieu", "le jeûne et la discipline spirituelle", "l'espoir en temps de crise",
+    "la fidélité dans les petites choses", "le repos en Dieu", "la guérison des relations brisées",
+    "la bonté de Dieu", "être lumière du monde", "être sel de la terre", "la nouvelle création en Christ",
+    "le royaume de Dieu", "les béatitudes", "la solitude et la présence de Dieu", "le pardon de soi-même",
+    "la réconciliation", "le doute et la foi", "la bénédiction divine", "la vie éternelle et l'au-delà",
+    "les relations familiales et le foyer", "la discipline et la formation du caractère",
+    # -- figures et récits bibliques --
+    "la parabole du fils prodigue", "la parabole du semeur", "la parabole du bon Samaritain",
+    "la foi d'Abraham", "la vie de Joseph et le pardon", "la vie de David et la repentance",
+    "l'histoire d'Esther et le courage", "l'histoire de Ruth et la fidélité", "le voyage de l'apôtre Paul",
+    "la croix et la rédemption", "les miracles de Jésus", "le sermon sur la montagne",
+    "la vie de prière de Jésus", "l'appel des premiers disciples", "la femme au puits et la restauration",
+    "Job et la souffrance", "Moïse et la libération", "Daniel et la fidélité en exil",
 ]
 
 def get_recent_sermons(days=7):
@@ -81,14 +100,23 @@ Format exact: TITRE|VERSET|REFERENCE"""}]
               "exemples concrets et chaleur pastorale pour la diaspora haïtienne au Canada. "
               "IMPORTANT: ne mentionne jamais un jour précis de la semaine (dimanche, samedi, lundi, etc.) "
               "car ce sermon peut être écouté n'importe quel jour — tu peux parler de l'église, du culte, "
-              "de la communauté des croyants, mais jamais d'un jour de la semaine spécifique.")
+              "de la communauté des croyants, mais jamais d'un jour de la semaine spécifique. Si tu as besoin "
+              "d'évoquer un cycle ou un rythme, dis « les sept jours » plutôt que de nommer un jour précis. "
+              "IMPORTANT: ne mentionne jamais que la station ou l'Église est « adventiste », « adventiste du "
+              "septième jour » ou toute autre étiquette dénominationnelle précise — reste toujours sur un "
+              "langage chrétien général (l'Église, les croyants, le peuple de Dieu). "
+              "IMPORTANT: varie tes illustrations — ne retombe pas systématiquement sur l'histoire d'une "
+              "personne venue d'Haïti pour travailler à Montréal. Puise plutôt dans des scènes de vie variées: "
+              "la vie de famille, le travail, la santé, l'amitié, l'attente, le deuil, la joie, des paraboles "
+              "bibliques, ou des scènes de la vie quotidienne en général — sans répéter toujours le même type "
+              "d'histoire d'un sermon à l'autre.")
 
     sections_prompts = [
-        f"Écris l'INTRODUCTION de ce sermon (300 mots minimum): '{titre}'. Commence par une histoire vraie accrocheuse, présente le sujet et le verset: {verset}. Termine l'introduction par une question qui engage l'auditeur.",
-        f"Écris le POINT 1 de ce sermon (500 mots minimum): '{titre}'. Premier enseignement majeur avec 2-3 exemples bibliques concrets et une histoire de vie réelle de la diaspora haïtienne.",
-        f"Écris le POINT 2 de ce sermon (500 mots minimum): '{titre}'. Deuxième enseignement avec versets d'appui multiples, illustrations pratiques et application pour aujourd'hui.",
+        f"Écris l'INTRODUCTION de ce sermon (300 mots minimum): '{titre}'. Commence par une histoire vraie accrocheuse (varie le type d'histoire, pas toujours une histoire de migration/travail), présente le sujet et le verset: {verset}. Termine l'introduction par une question qui engage l'auditeur.",
+        f"Écris le POINT 1 de ce sermon (500 mots minimum): '{titre}'. Premier enseignement majeur avec 2-3 exemples bibliques concrets et une illustration de vie réelle et actuelle (varie le type de situation — famille, travail, santé, relations, épreuve — sans répéter toujours le même scénario de migration).",
+        f"Écris le POINT 2 de ce sermon (500 mots minimum): '{titre}'. Deuxième enseignement avec versets d'appui multiples, illustrations pratiques variées et application pour aujourd'hui.",
         f"Écris le POINT 3 de ce sermon (500 mots minimum): '{titre}'. Troisième enseignement avec application concrète, défis pratiques pour la semaine et encouragements.",
-        f"Écris la CONCLUSION de ce sermon (400 mots minimum): '{titre}'. Histoire illustrative émouvante, résumé des 3 points, appel à l'action concret et prière finale.",
+        f"Écris la CONCLUSION de ce sermon (400 mots minimum): '{titre}'. Histoire illustrative émouvante (variée, pas un scénario répétitif), résumé des 3 points, appel à l'action concret et prière finale.",
     ]
 
     texte_complet = ""
@@ -104,9 +132,11 @@ Format exact: TITRE|VERSET|REFERENCE"""}]
 
     texte_complet = clean_markdown(texte_complet)
 
-    for jour in ("dimanche", "samedi"):
-        if jour in texte_complet.lower():
-            print(f"⚠️  Le mot '{jour}' est apparu dans le sermon malgré la consigne — vérifier le texte")
+    mots_interdits = ("dimanche", "samedi", "lundi", "mardi", "mercredi", "jeudi", "vendredi",
+                       "adventiste", "septième jour")
+    for mot in mots_interdits:
+        if mot in texte_complet.lower():
+            print(f"⚠️  Le mot '{mot}' est apparu dans le sermon malgré la consigne — vérifier le texte")
 
     words   = len(texte_complet.split())
     minutes = round(words/150)
