@@ -3,19 +3,19 @@
   "title": "Météo du 28 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 19.35,
-    "feels_like": 18.86,
-    "humidity": 58,
-    "description": "Couvert",
-    "wind_kmh": 24.1
+    "temp": 13.82,
+    "feels_like": 13.14,
+    "humidity": 72,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 16.7
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 39.79,
-    "humidity": 66,
-    "description": "Couvert",
-    "wind_kmh": 14.8
+    "temp": 25.43,
+    "feels_like": 25.8,
+    "humidity": 68,
+    "description": "Nuageux",
+    "wind_kmh": 9.8
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 28 septembre 2026 sur Radio Sources de Vie. À Ottawa: 19 degrés Celsius. Couvert. À Port-au-Prince: 33 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 28 septembre 2026 sur Radio Sources de Vie. À Ottawa: 14 degrés Celsius. Partiellement nuageux. À Port-au-Prince: 25 degrés Celsius. Nuageux. Que Dieu bénisse votre journée!"
 }
