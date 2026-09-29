@@ -1,21 +1,98 @@
 {
   "category": "monde",
   "date": "2026-09-29",
-  "updated": "2026-09-29T10:00:19.404000Z",
+  "updated": "2026-09-29T19:00:19.426309Z",
   "articles": [
     {
-      "title": "France : grève dans la fonction publique pour protester contre le recul du pouvoir d'achat",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-france-gr%C3%A8ve-dans-la-fonction-publique-pour-protester-contre-le-recul-du-pouvoir-d-achat",
-      "desc": "Les agents de la fonction publique ⁠manifestent mardi ​en France à l'appel des syndicats unanimes contre le projet de budget du gouvernement pour 2027 et le gel du ​point d'indice annoncé par le Premier ministre Sébastien Lecornu.",
-      "date": "2026-09-29T09:56:56",
+      "title": "Gaza : sur Google Earth, les nouvelles images qui montrent l'ampleur des destructions",
+      "link": "https://www.france24.com/fr/moyen-orient/20260929-gaza-google-earth-destruction-rafah",
+      "desc": "Le 27 septembre, le logiciel d'imagerie satellite Google Earth a mis à jour sa carte du sud de la bande de Gaza. Ces nouvelles images en libre accès mettent en lumière la destruction quasi-totale par l'armée israélienne de certaines anciennes zones d'habitation, comme la ville de Rafah.",
+      "date": "2026-09-29T17:59:17",
       "source": "France 24"
     },
     {
-      "title": "Benjamin Netanyahu s'est rendu secrètement aux Émirats arabes unis dimanche",
-      "link": "https://www.france24.com/fr/moyen-orient/20260929-isra%C3%ABl-%C3%A9mirats-arabes-unis-visite-netanyahu",
-      "desc": "La visite de Benjamin Netanyahu dimanche à Abu Dhabi, qui n’avait pas été annoncée à l’avance, a finalement été officiellement confirmée lundi par le bureau du Premier ministre israélien et par les Émirats arabes unis. Ce déplacement intervient alors qu’une controverse persiste autour d'un possible ",
-      "date": "2026-09-29T09:45:46",
+      "title": "Guerre en Ukraine : Volodymyr Zelensky a-t-il fâché pour de bon la Corée du Sud ?",
+      "link": "https://www.france24.com/fr/asie-pacifique/20260929-guerre-en-ukraine-volodymyr-zelensky-f%C3%A2ch%C3%A9-pour-de-bon-la-cor%C3%A9e-du-sud",
+      "desc": "Les déclarations du président ukrainien Volodymyr Zelensky sur le transfert en Corée du Sud de deux soldats nord-coréens capturés en Russie ont provoqué un incident diplomatique majeur avec Séoul. La Corée du Sud reproche à l'Ukraine de ne pas avoir su se taire sur cette affaire, ce que conteste Kie",
+      "date": "2026-09-29T17:58:59",
       "source": "France 24"
+    },
+    {
+      "title": "Première femme nommée Première ministre au Maroc après avoir remporté les élections",
+      "link": "https://www.bbc.com/afrique/articles/ck7v42l03j3po?at_medium=RSS&at_campaign=rss",
+      "desc": "Sa nomination par le roi fait d'elle la deuxième femme seulement à diriger un gouvernement dans le monde arabe.",
+      "date": "2026-09-29T17:43:31",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Un haut responsable du parti présidentiel en RDC tué pour avoir appelé à lutter contre Ebola",
+      "link": "https://www.bbc.com/afrique/articles/cwkgxr7zydzeo?at_medium=RSS&at_campaign=rss",
+      "desc": "Un haut responsable de l'UDPS, le parti au pouvoir, du président Félix Tshisekedi en RDC, a été tué dans la ville de Butembo dans la province du Nord-Kivu. Ce haut responsable a été agressé mortellement après avoir participé à une émission d'une radio locale où il encourageait les populations à sout",
+      "date": "2026-09-29T17:36:07",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "RDC - RCA : bientôt un pont de 645 mètres pour relier les deux pays",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-rdc-rca-bient%C3%B4t-un-pont-de-645-m%C3%A8tres-pour-relier-les-deux-pays",
+      "desc": "🇨🇫🇨🇩 La République centrafricaine et la République démocratique du Congo seront bientôt relier par un pont de 645 mètres. Financé à hauteur de 60 millions de dollars par la Banque mondiale, l’ouvrage doit renforcer les échanges entre les deux pays.",
+      "date": "2026-09-29T17:23:17",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment l'IA est utilisée pour générer de fausses images de dirigeants iraniens",
+      "link": "https://www.france24.com/fr/moyen-orient/20260929-comment-l-ia-est-utilis%C3%A9e-pour-g%C3%A9n%C3%A9rer-de-fausses-images-de-dirigeants-iraniens",
+      "desc": "Des images générées par intelligence artificielle du guide suprême iranien Mojtaba Khamenei et du président de la République islamique d'Iran Masoud Pezeshkian ont été diffusées par des comptes gouvernementaux et des internautes pro-régime.",
+      "date": "2026-09-29T17:17:51",
+      "source": "France 24"
+    },
+    {
+      "title": "\"On demande le bac, ça nous ramène la BAC\" : à Saint-Denis, la colère des lycéens",
+      "link": "https://www.france24.com/fr/france/20260929-on-demande-le-bac-%C3%A7a-nous-ram%C3%A8ne-la-bac-saint-denis-col%C3%A8re-lyc%C3%A9ens",
+      "desc": "Pour la troisième journée consécutive, de nombreux élèves du lycée Paul Éluard ont bloqué leur établissement mardi, jour de mobilisation de la fonction publique. Après les affrontements de la veille avec les forces de l'ordre, lycéens et professionnels racontent surtout leur quotidien : classes surc",
+      "date": "2026-09-29T16:40:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Le Portugal a-t-il commencé à tourner la page Ronaldo ?",
+      "link": "https://www.bbc.com/afrique/articles/cm2dw9epr5dgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Cristiano Ronaldo n'a pas participé à la victoire du Portugal contre la Norvège en Ligue des nations. Resté sur le banc durant toute la rencontre, c'est la troisième fois que cela lui arrive depuis ses débuts en sélection nationale.",
+      "date": "2026-09-29T14:02:36",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Réfugiés : faute de financements, les systèmes de protection s’effondrent",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159570",
+      "desc": "Retards dans l’enregistrement des réfugiés, fermeture de foyers, recul de la protection de l’enfance. La crise financière qui frappe l’agence de l’ONU pour les réfugiés ne se traduit plus seulement par une diminution de l’aide, mais par un début d’effondrement des dispositifs censés protéger les plu",
+      "date": "2026-09-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "RDC : les processus de paix à l’épreuve d’une guerre financée par les minerais",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159574",
+      "desc": "Alors que les négociations diplomatiques se multiplient concernant la République démocratique du Congo, les combats se poursuivent dans l’Est, où le M23 conserve de vastes territoires et où d’autres groupes armés continuent de s’en prendre aux civils. À cette guerre désormais chronique s’ajoute la p",
+      "date": "2026-09-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Armes nucléaires : « Nous nous dirigeons tout droit vers la catastrophe », prévient Guterres",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159575",
+      "desc": "« Tous les voyants sont au rouge ». Devant l’Assemblée générale de l’ONU, le Secrétaire général a lancé mardi cette mise en garde, 81 ans après les bombardements atomiques d’Hiroshima et de Nagasaki, alors que le risque nucléaire atteint, selon lui, son niveau le plus élevé depuis la fin de la Guerr",
+      "date": "2026-09-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Haïti : le Conseil de sécurité prolonge le mandat de la force antigangs",
+      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159573",
+      "desc": "Le Conseil de sécurité de l’ONU a adopté mardi une résolution prorogeant de six mois, jusqu’au 31 mars 2027, le mandat de la Force de répression des gangs (FRG) en Haïti.",
+      "date": "2026-09-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Les familles saluent le verdict de culpabilité prononcé dans l'accident d'avion au Mali qui a fait 116 morts",
+      "link": "https://www.bbc.com/afrique/articles/cmr4vg2v1z0xo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les proches des victimes ont confié à la BBC être soulagés d'avoir enfin un verdict, douze ans après l'accident.",
+      "date": "2026-09-29T11:48:01",
+      "source": "BBC Afrique"
     },
     {
       "title": "Ibrahim Traoré inaugure la première raffinerie d'or à Ouagadougou",
@@ -25,86 +102,9 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Blocus des lycées en France : les raisons de la mobilisation",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-blocus-des-lyc%C3%A9es-en-france-les-raisons-de-la-mobilisation",
-      "desc": "Depuis une semaine, des lycéens d'Île-de-France se mobilisent devant leurs établissements pour dénoncer des classes surchargées, l'absence d'enseignants ou des emplois du temps trop lourds. Le mouvement s'est amplifié lundi, avec 28 lycées temporairement bloqués dans l'agglomération parisienne, et s",
-      "date": "2026-09-29T09:15:41",
-      "source": "France 24"
-    },
-    {
-      "title": "Propos antisémites attribués à Bardella : l'enquête de Mediapart suscite de vives réactions",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20260929-propos-antis%C3%A9mites-attribu%C3%A9s-%C3%A0-bardella-l-enqu%C3%AAte-de-mediapart-suscite-de-vives-r%C3%A9actions",
-      "desc": "Mediapart a publié lundi des messages antisémites datant de 2013 attribués à Jordan Bardella, alors jeune militant du Front national. Le président du RN a annoncé une plainte en diffamation et dénoncé une tentative pour \"déstabiliser\" la campagne du RN, en tête dans les sondages, Marine Le Pen évoqu",
-      "date": "2026-09-29T09:13:49",
-      "source": "France 24"
-    },
-    {
-      "title": "Starship atteint enfin l’orbite",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20260929-starship-atteint-enfin-l-orbite",
-      "desc": "La fusée géante de SpaceX a placé 26 satellites Starlink en orbite pour la première fois. Un succès majeur mais encore imparfait : son vol a été écourté après une panne moteur et s’est achevé par une explosion spectaculaire.",
-      "date": "2026-09-29T08:20:46",
-      "source": "France 24"
-    },
-    {
-      "title": "Pourquoi le JNIM change-t-il de stratégie au Sahel ? 2/2",
-      "link": "https://www.bbc.com/afrique/articles/cmde00n7p3p8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le JNIM a progressivement réduit les liens visibles avec Al-Qaïda en modifiant son image de marque, ses pratiques médiatiques et ses messages ; la dernière apparition de l'image de marque d'Al-Qaïda dans sa propagande remonte à fin 2024.",
-      "date": "2026-09-29T08:05:42",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Je suis née alors que ma mère était maintenue en vie dans un poumon d'acier »",
-      "link": "https://www.bbc.com/afrique/articles/cq4g714llkpeo?at_medium=RSS&at_campaign=rss",
-      "desc": "La mère de Susan, Elizabeth, était enceinte de cinq mois lorsqu'elle a contracté la polio dans les années 1950.",
-      "date": "2026-09-28T17:09:40",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Un Nigérian tente de battre le record du monde en dansant sans interruption pendant sept jours",
-      "link": "https://www.bbc.com/afrique/articles/c65y5ne0ly50o?at_medium=RSS&at_campaign=rss",
-      "desc": "Des foules se sont rassemblées à Lagos pour regarder Ben Dancer, qui affirme qu'il continuera à danser jusqu'à mercredi matin.",
-      "date": "2026-09-28T16:59:07",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les Éthiopiens reprennent-ils la guerre au Tigré ?",
-      "link": "https://www.bbc.com/afrique/articles/cqgmr0e8zjy1o?at_medium=RSS&at_campaign=rss",
-      "desc": "Analyse des enjeux à l'origine de l'escalade des tensions entre le TPLF et l'armée nationale.",
-      "date": "2026-09-28T12:22:38",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "À l’ONU, l’Afrique réclame davantage de poids dans l’ordre mondial",
       "link": "https://news.un.org/feed/view/fr/story/2026/09/1159569",
       "desc": "Conseil de sécurité, ressources naturelles, intelligence artificielle. À la tribune de l’Assemblée générale, plusieurs dirigeants d’Afrique francophone ont décliné ces derniers jours une même frustration. Celle d’un ordre international qui, plus de 80 ans après la création de l’ONU, continue selon e",
-      "date": "2026-09-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Éthiopie : l’ONU alerte sur le risque d’une nouvelle guerre",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159568",
-      "desc": "L’ONU a appelé lundi à une désescalade urgente dans le nord de l’Éthiopie, alors que la dégradation de la situation sécuritaire perturbe l’aide humanitaire et fait craindre une aggravation du conflit.",
-      "date": "2026-09-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Intelligence artificielle : l’Afrique cherche à tracer sa propre voie",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159566",
-      "desc": "Alors que l’intelligence artificielle se diffuse à grande vitesse sur le continent, l’enjeu n’est plus seulement pour l’Afrique d’accéder aux technologies développées ailleurs, mais de concevoir des outils adaptés à ses propres besoins. Pour Girmaw Abebe Tadesse, membre d’un groupe scientifique inte",
-      "date": "2026-09-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Restaurer les forêts pour renforcer la sécurité alimentaire",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159561",
-      "desc": "La restauration des forêts et des paysages peut contribuer à relever simultanément les défis de la sécurité alimentaire, de la biodiversité, du climat et du développement rural, estime la FAO dans son rapport annuel. Face à l’ampleur des terres dégradées, l’organisation appelle à accélérer les effor",
-      "date": "2026-09-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Racisme : l’ONU veut passer des mots aux actes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/09/1159565",
-      "desc": "Vingt-cinq ans après l’adoption de la Déclaration et du Programme d’action de Durban, le racisme continue de creuser les inégalités et de priver des millions de personnes de leurs droits, a averti lundi le Secrétaire général de l’ONU, António Guterres. À New York, il a appelé les États à transformer",
       "date": "2026-09-28T12:00:00",
       "source": "ONU Info"
     }
