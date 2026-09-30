@@ -3,19 +3,19 @@
   "title": "Météo du 30 septembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 13.24,
-    "feels_like": 13.23,
-    "humidity": 100,
+    "temp": 19.54,
+    "feels_like": 19.61,
+    "humidity": 79,
     "description": "Couvert",
-    "wind_kmh": 11.1
+    "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 38.31,
-    "humidity": 58,
-    "description": "Peu nuageux",
-    "wind_kmh": 24.1
+    "temp": 36.79,
+    "feels_like": 43.76,
+    "humidity": 47,
+    "description": "Légère pluie",
+    "wind_kmh": 13.0
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 30 septembre 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Couvert. À Port-au-Prince: 33 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 30 septembre 2026 sur Radio Sources de Vie. À Ottawa: 20 degrés Celsius. Couvert. À Port-au-Prince: 37 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
