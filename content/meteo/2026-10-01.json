@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-01",
+  "title": "Météo du 1 octobre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 19.54,
+    "feels_like": 19.61,
+    "humidity": 79,
+    "description": "Couvert",
+    "wind_kmh": 13.0
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 36.79,
+    "feels_like": 43.76,
+    "humidity": 47,
+    "description": "Légère pluie",
+    "wind_kmh": 13.0
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 1 octobre 2026 sur Radio Sources de Vie. À Ottawa: 20 degrés Celsius. Couvert. À Port-au-Prince: 37 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
+}
