@@ -3,19 +3,19 @@
   "title": "Météo du 2 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 16.17,
-    "feels_like": 16.35,
-    "humidity": 96,
-    "description": "Forte pluie",
-    "wind_kmh": 13.0
+    "temp": 16.56,
+    "feels_like": 16.6,
+    "humidity": 89,
+    "description": "Couvert",
+    "wind_kmh": 14.8
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 26.79,
-    "feels_like": 29.53,
-    "humidity": 83,
-    "description": "Couvert",
-    "wind_kmh": 18.5
+    "temp": 30.87,
+    "feels_like": 35.07,
+    "humidity": 62,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 9.0
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 2 octobre 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Forte pluie. À Port-au-Prince: 27 degrés Celsius. Couvert. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 2 octobre 2026 sur Radio Sources de Vie. À Ottawa: 17 degrés Celsius. Couvert. À Port-au-Prince: 31 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
 }
