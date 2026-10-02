@@ -1,14 +1,70 @@
 {
   "category": "monde",
   "date": "2026-10-02",
-  "updated": "2026-10-02T10:00:16.909991Z",
+  "updated": "2026-10-02T19:00:20.475320Z",
   "articles": [
     {
-      "title": "Vol Flydubai : \"Je ne pouvais pas les laisser mourir\", raconte le pilote à Modi",
-      "link": "https://www.france24.com/fr/asie-pacifique/20261002-vol-flydubai-je-ne-pouvais-pas-les-laisser-mourir-raconte-le-pilote-%C3%A0-modi",
-      "desc": "Le commandant de bord indien Smit Machchhar, qui a été poignardé par son copilote lors d'un vol de Flydubai à destination d'Israël, s'est entretenu, vendredi, depuis son lit d'hôpital, avec le Premier ministre indien, Narendra Modi.",
-      "date": "2026-10-02T09:48:20",
+      "title": "Mobilisation lycéenne : face aux débordements, le maintien de l'ordre en question",
+      "link": "https://www.france24.com/fr/france/20261002-mobilisation-lyc%C3%A9enne-d%C3%A9bordements-maintien-ordre-en-question",
+      "desc": "Depuis qu'il s'est élargi, le mouvement de protestation des lycéens est rythmé par de nombreux débordements. En réaction, la présence policière apparaît comme massive, et plusieurs manifestants dénoncent des faits de violences. Un climat tendu, attisé par l'assimilation du mouvement à des \"violences",
+      "date": "2026-10-02T18:35:57",
       "source": "France 24"
+    },
+    {
+      "title": "Non, la police nationale n’a pas lâché un chien sur des lycéens à Lille",
+      "link": "https://www.france24.com/fr/france/20261002-non-police-nationale-pas-l%C3%A2ch%C3%A9-chien-sur-lyc%C3%A9ens-lille",
+      "desc": "Sur la base d’une vidéo circulant sur les réseaux sociaux, la police nationale a été accusée d’avoir lâché un chien sur les élèves qui avaient organisé mardi le blocus du lycée César Baggio, à Lille. Or, selon les journalistes qui couvraient l'événement, le chien visible dans la vidéo n'appartenait ",
+      "date": "2026-10-02T17:42:33",
+      "source": "France 24"
+    },
+    {
+      "title": "Ghana : Carlos Queiroz démissionne après cinq mois sur le banc des Black Stars",
+      "link": "https://www.france24.com/fr/sports/20261002-can-2027-ghana-carlos-queiroz-d%C3%A9missionne-apres-cinq-mois-sur-le-banc-des-black-stars",
+      "desc": "Carlos Queiroz a annoncé jeudi quitter son de sélectionneur du Ghana. Après seulement cinq mois sur le banc des Black Stars, l'entraîneur portugais paie notamment les résultats décevants de sa sélection.",
+      "date": "2026-10-02T17:21:23",
+      "source": "France 24"
+    },
+    {
+      "title": "Jugé coupable de \"graves\" infractions financières, Manchester City fait appel",
+      "link": "https://www.france24.com/fr/sports/20261002-manchester-city-fait-appel-f%C3%A9d%C3%A9ration-pointe-cons%C3%A9quences-majeures-infractions-financi%C3%A8res",
+      "desc": "Après avoir été jugé coupable de \"graves\" infractions financières, le club de Manchester City a annoncé vendredi avoir fait appel dans cette affaire aux \"conséquences majeures pour l'intégrité\" du jeu, selon la Fédération anglaise de football.",
+      "date": "2026-10-02T17:12:42",
+      "source": "France 24"
+    },
+    {
+      "title": "Chine et États-Unis : rivaux ou partenaires ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261002-chine-et-%C3%A9tats-unis-rivaux-ou-partenaires",
+      "desc": "Rencontre au sommet. Le 23 septembre dernier, le président américain Donald Trump recevait son homologue chinois Xi Jinping en grande pompe à Washington. Il s'agissait de sa première visite à la Maison Blanche depuis dix ans, mais de sa troisième rencontre avec le président américain en un an. Derri",
+      "date": "2026-10-02T16:56:25",
+      "source": "France 24"
+    },
+    {
+      "title": "« On dit que je fais semblant d'être agricultrice à cause de ma silhouette » – Valentina, 24 ans",
+      "link": "https://www.bbc.com/afrique/articles/c3qjk55kp44ro?at_medium=RSS&at_campaign=rss",
+      "desc": "Son apparence a attiré de nombreux visiteurs sur ses pages de réseaux sociaux, mais derrière ces images se cache une jeune femme de 24 ans qui a décidé de se construire une vie grâce à l'agriculture et au commerce des produits agricoles.",
+      "date": "2026-10-02T14:31:35",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Poutine avertit l'Occident que la Russie est prête à utiliser tous les moyens pour protéger Kaliningrad",
+      "link": "https://www.bbc.com/afrique/articles/cmvgyggj804xo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le dirigeant russe insiste sur le fait que Moscou « ne menace personne » et ne fait que répondre aux déclarations des dirigeants occidentaux.",
+      "date": "2026-10-02T12:02:35",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La crise au Moyen-Orient expose davantage de femmes à la faim",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159596",
+      "desc": "L’escalade des tensions au Moyen-Orient et les perturbations du trafic maritime dans le détroit d’Ormuz pourraient avoir des répercussions jusque dans les assiettes. Selon une analyse d’ONU Femmes, 11,7 millions de femmes et de filles supplémentaires pourraient être confrontées à l’insécurité alimen",
+      "date": "2026-10-02T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "« Je n'allais pas laisser d'autres personnes mourir » : le pilote du vol Flydubai décrit l'attaque du cockpit par son copilote",
+      "link": "https://www.bbc.com/afrique/articles/cmewellggq29o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le capitaine Smit Machchhar a déclaré au Premier ministre indien Narendra Modi qu'il avait ouvert la porte du cockpit pour laisser entrer d'autres personnes pendant l'attaque.",
+      "date": "2026-10-02T11:25:44",
+      "source": "BBC Afrique"
     },
     {
       "title": "La colère gagne la rue : des écoles incendiées pendant les manifestations d'élèves",
@@ -18,59 +74,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Quelques gouttes de plus : hommage à Calbo d’Ärsenik",
-      "link": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261002-quelques-gouttes-de-plus-hommage-%C3%A0-calbo-d-%C3%A4rsenik",
-      "desc": "Rendez-vous avec Lino et T.killa à l’occasion du concert au Zénith de Paris le 14 octobre, en hommage à Calbo du groupe Ärsenik, décédé le 4 janvier dernier. Dans cet épisode, retour sur les vingt-cinq ans de carrière de Calbo, de son groupe Ärsenik en passant par Bisso Na Bisso, son travail d’auteu",
-      "date": "2026-10-02T09:24:04",
-      "source": "France 24"
-    },
-    {
-      "title": "Israël : le financement qatari du Hamas au cœur d’un scandale qui éclabousse Netanyahu",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261002-isra%C3%ABl-le-financement-qatari-du-hamas-au-c%C5%93ur-d-un-scandale-qui-%C3%A9clabousse-netanyahu",
-      "desc": "Une enquête de la cellule investigation de Radio France met en lumière les liens entre le financement qatari de Gaza et le Hamas. Depuis plusieurs années, le Qatar aurait transféré des millions de dollars à Gaza sous l’autorisation du gouvernement israélien. Selon d’anciens responsables du renseigne",
-      "date": "2026-10-02T09:15:46",
-      "source": "France 24"
-    },
-    {
-      "title": "La BBC n'a pas accusé l'Inde d'avoir fomenté le détournement du vol de Flydubai",
-      "link": "https://www.france24.com/fr/moyen-orient/20261002-la-bbc-n-a-pas-accus%C3%A9-l-inde-d-avoir-foment%C3%A9-le-d%C3%A9tournement-du-vol-de-flydubai",
-      "desc": "Un faux reportage de la BBC généré par IA et à partir d'une vidéo détournée affirme à tort que des agents indiens seraient responsables du détournement du vol de Flydubai.",
-      "date": "2026-10-02T09:13:34",
-      "source": "France 24"
-    },
-    {
-      "title": "J-2 avant la présidentielle au Brésil, le dernier débat télévisé annulé",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261002-j-2-avant-la-pr%C3%A9sidentielle-au-br%C3%A9sil-le-dernier-d%C3%A9bat-t%C3%A9l%C3%A9vis%C3%A9-annul%C3%A9",
-      "desc": "Ce week-end, les Brésiliens votent au premier tour de la présidentielle, dans un duel entre Lula et Flávio Bolsonaro. Le dernier débat avant le scrutin a finalement été annulé. Lula avait annoncé son absence, officiellement retenu par un autre engagement. Flávio Bolsonaro a refusé de débattre sans s",
-      "date": "2026-10-02T09:12:58",
-      "source": "France 24"
-    },
-    {
-      "title": "Christa Pike est dans un état critique après avoir survécu à deux injections létales, selon son avocat",
-      "link": "https://www.bbc.com/afrique/articles/cx4gqgnr946vo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les avocats de Pike ont demandé la commutation de sa peine de mort suite à l'exécution ratée.",
-      "date": "2026-10-02T08:01:14",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Insécurité au Mali : des écoles restent fermées, la rentrée scolaire perturbée",
       "link": "https://www.bbc.com/afrique/articles/ckrerev2ye70o?at_medium=RSS&at_campaign=rss",
       "desc": "La rentrée scolaire au Mali a lieu jeudi, mais des milliers d'enfants ne pourront pas retourner en classe en raison de l'insécurité persistante.",
       "date": "2026-10-02T07:34:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Aéroport de Lomé : ce que l'on sait de l'incident qui suscite de vives réactions sur les réseaux sociaux",
-      "link": "https://www.bbc.com/afrique/articles/c6z7z7pnxzpwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Dans sa publication, un journaliste d'investigation révèle que des canalisations des toilettes de l'aéroport international de Lomé ont explosé, éclaboussant des passagers qui attendaient dans le hall d'embarquement.",
-      "date": "2026-10-01T16:57:48",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Que s'est-il passé lors de l'exécution ratée de Christa Pike, et quelles seront les prochaines étapes ?",
-      "link": "https://www.bbc.com/afrique/articles/c3y0z0v4k44yo?at_medium=RSS&at_campaign=rss",
-      "desc": "La meurtrière condamnée est hospitalisée dans le Tennessee après avoir survécu à deux injections létales, dans une affaire qui a soulevé de nombreuses questions.",
-      "date": "2026-10-01T13:03:45",
       "source": "BBC Afrique"
     },
     {
@@ -98,13 +105,6 @@
       "title": "Qui façonne l’IA ? À l’ONU, le débat porte sur le pouvoir, la confiance et l’inclusion",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159590",
       "desc": "L’intelligence artificielle (IA) progresse à une vitesse fulgurante. Mais à mesure que ses capacités se développent, une question s’impose aux gouvernements du monde entier : qui doit décider de la manière dont elle est utilisée, qui doit en fixer les règles et qui doit pouvoir en bénéficier ?",
-      "date": "2026-10-01T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les Palestiniens de Gaza veulent retrouver une « vie normale »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159588",
-      "desc": "Les habitants de Gaza aspirent désormais à « une vie normale », avec un logement décent, de l’eau potable, des écoles pour leurs enfants et la possibilité de travailler, selon Ramiz Alakbarov, Coordonnateur spécial des Nations Unies par intérim pour le processus de paix au Moyen-Orient.",
       "date": "2026-10-01T12:00:00",
       "source": "ONU Info"
     }
