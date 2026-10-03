@@ -1,8 +1,71 @@
 {
   "category": "monde",
   "date": "2026-10-03",
-  "updated": "2026-10-03T10:00:16.979392Z",
+  "updated": "2026-10-03T19:00:16.758694Z",
   "articles": [
+    {
+      "title": "Comment la science derrière les yeux des chats inspire la technologie des caméras pour les robots",
+      "link": "https://www.bbc.com/afrique/articles/cq39mgxjg0gjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des décennies après avoir, dit-on, inspiré l'invention des plots réfléchissants sur les routes, la forme et la « lueur » des yeux de chat sont désormais imitées par les ingénieurs pour concevoir des appareils photo de haute technologie.",
+      "date": "2026-10-03T17:58:32",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Exécution ratée de Christa Pike : le chef de l'administration pénitentiaire du Tennessee démissionne",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261003-%C3%A9tats-unis-tennessee-ex%C3%A9cution-rat%C3%A9e-christa-pike-d%C3%A9mission-chef-administration-p%C3%A9nitentiaire",
+      "desc": "Le chef de l'administration pénitentiaire du Tennessee a démissionné à la suite de l'exécution ratée d'une condamnée, a annoncé samedi le gouverneur de cet État, Bill Lee. Christa Pike, 50 ans, a survécu mercredi soir à deux injections létales et est actuellement hospitalisée dans un état critique.",
+      "date": "2026-10-03T17:02:44",
+      "source": "France 24"
+    },
+    {
+      "title": "''J'ai découvert que j'avais une maladie rare grâce à un rendez-vous sur Tinder''",
+      "link": "https://www.bbc.com/afrique/articles/c6zxz9wq09g2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Maria Paula a passé près de 30 ans à chercher un diagnostic pour les douleurs chroniques dont elle souffrait, jusqu’à ce qu’elle rencontre un étudiant en médecine qui a changé sa vie.",
+      "date": "2026-10-03T15:58:10",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Stocks stratégiques de pétrole : ce qu'il faut savoir sur ces amortisseurs de crises",
+      "link": "https://www.france24.com/fr/europe/20261003-stocks-strat%C3%A9giques-p%C3%A9trole-ce-qu-il-faut-savoir-amortisseurs-crises-prix-carburant",
+      "desc": "Environ un sixième des réserves stratégiques de pétrole des États membres de l'Agence internationale de l'énergie ont été écoulées depuis mars. Le gouvernement de Donald Trump a obtenu satisfaction vendredi, lui qui réclamait depuis plusieurs jours aux États européens de libérer davantage de gazole.",
+      "date": "2026-10-03T15:32:16",
+      "source": "France 24"
+    },
+    {
+      "title": "Ukraine : un deuxième pont de Kiev touché par des frappes russes",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261003-ukraine-un-deuxi%C3%A8me-pont-de-kiev-touch%C3%A9-par-des-frappes-russes",
+      "desc": "La Russie a appelé une nouvelle fois samedi 3 octobre les diplomates et étrangers se trouvant à Kiev à quitter la ville, avertissant que ses forces continueront de mener des \"frappes de représailles massives\" contre la capitale ukrainienne, ciblée à répétition depuis des semaines. Un nouveau grand p",
+      "date": "2026-10-03T15:23:07",
+      "source": "France 24"
+    },
+    {
+      "title": "\"Voter, c'est plus que jamais une priorité\" : de Paris à Tel-Aviv, le retour des Israéliens expatriés",
+      "link": "https://www.france24.com/fr/moyen-orient/20261003-voter-c-est-plus-que-jamais-une-priorit%C3%A9-de-paris-%C3%A0-tel-aviv-le-retour-des-isra%C3%A9liens-expatri%C3%A9s",
+      "desc": "Pour voter aux élections législatives du 27 octobre, les Israéliens installés à l’étranger n'ont d'autres choix que de se rendre en Israël. Avec le prix des billets d'avion qui explose, certains sacrifient vacances, voyages et retrouvailles familiales pour participer à un scrutin qu'ils jugent décis",
+      "date": "2026-10-03T14:17:57",
+      "source": "France 24"
+    },
+    {
+      "title": "La jeune prodige de 11 ans qui est devenue la plus jeune maître d'échecs de l'histoire",
+      "link": "https://www.bbc.com/afrique/articles/cw24jej81dd7o?at_medium=RSS&at_campaign=rss",
+      "desc": "Bodhana Sivanandan, âgée de 11 ans, a battu un nouveau record après une performance remarquable sous les couleurs de l'Angleterre.",
+      "date": "2026-10-03T13:59:15",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Yémen : de fortes explosions entendues dans la capitale Sanaa, contrôlée par les Houthis",
+      "link": "https://www.france24.com/fr/moyen-orient/20261003-y%C3%A9men-fortes-explosions-entendues-capitale-sanaa-contr%C3%B4l%C3%A9e-houthis-arabie-saoudite",
+      "desc": "Au moins cinq explosions ont résonné samedi dans la ville de Sanaa, aux mains des Houthis. Un média lié à ces combattants pro-iraniens affirme que la capitale yéménite a été visée par des frappes saoudiennes.",
+      "date": "2026-10-03T13:54:16",
+      "source": "France 24"
+    },
+    {
+      "title": "Qui est Moussa Kaka, le journaliste porté disparu au Niger ?",
+      "link": "https://www.bbc.com/afrique/articles/c52e0ez4ydyzo?at_medium=RSS&at_campaign=rss",
+      "desc": "Depuis environ un mois, on est sans nouvelles de Moussa Kaka, éminent journaliste de la République du Niger, qui a quitté son bureau pour rentrer chez lui vers 19 heures le 31 août 2026.",
+      "date": "2026-10-03T11:59:38",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Tout ce que vous devez savoir sur la Coupe du Monde Féminine de la FIFA 2027",
       "link": "https://www.bbc.com/afrique/articles/cqwyz0zj8dgzo?at_medium=RSS&at_campaign=rss",
@@ -11,101 +74,38 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Vol flydubai : l'enquête établit que le copilote planifiait un \"acte terroriste\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261003-vol-flydubai-l-enqu%C3%AAte-%C3%A9tablit-que-le-copilote-planifiait-un-acte-terroriste",
-      "desc": "L'enquête sur l'attaque dans un vol de flydubai a établi que le copilote avait utilisé la hache de secours du cockpit pour attaquer le pilote, parlant d'un \"acte terroriste\", a rapporté samedi un média officiel émirati, citant le procureur général.",
-      "date": "2026-10-03T09:43:50",
-      "source": "France 24"
-    },
-    {
-      "title": "Présidentielle au Brésil : Lula et Bolsonaro au coude-à-coude",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261003-pr%C3%A9sidentielle-au-br%C3%A9sil-lula-et-bolsonaro-au-coude-%C3%A0-coude",
-      "desc": "Les Brésiliens votent dimanche pour le premier tour de l'élection présidentielle. Le président de gauche Luiz Inacio Lula da Silva, 80 ans, brigue un quatrième mandat non consécutif. Il a pour principal adversaire le candidat d'extrême droite Flavio Bolsonaro, 45 ans, fils de l'ancien président Jair",
-      "date": "2026-10-03T09:34:23",
-      "source": "France 24"
-    },
-    {
-      "title": "À l’approche de l'armée éthiopienne, les forces rebelles quittent en masse Mekele, capitale du Tigré",
-      "link": "https://www.france24.com/fr/afrique/20261003-approche-armee-ethiopienne-forces-rebelles-quittent-en-masse-mekele-capitale-tigre",
-      "desc": "Les forces rebelles du Tigré quittent en masse Mekele, la capitale régionale, alors que les troupes fédérales éthiopiennes se rapprochent de la ville. Les dirigeants et combattants du TPLF seraient partis en nombre, selon un journaliste local cité par l'AFP.",
-      "date": "2026-10-03T09:33:52",
-      "source": "France 24"
-    },
-    {
-      "title": "Midterms 2026, le récap' : les démocrates jouent la modération, Donald Trump s'en va-t-en campagne",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261003-midterms-2026-recap-etats-unis-democrates-jouent-moderation-donald-trump-campagne-abdul-el-sayed",
-      "desc": "La dernière ligne droite de la campagne pour les Midterms a commencé ! Stratégie, candidats, sondages… Chaque semaine, France 24 fait le point sur ce qu’il faut retenir. Jeudi, Donald Trump a commencé une grande tournée de meetings pour soutenir les candidats républicains. Mais au sein de son parti,",
-      "date": "2026-10-03T09:23:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Ukraine : un nouveau grand pont de Kiev touché par une frappe russe",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261003-ukraine-un-nouveau-grand-pont-de-kiev-touch%C3%A9-par-une-frappe-russe",
-      "desc": "Des frappes russes ont touché samedi un important pont de Kiev, le pont Nord, quelques jours après l'attaque du pont Sud, a annoncé le maire de la capitale ukrainienne, Vitali Klitschko. Le point avec le correspondant de France 24 à Kiev, Gulliver Cragg.",
-      "date": "2026-10-03T08:53:03",
-      "source": "France 24"
-    },
-    {
-      "title": "« On dit que je fais semblant d'être agricultrice à cause de ma silhouette » – Valentina, 24 ans",
-      "link": "https://www.bbc.com/afrique/articles/c3qjk55kp44ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Son apparence a attiré de nombreux visiteurs sur ses pages de réseaux sociaux, mais derrière ces images se cache une jeune femme de 24 ans qui a décidé de se construire une vie grâce à l'agriculture et au commerce des produits agricoles.",
-      "date": "2026-10-02T14:31:35",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Poutine avertit l'Occident que la Russie est prête à utiliser tous les moyens pour protéger Kaliningrad",
-      "link": "https://www.bbc.com/afrique/articles/cmvgyggj804xo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le dirigeant russe insiste sur le fait que Moscou « ne menace personne » et ne fait que répondre aux déclarations des dirigeants occidentaux.",
-      "date": "2026-10-02T12:02:35",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La crise au Moyen-Orient expose davantage de femmes à la faim",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159596",
-      "desc": "L’escalade des tensions au Moyen-Orient et les perturbations du trafic maritime dans le détroit d’Ormuz pourraient avoir des répercussions jusque dans les assiettes. Selon une analyse d’ONU Femmes, 11,7 millions de femmes et de filles supplémentaires pourraient être confrontées à l’insécurité alimen",
+      "title": "RDC : « Les armes doivent se taire » pour que la paix devienne enfin possible",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159603",
+      "desc": "En République démocratique du Congo (RDC), la paix reste suspendue aux armes. Alors que les violences se poursuivent dans l’est du pays et que plus de six millions de personnes sont déplacées à l’intérieur du territoire, l’ONU appelle à placer les droits humains au cœur des efforts visant à mettre f",
       "date": "2026-10-02T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "« Je n'allais pas laisser d'autres personnes mourir » : le pilote du vol Flydubai décrit l'attaque du cockpit par son copilote",
-      "link": "https://www.bbc.com/afrique/articles/cmewellggq29o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le capitaine Smit Machchhar a déclaré au Premier ministre indien Narendra Modi qu'il avait ouvert la porte du cockpit pour laisser entrer d'autres personnes pendant l'attaque.",
-      "date": "2026-10-02T11:25:44",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Insécurité au Mali : des écoles restent fermées, la rentrée scolaire perturbée",
-      "link": "https://www.bbc.com/afrique/articles/ckrerev2ye70o?at_medium=RSS&at_campaign=rss",
-      "desc": "La rentrée scolaire au Mali a lieu jeudi, mais des milliers d'enfants ne pourront pas retourner en classe en raison de l'insécurité persistante.",
-      "date": "2026-10-02T07:34:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Réfugiés : près de six millions d’enfants privés d’école, sur fond de recul de l’aide",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159589",
-      "desc": "Près d’un enfant réfugié sur deux dans le monde n’était pas scolarisé en 2025. Alors que l’accès à l’université progresse, le passage au secondaire demeure un point de rupture majeur. Une fragilité que la contraction brutale de l’aide internationale menace désormais d’aggraver.",
-      "date": "2026-10-01T12:00:00",
+      "title": "L’ONU débloque 160 millions de dollars pour 12 crises humanitaires",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159600",
+      "desc": "Les Nations Unies ont débloqué 160 millions de dollars pour financer des opérations d’urgence dans 12 des crises humanitaires les plus sous-financées au monde, en Afrique, en Asie, en Amérique latine et au Moyen-Orient.",
+      "date": "2026-10-02T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Haïti : sur les hauteurs de Port-au-Prince, les centres de santé restent ouverts",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159594",
-      "desc": "Sur les hauteurs de Port-au-Prince, les patients continuent de pousser la porte de centres de santé fragilisés par l’insécurité et des années de sous-investissement. Avec le soutien du Fonds humanitaire pour Haïti, les soignants maintiennent les services et les établissements se réhabilitent, pour p",
-      "date": "2026-10-01T12:00:00",
+      "title": "Ukraine : derrière un front presque figé, la guerre frappe toujours plus durement les civils",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159601",
+      "desc": "La ligne de front bouge peu, mais la guerre, elle, gagne du terrain dans la vie des civils. Frappes de drones à longue portée, bombardements près des zones de combat, attaques contre les infrastructures énergétiques&nbsp;: les huit premiers mois de 2026 ont été nettement plus meurtriers que la même ",
+      "date": "2026-10-02T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Guerres et crises : l’ONU appelle à miser sur les femmes pour bâtir la paix",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159592",
-      "desc": "Les femmes doivent être au cœur des efforts visant à prévenir les conflits et à construire une paix durable, a déclaré jeudi le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, appelant à reconnaître leur rôle comme actrices de la protection, de la médiation et de la consolidat",
-      "date": "2026-10-01T12:00:00",
+      "title": "Gaza : un an après le cessez-le-feu, le système de santé demeure exsangue",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159598",
+      "desc": "Près d’un an après l’entrée en vigueur du cessez-le-feu, aucun des 36 hôpitaux de Gaza n’est pleinement opérationnel. Alors que les besoins médicaux restent immenses, l’Organisation mondiale de la santé (OMS) dénonce les délais et les restrictions qui continuent d’entraver l’acheminement de médicame",
+      "date": "2026-10-02T12:00:00",
       "source": "ONU Info"
     },
     {
-      "title": "Qui façonne l’IA ? À l’ONU, le débat porte sur le pouvoir, la confiance et l’inclusion",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159590",
-      "desc": "L’intelligence artificielle (IA) progresse à une vitesse fulgurante. Mais à mesure que ses capacités se développent, une question s’impose aux gouvernements du monde entier : qui doit décider de la manière dont elle est utilisée, qui doit en fixer les règles et qui doit pouvoir en bénéficier ?",
-      "date": "2026-10-01T12:00:00",
+      "title": "Haïti : les gangs enrôlent toujours plus d’enfants",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159597",
+      "desc": "En Haïti, les gangs paralysent l’économie, terrorisent les populations et coupent l’accès aux services essentiels. Leur emprise gagne aussi les enfants : entre 30 % et 50 % de leurs membres seraient des mineurs. En 2025, le recrutement et l’utilisation d’enfants par ces groupes ont presque triplé, a",
+      "date": "2026-10-02T12:00:00",
       "source": "ONU Info"
     }
   ]
