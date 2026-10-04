@@ -3,10 +3,10 @@
   "title": "Météo du 4 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 12.52,
-    "feels_like": 11.6,
-    "humidity": 68,
-    "description": "Peu nuageux",
+    "temp": 16.29,
+    "feels_like": 15.8,
+    "humidity": 70,
+    "description": "Couvert",
     "wind_kmh": 9.3
   },
   "pap": {
@@ -14,8 +14,8 @@
     "temp": 31.79,
     "feels_like": 38.44,
     "humidity": 66,
-    "description": "Peu nuageux",
-    "wind_kmh": 9.3
+    "description": "Légère pluie",
+    "wind_kmh": 14.8
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 4 octobre 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Peu nuageux. À Port-au-Prince: 32 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 4 octobre 2026 sur Radio Sources de Vie. À Ottawa: 16 degrés Celsius. Couvert. À Port-au-Prince: 32 degrés Celsius. Légère pluie. Que Dieu bénisse votre journée!"
 }
