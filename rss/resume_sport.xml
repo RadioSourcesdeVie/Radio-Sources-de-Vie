@@ -5,15 +5,15 @@
     <description>Résumé sportif du jour — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Sun, 04 Oct 2026 19:00:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 09:02:19 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>L'Espagne fait l'histoire, Haïti en galère — 2026-10-04</title>
-      <description>Résumé sportif du jour — Voix Charlotte — 2026-10-04</description>
-      <pubDate>Sun, 04 Oct 2026 19:00:17 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-04.mp3" length="150912" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-04.mp3</guid>
+      <title>Sans titre — 2026-10-05</title>
+      <description>Résumé sportif du jour — Voix Charlotte — 2026-10-05</description>
+      <pubDate>Mon, 05 Oct 2026 09:02:19 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-05.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-05.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
