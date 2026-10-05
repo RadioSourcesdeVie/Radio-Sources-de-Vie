@@ -1,49 +1,98 @@
 {
   "category": "monde",
   "date": "2026-10-05",
-  "updated": "2026-10-05T10:00:16.031178Z",
+  "updated": "2026-10-05T19:00:16.217340Z",
   "articles": [
     {
-      "title": "🔴 Le prix Nobel de médecine est décerné à Karl Deisseroth, Peter Hegemann et Georg Nagel",
-      "link": "https://www.france24.com/fr/europe/20261005-le-nobel-de-m%C3%A9decine-d%C3%A9cern%C3%A9-%C3%A0-karl-deisseroth-peter-hegemann-et-georg-nagel",
-      "desc": "",
-      "date": "2026-10-05T09:44:35",
+      "title": "Brésil : Lula peut-il encore gagner ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261005-br%C3%A9sil-lula-peut-il-encore-gagner",
+      "desc": "Au Brésil, c’est une surprise : Flavio Bolsonaro, ultraconservateur et fils de l’ex-président Jair Bolsonaro, est sorti en tête du premier tour de la présidentielle ce dimanche, avec 47 % des voix contre 45 % pour le président sortant Lula. Le sénateur de 45 ans et le président sortant de 80 ans s’a",
+      "date": "2026-10-05T18:36:22",
       "source": "France 24"
     },
     {
-      "title": "Le Nobel de médecine décerné à Karl Deisseroth, Peter Hegemann et Georg Nagel",
-      "link": "https://www.france24.com/fr/europe/20261005-le-nobel-de-m%C3%A9decine-d%C3%A9cern%C3%A9-%C3%A0-karl-deisseroth-peter-hegemann-et-georg-nagel",
-      "desc": "Cette année, l'Académie des Nobel de médecine a conjointement attribué à Karl Deisseroth, Peter Hegemann et Georg Nagel le Nobel de médecine pour leurs travaux sur l'optogénétique. Il s'agit d'une méthode révolutionnaire en neurosciences qui permet de contrôler l'activité de neurones spécifiques à l",
-      "date": "2026-10-05T09:44:00",
-      "source": "France 24"
-    },
-    {
-      "title": "Yémen : le gouvernement affirme avoir mené des centaines de frappes visant les Houthis",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261005-y%C3%A9men-le-gouvernement-affirme-avoir-men%C3%A9-des-centaines-de-frappes-visant-les-houthis",
-      "desc": "Le gouvernement yéménite, soutenu par l'Arabie saoudite, a affirmé lundi avoir mené des centaines de frappes contre des positions des Houthis au lendemain de l'annonce d'une offensive visant à reprendre l'ensemble du pays à ces combattants pro-iraniens.",
-      "date": "2026-10-05T09:37:01",
-      "source": "France 24"
-    },
-    {
-      "title": "Pétrole : les exportations du Moyen-Orient repassent au-dessus de leur niveau d’avant-guerre",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261005-p%C3%A9trole-les-exportations-du-moyen-orient-repassent-au-dessus-de-leur-niveau-d-avant-guerre",
-      "desc": "Malgré la situation explosive dans les détroits d'Ormuz et Bab el-Mandeb, le flux de pétrole brut en provenance du Moyen-Orient a dépassé sa moyenne d’avant-guerre certains jours de la dernière semaine de septembre, selon Kpler. Mais entre les attaques contre les navires, les tensions sur l’offre et",
-      "date": "2026-10-05T09:35:43",
-      "source": "France 24"
-    },
-    {
-      "title": "Nasa : le retour sur Terre de Sophie Adenot reporté en raison de la météo",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261005-nasa-le-retour-sur-terre-de-sophie-adenot-report%C3%A9-en-raison-de-la-m%C3%A9t%C3%A9o",
-      "desc": "A bord de la Station spatiale internationale (ISS) depuis quasiment huit mois, l'astronaute française Sophie Adenot a vu son retour sur Terre reporté à mercredi au plus tôt en raison de conditions météorologiques défavorables, a annoncé samedi la Nasa.",
-      "date": "2026-10-05T09:35:20",
-      "source": "France 24"
-    },
-    {
-      "title": "J'ai vu près de 500 exécutions, mais jamais une comme celle de Christa Pike",
-      "link": "https://www.bbc.com/afrique/articles/cq98zyr33ezlo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le journaliste texan Michael Graczyk a vu des exécutions ratées au cours de sa carrière, mais jamais une où un condamné a survécu.",
-      "date": "2026-10-05T08:59:45",
+      "title": "Inondations à Dakar : les sinistrés désespérés, voici la réaction du Gouvernement",
+      "link": "https://www.bbc.com/afrique/articles/c65ynwnxp5yyo?at_medium=RSS&at_campaign=rss",
+      "desc": "À la suite des fortes pluies qui se sont abattues sur la capitale sénégalaise le weekend, le Gouvernement, sous l'égide du Premier ministre Ahmadou Al Aminou Lo, réuni en urgence ce lundi à la Primature, a annoncé le déclenchement du Plan d'urgence régional pour rester en veille et soutenir les sini",
+      "date": "2026-10-05T17:24:05",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "Cinq aspects majeurs de Cheikh Hamidou Kane, l'auteur de ''L'Aventure ambiguë'', décédé à l'âge de 98 ans",
+      "link": "https://www.bbc.com/afrique/articles/cj75p60e4dq2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Cheikh Hamidou Kane est décédé samedi soir à Dakar à l'âge de 98 ans. Eminent écrivain et intellectuel sénégalais, Cheikh Hamdiou Kane à travers son œuvre ''L'Aventure ambiguë'' a marqué durablement des générations en Afrique et bien au-delà.",
+      "date": "2026-10-05T16:29:51",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Présidentielle au Brésil : Donald Trump a dit suivre \"de très près\" l'élection",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261005-pr%C3%A9sidentielle-au-br%C3%A9sil-donald-trump-a-dit-suivre-de-tr%C3%A8s-pr%C3%A8s-l-%C3%A9lection",
+      "desc": "Le sénateur conservateur Flavio Bolsonaro a créé la surprise dimanche au premier tour de la présidentielle au Brésil en devançant le président sortant de gauche Lula, qu'il affrontera au second tour le 25 octobre.",
+      "date": "2026-10-05T15:54:55",
+      "source": "France 24"
+    },
+    {
+      "title": "Blocus des lycées : un lycéen gravement blessé à la veille d'un \"acte III\" mardi",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261005-blocus-des-lyc%C3%A9es-un-lyc%C3%A9en-gravement-bless%C3%A9-%C3%A0-la-veille-d-un-acte-iii-mardi",
+      "desc": "A la veille d'un acte III du mouvement lycéen auquel se joindront mardi des syndicats, la mobilisation est restée forte lundi en France avec des centaines d'établissements fermés et plusieurs incidents, dont un grave concernant un jeune de 15 ans ayant perdu une main.",
+      "date": "2026-10-05T15:52:23",
+      "source": "France 24"
+    },
+    {
+      "title": "Un \"cyclone\" méditerranéen en Catalogne et des inondations dans le sud de la France",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261005-un-cyclone-m%C3%A9diterran%C3%A9en-en-catalogne-et-des-inondations-dans-le-sud-de-la-france",
+      "desc": "C'est un ouragan méditerranéen ou \"medicane\" qui a touché Barcelone et fait au moins 2 morts. Les épisodes méditerranéens se font chaque année plus fréquents et intenses à mesure que le réchauffement climatique s'intensifie. Pour la première fois une pré-COP climat se tient cette semaine aux îles Fi",
+      "date": "2026-10-05T15:51:52",
+      "source": "France 24"
+    },
+    {
+      "title": "Afghanistan : des ministres de l'Éducation visés par deux mandats d'arrêt de la CPI",
+      "link": "https://www.france24.com/fr/asie-pacifique/20261005-afghanistan-des-ministres-de-l-%C3%A9ducation-vis%C3%A9s-par-deux-mandats-d-arr%C3%AAt-de-la-cpi",
+      "desc": "Les ministres de l'Éducation et de l'Enseignement supérieur en Afghanistan sont visés par deux nouveaux mandats d'arrêt de la Cour pénale internationale (CPI) lundi. Les deux hommes sont accusés de persécutions liées au genre, un crime contre l'humanité. De son côté à Genève, le Conseil des droits d",
+      "date": "2026-10-05T15:50:50",
+      "source": "France 24"
+    },
+    {
+      "title": "Le copilote de Flydubai aurait planifié de précipiter l'avion sur l'aéroport ou un bâtiment de Tel Aviv, selon des informations",
+      "link": "https://www.bbc.com/afrique/articles/c65ynw4dv1wgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Selon les informations recueillies, ce ressortissant omanais était un extrémiste « loup solitaire ».",
+      "date": "2026-10-05T12:25:52",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Chaleurs extrêmes : une nouvelle menace pour les femmes enceintes et les nouveau-nés",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159609",
+      "desc": "Accouchements prématurés, insuffisance pondérale à la naissance, bébés mort-nés. À mesure que la planète se réchauffe, les fortes chaleurs font peser des risques croissants sur les femmes enceintes et leurs enfants. À un mois de la COP31, le chef de l’ONU pour le climat appelle à faire de la santé m",
+      "date": "2026-10-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Un logement convenable, un droit encore hors de portée pour plus de 3 milliards de personnes",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159608",
+      "desc": "Avoir un toit ne suffit pas pour vivre dignement. Réunis lundi à Mascate, en Oman, pour la Journée mondiale de l'habitat, des représentants de gouvernements, de la société civile et du monde universitaire ont appelé à agir face à une crise du logement qui touche près de 3,4 milliards de personnes.",
+      "date": "2026-10-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Espace : la révolution des fusées démocratise l’accès à l’orbite",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159606",
+      "desc": "Pendant des décennies, envoyer un objet au-delà de l’atmosphère terrestre était l’apanage d’un nombre limité de grandes puissances spatiales. Aujourd’hui, la donne change rapidement.",
+      "date": "2026-10-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Enseignants : une profession sommée de faire toujours plus, mais qui peine à recruter",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159607",
+      "desc": "Il faudra recruter 50 millions d’enseignants dans le monde d’ici à 2030 pour garantir à tous les enfants l’accès à l’enseignement primaire et secondaire. Lundi, la journée mondiale des enseignants met en lumière un paradoxe&nbsp;: jamais les attentes placées dans la profession n’ont été aussi nombre",
+      "date": "2026-10-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Droits des femmes : un comité de l'ONU dénonce une offensive organisée contre l’égalité",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159604",
+      "desc": "Dans un monde marqué par une polarisation croissante, les droits des femmes et des filles reculent, a alerté lundi le Comité de l’ONU pour l’élimination de la discrimination à l’égard des femmes (CEDAW). À l’ouverture de sa 93ᵉ session à Genève, sa présidente, Nahla Haidar, a dénoncé les attaques co",
+      "date": "2026-10-05T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Le candidat d'extrême droite Flávio Bolsonaro remporte le premier tour des élections brésiliennes",
@@ -58,55 +107,6 @@
       "desc": "Les cours seront « totalement ou partiellement suspendus » dans certains lycées suite aux affrontements entre les forces de l'ordre et des élèves manifestants, a déclaré le ministre français de l'Éducation nationale.",
       "date": "2026-10-05T08:38:19",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "\"C'est réparable\" : ce qui aide vraiment à sauver une relation",
-      "link": "https://www.bbc.com/afrique/articles/crlyjvy92l17o?at_medium=RSS&at_campaign=rss",
-      "desc": "Ce que les thérapeutes de couple aimeraient que vous sachiez sur la tentative de sauver une relation qui bat de l'aile.",
-      "date": "2026-10-04T17:59:31",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "\"Confusion du système immunitaire\" : comment des allergies peuvent se développer plus tard dans la vie",
-      "link": "https://www.bbc.com/afrique/articles/cqj64pw1k61do?at_medium=RSS&at_campaign=rss",
-      "desc": "On considère souvent les allergies comme le fruit d'une mauvaise pioche durant l'enfance, voire avant la naissance. Pourtant, \"n'importe qui peut, à tout moment de sa vie, développer une nouvelle allergie\", explique l'allergologue Kelly Colas.",
-      "date": "2026-10-04T15:58:08",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "RDC : « Les armes doivent se taire » pour que la paix devienne enfin possible",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159603",
-      "desc": "En République démocratique du Congo (RDC), la paix reste suspendue aux armes. Alors que les violences se poursuivent dans l’est du pays et que plus de six millions de personnes sont déplacées à l’intérieur du territoire, l’ONU appelle à placer les droits humains au cœur des efforts visant à mettre f",
-      "date": "2026-10-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "L’ONU débloque 160 millions de dollars pour 12 crises humanitaires",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159600",
-      "desc": "Les Nations Unies ont débloqué 160 millions de dollars pour financer des opérations d’urgence dans 12 des crises humanitaires les plus sous-financées au monde, en Afrique, en Asie, en Amérique latine et au Moyen-Orient.",
-      "date": "2026-10-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : derrière un front presque figé, la guerre frappe toujours plus durement les civils",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159601",
-      "desc": "La ligne de front bouge peu, mais la guerre, elle, gagne du terrain dans la vie des civils. Frappes de drones à longue portée, bombardements près des zones de combat, attaques contre les infrastructures énergétiques&nbsp;: les huit premiers mois de 2026 ont été nettement plus meurtriers que la même ",
-      "date": "2026-10-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Gaza : un an après le cessez-le-feu, le système de santé demeure exsangue",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159598",
-      "desc": "Près d’un an après l’entrée en vigueur du cessez-le-feu, aucun des 36 hôpitaux de Gaza n’est pleinement opérationnel. Alors que les besoins médicaux restent immenses, l’Organisation mondiale de la santé (OMS) dénonce les délais et les restrictions qui continuent d’entraver l’acheminement de médicame",
-      "date": "2026-10-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Haïti : les gangs enrôlent toujours plus d’enfants",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159597",
-      "desc": "En Haïti, les gangs paralysent l’économie, terrorisent les populations et coupent l’accès aux services essentiels. Leur emprise gagne aussi les enfants : entre 30 % et 50 % de leurs membres seraient des mineurs. En 2025, le recrutement et l’utilisation d’enfants par ces groupes ont presque triplé, a",
-      "date": "2026-10-02T12:00:00",
-      "source": "ONU Info"
     }
   ]
 }
