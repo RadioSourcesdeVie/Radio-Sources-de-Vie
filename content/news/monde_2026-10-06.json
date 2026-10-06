@@ -1,76 +1,83 @@
 {
   "category": "monde",
   "date": "2026-10-06",
-  "updated": "2026-10-06T10:00:17.191330Z",
+  "updated": "2026-10-06T19:00:18.940545Z",
   "articles": [
     {
-      "title": "Mexique : exploiter le gaz de schiste malgré les dégâts ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261006-reportage-mexique-exploiter-gaz-de-schiste-risques-environnement-climat",
-      "desc": "Après avoir consulté un panel d'experts pendant des mois, le Mexique prévoit de lancer l'exploration de gisements de gaz et de pétrole de schiste en utilisant la controversée technique de la fracturation hydraulique. Déjà utilisée pour extraire du pétrole dans l'État du Veracruz, elle est source de ",
-      "date": "2026-10-06T09:43:40",
+      "title": "En Syrie, plus de 2 000 proches de jihadistes toujours aux mains des Kurdes",
+      "link": "https://www.france24.com/fr/moyen-orient/20261006-en-syrie-plus-de-2-000-proches-de-jihadistes-toujours-aux-mains-des-kurdes",
+      "desc": "Quelque 2 200 proches de jihadistes présumés d'une cinquantaine de nationalités se trouvent toujours dans un camp du nord-est de la Syrie sous le contrôle des Kurdes malgré un accord d'intégration des institutions kurdes au sein de l'État syrien.",
+      "date": "2026-10-06T16:58:50",
       "source": "France 24"
     },
     {
-      "title": "🔴 Emmanuel Macron a assisté au test d'un nouveau missile nucléaire sans charge",
-      "link": "https://www.france24.com/fr/france/20261006-la-france-a-test%C3%A9-un-nouveau-missile-nucl%C3%A9aire-sans-charge-depuis-un-sous-marin",
-      "desc": "",
-      "date": "2026-10-06T09:36:38",
-      "source": "France 24"
-    },
-    {
-      "title": "La France a testé un nouveau missile nucléaire sans charge depuis un sous-marin",
-      "link": "https://www.france24.com/fr/france/20261006-la-france-a-test%C3%A9-un-nouveau-missile-nucl%C3%A9aire-sans-charge-depuis-un-sous-marin",
-      "desc": "Le président Emmanuel Macron a assisté mardi à un essai d'un nouveau missile nucléaire tiré, sans charge, depuis un sous-marin, annoncent l'Élysée et le ministère des Armées. Le test a eu lieu au large du Finistère.",
-      "date": "2026-10-06T09:35:43",
-      "source": "France 24"
-    },
-    {
-      "title": "Présidentielle 2027 : Marine Le Pen promet \"140 milliards d'euros nets d'économies\" d'ici 5 ans",
-      "link": "https://www.france24.com/fr/france/20261006-pr%C3%A9sidentielle-2027-marine-le-pen-promet-140-milliards-d-euros-nets-d-%C3%A9conomies-d-ici-5-ans",
-      "desc": "À six mois de l'élection présidentielle, Marine Le Pen a appelé les Français, lors d'une conférence de presse au siège du parti mardi, à choisir une \"rupture politique\". La candidate du Rassemblement national préconise de faire \"140 milliards d'euros nets d'économie\" sur cinq ans pour que la France ",
-      "date": "2026-10-06T09:29:23",
-      "source": "France 24"
-    },
-    {
-      "title": "Mobilisation lycéenne : des premiers cortèges en cours en France",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261006-mobilisation-lyc%C3%A9enne-des-premiers-cort%C3%A8ges-en-cours-en-france",
-      "desc": "Une nouvelle journée de mobilisation lycéenne a commencé dans plusieurs villes en France. Si une manifestation est prévue à Paris à partir de 14h, plusieurs cortèges défilent déjà dans les rues de la capitale et dans plusieurs autres villes françaises. Notre reporter Johan Bodin est sur place.",
-      "date": "2026-10-06T09:27:19",
-      "source": "France 24"
-    },
-    {
-      "title": "Ce que l'échec de l'exécution de Christa Pike nous apprend sur la peine de mort aux États-Unis",
-      "link": "https://www.bbc.com/afrique/articles/c6vgj38ml48ko?at_medium=RSS&at_campaign=rss",
-      "desc": "L'échec de l'exécution de Christa Pike, condamnée à mort dans le Tennessee, a relancé le débat sur la peine de mort et sur la manière dont elle est appliquée aux États-Unis.",
-      "date": "2026-10-06T08:30:08",
+      "title": "L'armée malienne entre dans Kidal désertée par les séparatistes",
+      "link": "https://www.bbc.com/afrique/articles/cw1l3g8l1r3lo?at_medium=RSS&at_campaign=rss",
+      "desc": "Dans un communiqué rendu public sur les canaux officiels du Gouvernement malien, les autorités annoncent que les FAMa et leurs partenaires d'Africa Corps ont mené des « opérations antiterroristes d'envergure dans la région de Kidal. »",
+      "date": "2026-10-06T16:56:46",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "Santé: les diverses pollutions de l'alimentation en France",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261006-sant%C3%A9-les-diverses-pollutions-de-l-alimentation-en-france",
+      "desc": "La cellule investigation de Radio France et du réseau ICI a fait analyser des œufs de poules élevées en plein air aux 4 coins de l'Hexagone. 60% étaient contaminés aux polluants éternels. Un nouvel exemple des pollutions qui touchent l'alimentation des Français. Après de nombreuses alertes des autor",
+      "date": "2026-10-06T16:23:48",
+      "source": "France 24"
+    },
+    {
+      "title": "J'ai interviewé Christa Pike il y a 20 ans et je ne peux m'empêcher de penser à elle",
+      "link": "https://www.bbc.com/afrique/articles/c3j47vyvpq7zo?at_medium=RSS&at_campaign=rss",
+      "desc": "La journaliste britannique Helen Roberts a déclaré à la BBC que Christa Pike présentait deux facettes distinctes : une facette personnelle et une facette criminelle.",
+      "date": "2026-10-06T16:20:28",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L’avenir de Parcoursup, une question au cœur des revendications lycéennes",
+      "link": "https://www.france24.com/fr/france/20261006-france-avenir-de-parcoursup-une-question-au-c%C5%93ur-des-revendications-lyceennes",
+      "desc": "La plateforme d’affectation des futurs étudiants de l’enseignement supérieur, Parcoursup, fait l’objet de critiques récurrentes depuis son lancement en 2018. Sa suppression ou sa refonte sont au cœur des revendications du mouvement lycéen, qui a réuni mardi 450 000 manifestants dans les rues, selon ",
+      "date": "2026-10-06T16:18:01",
+      "source": "France 24"
+    },
+    {
+      "title": "Une pré-COP Climat aux Fidji, pays menacé par la montée des eaux",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261006-une-pr%C3%A9-cop-climat-aux-fidji-pays-menac%C3%A9-par-la-mont%C3%A9e-des-eaux",
+      "desc": "Une pré-COP climat se déroule cette semaine aux Fidji, archipel menacé par la montée des eaux. Les pays insulaires, qui jouent leur survie, veulent peser davantage sur les négociations climatiques. Leur principal objectif: stopper le réchauffement à 1,5°C maximum. D'ici 2050, 1 milliards 200 million",
+      "date": "2026-10-06T16:09:56",
+      "source": "France 24"
+    },
+    {
+      "title": "La mobilisation lycéenne en France très suivie aux États-Unis",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261006-la-mobilisation-lyc%C3%A9enne-en-france-tr%C3%A8s-suivie-aux-%C3%A9tats-unis",
+      "desc": "La mobilisation des lycéens en France est très suivie à l'étranger, notamment aux États-Unis. C'est en une des sites du New York Times, du Wall Street journal, de CNN... Analyse de Matthieu Mabin, correspondant de France 24 à Washington.",
+      "date": "2026-10-06T15:59:10",
+      "source": "France 24"
+    },
+    {
+      "title": "L'enquête de la BBC qui a révélé comment Poutine agrandit sa résidence de la mer Noire, qu'il visite rarement",
+      "link": "https://www.bbc.com/afrique/articles/cw2037654egno?at_medium=RSS&at_campaign=rss",
+      "desc": "Des images satellites révèlent une transformation majeure opérée dans la résidence pendant la guerre, tandis que les dossiers judiciaires et les offres d'emploi proposant un paiement en espèces mettent au jour les traces documentaires cachées de ce vaste projet.",
+      "date": "2026-10-06T14:28:17",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Bénin-Argentine : « Ce sera un événement majeur pour le monde du football », Steeve Mounié, attaquant des Guépards",
+      "link": "https://www.bbc.com/afrique/articles/cxyvr7jn71edo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le Bénin s'apprête à vivre son moment de gloire en se rendant en Argentine pour le dernier match de Lionel Messi.",
+      "date": "2026-10-06T12:42:06",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Quand la rue devient pharmacie : le marché parallèle des médicaments en Afrique centrale",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159595",
+      "desc": "Antibiotiques, antipaludéens, antidouleurs, opioïdes. Plus de 250 tonnes de produits médicaux ont été saisies entre 2020 et 2025 dans cinq pays d’Afrique centrale. Derrière ces volumes se dessine un marché illicite qui ne prospère pas seulement malgré les faiblesses des systèmes de santé, mais en pa",
+      "date": "2026-10-06T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Le Nigeria pleure la mort de 32 personnes dans le crash d'un avion militaire dans un marais",
       "link": "https://www.bbc.com/afrique/articles/cxnv0j5m2l18o?at_medium=RSS&at_campaign=rss",
       "desc": "Le président Bola Tinubu décrit l'accident comme un «moment douloureux» pour l'armée et pour toute la nation.",
       "date": "2026-10-06T08:29:44",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Inondations à Dakar : les sinistrés désespérés, voici la réaction du Gouvernement",
-      "link": "https://www.bbc.com/afrique/articles/c65ynwnxp5yyo?at_medium=RSS&at_campaign=rss",
-      "desc": "À la suite des fortes pluies qui se sont abattues sur la capitale sénégalaise le weekend, le Gouvernement, sous l'égide du Premier ministre Ahmadou Al Aminou Lo, réuni en urgence ce lundi à la Primature, a annoncé le déclenchement du Plan d'urgence régional pour rester en veille et soutenir les sini",
-      "date": "2026-10-05T17:24:05",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Cinq aspects majeurs de Cheikh Hamidou Kane, l'auteur de ''L'Aventure ambiguë'', décédé à l'âge de 98 ans",
-      "link": "https://www.bbc.com/afrique/articles/cj75p60e4dq2o?at_medium=RSS&at_campaign=rss",
-      "desc": "Cheikh Hamidou Kane est décédé samedi soir à Dakar à l'âge de 98 ans. Eminent écrivain et intellectuel sénégalais, Cheikh Hamdiou Kane à travers son œuvre ''L'Aventure ambiguë'' a marqué durablement des générations en Afrique et bien au-delà.",
-      "date": "2026-10-05T16:29:51",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Le copilote de Flydubai aurait planifié de précipiter l'avion sur l'aéroport ou un bâtiment de Tel Aviv, selon des informations",
-      "link": "https://www.bbc.com/afrique/articles/c65ynw4dv1wgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Selon les informations recueillies, ce ressortissant omanais était un extrémiste « loup solitaire ».",
-      "date": "2026-10-05T12:25:52",
       "source": "BBC Afrique"
     },
     {
@@ -98,13 +105,6 @@
       "title": "Un logement convenable, un droit encore hors de portée pour plus de 3 milliards de personnes",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159608",
       "desc": "Avoir un toit ne suffit pas pour vivre dignement. Réunis lundi à Mascate, en Oman, pour la Journée mondiale de l'habitat, des représentants de gouvernements, de la société civile et du monde universitaire ont appelé à agir face à une crise du logement qui touche près de 3,4 milliards de personnes.",
-      "date": "2026-10-05T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Espace : la révolution des fusées démocratise l’accès à l’orbite",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159606",
-      "desc": "Pendant des décennies, envoyer un objet au-delà de l’atmosphère terrestre était l’apanage d’un nombre limité de grandes puissances spatiales. Aujourd’hui, la donne change rapidement.",
       "date": "2026-10-05T12:00:00",
       "source": "ONU Info"
     }
