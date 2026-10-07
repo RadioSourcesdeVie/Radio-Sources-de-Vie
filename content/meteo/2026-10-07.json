@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-07",
+  "title": "Météo du 7 octobre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 12.97,
+    "feels_like": 11.34,
+    "humidity": 39,
+    "description": "Ciel dégagé",
+    "wind_kmh": 20.4
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 31.79,
+    "feels_like": 38.44,
+    "humidity": 66,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 24.1
+  },
+  "text": "Bonjour chers auditeurs, voici la météo du 7 octobre 2026 sur Radio Sources de Vie. À Ottawa: 13 degrés Celsius. Ciel dégagé. À Port-au-Prince: 32 degrés Celsius. Partiellement nuageux. Que Dieu bénisse votre journée!"
+}
