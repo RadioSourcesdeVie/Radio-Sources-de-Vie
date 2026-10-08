@@ -1,48 +1,83 @@
 {
   "category": "monde",
   "date": "2026-10-08",
-  "updated": "2026-10-08T10:00:19.660139Z",
+  "updated": "2026-10-08T19:00:22.109670Z",
   "articles": [
     {
-      "title": "En Tunisie, l'affaire Yakine suscite l’indignation",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261008-en-tunisie-l-affaire-yakine-suscite-l-indignation",
-      "desc": "L’affaire a profondément choqué l’opinion publique tunisienne. Yakine, une adolescente de 15 ans, a été victime d’un viol collectif et hospitalisée dans un état grave. Plusieurs suspects ont été arrêtés dans le quartier où les faits se sont produits, connu pour ses problèmes liés au trafic de drogue",
-      "date": "2026-10-08T09:31:54",
+      "title": "🔴 Mobilisation lycéenne en direct : Édouard Geffray annonce l'arrivée de 3 000 professeurs remplaçants",
+      "link": "https://www.france24.com/fr/france/20261008-en-direct-etudiants-lyceens-appeles-de-nouveau-mobiliser-jeudi-acte-iv-mouvement-france-sebastien-lecornu-syndicats-manifestations-parcoursup",
+      "desc": "",
+      "date": "2026-10-08T18:44:01",
       "source": "France 24"
     },
     {
-      "title": "Portugal : la polémique se poursuit autour de Cristiano Ronaldo",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261008-portugal-la-pol%C3%A9mique-se-poursuit-autour-de-cristiano-ronaldo",
-      "desc": "La polémique entre Cristiano Ronaldo et Jorge Jesus se poursuit, après le long communiqué publié par l’attaquant mardi. Ronaldo a expliqué son départ du rassemblement portugais et reproché à son sélectionneur de ne pas avoir tenu parole. L’affaire a fait la une des quotidiens portugais, éclipsant le",
-      "date": "2026-10-08T09:30:28",
+      "title": "CAN 2025 : le Sénégal et le Maroc devant le TAS",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261008-can-2025-le-s%C3%A9n%C3%A9gal-et-le-maroc-devant-le-tas",
+      "desc": "⚽Des Lions  de la Téranga ou de l'Atlas, qui sera le champion d'Afrique 2025 ? Dix mois après la finale de la CAN 2025, le TAS examine depuis ce jeudi, le recours du Sénégal contre le titre attribué sur tapis vert au Maroc par la CAF.",
+      "date": "2026-10-08T18:33:55",
       "source": "France 24"
     },
     {
-      "title": "Égypte : face à la pénurie de plastique, les chiffonniers du Caire prennent le relais",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261008-%C3%A9gypte-face-%C3%A0-la-p%C3%A9nurie-de-plastique-les-chiffonniers-du-caire-prennent-le-relais",
-      "desc": "Au cœur du Caire, dans le dédale du quartier copte de Manshiet Nasser, près de 120 000 habitants traitent chaque jour un tiers des déchets de la mégapole. Longtemps marginalisés, ces spécialistes du recyclage informel vivent aujourd'hui une mutation fulgurante. En cause : les tensions géopolitiques ",
-      "date": "2026-10-08T09:20:50",
+      "title": "Mauritanie : des voix s'élèvent pour réclamer la loi Karama contre les violences sexuelles",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261008-mauritanie-des-voix-s-%C3%A9l%C3%A8vent-pour-r%C3%A9clamer-la-loi-karama-contre-les-violences-sexuelles",
+      "desc": "🇲🇷 En Mauritanie, des voix s’élèvent pour demander l’adoption de la loi Karama afin de mieux protéger les femmes et les filles contre les violences sexuelles. Alors que plusieurs cas de viols ont été signalés ces derniers mois.",
+      "date": "2026-10-08T18:21:34",
       "source": "France 24"
     },
     {
-      "title": "Processus de paix en RD Congo : les facilitateurs de l’Union africaine en visite à Goma",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261008-processus-de-paix-en-rd-congo-les-facilitateurs-de-l-union-africaine-en-visite-%C3%A0-goma",
-      "desc": "En République démocratique du Congo, les membres du panel des facilitateurs de l’Union africaine viennent d’achever leur visite à Goma, ville de l’est du pays contrôlée par l’AFC-M23, soutenu par le Rwanda. Cette visite intervient alors que les processus de paix semblent au point mort et que les com",
-      "date": "2026-10-08T09:20:06",
+      "title": "Hassan Hajjaj et ses \"Rock Stars\" hautes en couleur s'exposent à Paris",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261008-hassan-hajjaj-des-rock-stars-hautes-en-couleur",
+      "desc": "Photographe britannique d’origine marocaine, Hassan Hajjaj a fait de ses portraits pop et colorés sa signature. Madonna, Amadou et Mariam ou encore des musiciens gnawa figurent parmi ses modèles. Quarante de ses célèbres \"Rock Stars\" sont exposées à la Cité de la musique à Paris.",
+      "date": "2026-10-08T17:43:59",
       "source": "France 24"
     },
     {
-      "title": "Économie africaine : l’AFCRA, nouvelle agence de notation face aux géants mondiaux",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261008-%C3%A9conomie-africaine-l-afcra-nouvelle-agence-de-notation-face-aux-g%C3%A9ants-mondiaux",
-      "desc": "Standard & Poor’s, Moody’s et Fitch dominent depuis des décennies le marché mondial de la notation financière. Leurs évaluations, positives comme négatives, influencent le coût d’emprunt des entreprises et des États. Désormais, un nouvel acteur entend s’imposer sur le continent africain : l’Agence a",
-      "date": "2026-10-08T09:09:17",
+      "title": "Nobel de la paix 2026 : Soudan, Gaza, CPI... les organisations en première ligne",
+      "link": "https://www.france24.com/fr/europe/20261008-nobel-de-la-paix-2026-soudan-gaza-cpi-les-organisations-en-premi%C3%A8re-ligne",
+      "desc": "Parmi les 287 candidats en lice pour le prix Nobel de la paix 2026, décerné vendredi en Norvège, se trouvent 79 organisations, ONG ou institutions qui œuvrent dans l'ombre, alors que les zone de conflits sont de plus en plus nombreuses. La CPI, Save the children, voir même l'ISS, tour d'horizon des ",
+      "date": "2026-10-08T17:30:59",
       "source": "France 24"
     },
     {
-      "title": "Christa Pike marche désormais après l'échec de son exécution aux États-Unis, a déclaré son avocat à la BBC",
-      "link": "https://www.bbc.com/afrique/articles/c674p590e113o?at_medium=RSS&at_campaign=rss",
-      "desc": "Un avocat affirme que la meurtrière de Colleen Slemmer se déplace dans sa chambre d'hôpital après avoir survécu à deux injections mortelles.",
-      "date": "2026-10-08T09:01:17",
+      "title": "Les pics de glycémie ne sont pas forcément mauvais pour vous",
+      "link": "https://www.bbc.com/afrique/articles/ckr5ym5e4n7eo?at_medium=RSS&at_campaign=rss",
+      "desc": "On a tendance à s'inquiéter des pics de glycémie, mais ceux-ci peuvent constituer une réaction normale après un repas. Voici dans quels cas vous n'avez pas à vous inquiéter.",
+      "date": "2026-10-08T16:19:46",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Qui est Bally Bagayoko, le maire de Saint-Denis qui s'est retrouvé au milieu des étudiants manifestants en France ?",
+      "link": "https://www.bbc.com/afrique/articles/ck9qz7e59j7qo?at_medium=RSS&at_campaign=rss",
+      "desc": "Dans une vidéo qui fait le buzz sur les réseaux sociaux, Bally Bagayoko, maire de la ville française de Saint-Denis, en banlieue parisienne, se tient face aux forces de l'ordre lors d'une manifestation à Paris mardi. Protégeant avec son corps de jeunes manifestants et criant « arrêtez » à l'endroit ",
+      "date": "2026-10-08T14:36:16",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "El Niño pourrait atteindre une intensité jamais observée",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159630",
+      "desc": "Le phénomène climatique devrait continuer de monter en puissance jusqu’au mois de décembre pour atteindre des températures océaniques d’une ampleur inédite dans le Pacifique tropical. Selon l’Organisation météorologique mondiale (OMM), l’épisode El Niño actuel est en passe de devenir l’un des plus p",
+      "date": "2026-10-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Dans le delta du Mékong, les crevettes au secours des rizières",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159615",
+      "desc": "Pendant des générations, le fleuve a fait la richesse du sud du Viet Nam. Aujourd’hui, la mer remonte dans ses bras, les barrages retiennent ses sédiments et le climat dérègle ses crues. Dans les rizières du delta du Mékong, certains agriculteurs ne cherchent plus seulement à repousser l’eau salée :",
+      "date": "2026-10-08T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Pourquoi le magnat zimbabwéen « Sir Wicknell » était-il à la fois aimé et détesté en Afrique ?",
+      "link": "https://www.bbc.com/afrique/articles/crgqw1z80ej1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Wicknell Chivayo a divisé les opinions de son vivant et continue de le faire après sa mort.",
+      "date": "2026-10-08T11:47:08",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La finale de la CAN se joue devant les tribunaux – quand le Maroc ou le Sénégal sera-t-il couronné champion ?",
+      "link": "https://www.bbc.com/afrique/articles/c933xdp5rv7ro?at_medium=RSS&at_campaign=rss",
+      "desc": "Le Tribunal arbitral du sport doit se prononcer sur la décision de retirer au Sénégal son titre de champion d'Afrique des Nations 2025. Cependant, les supporters ne doivent pas s'attendre à un verdict immédiat.",
+      "date": "2026-10-08T10:49:07",
       "source": "BBC Afrique"
     },
     {
@@ -50,27 +85,6 @@
       "link": "https://www.bbc.com/afrique/articles/c9vgr42n1eypo?at_medium=RSS&at_campaign=rss",
       "desc": "Le décès d'une technicienne de laboratoire russe dans un centre de recherche sur la peste en Sibérie a alimenté les spéculations quant à une possible fuite de données au sein du laboratoire.",
       "date": "2026-10-08T08:32:23",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "5 exercices pour protéger votre cou du stress et d'une mauvaise posture",
-      "link": "https://www.bbc.com/afrique/articles/cw78pd0j42ypo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le monde moderne est un véritable défi pour le cou, mais nous pouvons faire beaucoup pour atténuer l’apparition de ces problèmes.",
-      "date": "2026-10-07T16:20:51",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "J'ai découvert que j'avais un cancer parce que mon fils de 4 ans m'a donné un coup de pied dans les testicules",
-      "link": "https://www.bbc.com/afrique/articles/cmkg7dg7517no?at_medium=RSS&at_campaign=rss",
-      "desc": "Un père a découvert qu'il avait un cancer après avoir reçu un coup de pied accidentel dans les testicules. À la suite de cette expérience, il a pris conscience de la nécessité pour les hommes de parler de leurs problèmes.",
-      "date": "2026-10-07T14:57:10",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Dix personnes liées au premier cas d'Ebola au Kenya ont été placées en quarantaine face aux inquiétudes croissantes concernant le dépistage",
-      "link": "https://www.bbc.com/afrique/articles/cm9wzrwpwzezo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le patient a traversé plusieurs villes de la République démocratique du Congo, s'est rendu en voiture en Ouganda et a finalement pris l'avion pour le Kenya.",
-      "date": "2026-10-07T12:55:12",
       "source": "BBC Afrique"
     },
     {
@@ -91,20 +105,6 @@
       "title": "Deux tiers des enfants migrants arrivés en Europe en 2025 étaient non accompagnés",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159622",
       "desc": "Ils sont des milliers à avoir traversé les routes migratoires sans parent ni tuteur. En 2025, 20 800 des 31 100 mineurs arrivés en Europe étaient seuls. L'ONU alerte sur leur exposition aux violences et à l'exploitation et appelle les Etats à agir contre les réseaux de passeurs qui profitent de leur",
-      "date": "2026-10-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soupçon de peste en Russie : l’OMS réclame « davantage d'informations » à Moscou",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159625",
-      "desc": "Après la mort inexpliquée, vendredi, d’une technicienne russe travaillant pour un institut spécialisé dans les agents pathogènes dangereux, Moscou assure qu’aucun cas de peste n’a été détecté et écarte tout risque épidémique. Mais l’Organisation mondiale de la santé (OMS) réclame toujours des éclair",
-      "date": "2026-10-07T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola : le Kenya traque les contacts après un premier décès",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159624",
-      "desc": "Le Kenya a lancé une course contre la montre pour retrouver toutes les personnes ayant été en contact avec le premier cas mortel d’Ebola enregistré dans le pays, alors que les Nations Unies et leurs partenaires renforcent leur soutien à la riposte, a déclaré mercredi à ONU Info la représentante de l",
       "date": "2026-10-07T12:00:00",
       "source": "ONU Info"
     }
