@@ -3,19 +3,19 @@
   "title": "Météo du 10 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 0.51,
-    "feels_like": 0.51,
-    "humidity": 96,
+    "temp": 11.09,
+    "feels_like": 9.59,
+    "humidity": 51,
     "description": "Ciel dégagé",
-    "wind_kmh": 3.7
+    "wind_kmh": 1.6
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.79,
-    "feels_like": 26.46,
-    "humidity": 78,
-    "description": "Peu nuageux",
-    "wind_kmh": 11.1
+    "temp": 32.79,
+    "feels_like": 38.31,
+    "humidity": 58,
+    "description": "Ciel dégagé",
+    "wind_kmh": 33.3
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 10 octobre 2026 sur Radio Sources de Vie. À Ottawa: 1 degrés Celsius. Ciel dégagé. À Port-au-Prince: 26 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la météo du 10 octobre 2026 sur Radio Sources de Vie. À Ottawa: 11 degrés Celsius. Ciel dégagé. À Port-au-Prince: 33 degrés Celsius. Ciel dégagé. Que Dieu bénisse votre journée!"
 }
