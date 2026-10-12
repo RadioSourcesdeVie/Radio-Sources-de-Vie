@@ -1,49 +1,98 @@
 {
   "category": "monde",
   "date": "2026-10-12",
-  "updated": "2026-10-12T10:00:18.368150Z",
+  "updated": "2026-10-12T19:00:19.656191Z",
   "articles": [
+    {
+      "title": "Enquête sur le poisson d'élevage: un drame environnemental et humain",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261012-enqu%C3%AAte-sur-le-poisson-d-%C3%A9levage-un-drame-environnemental-et-humain",
+      "desc": "The Outlaw Ocean Project est un collectif de journalistes qui enquête sur des thématiques liées aux milieux marins. Leur dernière enquête porte sur les ravages de la pisciculture. Cette industrie vide les océans pour fabriquer des farines animales destinées à nourrir les poissons qui finiront dans n",
+      "date": "2026-10-12T18:19:50",
+      "source": "France 24"
+    },
+    {
+      "title": "Les sept pays africains où les salaires sont les plus élevés",
+      "link": "https://www.bbc.com/afrique/articles/c3dxw20gl7eqo?at_medium=RSS&at_campaign=rss",
+      "desc": "En Afrique de l'Est, le Kenya a fait mieux que ses voisins comme la Tanzanie, l'Ouganda et le Rwanda, mais est resté derrière Djibouti, qui menait non seulement l'Afrique de l'Est, mais aussi l'ensemble du continent avec une moyenne de 2 836 dollars (1 647 007 FCFA) par mois.",
+      "date": "2026-10-12T16:39:59",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "À Ceuta, la visite hautement sensible du roi d'Espagne Felipe VI",
+      "link": "https://www.france24.com/fr/afrique/20261012-%C3%A0-ceuta-la-visite-hautement-sensible-du-roi-d-espagne-felipe-vi-maroc-mohammed-vi",
+      "desc": "Le roi Felipe VI se rend mardi dans l'enclave de Ceuta, trois mois après l’arrivée de plus de 72 000 migrants en provenance du Maroc. Si cette visite se veut un geste de soutien envers la population locale, elle pourrait raviver les tensions avec Rabat qui revendique sa souveraineté sur la ville aut",
+      "date": "2026-10-12T15:50:25",
+      "source": "France 24"
+    },
+    {
+      "title": "Élections de mi-mandat : le gazole russe, faux joker politique pour Donald Trump",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261012-%C3%A9lections-midterms-poutine-gazole-russie-faux-joker-politique-pour-donald-trump-%C3%A9tats-unis",
+      "desc": "Le président américain Donald Trump a annoncé vendredi un accord avec Vladimir Poutine pour la livraison de gazole russe en plusieurs étapes. Il a ensuite annoncé, deux jours plus tard, un \"cessez-le-feu énergétique\" surprise entre la Russie et l’Ukraine. Le président américain veut ainsi faire bais",
+      "date": "2026-10-12T15:32:54",
+      "source": "France 24"
+    },
+    {
+      "title": "En Grèce, l'ambassadrice américaine Kimberly Guilfoyle embarrasse jusqu'à Washington",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261012-en-gr%C3%A8ce-l-ambassadrice-am%C3%A9ricaine-kimberly-guilfoyle-embarrasse-jusqu-%C3%A0-washington",
+      "desc": "Nommée ambassadrice des États-Unis en Grèce malgré son parcours dans les médias et ses liens avec la famille Trump, Kimberly Guilfoyle embarrasse aujourd’hui jusqu’à Washington. Selon plusieurs médias américains, Donald Trump et Marco Rubio envisageraient de la limoger après une série de révélations",
+      "date": "2026-10-12T15:16:59",
+      "source": "France 24"
+    },
+    {
+      "title": "Derrière l'image : le retour d'un astronaute sur Terre, \"ça n'a rien de romantique\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261012-derri%C3%A8re-l-image-le-retour-d-un-astronaute-sur-terre-%C3%A7a-n-a-rien-de-romantique",
+      "desc": "Le retour sur Terre de Sophie Adenot est au cœur de notre chronique \"Derrière l’image\". Car après une mission dans l’espace, le retour à la vie terrestre est loin d’être romantique : fatigue physique, mal de terre, réadaptation musculaire, tests médicaux et suivi psychologique rythment les premiers ",
+      "date": "2026-10-12T15:05:05",
+      "source": "France 24"
+    },
+    {
+      "title": "5 technologies qui transforment les humains en demi-machines",
+      "link": "https://www.bbc.com/afrique/articles/c6vg98kp8weqo?at_medium=RSS&at_campaign=rss",
+      "desc": "Voler dans l'espace est depuis longtemps un rêve humain, du mythe grec d'Icare aux voitures volantes des films de science-fiction comme Blade Runner.",
+      "date": "2026-10-12T13:59:48",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Soudan : la guerre et la sécheresse menacent d’étendre la famine",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159649",
+      "desc": "Alors que la guerre civile ravage le Soudan depuis trois ans et demi, une sécheresse exceptionnelle achève de détruire les moyens de subsistance de millions d’habitants. Dans une nouvelle alerte publiée lundi, des experts internationaux mettent en garde contre une catastrophe alimentaire qui s’aggra",
+      "date": "2026-10-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L’OMS veut détecter les menaces épidémiques en moins de 24 heures",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159647",
+      "desc": "Détecter et comprendre les menaces sanitaires émergentes dans les 24 heures pour contenir les flambées avant qu’elles ne s’étendent. C’est l’objectif fixé pour chaque pays d’ici à 2030 par l’Organisation mondiale de la santé (OMS). Sa nouvelle stratégie quinquennale, dévoilée lundi, doit renforcer l",
+      "date": "2026-10-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Colombie : les groupes armés montent en puissance",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159648",
+      "desc": "Près d’une décennie après l’accord historique conclu avec les FARC, la Colombie voit les organisations armées prospérer dans les régions abandonnées par l’État. Devant le Conseil de sécurité, lundi, l’ONU a alerté sur la montée des violences et les incertitudes entourant la politique du nouveau prés",
+      "date": "2026-10-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "La pauvreté dans le monde augmente pour la première fois depuis 2010",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159646",
+      "desc": "L’indice mondial de pauvreté a enregistré sa première hausse depuis sa création en 2010, portant à 1,2 milliard le nombre de personnes concernées, a indiqué lundi le Programme des Nations Unies pour le développement (PNUD).",
+      "date": "2026-10-12T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Trump fait face à une opposition croissante concernant son projet d'importer du diesel russe",
+      "link": "https://www.bbc.com/afrique/articles/cj4g17wlnz1vo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des élus républicains et démocrates ont tous deux critiqué cet accord, annoncé quelques semaines avant les élections de mi-mandat américaines.",
+      "date": "2026-10-12T10:59:33",
+      "source": "BBC Afrique"
+    },
     {
       "title": "\"J'ai 23 ans et je perds mes cheveux\", Sharon Chepkoech, victime d'alopécie féminine",
       "link": "https://www.bbc.com/afrique/articles/cwly031drmj1o?at_medium=RSS&at_campaign=rss",
       "desc": "On estime que le problème de la chute des cheveux touche 160 millions de personnes dans le monde.",
       "date": "2026-10-12T09:50:29",
       "source": "BBC Afrique"
-    },
-    {
-      "title": "Népal : une nouvelle coulée de boue déferle des montagnes six semaine après les inondactions",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261012-n%C3%A9pal-une-nouvelle-coul%C3%A9e-de-boue-d%C3%A9ferle-des-montagnes-six-semaine-apr%C3%A8s-les-inondactions",
-      "desc": "De nouvelles images impressionnantes au Népal, où une coulée de boue dévale les montagnes. Cette crue survient six semaines seulement après des inondations dévastatrices qui avaient fait plus de 1400 morts et 5000 disparus.",
-      "date": "2026-10-12T09:46:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Un principal de collège blessé par un tir de fusil de chasse à Aubagne, un jeune interpellé",
-      "link": "https://www.france24.com/fr/france/20261012-un-principal-de-coll%C3%A8ge-bless%C3%A9-par-un-tir-de-fusil-de-chasse-%C3%A0-aubagne-un-jeune-interpell%C3%A9",
-      "desc": "Le principal du collège Joseph-Lakanal, à Aubagne (Bouches-du-Rhône) et une professeure ont été blessés par balles lundi et un jeune de 14 ans a été interpellé, a appris l'AFP de source policière. Le pronostic vital des victimes n'est pas engagé.",
-      "date": "2026-10-12T09:39:10",
-      "source": "France 24"
-    },
-    {
-      "title": "Djibouti : au moins 139 migrants morts dans un naufrage vers le Yémen",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261012-djibouti-au-moins-139-migrants-morts-dans-un-naufrage-vers-le-y%C3%A9men",
-      "desc": "Au moins 139 migrants, dont 15 enfants, sont morts et 84 sont portés disparus après le naufrage d’une embarcation surchargée au large de Djibouti, dans la nuit du 8 au 9 octobre. La plupart des 305 passagers étaient originaires d’Éthiopie et tentaient de rejoindre le Yémen, malgré la guerre, dans l’",
-      "date": "2026-10-12T09:34:30",
-      "source": "France 24"
-    },
-    {
-      "title": "Guerre à Gaza : Naza, le documentaire qui fait polémique en Israël",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261012-guerre-%C3%A0-gaza-naza-le-documentaire-qui-fait-pol%C3%A9mique-en-isra%C3%ABl",
-      "desc": "Le documentaire israélien Naza, qui sort aujourd’hui en France, s’appuie sur les témoignages anonymes de 24 membres des forces de sécurité israéliennes dénonçant les pratiques de l’armée à Gaza et les morts de civils. Récompensé à la Mostra de Venise, le film suscite une vive polémique en Israël : B",
-      "date": "2026-10-12T09:32:57",
-      "source": "France 24"
-    },
-    {
-      "title": "Ukraine : Trump annonce un cessez-le-feu énergétique pour faire baisser les prix aux États-Unis",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261012-ukraine-trump-annonce-un-cessez-le-feu-%C3%A9nerg%C3%A9tique-pour-faire-baisser-les-prix-aux-%C3%A9tats-unis",
-      "desc": "Donald Trump a annoncé un cessez-le-feu énergétique entre l’Ukraine et la Russie, sans confirmation de Kiev ni de Moscou. L’accord permettrait notamment à la Russie de réparer ses raffineries et de relancer ses exportations de diesel, alors que Washington cherche à faire baisser les prix du carburan",
-      "date": "2026-10-12T09:10:50",
-      "source": "France 24"
     },
     {
       "title": "Pourquoi l'Arabie saoudite recherche-t-elle de nouveaux partenaires en matière de défense ?",
@@ -53,59 +102,10 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Une exposition au soleil est-elle bénéfique pour notre santé ?",
-      "link": "https://www.bbc.com/afrique/articles/cn0nwelgvp4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Certaines personnes n'ont besoin que de quelques minutes de soleil par jour en été, tandis que d'autres en nécessitent beaucoup plus.",
-      "date": "2026-10-11T16:25:30",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Le pape Léon XIV va subir une intervention chirurgicale après la découverte d'une grosseur au poumon",
-      "link": "https://www.bbc.com/afrique/articles/c8g47kv97gzyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le pape, âgé de 71 ans, a déclaré que le nodule avait été identifié « à un stade très précoce ».",
-      "date": "2026-10-11T14:39:37",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "L'attaque de l'aéroport de Riyad, un autre moment dangereux dans un conflit déjà tendu",
-      "link": "https://www.bbc.com/afrique/articles/cx054mnd953no?at_medium=RSS&at_campaign=rss",
-      "desc": "Les Houthis ont intensifié leurs attaques sur le sol saoudien, et bien que les dégâts matériels puissent être rapidement réparés, la réputation de stabilité du pays est fortement mise à mal.",
-      "date": "2026-10-11T12:30:23",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Arabie saoudite : Guterres condamne une attaque meurtrière des Houthis contre l’aéroport de Riyad",
+      "title": "Arabie saoudite : Guterres condamne une attaque houthiste meurtrière contre l’aéroport de Riyad",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159643",
-      "desc": "Le Secrétaire général de l’ONU, António Guterres, a condamné une attaque de missile des Houthis contre le principal aéroport de Riyad, qui a fait 12 morts et plus de 300 blessés, selon les autorités saoudiennes.",
+      "desc": "Le Secrétaire général de l’ONU, António Guterres, a condamné une attaque de missile des houthistes contre le principal aéroport de Riyad, qui a fait 12 morts et plus de 300 blessés, selon les autorités saoudiennes.",
       "date": "2026-10-11T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Naufrage au large de Djibouti : le bilan s’alourdit à 139 morts, 84 personnes toujours portées disparues",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159644",
-      "desc": "Au moins 139 migrants ont péri lorsque leur embarcation a chaviré au large de Djibouti, et 84 personnes restent portées disparues, a indiqué dimanche l’Organisation internationale pour les migrations (OIM).",
-      "date": "2026-10-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "L’ONU prête à soutenir le Panama après un séisme de magnitude 7,7",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159645",
-      "desc": "Un séisme de magnitude 7,7 a frappé le Panama vendredi, endommageant des bâtiments et des routes et perturbant l’approvisionnement en eau. Alors que plus de 40 répliques ont été enregistrées, l’ONU se tient prête à soutenir les autorités pour répondre aux besoins de la population.",
-      "date": "2026-10-10T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "« Nous voulons rentrer chez nous » : en RDC, l’autre urgence derrière Ebola",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159638",
-      "desc": "L’épidémie d’Ebola mobilise les efforts, mais derrière l’urgence sanitaire, des millions de Congolais continuent de subir les violences, les déplacements et la précarité. Le Coordinateur humanitaire de l’ONU en République démocratique du Congo (RDC) alerte sur le risque de voir la lutte contre le vi",
-      "date": "2026-10-09T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Sahel central : les déplacements forcés ont presque doublé en cinq ans",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159637",
-      "desc": "Au Burkina Faso, au Mali et au Niger, près de quatre millions de personnes sont aujourd’hui déplacées de force, contre deux millions en octobre 2020. L’insécurité et les chocs climatiques aggravent la crise au Sahel central, tandis que le manque de financements humanitaires fragilise l’aide aux popu",
-      "date": "2026-10-09T12:00:00",
       "source": "ONU Info"
     }
   ]
