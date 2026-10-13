@@ -1,21 +1,21 @@
 {
   "date": "2026-10-13",
-  "title": "Météo du 13 octobre 2026",
+  "title": "Meteo du 13 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 5.57,
-    "feels_like": 1.76,
+    "temp": 5.26,
+    "feels_like": 0.96,
     "humidity": 95,
     "description": "Légère pluie",
-    "wind_kmh": 20.4
+    "wind_kmh": 24.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.94,
-    "feels_like": 26.57,
-    "humidity": 76,
-    "description": "Peu nuageux",
-    "wind_kmh": 10.5
+    "temp": 32.79,
+    "feels_like": 38.31,
+    "humidity": 58,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 20.4
   },
-  "text": "Bonjour chers auditeurs, voici la météo du 13 octobre 2026 sur Radio Sources de Vie. À Ottawa: 6 degrés Celsius. Légère pluie. À Port-au-Prince: 26 degrés Celsius. Peu nuageux. Que Dieu bénisse votre journée!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 13 octobre 2026 sur Radio Sources de Vie. A Ottawa: 5 degres Celsius. Légère pluie. A Port-au-Prince: 33 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
 }
