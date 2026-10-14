@@ -3,19 +3,19 @@
   "title": "Meteo du 14 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 10.79,
-    "feels_like": 10.17,
-    "humidity": 86,
+    "temp": 11.28,
+    "feels_like": 10.63,
+    "humidity": 83,
     "description": "Couvert",
-    "wind_kmh": 14.8
+    "wind_kmh": 22.2
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 28.79,
-    "feels_like": 32.99,
-    "humidity": 74,
-    "description": "Peu nuageux",
-    "wind_kmh": 16.7
+    "temp": 32.79,
+    "feels_like": 38.31,
+    "humidity": 58,
+    "description": "Légère pluie",
+    "wind_kmh": 27.8
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 14 octobre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Couvert. A Port-au-Prince: 29 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 14 octobre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Couvert. A Port-au-Prince: 33 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
 }
