@@ -1,8 +1,92 @@
 {
   "category": "monde",
   "date": "2026-10-16",
-  "updated": "2026-10-16T10:00:17.404441Z",
+  "updated": "2026-10-16T19:00:21.560041Z",
   "articles": [
+    {
+      "title": "Un auteur zimbabwéen nie avoir utilisé l'IA pour écrire une œuvre primée",
+      "link": "https://www.bbc.com/afrique/articles/cmje572zx7jno?at_medium=RSS&at_campaign=rss",
+      "desc": "Simbarashe Kundizeza répondait à une accusation qui a suscité un tollé sur les réseaux sociaux.",
+      "date": "2026-10-16T17:00:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L'Arabie saoudite condamnée à subir face aux Houtis ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-monde-dans-tous-ses-%C3%A9tats/20261016-arabie-saoudite-condamn%C3%A9e-%C3%A0-subir-face-aux-houtis",
+      "desc": "Les rebelles yéménites ont pris en quelques semaines le détroit stratégique de Bab-el-Mandeb, ils encerclent la ville de Taïz et frappent désormais quotidiennement le territoire saoudien. Rarement la pétromonarchie la plus puissante de la planète aura semblé aussi vulnérable. Est-ce la fin du rêve d",
+      "date": "2026-10-16T16:50:34",
+      "source": "France 24"
+    },
+    {
+      "title": "\"Une priorité absolue\" de ramener les pays du Sahel dans l'OIF, souligne la Mauritanienne Coumba Bâ",
+      "link": "https://www.france24.com/fr/%C3%A9missions/en-t%C3%AAte-%C3%A0-t%C3%AAte/20261016-une-priorit%C3%A9-absolue-de-ramener-les-pays-du-sahel-dans-l-oif-souligne-la-mauritanienne-coumba-b%C3%A2",
+      "desc": "Dans un entretien accordé à France 24, la ministre conseillère du président mauritanien Mohammed Ould Ghazouani et candidate au poste de secrétaire générale de l'Organisation internationale de la francophonie, Coumba Bâ, met en avant sa \"posture de rassemblement\" et affirme que \"la francophonie doit",
+      "date": "2026-10-16T16:39:31",
+      "source": "France 24"
+    },
+    {
+      "title": "Dix ans après le démantèlement de la jungle de Calais : des migrant·e·s toujours plus vulnérables",
+      "link": "https://www.france24.com/fr/%C3%A9missions/actuelles/20261016-dix-ans-apr%C3%A8s-le-d%C3%A9mant%C3%A8lement-de-la-jungle-de-calais-des-migrant%C2%B7e%C2%B7s-toujours-plus-vuln%C3%A9rables",
+      "desc": "En octobre 2025, le gouvernement français ordonnait le démantèlement de la \"jungle\" de Calais, bidonville installé dans le Nord de la France, face à la Manche et au Royaume-Uni, et destination finale de milliers de migrants venus d’Afrique et du Moyen-Orient. Une décennie plus tard, la population mi",
+      "date": "2026-10-16T16:26:24",
+      "source": "France 24"
+    },
+    {
+      "title": "Italie, Grèce, Allemagne... la mobilisation française, source d'inspiration pour l'Europe ?",
+      "link": "https://www.france24.com/fr/france/20261016-italie-gr%C3%A8ce-allemagne-la-mobilisation-fran%C3%A7aise-source-d-inspiration-pour-l-europe",
+      "desc": "Dans le sillage de la mobilisation étudiante et lycéenne en France, plusieurs mouvements de protestation ont émergé ces dernières semaines en Italie, Belgique, Allemagne ou Grèce, pour dénoncer les conditions d'apprentissage, la crise du logement ou les politiques d'austérité, se réclamant parfois o",
+      "date": "2026-10-16T16:07:43",
+      "source": "France 24"
+    },
+    {
+      "title": "Pierre Moscovici : \"Il est compliqué d’adopter un budget européen avant des élections majeures\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261016-pierre-moscovici-il-est-compliqu%C3%A9-d-adopter-un-budget-europ%C3%A9en-avant-des-%C3%A9lections-majeures",
+      "desc": "Depuis 1977, la Cour des comptes agit comme un auditeur externe de l’Union européenne, examinant la gestion financière et le budget de l’Union. Ancien député européen, Pierre Moscovici fut ministre des Affaires européennes puis de l'Économie, avant de devenir commissaire européen aux affaires économ",
+      "date": "2026-10-16T16:05:58",
+      "source": "France 24"
+    },
+    {
+      "title": "Joseph Kabila et le M23 : Pourquoi l’ancien président de la RDC a-t-il rejoint une alliance rebelle ?",
+      "link": "https://www.bbc.com/afrique/articles/cr86zgwpyjppo?at_medium=RSS&at_campaign=rss",
+      "desc": "Pourquoi l'ancien dirigeant de la RDC dirige-t-il désormais une alliance de rebelles qui combattent le gouvernement de son successeur, et quelles pourraient être les conséquences pour le pays ?",
+      "date": "2026-10-16T14:27:16",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "À Gaza, une enfance en mode survie malgré le cessez-le-feu",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159678",
+      "desc": "À Gaza, les enfants continuent d’être tués malgré le cessez-le-feu. Au cours des deux dernières semaines, sept auraient perdu la vie et au moins 33 autres auraient été grièvement blessés dans des frappes aériennes, des attaques de drones et des tirs.",
+      "date": "2026-10-16T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Soudan : les belligérants misent toujours sur la guerre, malgré les appels à une trêve",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159679",
+      "desc": "Trois ans et demi après le début du conflit soudanais, les combats s'intensifient et les attaques de drones frappent toujours davantage les civils. Devant le Conseil de sécurité, vendredi, l'ONU a dénoncé l'intransigeance des belligérants, encouragés par leurs soutiens étrangers, malgré la multiplic",
+      "date": "2026-10-16T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ukraine : à l’approche de l’hiver, des millions de déplacés risquent de devoir fuir à nouveau",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159677",
+      "desc": "Après avoir fui les combats, près de 3,8 millions d’Ukrainiens ont regagné leur domicile depuis le début de l’invasion russe. Mais les logements endommagés, les attaques contre les infrastructures énergétiques et le coût du chauffage menacent de provoquer une nouvelle vague de déplacements, alerte l",
+      "date": "2026-10-16T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "La nature en péril : Guterres appelle à un sursaut mondial",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159676",
+      "desc": "À quelques jours de l'ouverture de la COP17 sur la biodiversité, le Secrétaire général de l’ONU, António Guterres, a appelé vendredi les gouvernements, les entreprises et la société civile à intensifier leurs efforts pour protéger la nature. Malgré des avancées depuis 2022, le monde reste loin des o",
+      "date": "2026-10-16T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Qui assure la direction du Vatican pendant que le pape Léon XIV est en convalescence ?",
+      "link": "https://www.bbc.com/afrique/articles/cmde8d47gj5zo?at_medium=RSS&at_campaign=rss",
+      "desc": "La question a refait surface après l'annonce, mardi, du diagnostic de cancer du poumon dont souffre le pape Léon XIV.",
+      "date": "2026-10-16T11:41:10",
+      "source": "BBC Afrique"
+    },
     {
       "title": "La police belge perquisitionne les domiciles des proches du président congolais Tshisekedi",
       "link": "https://www.bbc.com/afrique/articles/cj5ynpg16412o?at_medium=RSS&at_campaign=rss",
@@ -18,95 +102,11 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "En direct : la reprise par l'Ukraine des frappes sur les raffineries russes est une \"honte\", dit Trump",
-      "link": "https://www.france24.com/fr/europe/20261016-en-direct-ukraine-russie-reprise-frappes-raffineries-donald-trump-zelensky-poutine",
-      "desc": "Donald Trump a jugé jeudi soir que la reprise par l'Ukraine des frappes sur les raffineries russes était une \"honte\", haussant à nouveau le ton contre le président ukrainien Volodymyr Zelensky. Ce dernier a tenté dans la journée de convaincre les Européens de renforcer leur soutien envers Kiev. Suiv",
-      "date": "2026-10-16 01:25:43",
-      "source": "France 24"
-    },
-    {
-      "title": "🔴 Fusillade aux États-Unis : quatre morts dont trois enfants dans une école l'Oregon, le tireur abattu",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
-      "desc": "",
-      "date": "2026-10-16 00:39:40",
-      "source": "France 24"
-    },
-    {
-      "title": "La vie des Néandertaliens était-elle violente ? Cette blessure suggère que les combats mortels étaient plus fréquents",
-      "link": "https://www.bbc.com/afrique/articles/cmrey94pr0edo?at_medium=RSS&at_campaign=rss",
-      "desc": "Une blessure par lance vieille de 75 000 ans, découverte chez un Néandertalien, pourrait témoigner que la violence a façonné la vie humaine bien plus tôt qu'on ne le pensait.",
-      "date": "2026-10-15T20:14:57",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Trump annule la diffusion en direct de l'exécution par un peloton de l'auteur de l'attaque de Fort Hood",
-      "link": "https://www.bbc.com/afrique/articles/cknv01976049o?at_medium=RSS&at_campaign=rss",
-      "desc": "Trump a déclaré que certains « préféreraient ne pas assister » à l'exécution de Nidal Hasan, la première exécution militaire en plus de 60 ans.",
-      "date": "2026-10-15T17:51:03",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Afghanistan : la faim atteint des records, les droits humains reculent",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159674",
       "desc": "Près de 16 millions d’Afghans sont confrontés à une insécurité alimentaire aiguë, un chiffre qui pourrait dépasser 19 millions cet hiver, prévient l’ONU qui appelle à une mobilisation urgente contre la faim et la malnutrition.",
       "date": "2026-10-15T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "L'objectif des sanctions visant Haïti : priver les gangs de munitions",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159672",
-      "desc": "Haïti traverse l’une des crises sécuritaires les plus sévères au monde. Des gangs armés contrôlent de vastes zones de la capitale, Port-au-Prince, et étendent leur emprise aux zones rurales. Ils terrorisent les populations, tuent, violent, enlèvent contre rançon et rackettent particuliers et entrepr",
-      "date": "2026-10-15T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "L’innovation progresse, les inégalités persistent : l’ONU appelle à repenser le développement",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159673",
-      "desc": "De l’intelligence artificielle à la transition énergétique, en passant par l’essor du numérique, les mutations de l’économie mondiale ne profitent pas à tous. Dans un rapport publié jeudi, l’ONU démontre que les pays les plus avancés technologiquement ne sont pas nécessairement les plus inclusifs et",
-      "date": "2026-10-15T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Biodiversité : le monde loin du compte pour 2030",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159671",
-      "desc": "À quatre ans de l’échéance de 2030, le monde reste loin du compte pour enrayer la destruction de la nature. Selon un nouveau rapport de l’ONU, moins de la moitié des objectifs nationaux en matière de biodiversité sont en bonne voie.",
-      "date": "2026-10-15T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ebola : l'épidémie persiste en RDC, le Kenya confirme un 2e cas",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159669",
-      "desc": "Cinq mois après sa déclaration officielle, l’épidémie d’Ebola Bundibugyo en République démocratique du Congo (RDC) reste marquée par une transmission élevée et fluctuante, « sans qu’une tendance à la baisse durable ne se dessine », selon l’OMS. Le Kenya a, de son côté, confirmé un deuxième cas.",
-      "date": "2026-10-15T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Thomas Sankara : pourquoi le révolutionnaire burkinabé est une icône africaine ?",
-      "link": "https://www.bbc.com/afrique/articles/c8wy9vr96e6ro?at_medium=RSS&at_campaign=rss",
-      "desc": "L'ancien chef d'Etat burkinabè représente pour beaucoup d'africains ce que le Négus éthiopien Hailé Sélassié est pour les rastas : un modèle achevé de leader noir, panafricaniste de surcroît.",
-      "date": "2026-10-15T11:50:39",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Fusillade aux États-Unis : quatre morts dont trois enfants dans une école l'Oregon, le tireur abattu",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261015-etats-unis-fusillade-plusieurs-victimes-morts-ecole-oregon-bend-tireur-abattu",
-      "desc": "Un tireur a tué trois enfants et un professeur jeudi dans une école primaire de Bend, en Oregon, dans l'ouest des États-Unis, a annoncé la police. Quand les forces de l'ordre sont arrivées sur les lieux, le tireur avait été abattu par un passant armé qui l'avait vu entrer dans l'établissement scolai",
-      "date": "2026-10-15 22:57:21",
-      "source": "France 24"
-    },
-    {
-      "title": "La France et l'Allemagne trouvent un accord provisoire sur l'avenir de l'industrie automobile",
-      "link": "https://www.france24.com/fr/europe/20261015-france-allemagne-accord-provisoire-avenir-industrie-automobile-made-in-europe",
-      "desc": "La France et l’Allemagne ont trouvé jeudi un accord provisoire selon lequel Paris ferait des concessions supplémentaires sur les émissions de CO2 des voitures, confirmant l’abandon du tout-électrique. En échange, Berlin accepterait une préférence européenne resserrée pour l'industrie automobile, fac",
-      "date": "2026-10-15 22:32:26",
-      "source": "France 24"
-    },
-    {
-      "title": "Trump va-t-il larguer \"la mère de toutes les bombes\" sur l'Iran ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/les-cl%C3%A9s-de-l-info/20261015-trump-va-t-il-larguer-la-m%C3%A8re-de-toutes-les-bombes-sur-l-iran",
-      "desc": "Elle pèse près de dix tonnes, mesure plus de neuf mètres de long et porte un surnom terrifiant : la mère de toutes les bombes. Selon CNN, les États-Unis envisagent de l'utiliser contre l'Iran. A moins que la seule évocation de son nom ne serve à faire peur à la République islamique. D'autant que sel",
-      "date": "2026-10-15 22:15:22",
-      "source": "France 24"
     }
   ]
 }
