@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-16",
+  "title": "Meteo du 16 octobre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 12.35,
+    "feels_like": 10.97,
+    "humidity": 51,
+    "description": "Couvert",
+    "wind_kmh": 9.3
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 30.94,
+    "feels_like": 36.29,
+    "humidity": 66,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 7.9
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 16 octobre 2026 sur Radio Sources de Vie. A Ottawa: 12 degres Celsius. Couvert. A Port-au-Prince: 31 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+}
