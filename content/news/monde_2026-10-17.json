@@ -1,55 +1,76 @@
 {
   "category": "monde",
   "date": "2026-10-17",
-  "updated": "2026-10-17T10:00:17.697652Z",
+  "updated": "2026-10-17T19:00:21.864324Z",
   "articles": [
     {
-      "title": "Trump exempte la Russie de nouvelles sanctions, Zelensky lâché",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-trump-exempte-la-russie-de-nouvelles-sanctions-zelensky-l%C3%A2ch%C3%A9",
-      "desc": "Gulliver Gragg, notre correspondant en Ukraine, analyse la situation.",
-      "date": "2026-10-17T09:45:55",
-      "source": "France 24"
-    },
-    {
-      "title": "WNBA : comment la Française Gabby Williams est devenue l'une des meilleures joueuses au monde ?",
-      "link": "https://www.france24.com/fr/sports/20261017-wnba-finale-valkyries-gabby-williams-basket-france",
-      "desc": "Les qualificatifs manquent pour décrire la saison de Gabby Williams. Après un titre en Euroligue, une médaille d'argent avec les Bleues en Coupe du monde, elle va tenter de remporter les finales WNBA avec son équipe des Valkyries. L'ailière française n'en finit plus de tutoyer les sommets.",
-      "date": "2026-10-17T09:18:17",
-      "source": "France 24"
-    },
-    {
-      "title": "France : d'où viennent les appels à la mobilisation du 17 octobre ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-france-d-o%C3%B9-viennent-les-appels-%C3%A0-la-mobilisation-du-17-octobre",
-      "desc": "Un samedi de mobilisation commun pour différentes \"colères\": quelques rares actions étaient recensées samedi matin à l'appel d'anciens gilets jaunes, lycéens, étudiants, militants du climat et même agriculteurs qui ont donné rendez-vous pour une journée protéiforme contre la \"vie chère\".",
-      "date": "2026-10-17T09:17:50",
-      "source": "France 24"
-    },
-    {
-      "title": "Les Houthis multiplient les attaques au Yémen et en Arabie Saoudite",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-les-houthis-multiplient-les-attaques-au-y%C3%A9men-et-en-arabie-saoudite",
-      "desc": "David Rigoulet-Roze, rédacteur en chef de la revue \"Orients Stratégiques\", est notre invité.",
-      "date": "2026-10-17T09:15:51",
-      "source": "France 24"
-    },
-    {
-      "title": "Journée de mobilisation massive des jeunes et gilets jaunes en France",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-journ%C3%A9e-de-mobilisation-massive-des-jeunes-et-gilets-jaunes-en-france",
-      "desc": "Romane Groisard, représentante di syndicat étudiant UPEC en Commun, est notre invité.",
-      "date": "2026-10-17T09:10:10",
-      "source": "France 24"
-    },
-    {
-      "title": "Un auteur zimbabwéen nie avoir utilisé l'IA pour écrire une œuvre primée",
-      "link": "https://www.bbc.com/afrique/articles/cmje572zx7jno?at_medium=RSS&at_campaign=rss",
-      "desc": "Simbarashe Kundizeza répondait à une accusation qui a suscité un tollé sur les réseaux sociaux.",
-      "date": "2026-10-16T17:00:09",
+      "title": "Qu'est-ce que la « dépression souriante » et comment la reconnaître ?",
+      "link": "https://www.bbc.com/afrique/articles/c6p3gjj2w19do?at_medium=RSS&at_campaign=rss",
+      "desc": "Si vous donnez l'impression d'être heureux à l'extérieur alors qu'à l'intérieur vous souffrez, vous souffrez peut-être d'une forme atypique de dépression ; cependant, cacher ses véritables sentiments peut nuire à la santé mentale.",
+      "date": "2026-10-17T17:58:21",
       "source": "BBC Afrique"
     },
     {
-      "title": "Joseph Kabila et le M23 : Pourquoi l’ancien président de la RDC a-t-il rejoint une alliance rebelle ?",
-      "link": "https://www.bbc.com/afrique/articles/cr86zgwpyjppo?at_medium=RSS&at_campaign=rss",
-      "desc": "Pourquoi l'ancien dirigeant de la RDC dirige-t-il désormais une alliance de rebelles qui combattent le gouvernement de son successeur, et quelles pourraient être les conséquences pour le pays ?",
-      "date": "2026-10-16T14:27:16",
+      "title": "🔴 En direct : 800 000 manifestants en France, une mobilisation émaillée de scènes de chaos",
+      "link": "https://www.france24.com/fr/france/20261017-france-en-direct-mobilisation-17-octobre-gilets-jaunes-lyceens-font-converger-leurs-coleres-dans-la-rue",
+      "desc": "",
+      "date": "2026-10-17T17:14:49",
+      "source": "France 24"
+    },
+    {
+      "title": "Manifestation du 17 octobre : Bernard Thibault apporte son soutien aux jeunes mobilisés",
+      "link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261017-manifestation-du-17-octobre-bernard-thibault-apporte-son-soutien-aux-jeunes-mobilis%C3%A9s",
+      "desc": "Chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Ce samedi, c'est Bernard Thibault, l’un des visages de la contestation de 1995 qui a fait plier le gouvernement sur sa réforme des retraites. Pour lui, le mouvement lycéen et étudiant qui manifeste à nouveau ce samedi 1",
+      "date": "2026-10-17T16:45:09",
+      "source": "France 24"
+    },
+    {
+      "title": "\"Ça bouge pas, donc il faut employer les grands moyens\" : à Paris, les colères convergent",
+      "link": "https://www.france24.com/fr/france/20261017-%C3%A7a-bouge-pas-donc-il-faut-employer-grands-moyens-paris-manifestation-les-col%C3%A8res-convergent",
+      "desc": "Entre gaz lacrymogènes et musique techno, plusieurs dizaines de milliers de manifestants se sont rassemblés samedi à Paris pour une journée de \"convergence des luttes\". Au cœur d'un cortège aux revendications multiples, une jeunesse déterminée à faire entendre sa colère, dans une mobilisation oscill",
+      "date": "2026-10-17T16:33:01",
+      "source": "France 24"
+    },
+    {
+      "title": "« C'est l'utilisation imprudente de l'intelligence artificielle qui constitue la véritable menace, et non l'IA en soi », affirme une dirigeante du secteur technologique",
+      "link": "https://www.bbc.com/afrique/articles/ck20r3337p1no?at_medium=RSS&at_campaign=rss",
+      "desc": "Le dirigeant de Signal affirme que la menace liée à l'IA a été mal comprise, dans une interview exclusive accordée à BBC Global Women.",
+      "date": "2026-10-17T16:16:44",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "17 octobre : le \"Ras le bol face à la vie chère, à la répression\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-17-octobre-le-ras-le-bol-face-%C3%A0-la-vie-ch%C3%A8re-%C3%A0-la-r%C3%A9pression",
+      "desc": "Stéphanie Michel, élue LFI de Fontenay-sous-Bois, est au micro de Johan Bodin.",
+      "date": "2026-10-17T15:52:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Controverse électorale en Inde : le chef des \"cafards\" à nouveau arrêté",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261017-controverse-%C3%A9lectorale-en-inde-le-chef-des-cafards-%C3%A0-nouveau-arr%C3%AAt%C3%A9",
+      "desc": "Le chef du mouvement indien des \"cafards\" a été arrêté vendredi à New Delhi avant une manifestation à laquelle il avait appelé pour dénoncer la révision des listes électorales, nouvelle péripétie de l'épreuve de force engagée avec le gouvernement.",
+      "date": "2026-10-17T15:46:03",
+      "source": "France 24"
+    },
+    {
+      "title": "Secrétaire général de l'ONU : pourquoi Macky Sall a jeté l'éponge",
+      "link": "https://www.bbc.com/afrique/articles/cmrly068y957o?at_medium=RSS&at_campaign=rss",
+      "desc": "L’ancien président sénégalais Macky Sall, candidat au poste de secrétaire général des Nations unies, a annoncé son retrait de la course. Dans un message publié sur sa page Facebook le 17 octobre, il explique avoir pris cette décision afin de contribuer à l’émergence d’une candidature consensuelle au",
+      "date": "2026-10-17T15:30:41",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Comment savoir si un fruit a été mûri à l'aide de produits chimiques ?",
+      "link": "https://www.bbc.com/afrique/articles/cv36953r17pko?at_medium=RSS&at_campaign=rss",
+      "desc": "Comment savoir si les fruits que vous achetez au marché sont toxiques ? Est-ce que cela se voit rien qu'en les regardant ?",
+      "date": "2026-10-17T14:00:46",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Pourquoi l'accord du Rwanda pour le Grand Prix de Formule 1 reste controversé",
+      "link": "https://www.bbc.com/afrique/articles/cq0ldnx12pj4o?at_medium=RSS&at_campaign=rss",
+      "desc": "La Formule 1 fera son retour en Afrique au début des années 2030, mais l'accord conclu avec le Rwanda pour organiser une course a suscité des accusations de « sportwashing » à l'encontre du pays.",
+      "date": "2026-10-17T11:59:29",
       "source": "BBC Afrique"
     },
     {
@@ -86,27 +107,6 @@
       "desc": "Trois ans et demi après le début du conflit soudanais, les combats s'intensifient et les attaques de drones frappent toujours davantage les civils. Devant le Conseil de sécurité, vendredi, l'ONU a dénoncé l'intransigeance des belligérants, encouragés par leurs soutiens étrangers, malgré la multiplic",
       "date": "2026-10-16T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Qui assure la direction du Vatican pendant que le pape Léon XIV est en convalescence ?",
-      "link": "https://www.bbc.com/afrique/articles/cmde8d47gj5zo?at_medium=RSS&at_campaign=rss",
-      "desc": "La question a refait surface après l'annonce, mardi, du diagnostic de cancer du poumon dont souffre le pape Léon XIV.",
-      "date": "2026-10-16T11:41:10",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La police belge perquisitionne les domiciles des proches du président congolais Tshisekedi",
-      "link": "https://www.bbc.com/afrique/articles/cj5ynpg16412o?at_medium=RSS&at_campaign=rss",
-      "desc": "La police belge a perquisitionné mercredi les domiciles de plusieurs proches et associés du président de la République démocratique du Congo (RDC), Félix Tshisekedi, dans le cadre d'une enquête pour blanchiment d'argent présumé lié aux revenus du secteur minier, selon deux avocats qui ont déposé la ",
-      "date": "2026-10-16T09:12:50",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les manifestations étudiantes sont-elles instrumentalisées à l'approche de l'élection présidentielle française ?",
-      "link": "https://www.bbc.com/afrique/articles/cv2d60l5e7xro?at_medium=RSS&at_campaign=rss",
-      "desc": "Le Premier ministre français a laissé entendre que la colère étudiante était instrumentalisée, alors que les syndicats et d'autres manifestants se préparent également à descendre dans la rue.",
-      "date": "2026-10-16T08:07:37",
-      "source": "BBC Afrique"
     }
   ]
 }
