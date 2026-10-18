@@ -3,19 +3,19 @@
   "title": "Meteo du 18 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 6.42,
-    "feels_like": 2.63,
-    "humidity": 45,
+    "temp": 0.94,
+    "feels_like": -1.98,
+    "humidity": 77,
     "description": "Ciel dégagé",
-    "wind_kmh": 22.2
+    "wind_kmh": 9.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 33.79,
-    "feels_like": 40.79,
-    "humidity": 62,
-    "description": "Ciel dégagé",
-    "wind_kmh": 18.5
+    "temp": 25.05,
+    "feels_like": 25.67,
+    "humidity": 79,
+    "description": "Peu nuageux",
+    "wind_kmh": 10.5
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 18 octobre 2026 sur Radio Sources de Vie. A Ottawa: 6 degres Celsius. Ciel dégagé. A Port-au-Prince: 34 degres Celsius. Ciel dégagé. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 18 octobre 2026 sur Radio Sources de Vie. A Ottawa: 1 degres Celsius. Ciel dégagé. A Port-au-Prince: 25 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
