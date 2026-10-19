@@ -1,21 +1,98 @@
 {
   "category": "monde",
   "date": "2026-10-19",
-  "updated": "2026-10-19T10:00:19.433181Z",
+  "updated": "2026-10-19T19:00:30.742725Z",
   "articles": [
     {
-      "title": "🔴 En direct : la coordination des Gilets jaunes du 17 octobre annonce un \"acte II\" pour samedi prochain",
-      "link": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
-      "desc": "",
-      "date": "2026-10-19T09:30:25",
+      "title": "Kenya : Paul Mackenzie, reconnu coupable pour le meurtre de 191 personnes",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261019-kenya-paul-mackenzie-reconnu-coupable-pour-le-meurtre-de-191-personnes",
+      "desc": "🇰🇪 Au Kenya, Paul Mackenzie et ses 29 coaccusés ont été reconnus coupables du meurtre de 191 personnes, dont 190 enfants, retrouvées dans la forêt de Shakahola. Le pasteur prêchait le jeûne extrême pour « rencontrer Jésus ». Le verdict sur les peines est attendu le 6 novembre.",
+      "date": "2026-10-19T18:40:44",
       "source": "France 24"
     },
     {
-      "title": "Le Programme alimentaire mondial réduit ses opérations à Gaza, 500 000 Palestiniens privés d'aide",
-      "link": "https://www.france24.com/fr/moyen-orient/20261019-le-programme-alimentaire-mondial-r%C3%A9duit-ses-op%C3%A9rations-%C3%A0-gaza-500-000-palestiniens-priv%C3%A9s-d-aide",
-      "desc": "Le Programme alimentaire mondial a annoncé lundi être contraint de réduire ses opérations à Gaza, faute de moyens financiers suffisants. Un demi-million de Palestiniens seront privés de l'aide humanitaire cruciale de cet organisme de l'ONU.",
-      "date": "2026-10-19T08:58:29",
+      "title": "Violences lors de manifestations : Gérald Darmanin veut faire passer les gardes à vue de 48 à 72 heures",
+      "link": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
+      "desc": "",
+      "date": "2026-10-19T18:37:03",
       "source": "France 24"
+    },
+    {
+      "title": "🔴 En direct : un couvre-feu décrété de 23 h à 6 h dans certains quartiers de Paris",
+      "link": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
+      "desc": "",
+      "date": "2026-10-19T17:09:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Panthère rose arrêtée, Paris en feu, Philippe Etchebest… ces images du 17 octobre sont fausses",
+      "link": "https://www.france24.com/fr/france/20261019-panth%C3%A8re-rose-arr%C3%AAt%C3%A9e-paris-en-feu-philippe-etchebest-ces-images-du-17-octobre-sont-fausses",
+      "desc": "Sur les réseaux sociaux, de nombreuses images prétendent documenter la journée de mobilisation nationale en France du 17 octobre contre la vie chère et les violences qui sont survenues en marge. Un certain nombre de ces images sont cependant factices.",
+      "date": "2026-10-19T16:54:10",
+      "source": "France 24"
+    },
+    {
+      "title": "Bilan, finances, énergies fossiles... les enjeux de la COP17 biodiversité d’Erevan",
+      "link": "https://www.france24.com/fr/plan%C3%A8te/20261019-bilan-finances-%C3%A9nergies-fossiles-les-enjeux-de-la-cop17-biodiversit%C3%A9-d-erevan",
+      "desc": "La 17e conférence mondiale (COP17) sur la biodiversité a démarré, lundi, à Erevan, en Arménie. Quatre ans après l’ambitieux accord de Kunming-Montréal, qui avait fixé une vingtaine d’objectifs à atteindre d’ici 2030, la communauté internationale doit faire un bilan de mi-parcours.",
+      "date": "2026-10-19T16:40:30",
+      "source": "France 24"
+    },
+    {
+      "title": "Le chef d'une secte kényane qui avait ordonné aux parents d'affamer leurs enfants reconnu coupable de 191 meurtres",
+      "link": "https://www.bbc.com/afrique/articles/cm9qznv0e5q1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Paul Mackenzie, qui se proclamait pasteur, a été reconnu coupable de 191 chefs d'accusation de meurtre, dont 191 concernaient des enfants.",
+      "date": "2026-10-19T16:39:07",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Titanic : l'histoire du seul homme noir à bord du navire",
+      "link": "https://www.bbc.com/afrique/articles/ckz650q3zqllo?at_medium=RSS&at_campaign=rss",
+      "desc": "Le 10 avril 1912, le navire le plus avancé sur le plan technologique jamais construit à l'époque a pris la mer depuis Southampton pour son voyage inaugural.",
+      "date": "2026-10-19T15:26:19",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Des scientifiques ont identifié 5 façons de vous rendre plus attirant(e)",
+      "link": "https://www.bbc.com/afrique/articles/crlyk18j5252o?at_medium=RSS&at_campaign=rss",
+      "desc": "À l'ère des réseaux sociaux et des progrès technologiques, où beaucoup de gens accordent une grande importance à leur attractivité sociale, des scientifiques ont identifié cinq méthodes susceptibles de vous aider à atteindre cet objectif sans modifier votre apparence.",
+      "date": "2026-10-19T14:22:49",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Gaza : l’aide alimentaire recule plus vite que la faim",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159688",
+      "desc": "Un an après le cessez-le-feu, le Programme alimentaire mondial (PAM) a annoncé lundi une réduction d’un tiers de son assistance à Gaza. Le directeur de l’agence onusienne a décrit une population toujours affamée, dont les espoirs de reconstruction s’amenuisent. Parallèlement, en Cisjordanie, les vio",
+      "date": "2026-10-19T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "À Gaza, des sacs de sable pour tenir tête aux inondations",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159686",
+      "desc": "À Gaza, ravagé par deux ans de guerre, Ahmed Al-Omari se prépare, comme des centaines de milliers d’autres familles, à affronter un nouvel hiver de froid et de pluies torrentielles. Dans les camps de fortune et les bâtiments endommagés, les habitants tentent de protéger leurs abris précaires contre ",
+      "date": "2026-10-19T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Biodiversité : à Erevan, l’ONU veut passer des promesses aux actes",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159685",
+      "desc": "La protection de la biodiversité est au cœur des discussions de la COP17, qui s’est ouverte lundi à Erevan, en Arménie. Alors que plus d’un million d’espèces sont menacées d’extinction, les États sont appelés à accélérer la mise en œuvre de leurs engagements pour enrayer l’érosion du vivant et prése",
+      "date": "2026-10-19T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Haïti : la violence des gangs gagne les campagnes, sur fond de report des élections",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159684",
+      "desc": "Malgré l’intensification des opérations de sécurité, les groupes armés continuent de semer la terreur en Haïti, où leurs attaques gagnent les zones rurales. Lundi, l’ONU a alerté sur la persistance des violences, qui compromettent l’organisation d’élections censées mettre fin à une transition politi",
+      "date": "2026-10-19T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Pourquoi l'Internet de Starlink joue un rôle clé dans la guerre des drones qui oppose l'Ukraine à la Russie",
+      "link": "https://www.bbc.com/afrique/articles/c60rlvzv8llvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Starlink est considéré comme la « colonne vertébrale des communications militaires en Ukraine », fournissant un accès Internet haut débit indispensable aux forces armées dans tout le pays.",
+      "date": "2026-10-19T10:26:05",
+      "source": "BBC Afrique"
     },
     {
       "title": "Le gouvernement français sous pression après un week-end de violences généralisées",
@@ -25,86 +102,9 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Les Rochambelles, ces héroïnes oubliées de la Libération que le théâtre remet en lumière",
-      "link": "https://www.france24.com/fr/culture/20261019-rochambelles-heroines-oubliees-liberation-france-division-blindee-leclerc",
-      "desc": "À Paris, une pièce de théâtre rend hommage aux Rochambelles, la première unité féminine d'ambulancières sur le front. Ces femmes ont réussi à s'imposer en pleine Seconde Guerre mondiale et à être incorporées à la deuxième division blindée du général Leclerc. Une leçon de courage et d'engagement rest",
-      "date": "2026-10-19T08:40:32",
-      "source": "France 24"
-    },
-    {
-      "title": "🔴 En direct : l'accès au musée du Louvre bloqué par des étudiants \"en soutien\" au mouvement lycéen",
-      "link": "https://www.france24.com/fr/france/20261019-en-direct-macron-refuse-d%C3%A9mission-nu%C3%B1ez-demande-nouveaux-modes-action-contre-casseurs",
-      "desc": "",
-      "date": "2026-10-19T08:22:27",
-      "source": "France 24"
-    },
-    {
-      "title": "Violences du 17 octobre : la casse laisse une lourde ardoise",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261019-violences-du-17-octobre-la-casse-laisse-une-lourde-ardoise",
-      "desc": "Le ministre en charge des Commerces, Serge Papin, a réuni lundi matin à Bercy les représentants des commerçants, des artisans et des restaurateurs, ainsi que les banques et les assurances. Le bilan des dégâts reste provisoire.",
-      "date": "2026-10-19T08:19:38",
-      "source": "France 24"
-    },
-    {
-      "title": "Voitures incendiées et vitres brisées jonchent les rues de Paris après que les manifestations ont dégénéré en émeutes et en pillages",
-      "link": "https://www.bbc.com/afrique/articles/ckwyq5n02ey8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Environ 1 800 personnes ont été arrêtées après que des manifestations à travers le pays ont donné lieu à des flambées de violence et de vandalisme.",
-      "date": "2026-10-18T18:00:43",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La femme qui sauve les serpents des mains des humains",
-      "link": "https://www.bbc.com/afrique/articles/crkg7xe31k7do?at_medium=RSS&at_campaign=rss",
-      "desc": "\"La protection des serpents n'est pas seulement une question de conservation, mais aussi une étape cruciale pour sauver des vies humaines grâce au développement de médicaments dérivés du venin de serpent\", déclare la zoologiste Taiwo Okikiola.",
-      "date": "2026-10-18T17:58:12",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Un yacht avec une piscine de 50 mètres et des toboggans aquatiques : des images satellites révèlent le terrain de jeu estival secret de Kim Jong-un",
-      "link": "https://www.bbc.com/afrique/articles/c32l4edpy9yqo?at_medium=RSS&at_campaign=rss",
-      "desc": "La BBC suit un navire de 80 mètres de long, équipé de toboggans aquatiques, pour en savoir plus sur la façon dont Kim passe ses vacances – un luxe inaccessible à la plupart des Nord-Coréens.",
-      "date": "2026-10-18T14:01:52",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Coe vise un « héritage » africain avec les championnats du monde de 2029",
-      "link": "https://www.bbc.com/afrique/articles/crq5n4y9zjx5o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'organisation des Championnats du monde d'athlétisme à Nairobi en 2029 laissera un « héritage d'expérience et d'expertise », selon Sebastian Coe, haut responsable de ce sport.",
-      "date": "2026-10-18T11:58:54",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Ebola : au Kenya, un troisième cas détecté en quarantaine",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159683",
       "desc": "Le Kenya a confirmé vendredi un nouveau cas d’Ebola, portant à trois le nombre de personnes infectées dans le pays, dont une décédée. Déjà placé en quarantaine, le patient a été détecté dès l’apparition des premiers symptômes, limitant le risque de propagation du virus, selon l’Organisation mondiale",
-      "date": "2026-10-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "À l’approche de la conférence sur le climat, l’ONU appelle à passer des promesses aux actes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159681",
-      "desc": "À moins d’un mois de la Conférence des Nations Unies sur le climat, COP31, le président de l’Assemblée générale des Nations Unies, Khalilur Rahman, a appelé les États à transformer leurs engagements climatiques en actions concrètes, financées et mesurables. Il a plaidé pour un meilleur accès aux fin",
-      "date": "2026-10-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "La faim recule dans le monde, mais la famine revient comme arme de guerre",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159682",
-      "desc": "Alors que le nombre de personnes souffrant de la faim a légèrement diminué, les situations de famine se multiplient, alimentées par les conflits, les bouleversements climatiques et les perturbations du commerce mondial.&nbsp;Vendredi, l’ONU dénonce le paradoxe&nbsp;d’un monde qui dispose des moyens ",
-      "date": "2026-10-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "À Gaza, une enfance en mode survie malgré le cessez-le-feu",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159678",
-      "desc": "À Gaza, les enfants continuent d’être tués malgré le cessez-le-feu. Au cours des deux dernières semaines, sept auraient perdu la vie et au moins 33 autres auraient été grièvement blessés dans des frappes aériennes, des attaques de drones et des tirs.",
-      "date": "2026-10-16T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : les belligérants misent toujours sur la guerre, malgré les appels à une trêve",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159679",
-      "desc": "Trois ans et demi après le début du conflit soudanais, les combats s'intensifient et les attaques de drones frappent toujours davantage les civils. Devant le Conseil de sécurité, vendredi, l'ONU a dénoncé l'intransigeance des belligérants, encouragés par leurs soutiens étrangers, malgré la multiplic",
       "date": "2026-10-16T12:00:00",
       "source": "ONU Info"
     }
