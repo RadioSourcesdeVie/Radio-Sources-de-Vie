@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-21",
+  "title": "Meteo du 21 octobre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 16.24,
+    "feels_like": 14.78,
+    "humidity": 33,
+    "description": "Ciel dégagé",
+    "wind_kmh": 14.8
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 29.79,
+    "feels_like": 34.53,
+    "humidity": 70,
+    "description": "Légère pluie",
+    "wind_kmh": 14.8
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 21 octobre 2026 sur Radio Sources de Vie. A Ottawa: 16 degres Celsius. Ciel dégagé. A Port-au-Prince: 30 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
+}

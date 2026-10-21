@@ -5,15 +5,15 @@
     <description>Résumé sportif du jour — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:00:32 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 09:04:51 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Les vedettes haïtiennes brillent à l'étranger! — 2026-10-20</title>
-      <description>Résumé sportif du jour — Voix Charlotte — 2026-10-20</description>
-      <pubDate>Tue, 20 Oct 2026 22:00:32 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-20.mp3" length="398208" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-20.mp3</guid>
+      <title>Sans titre — 2026-10-21</title>
+      <description>Résumé sportif du jour — Voix Charlotte — 2026-10-21</description>
+      <pubDate>Wed, 21 Oct 2026 09:04:51 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-21.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/sport_2026-10-21.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
