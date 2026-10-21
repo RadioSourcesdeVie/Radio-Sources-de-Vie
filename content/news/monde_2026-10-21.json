@@ -1,76 +1,111 @@
 {
   "category": "monde",
   "date": "2026-10-21",
-  "updated": "2026-10-21T10:00:17.698825Z",
+  "updated": "2026-10-21T19:00:20.710321Z",
   "articles": [
+    {
+      "title": "Ligue des champions : Lille enchaîne une troisième défaite européenne face à Galatasaray",
+      "link": "https://www.france24.com/fr/sports/20261021-ligue-des-champions-lille-encha%C3%AEne-une-troisi%C3%A8me-d%C3%A9faite-europ%C3%A9enne-face-%C3%A0-galatasaray",
+      "desc": "Battu lors des deux premières journées de Ligue des champions, Lille a enchaîné mercredi soir une troisième défaite européenne en s'inclinant à domicile face à Galatasaray (4-2). Malgré un doublé de Soriba Diaoune, le Losc s'est montré trop fébrile défensivement pour espérer un autre résultat.",
+      "date": "2026-10-21T18:36:17",
+      "source": "France 24"
+    },
+    {
+      "title": "Midterms : Trump peut-il encore convaincre ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-d%C3%A9bat/20261021-midterms-trump-peut-il-encore-convaincre",
+      "desc": "Aux États-Unis, c'est la dernière ligne droite pour la campagne des midterms, les élections de mi-mandat du 3 novembre. Les votes anticipés ou par courrier montrent une forte participation avec 9 millions d’Américains qui se sont déjà prononcés. Donald Trump est en campagne et tente de reconquérir u",
+      "date": "2026-10-21T18:17:42",
+      "source": "France 24"
+    },
+    {
+      "title": "Sénégal : une grève paralyse plusieurs secteurs à l’approche des JOJ",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261021-s%C3%A9n%C3%A9gal-une-gr%C3%A8ve-paralyse-plusieurs-secteurs-%C3%A0-l-approche-des-joj",
+      "desc": "🇸🇳 Au Sénégal, une grève générale de trois jours a débuté ce mercredi, à l’appel du Front syndical pour la défense du travail. La mobilisation rassemble treize syndicats de l’éducation, des transports. Le gouvernement a appelé les travailleurs à renoncer à cette grève \"illégale\".",
+      "date": "2026-10-21T18:07:36",
+      "source": "France 24"
+    },
+    {
+      "title": "Glucksmann, une histoire de famille",
+      "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261021-glucksmann-une-histoire-de-famille",
+      "desc": "Trois générations, une même famille et des parcours politiques très différents. Dans son livre Les Glucksmann, un étrange appétit de pouvoir, Steve Jourdin retrace l’histoire familiale de Raphaël Glucksmann, de son grand-père espion russe à son père, le philosophe André Glucksmann, jusqu’à ses propr",
+      "date": "2026-10-21T17:51:28",
+      "source": "France 24"
+    },
+    {
+      "title": "Thélyson Orélien a bien utilisé l’IA, annonce son éditeur canadien qui met fin à leur collaboration",
+      "link": "https://www.france24.com/fr/culture/20261021-th%C3%A9lyson-or%C3%A9lien-bien-utilis%C3%A9-ia-annonce-%C3%A9diteur-canadien-met-fin-collaboration",
+      "desc": "L'éditeur canadien Les ditions du Boréal a annoncé mercredi mettre fin à sa collaboration avec l'auteur Thélyson Orélien après avoir confirmé que celui-ci a bien utilisé l'intelligence artificielle dans l'écriture de son roman \"C'était ça ou mourir\". Le romancier avait démenti les accusations et son",
+      "date": "2026-10-21T17:43:40",
+      "source": "France 24"
+    },
+    {
+      "title": "Le test de condition physique qui permet d'évaluer votre risque de décès",
+      "link": "https://www.bbc.com/afrique/articles/cm2kep0y22xjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ce qui se passe après avoir arrêté l'effort peut être tout aussi révélateur du fonctionnement interne de votre corps. C'est là qu'intervient le test de récupération de la fréquence cardiaque (RFC).",
+      "date": "2026-10-21T14:34:51",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La Gambie indemnisera les victimes du régime de Yahya Jammeh grâce à la vente de sa demeure américaine saisie.",
+      "link": "https://www.bbc.com/afrique/articles/cq77pzxmdn18o?at_medium=RSS&at_campaign=rss",
+      "desc": "La Gambie a confirmé avoir reçu 2,5 millions de dollars provenant de la vente de la maison située dans le Maryland.",
+      "date": "2026-10-21T12:59:35",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "À Samarcande, un sommet pour changer la vie des enfants",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159705",
+      "desc": "Face aux conflits, à la pauvreté et au dérèglement climatique, investir dans la santé, l’éducation et la protection des enfants est plus urgent que jamais. Réunis à Samarcande, en Ouzbékistan, plus de 600 participants venus de plus de 100 pays cherchent des solutions pour garantir à chaque enfant le",
+      "date": "2026-10-21T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "El Niño : appels urgents à l'action face à un phénomène potentiellement hors norme",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159704",
+      "desc": "L’épisode El Niño en cours pourrait atteindre une intensité sans précédent. Redoutant une multiplication des sécheresses, des inondations et des crises alimentaires, l’ONU appelle à débloquer des financements avant que les catastrophes ne surviennent. Jusqu’à 50 millions de personnes pourraient voir",
+      "date": "2026-10-21T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Soudan : à Genève, une nouvelle tentative diplomatique pour mettre fin à la guerre",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159701",
+      "desc": "Alors que les frappes de drones se multiplient et que la crise humanitaire s’aggrave au Soudan, 27 délégations se sont réunies mercredi à Genève, sous l’égide de l’ONU et de la Suisse, pour tenter de coordonner les initiatives de paix. Une nouvelle étape diplomatique à laquelle ne participent toutef",
+      "date": "2026-10-21T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Nigéria : premier cas d’Ebola Bundibugyo confirmé",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159702",
+      "desc": "Le Nigéria a confirmé, mardi 20 octobre, son premier cas importé de maladie à virus Ebola Bundibugyo à Abuja, la capitale. Le pays devient ainsi le cinquième à détecter le virus depuis que l’épidémie a été déclarée en République démocratique du Congo (RDC), le 15 mai 2026, et que le Kenya vient de d",
+      "date": "2026-10-21T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Climat : dépasser le seuil de 1,5 °C n’est pas une fatalité",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159700",
+      "desc": "Le réchauffement climatique devrait dépasser le seuil de 1,5 °C fixé par l’Accord de Paris. Mais une réduction drastique des émissions de gaz à effet de serre peut encore limiter l’ampleur de ce dépassement et permettre de revenir sous cette limite d’ici à la fin du siècle, souligne un rapport du Pr",
+      "date": "2026-10-21T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Le Nigeria confirme un cas d'Ebola lié à l'Afrique de l'Est",
+      "link": "https://www.bbc.com/afrique/articles/c6m24l9g3lkgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Une patiente est placée en isolement et reçoit des soins médicaux après son admission dans un hôpital d'Abuja.",
+      "date": "2026-10-21T10:23:49",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Des drones de l'armée soudanaise ont frappé des personnes en deuil et un marché de carburant, faisant plus de 300 morts, selon des sources.",
+      "link": "https://www.bbc.com/afrique/articles/cqrkyldr1gelo?at_medium=RSS&at_campaign=rss",
+      "desc": "Un camion transportant des personnes à des funérailles et un marché soupçonné de fournir du carburant aux FSR ont été pris pour cible.",
+      "date": "2026-10-21T10:19:19",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Au cœur de l'univers obscur des actes de sabotage anti-Poutine menés depuis l'intérieur de la Russie",
       "link": "https://www.bbc.com/afrique/articles/cwd09757x84no?at_medium=RSS&at_campaign=rss",
       "desc": "Deux hommes racontent le travail qu'ils affirment avoir accompli pour soutenir les services de renseignement ukrainiens pendant la guerre.",
       "date": "2026-10-21T08:51:49",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« No man's land » : 3 territoires qui n'appartiennent à aucun pays (et pourquoi personne ne les revendique)",
-      "link": "https://www.bbc.com/afrique/articles/cmrey5j8dlq5o?at_medium=RSS&at_campaign=rss",
-      "desc": "Dans un monde où pratiquement chaque parcelle de terre appartient à quelqu’un, il reste quelques coins que nul pays ne revendique comme siens sur sa carte.",
-      "date": "2026-10-20T17:04:05",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Attaques armées à Ménaka, au Mali : Ce que l'on sait du massacre de plus de 40 civils",
-      "link": "https://www.bbc.com/afrique/articles/cmy560g10p25o?at_medium=RSS&at_campaign=rss",
-      "desc": "Plus de 40 civils ont été tués dimanche 18 octobre dernier dans la localité de Tagadayat, près de Tinabow, dans la région de Ménaka, au nord-est du Mali. Selon plusieurs sources locales et sécuritaires rapportées lundi par l’AFP, les attaques ont été perpétrées par des hommes armés à bord de motos.",
-      "date": "2026-10-20T14:41:48",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "La première femme Premier ministre du Maroc prise entre le roi, les religieux et les féministes",
-      "link": "https://www.bbc.com/afrique/articles/ckeq32249yv5o?at_medium=RSS&at_campaign=rss",
-      "desc": "Fatima El Mansouri parviendra-t-elle à faire progresser les droits des femmes malgré les barrières religieuses et politiques ?",
-      "date": "2026-10-20T13:08:21",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Soudan : les frappes de drones se multiplient dans les marchés et les quartiers résidentiels",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159699",
-      "desc": "Une douzaine d’enfants ont été tués ces derniers jours dans des attaques au Soudan, tandis qu’une frappe de drone sur un marché aurait fait plus de 150 morts dans la région disputée d’Abyei. Mardi, l’ONU a dénoncé la multiplication des bombardements, imputés aux deux camps, à la veille de nouvelles ",
-      "date": "2026-10-20T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Kosovo : les fractures communautaires inquiètent l’ONU",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159698",
-      "desc": "Face à la montée des tensions au Kosovo, l’ONU appelle Belgrade et Pristina à relancer le dialogue, à faire respecter les droits de toutes les communautés et à poursuivre les efforts de réconciliation. Devant le Conseil de sécurité, mardi, un haut responsable onusien a notamment mis en garde contre ",
-      "date": "2026-10-20T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "IA : l’ONU alerte sur le risque d’une guerre menée par les machines",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159697",
-      "desc": "L’intelligence artificielle s’impose dans les arsenaux militaires, accélérant les décisions et réduisant la part du jugement humain, y compris dans le domaine nucléaire. Mardi, l’ONU a mis en garde contre une évolution que les règles internationales peinent à encadrer, tout en annonçant plusieurs in",
-      "date": "2026-10-20T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Manifestations en Europe : l’ONU dénonce les violences et met en garde contre la répression",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159695",
-      "desc": "De la France à la Belgique en passant par l'Italie, la colère sociale gagne plusieurs pays européens, portée notamment par une jeunesse exaspérée par la vie chère, la crise du logement et la dégradation des services publics. Mardi, le chef des droits humains à l’ONU a condamné les violences qui émai",
-      "date": "2026-10-20T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Yémen : Taëz encerclée, l’ONU craint une catastrophe humanitaire",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159691",
-      "desc": "L’encerclement de Taëz par les rebelles houthis entrave l’acheminement de l’aide et aggrave une crise déjà marquée par la faim, les pénuries d’eau et la progression du choléra. Le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, a appelé mardi à rouvrir immédiatement les voies ",
-      "date": "2026-10-20T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Les opposants à Poutine expulsés par l'Occident et que la Russie envoie désormais au front",
-      "link": "https://www.bbc.com/afrique/articles/ckly0qq0lgqyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Au cours de l'année écoulée, le nombre de militants antigouvernementaux expulsés vers la Russie depuis l'Union européenne et les États-Unis, où ils avaient trouvé refuge, a considérablement augmenté.",
-      "date": "2026-10-20T10:01:20",
       "source": "BBC Afrique"
     }
   ]
