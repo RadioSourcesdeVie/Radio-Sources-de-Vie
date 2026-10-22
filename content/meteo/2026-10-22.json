@@ -3,19 +3,19 @@
   "title": "Meteo du 22 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 11.16,
-    "feels_like": 10.05,
-    "humidity": 66,
-    "description": "Nuageux",
-    "wind_kmh": 7.4
+    "temp": 13.44,
+    "feels_like": 12.15,
+    "humidity": 50,
+    "description": "Peu nuageux",
+    "wind_kmh": 20.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 30.79,
-    "feels_like": 35.93,
-    "humidity": 66,
-    "description": "Nuageux",
-    "wind_kmh": 14.8
+    "temp": 27.79,
+    "feels_like": 30.77,
+    "humidity": 74,
+    "description": "Légère pluie",
+    "wind_kmh": 5.5
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 22 octobre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Nuageux. A Port-au-Prince: 31 degres Celsius. Nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 22 octobre 2026 sur Radio Sources de Vie. A Ottawa: 13 degres Celsius. Peu nuageux. A Port-au-Prince: 28 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
 }
