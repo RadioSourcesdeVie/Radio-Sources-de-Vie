@@ -1,0 +1,77 @@
+{
+  "category": "monde",
+  "date": "2026-10-22",
+  "updated": "2026-10-22T10:00:18.792543Z",
+  "articles": [
+    {
+      "title": "Portugal : nuit à la belle étoile à Lisbonne pour 200 manifestants défendant le droit au logement",
+      "link": "https://www.france24.com/fr/europe/20261022-portugal-nuit-belle-%C3%A9toile-lisbonne-200-manifestants-d%C3%A9fendant-droit-logement",
+      "desc": "Environ 200 manifestants pour le droit au logement ont dormi à la belle étoile dans la nuit de mardi à mercredi à Lisbonne, deux jours après le démantèlement de leur campement par les forces de l'ordre. Inspirés par les mobilisations espagnoles, ils entendent dénoncer la crise du logement au Portuga",
+      "date": "2026-10-22T09:38:01",
+      "source": "France 24"
+    },
+    {
+      "title": "Des conditions de détention \"abominables\" au tribunal de Bobigny",
+      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261022-des-conditions-de-d%C3%A9tention-abominables-au-tribunal-de-bobigny",
+      "desc": "À la Une de la presse le 22 octobre, les conditions de détention de mineurs au tribunal de Bobigny, les derniers jours de campagne au Brésil, et un flamant rose traumatisé à Las Vegas.",
+      "date": "2026-10-22T09:34:04",
+      "source": "France 24"
+    },
+    {
+      "title": "🔴 En direct : à Lyon, \"toute manifestation\" sera interdite samedi",
+      "link": "https://www.france24.com/fr/france/20261022-france-manifestations-interdites-partis-re%C3%A7us-matignon-sebastien-lecornu-paris-lyon-emmanuel-macron-renseignement-violences",
+      "desc": "",
+      "date": "2026-10-22T09:21:31",
+      "source": "France 24"
+    },
+    {
+      "title": "Contre le Pakistan, les Taliban afghans multiplient les frappes de drones low cost",
+      "link": "https://www.france24.com/fr/asie-pacifique/20261022-guerre-pakistan-taliban-afghans-drones",
+      "desc": "Le Pakistan a affirmé avoir intercepté 23 drones suicides lancés depuis l'Afghanistan en direction de l'espace aérien pakistanais au cours du seul mois de septembre. Alors que les deux pays sont en conflit depuis le mois de février, les Taliban ont intensifié l'utilisation de vecteurs aériens sans p",
+      "date": "2026-10-22T09:11:17",
+      "source": "France 24"
+    },
+    {
+      "title": "Faille sur Internet : qu’est-ce que le PHP, qui fait tourner la majorité des sites web ?",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261022-faille-sur-internet-qu-est-ce-que-le-php-qui-fait-tourner-la-majorit%C3%A9-des-sites-web",
+      "desc": "Deux failles de sécurité ont été découvertes sur le protocole de programmation PHP, très utilisé sur le Web. Si un correctif a été trouvé mercredi, de nombreux sites, dont ceux des préfectures françaises, ont dû être fermés préventivement pour éviter d’éventuelles attaques.",
+      "date": "2026-10-22T08:58:34",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment se porte réellement l'économie américaine sous la présidence de Trump ?",
+      "link": "https://www.bbc.com/afrique/articles/cm369k415d50o?at_medium=RSS&at_campaign=rss",
+      "desc": "À l'approche des élections de mi-mandat, Trump s'est vanté des performances de l'économie américaine. BBC Verify examine l'inflation, l'emploi et la croissance économique du pays.",
+      "date": "2026-10-22T08:14:34",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Le test de condition physique qui permet d'évaluer votre risque de décès",
+      "link": "https://www.bbc.com/afrique/articles/cm2kep0y22xjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Ce qui se passe après avoir arrêté l'effort peut être tout aussi révélateur du fonctionnement interne de votre corps. C'est là qu'intervient le test de récupération de la fréquence cardiaque (RFC).",
+      "date": "2026-10-21T14:34:51",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La Gambie indemnisera les victimes du régime de Yahya Jammeh grâce à la vente de sa demeure américaine saisie.",
+      "link": "https://www.bbc.com/afrique/articles/cq77pzxmdn18o?at_medium=RSS&at_campaign=rss",
+      "desc": "La Gambie a confirmé avoir reçu 2,5 millions de dollars provenant de la vente de la maison située dans le Maryland.",
+      "date": "2026-10-21T12:59:35",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Le Nigeria confirme un cas d'Ebola lié à l'Afrique de l'Est",
+      "link": "https://www.bbc.com/afrique/articles/c6m24l9g3lkgo?at_medium=RSS&at_campaign=rss",
+      "desc": "Une patiente est placée en isolement et reçoit des soins médicaux après son admission dans un hôpital d'Abuja.",
+      "date": "2026-10-21T10:23:49",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Des drones de l'armée soudanaise ont frappé des personnes en deuil et un marché de carburant, faisant plus de 300 morts, selon des sources.",
+      "link": "https://www.bbc.com/afrique/articles/cqrkyldr1gelo?at_medium=RSS&at_campaign=rss",
+      "desc": "Un camion transportant des personnes à des funérailles et un marché soupçonné de fournir du carburant aux FSR ont été pris pour cible.",
+      "date": "2026-10-21T10:19:19",
+      "source": "BBC Afrique"
+    }
+  ]
+}
