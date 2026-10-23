@@ -1,69 +1,97 @@
 {
   "category": "monde",
   "date": "2026-10-23",
-  "updated": "2026-10-23T10:00:18.677522Z",
+  "updated": "2026-10-23T19:00:17.424297Z",
   "articles": [
     {
-      "title": "Gaz Mawete, fierté congolaise",
-      "link": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261023-gaz-mawete-fiert%C3%A9-congolaise",
-      "desc": "Rendez-vous avec Gaz Mawete à l'occasion de l'annonce de son concert événement au Stade légendaire des Martyrs de Kinshasa, prévu pour le 31 juillet 2027. Retour sur ses débuts dans la musique à l'âge de 16 ans, sa victoire flamboyante au Best Of the Best télé crochet, ses collaborations internation",
-      "date": "2026-10-23T09:42:07",
+      "title": "🔴 En direct : Macron évoque \"un tournant\" et dénonce un \"attentat\" commis \"sur la base d'une idéologie raciste\"",
+      "link": "https://www.france24.com/fr/france/20261023-homme-tire-rue-yvelines-un-mort-plusieurs-bless%C3%A9s-pnat",
+      "desc": "",
+      "date": "2026-10-23T18:15:49",
       "source": "France 24"
     },
     {
-      "title": "Ebola au Nigeria, grève au Sénégal, frappe sur un marché au Soudan : l'hebdo Afrique",
-      "link": "https://www.france24.com/fr/afrique/20261023-ebola-nigeria-gr%C3%A8ve-s%C3%A9n%C3%A9gal-frappe-march%C3%A9-soudan-hebdo-afrique",
-      "desc": "",
-      "date": "2026-10-23T09:32:05",
+      "title": "Tirs dans les Yvelines :  le maire dénonce \"un attentat à connotation raciste\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261023-tirs-dans-les-yvelines-le-maire-d%C3%A9nonce-un-attentat-%C3%A0-connotation-raciste",
+      "desc": "Qualifiant l'attaque meurtrière des Yvelines d'attentat à \"connotation raciste\" et \"objectivement islamophobe\", le maire de Trappes, Ali Rabeh, a exhorté vendredi à la \"concorde républicaine\".",
+      "date": "2026-10-23T18:08:49",
       "source": "France 24"
+    },
+    {
+      "title": "États-Unis : en Géorgie, les Afro-Américains mobilisés pour les midterms",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261023-%C3%A9tats-unis-en-g%C3%A9orgie-les-afro-am%C3%A9ricains-mobilis%C3%A9s-pour-les-midterms",
+      "desc": "C’est l’un des États clés des élections de mi-mandat. En Géorgie, le siège du sénateur démocrate Jon Ossoff est en jeu, et peut-être avec lui la majorité au Sénat. Les Afro-Américains, qui représentent environ un tiers de l’électorat, sont plus courtisés que jamais. Dans les églises comme dans la ru",
+      "date": "2026-10-23T17:26:45",
+      "source": "France 24"
+    },
+    {
+      "title": "Violences du 17 octobre : qui va payer l'addition ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261023-violences-du-17-octobre-qui-va-payer-l-addition",
+      "desc": "Après les violences du 17 octobre, près de 3 000 commerces ont été dégradés selon le gouvernement. L’agence Morningstar estime le coût des dégradations à 1,2 milliard d’euros. À Paris, les professionnels du tourisme constatent une hausse des annulations. Le secteur s’inquiète, un phénomène qui pourr",
+      "date": "2026-10-23T17:19:48",
+      "source": "France 24"
+    },
+    {
+      "title": "Circonstances, suspect, mobile... ce que l'on sait sur la fusillade à Trappes",
+      "link": "https://www.france24.com/fr/france/20261023-circonstances-suspect-mobile-ce-que-l-on-sait-sur-la-fusillade-%C3%A0-trappes",
+      "desc": "À Trappes puis à La Verrière, dans les Yvelines, un homme a tiré en rafales sur la voie publique depuis son véhicule, tuant une personne et faisant cinq blessés, vendredi. Pour le ministre de l'Intérieur, intervenu sur place, il s'agit d'une attaque terroriste. Que sait-on sur les circonstances de l",
+      "date": "2026-10-23T17:03:27",
+      "source": "France 24"
+    },
+    {
+      "title": "Ni voitures, ni réseau téléphonique : l'île fantôme du Canada où des visiteurs continuent de séjourner",
+      "link": "https://www.bbc.com/afrique/articles/ckr5ye175d6ro?at_medium=RSS&at_campaign=rss",
+      "desc": "Autrefois cœur battant de l'industrie de la pêche du Labrador, Battle Harbour a trouvé un nouveau souffle en tant que lieu de villégiature insulaire où la vie moderne est pratiquement inexistante.",
+      "date": "2026-10-23T16:55:43",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "J'ai une maladie dont les gens ont trop honte de parler",
+      "link": "https://www.bbc.com/afrique/articles/ck87zyrqw7x3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Des femmes partagent leur expérience du lichen scléreux.",
+      "date": "2026-10-23T15:32:42",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "En Afrique du Sud, une foule d'une cinquantaine de personnes a battu à mort un étranger",
+      "link": "https://www.bbc.com/afrique/articles/c5kglde39vyno?at_medium=RSS&at_campaign=rss",
+      "desc": "Cette agression contre une victime non identifiée fait suite à une vague de manifestations anti-migrants qui a secoué l'Afrique du Sud cette année.",
+      "date": "2026-10-23T14:36:53",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mouammar Kadhafi : il voulait être le « roi des rois »… Où son rêve s'est-il arrêté ?",
+      "link": "https://www.bbc.com/afrique/articles/cmvg9vzxxw50o?at_medium=RSS&at_campaign=rss",
+      "desc": "Mouammar Kadhafi, tué par les rebelles en 2011, était le fils d'un éleveur et agriculteur bédouin. Mais comment est-il devenu l'un des dirigeants les plus influents du monde arabe ?",
+      "date": "2026-10-23T12:29:53",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "RDC : la crise alimentaire s’aggrave dans les zones touchées par Ebola",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159716",
+      "desc": "Alors que l'épidémie d'Ebola de souche Bundibugyo s’est propagée au Nigéria, près de 3,5 millions de personnes sont confrontées à de graves pénuries alimentaires dans les zones touchées par cette épidémie en République démocratique du Congo (RDC), a alerté vendredi une agence des Nations Unies.",
+      "date": "2026-10-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Yémen : l'inquiétude grandit à Taëz, alors que l’aide humanitaire reste bloquée",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159717",
+      "desc": "Les agences humanitaires ont alerté vendredi sur l’aggravation de la crise humanitaire dans la ville de Taëz, le long de la côte ouest du Yémen, qui est encerclée par les rebelles houthistes affrontant les troupes gouvernementales.",
+      "date": "2026-10-23T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "El Fasher : un an après l’horreur, les survivantes restent hantées par la peur",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159715",
+      "desc": "Un an après les atrocités commises à El Fasher, au Darfour soudanais, les femmes et les filles qui ont fui la ville continuent de subir les conséquences des violences. Une enquête d’ONU Femmes révèle l’ampleur des traumatismes psychologiques, aggravés par les disparitions, la précarité et l’absence ",
+      "date": "2026-10-23T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Benjamin Netanyahu : le « Monsieur Sécurité » d'Israël parviendra-t-il à remporter un septième mandat de Premier ministre ?",
       "link": "https://www.bbc.com/afrique/articles/cm86z7en5gz5o?at_medium=RSS&at_campaign=rss",
       "desc": "Nous vous présentons le Premier ministre israélien ayant exercé le plus longtemps à ce poste, qui espère remporter un nouveau mandat lors des élections législatives qui se tiendront en Israël le 27 octobre.",
       "date": "2026-10-23T09:08:56",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Dakar, la fièvre olympique version jeunes",
-      "link": "https://www.france24.com/fr/%C3%A9missions/reporters/20261023-dakar-la-fi%C3%A8vre-olympique-version-jeunes",
-      "desc": "Alors que le Sénégal s’apprête à accueillir les Jeux olympiques de la jeunesse, le premier événement olympique jamais organisé sur le continent africain, le pays entier met les bouchées doubles pour être prêt à temps. Un reportage de Sarah Sakho et Simon Martin.",
-      "date": "2026-10-23T09:01:50",
-      "source": "France 24"
-    },
-    {
-      "title": "Netanyahu ordonne de préparer le \"bouclage total\" de la Cisjordanie occupée après une attaque",
-      "link": "https://www.france24.com/fr/moyen-orient/20261023-netanyahu-ordonne-de-pr%C3%A9parer-le-bouclage-total-de-la-cisjordanie-occup%C3%A9e-apr%C3%A8s-une-attaque",
-      "desc": "Le Premier ministre israélien Benyamin Netanyahu a ordonné vendredi un \"bouclage total\" de la Cisjordanie occupée après une attaque armée, à quelques jours des législatives du 27 octobre. Cinq personnes ont été blessées dans l'attaque menée par deux assaillants, qui ont été abattus.",
-      "date": "2026-10-23T08:54:31",
-      "source": "France 24"
-    },
-    {
-      "title": "Qu'est-ce que le PHP et pourquoi a-t-il déclenché une vague mondiale de mesures de cybersécurité ?",
-      "link": "https://www.bbc.com/afrique/articles/cwzrd1egrgpxo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'IA a mis au jour des failles de programmation longtemps restées cachées, déclenchant une réaction mondiale exceptionnelle en matière de cybersécurité.",
-      "date": "2026-10-23T08:47:15",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Candidats, partis, enjeu électoral : comment l'armée pèse sur les législatives israéliennes",
-      "link": "https://www.france24.com/fr/moyen-orient/20261023-candidats-partis-enjeu-%C3%A9lectoral-netanyahu-arm%C3%A9e-p%C3%A8se-l%C3%A9gislatives-isra%C3%A9liennes-eisenkot",
-      "desc": "Les élections législatives israéliennes du 27 octobre seront les premières depuis les attentats du Hamas du 7 octobre 2023 et le début de la guerre à Gaza. Un climat militaire qui a fait de l’armée un enjeu politique central.",
-      "date": "2026-10-23T07:17:10",
-      "source": "France 24"
-    },
-    {
-      "title": "Le Burkina Faso est « un petit pays », « pauvre » et « enclavé » : ces expressions que vous ne trouverez plus dans les manuels scolaires burkinabè.",
-      "link": "https://www.bbc.com/afrique/articles/ck3r5jn5r7evo?at_medium=RSS&at_campaign=rss",
-      "desc": "Depuis la rentrée scolaire le 1er octobre 2026, les autorités burkinabè ont amorcé un processus de « décolonisation » de l'histoire enseignée dans son système éducatif.",
-      "date": "2026-10-22T16:40:26",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Quand la France a détourné l'avion des dirigeants de la révolution algérienne",
-      "link": "https://www.bbc.com/afrique/articles/ck20reqy740zo?at_medium=RSS&at_campaign=rss",
-      "desc": "Il y a exactement soixante-dix ans, le 22 octobre 1956, les autorités françaises détournèrent un avion marocain qui effectuait la liaison entre Palma de Majorque, en Espagne, et Tunis. Elles le forcèrent à atterrir à l'aéroport de Maison-Blanche, Alger alors sous domination coloniale française.",
-      "date": "2026-10-22T16:38:14",
       "source": "BBC Afrique"
     },
     {
@@ -79,34 +107,6 @@
       "desc": "La lutte contre le narcotrafic ne saurait justifier des exécutions extrajudiciaires ni le recours aux pouvoirs antiterroristes contre les gangs criminels. C’est l’avertissement lancé jeudi par un expert indépendant de l’ONU qui dénonce les conséquences de la nouvelle stratégie de « guerre au narcote",
       "date": "2026-10-22T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Somalie : plus de 800 000 personnes menacées de déplacement par les inondations",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159711",
-      "desc": "En Somalie, des pluies supérieures à la normale sont attendues d'ici à la fin de l'année. Elles risquent de chasser de chez elles des centaines de milliers de personnes déjà éprouvées par la sécheresse et les déplacements à répétition.",
-      "date": "2026-10-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Moyen-Orient : Guterres dénonce une escalade militaire « hors de contrôle »",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159712",
-      "desc": "Alors que les combats s’intensifient au Yémen, le chef de&nbsp; l’ONU a mis en garde, jeudi, contre l’extension des conflits au Moyen-Orient. Il a également dénoncé les restrictions israéliennes à l’aide humanitaire à Gaza et les violences de colons en Cisjordanie occupée, avant une visite prévue ve",
-      "date": "2026-10-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Asie-Pacifique : le PNUD veut placer le développement au cœur des stratégies de sécurité",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159708",
-      "desc": "Catastrophes climatiques, précarité économique, cybercriminalité, commerce illicite, défiance envers les institutions : en Asie-Pacifique, les menaces pour la sécurité se multiplient et se renforcent les unes les autres. Dans un rapport publié jeudi, le Programme des Nations Unies pour le développem",
-      "date": "2026-10-22T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Macron accuse les dirigeants étrangers d'exploiter les émeutes en France",
-      "link": "https://www.bbc.com/afrique/articles/c6vgjk80kzmzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Ce commentaire semble viser Benjamin Netanyahu et Donald Trump, qui seront tous deux confrontés à des élections dans les semaines à venir.",
-      "date": "2026-10-22T10:12:26",
-      "source": "BBC Afrique"
     }
   ]
 }
