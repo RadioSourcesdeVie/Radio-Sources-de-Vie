@@ -1,76 +1,76 @@
 {
   "category": "monde",
   "date": "2026-10-24",
-  "updated": "2026-10-24T10:00:17.750351Z",
+  "updated": "2026-10-24T19:00:20.458640Z",
   "articles": [
     {
-      "title": "L'Ukraine affirme avoir retrouvé une \"connexion stable\" au système Starshield",
-      "link": "https://www.france24.com/fr/europe/20261024-l-ukraine-affirme-avoir-retrouv%C3%A9-une-connexion-stable-au-syst%C3%A8me-starshield",
-      "desc": "L'Ukraine a affirmé, samedi, avoir retrouvé une \"connexion stable\" au système de communication Starshield, la déclinaison militaire de Starlink, essentielle à son armée. Kiev fait état d'une \"vitesse supérieure à 400 km/h\", après que Donald Trump a assuré la veille qu'Elon Musk avait rétabli l'accès",
-      "date": "2026-10-24T09:36:56",
+      "title": "Yémen : les Houthis revendiquent des attaques en Arabie saoudite et à Aden",
+      "link": "https://www.france24.com/fr/moyen-orient/20261024-cisjordanie-l-arm%C3%A9e-isra%C3%A9lienne-d%C3%A9place-des-palestiniens-%C3%A0-h%C3%A9bron-apr%C3%A8s-une-attaque-meurtri%C3%A8re",
+      "desc": "Les ⁠combattants houthis ont ​affirmé avoir lancé samedi des ​attaques contre des installations pétrolières et des aéroports saoudiens. La ‌coalition dirigée par l'Arabie ⁠saoudite, qui combat le groupe ‌yéménite allié de l'Iran, a dit ⁠avoir intercepté des missiles.",
+      "date": "2026-10-24T18:17:32",
       "source": "France 24"
     },
     {
-      "title": "🔴 Mobilisation du 24 octobre en direct : le tribunal entérine le parcours imposé par la préfecture de Paris",
+      "title": "En France, des heurts en marge des manifestations du 24 octobre",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261024-en-france-des-heurts-en-marge-des-manifestations-du-24-octobre",
+      "desc": "Des manifestations ont eu lieu dans plusieurs villes de France ce samedi 24 octobre, notamment à l'appel des Gilets jaunes. Des heurts ont éclaté à Lyon, Lille, Toulouse et Nantes, tandis qu'à Paris, un cortège qui avait défilé dans le calme s'est achevé par une dispersion sous tension.",
+      "date": "2026-10-24T18:15:46",
+      "source": "France 24"
+    },
+    {
+      "title": "🔴 Mobilisation du 24 octobre en direct : près de 1 000 interpellations samedi, un chiffe qui \"va augmenter\", selon Laurent Nuñez",
       "link": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
       "desc": "",
-      "date": "2026-10-24T09:12:50",
+      "date": "2026-10-24T18:07:21",
       "source": "France 24"
+    },
+    {
+      "title": "En France, la garde à vue du suspect de l’attaque de Trappes prolongée",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261024-en-france-la-garde-%C3%A0-vue-du-suspect-de-l-attaque-de-trappes-prolong%C3%A9e",
+      "desc": "La garde à vue de Kevin T., 39 ans, suspect dans l’attaque du vendredi 23 octobre à Trappes, a été prolongée. Il est soupçonné d’avoir ouvert le feu à l’arme automatique, notamment devant une station-service, faisant un mort et cinq blessés, dont une enfant de 12 ans. Reportage France 2.",
+      "date": "2026-10-24T17:40:21",
+      "source": "France 24"
+    },
+    {
+      "title": "Au congrès du RN, Marine Le Pen lance sa campagne pour l’Élysée, Bardella vise Matignon",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261024-au-congr%C3%A8s-du-rn-marine-le-pen-lance-sa-campagne-pour-l-%C3%A9lys%C3%A9e-bardella-vise-matignon",
+      "desc": "Réélu à la tête du Rassemblement national avec 98,98% des voix, Jordan Bardella est présenté par les militants comme un futur Premier ministre en cas de victoire de Marine Le Pen à la présidentielle. Réunis à Orléans pour le 19e congrès du parti, ses soutiens affichent leur confiance et voient dans ",
+      "date": "2026-10-24T16:56:20",
+      "source": "France 24"
+    },
+    {
+      "title": "Premier vaccin personnalisé contre le cancer : réduction du risque de récidive de la maladie lors d'un essai clinique majeur",
+      "link": "https://www.bbc.com/afrique/articles/cj5yn24k9p73o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les scientifiques impliqués affirment que ces résultats pourraient marquer un tournant dans le traitement du cancer, rapprochant ainsi la médecine personnalisée.",
+      "date": "2026-10-24T15:54:50",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Fierté, prestige, notoriété – la grande campagne du Ballon d'Or",
+      "link": "https://www.bbc.com/afrique/articles/cqpvgdrzvgw9o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le Ballon d'Or est la plus prestigieuse récompense individuelle du football, et la soif de le remporter s'est accrue ces dernières années.",
+      "date": "2026-10-24T13:44:26",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Pourquoi l'État congolais lance la traque des factures non conformes en RDC",
+      "link": "https://www.bbc.com/afrique/articles/c9dr8n5lm3rvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les autorités estiment qu'une partie de ces recettes échappe encore au contrôle fiscal faute d'une traçabilité suffisante des ventes.",
+      "date": "2026-10-24T12:22:03",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La France se prépare à une journée de protestation une semaine après les émeutes qui ont secoué le pays",
+      "link": "https://www.bbc.com/afrique/articles/cwvg0ryvv7n4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Des centaines de milliers de personnes sont attendues, et plus de 70 000 policiers seront déployés, certains pouvant braver les restrictions.",
+      "date": "2026-10-24T11:04:49",
+      "source": "BBC Afrique"
     },
     {
       "title": "Des centaines d'enquêtes menées par les Forces de défense israéliennes (FDI) sur des homicides n'ont toujours pas abouti à des conclusions rendues publiques, révèle BBC Verify",
       "link": "https://www.bbc.com/afrique/articles/cqzrd6822y18o?at_medium=RSS&at_campaign=rss",
       "desc": "BBC Verify a recensé 254 incidents survenus au cours des trois dernières années, que l'armée israélienne a déclaré être en train d'examiner après avoir été accusée d'avoir causé des dommages.",
       "date": "2026-10-24T09:06:57",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "En Italie, des manifestations contre la vie chère et l'austérité prévues sous haute surveillance",
-      "link": "https://www.france24.com/fr/europe/20261024-en-italie-des-manifestations-contre-la-vie-ch%C3%A8re-et-l-aust%C3%A9rit%C3%A9-pr%C3%A9vues-sous-haute-surveillance",
-      "desc": "L'Italie se prépare à une nouvelle journée de manifestations samedi contre les coupes budgétaires et la vie chère, dans huit villes dont Rome et Milan. Après les violences du week-end dernier, les autorités prévoient un important dispositif de sécurité, avec notamment des drones et des hélicoptères ",
-      "date": "2026-10-24T06:53:52",
-      "source": "France 24"
-    },
-    {
-      "title": "Présidentielle au Brésil : un entre-deux-tours aux allures de thriller psychologique",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261024-pr%C3%A9sidentielle-br%C3%A9sil-entre-deux-tours-allures-thriller-psychologique",
-      "desc": "Les campagnes de Lula et de son rival Flavio Bolsonaro s’achèvent dans un climat extrêmement tendu. Selon les derniers sondages, les deux finalistes de l'élection présidentielle sont au coude-à-coude. Depuis près de trois semaines, ils se livrent une bataille féroce tandis que le Brésil retient sont",
-      "date": "2026-10-24T05:05:21",
-      "source": "France 24"
-    },
-    {
-      "title": "Mobilisation du 24 octobre en direct : l'intersyndicale accepte le parcours imposé par la préfecture de Paris",
-      "link": "https://www.france24.com/fr/france/20261024-en-direct-centaines-manifestations-france-climat-fortes-tensions-mobilisation-revendications-salaires-education-syndicats-pouvoir-d-achat-lycee-police-macron",
-      "desc": "Dans un climat de fortes tensions, Gilets jaunes, syndicats, lycéens et étudiants doivent défiler samedi en France sous très haute sécurité, avec 70 000 policiers et gendarmes mobilisés. À Paris, la justice a entériné le tracé de la manifestation, de la porte d'Italie à la porte de Vincennes, imposé",
-      "date": "2026-10-24T05:00:19",
-      "source": "France 24"
-    },
-    {
-      "title": "Ni voitures, ni réseau téléphonique : l'île fantôme du Canada où des visiteurs continuent de séjourner",
-      "link": "https://www.bbc.com/afrique/articles/ckr5ye175d6ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Autrefois cœur battant de l'industrie de la pêche du Labrador, Battle Harbour a trouvé un nouveau souffle en tant que lieu de villégiature insulaire où la vie moderne est pratiquement inexistante.",
-      "date": "2026-10-23T16:55:43",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "J'ai une maladie dont les gens ont trop honte de parler",
-      "link": "https://www.bbc.com/afrique/articles/ck87zyrqw7x3o?at_medium=RSS&at_campaign=rss",
-      "desc": "Des femmes partagent leur expérience du lichen scléreux.",
-      "date": "2026-10-23T15:32:42",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "En Afrique du Sud, une foule d'une cinquantaine de personnes a battu à mort un étranger",
-      "link": "https://www.bbc.com/afrique/articles/c5kglde39vyno?at_medium=RSS&at_campaign=rss",
-      "desc": "Cette agression contre une victime non identifiée fait suite à une vague de manifestations anti-migrants qui a secoué l'Afrique du Sud cette année.",
-      "date": "2026-10-23T14:36:53",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Mouammar Kadhafi : il voulait être le « roi des rois »… Où son rêve s'est-il arrêté ?",
-      "link": "https://www.bbc.com/afrique/articles/cmvg9vzxxw50o?at_medium=RSS&at_campaign=rss",
-      "desc": "Mouammar Kadhafi, tué par les rebelles en 2011, était le fils d'un éleveur et agriculteur bédouin. Mais comment est-il devenu l'un des dirigeants les plus influents du monde arabe ?",
-      "date": "2026-10-23T12:29:53",
       "source": "BBC Afrique"
     },
     {
