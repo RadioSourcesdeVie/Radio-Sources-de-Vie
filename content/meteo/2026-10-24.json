@@ -3,19 +3,19 @@
   "title": "Meteo du 24 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 11.27,
-    "feels_like": 9.47,
-    "humidity": 39,
-    "description": "Nuageux",
-    "wind_kmh": 9.3
+    "temp": -0.01,
+    "feels_like": -2.54,
+    "humidity": 89,
+    "description": "Ciel dégagé",
+    "wind_kmh": 7.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 28.96,
-    "feels_like": 35.07,
-    "humidity": 82,
-    "description": "Légère pluie",
-    "wind_kmh": 14.1
+    "temp": 24.66,
+    "feels_like": 25.14,
+    "humidity": 75,
+    "description": "Nuageux",
+    "wind_kmh": 13.6
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 24 octobre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Nuageux. A Port-au-Prince: 29 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 24 octobre 2026 sur Radio Sources de Vie. A Ottawa: 0 degres Celsius. Ciel dégagé. A Port-au-Prince: 25 degres Celsius. Nuageux. Que Dieu benisse votre journee!"
 }
