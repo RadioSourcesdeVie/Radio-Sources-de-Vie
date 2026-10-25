@@ -3,19 +3,19 @@
   "title": "Meteo du 25 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 13.46,
-    "feels_like": 11.8,
-    "humidity": 36,
+    "temp": 0.58,
+    "feels_like": 0.58,
+    "humidity": 88,
     "description": "Ciel dégagé",
-    "wind_kmh": 9.3
+    "wind_kmh": 0.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 38.31,
-    "humidity": 58,
-    "description": "Nuageux",
-    "wind_kmh": 35.2
+    "temp": 27.35,
+    "feels_like": 30.53,
+    "humidity": 80,
+    "description": "Forte pluie",
+    "wind_kmh": 16.7
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 25 octobre 2026 sur Radio Sources de Vie. A Ottawa: 13 degres Celsius. Ciel dégagé. A Port-au-Prince: 33 degres Celsius. Nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 25 octobre 2026 sur Radio Sources de Vie. A Ottawa: 1 degres Celsius. Ciel dégagé. A Port-au-Prince: 27 degres Celsius. Forte pluie. Que Dieu benisse votre journee!"
 }
