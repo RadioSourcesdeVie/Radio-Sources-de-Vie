@@ -1,76 +1,90 @@
 {
   "category": "monde",
   "date": "2026-10-26",
-  "updated": "2026-10-26T10:00:21.841089Z",
+  "updated": "2026-10-26T19:00:19.515823Z",
   "articles": [
     {
-      "title": "L'Algérie va envoyer des soldats au Niger, un déploiement à l'étranger inédit depuis 1973",
-      "link": "https://www.france24.com/fr/afrique/20261026-alg%C3%A9rie-envoyer-soldats-niger-d%C3%A9ploiement-%C3%A9tranger-in%C3%A9dit-depuis-1973",
-      "desc": "Le Parlement algérien a approuvé, dimanche, l'envoi de troupes au Niger afin de protéger des installations énergétiques. Avec ce vote, Alger ouvre la voie au premier déploiement officiel de soldats algériens à l'étranger depuis la guerre israélo-arabe de 1973.",
-      "date": "2026-10-26T10:00:13",
+      "title": "Polar Train LNG : pourquoi la Russie a financé \"en secret\" un projet gazier made in USA",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261026-polar-train-lng-pourquoi-russie-a-financ%C3%A9-secret-projet-gazier-made-in-usa-etats-unis",
+      "desc": "Novatek, l’un des principaux groupes gaziers russes, a financé en secret le développement de Polar Train LNG, un projet américain d'exploitation du gaz en Alaska, a révélé le New York Times. De quoi renforcer la main de Vladimir Poutine dans ses négociations avec Donald Trump?",
+      "date": "2026-10-26T18:31:05",
       "source": "France 24"
     },
     {
-      "title": "Brésil : le président de gauche Lula crée la surprise et remporte l’élection",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261026-br%C3%A9sil-le-pr%C3%A9sident-de-gauche-lula-cr%C3%A9e-la-surprise-et-remporte-l-%C3%A9lection",
-      "desc": "🇧🇷 Contre toute attente, le chef de l'État sortant du Brésil, Luiz Inacio Lula da Silva, a vaincu son opposant Flavio Bolsonaro dimanche soir lors du second tour de l'élection présidentielle, avec 51,79 % des voix.\n \n👉 Refusant de reconnaître les résultats, Flavio Bolsonaro a déclaré qu'il allait de",
-      "date": "2026-10-26T09:59:15",
+      "title": "COLÈRE LYCÉENNE : L'HEURE DES RÉPONSES",
+      "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261026-col%C3%A8re-lyc%C3%A9enne-l-heure-des-r%C3%A9ponses",
+      "desc": "Parcoursup, manque de places à l’université, état des bâtiments : la colère des lycéens et des étudiants pousse le gouvernement à annoncer de nouvelles mesures. Mais ces réponses seront-elles à la hauteur des attentes des jeunes, alors que la mobilisation se poursuit et que la présidentielle approch",
+      "date": "2026-10-26T18:25:33",
       "source": "France 24"
+    },
+    {
+      "title": "Sahel : pourquoi l'Algérie envoie-t-elle des troupes au Niger ?",
+      "link": "https://www.france24.com/fr/afrique/20261026-sahel-pourquoi-alg%C3%A9rie-envoie-t-elle-troupes-niger-gazoduc-passe-salvador-islamisme",
+      "desc": "Le Parlement algérien ⁠a approuvé dimanche ​l'envoi de soldats au Niger. Un changement radical de doctrine pour ce pays non interventionniste qui n'a pas envoyé de troupes à l'étranger depuis 1973. Des enjeux économiques, sécuritaires et diplomatiques expliquent en partie ce revirement. Analyse.",
+      "date": "2026-10-26T17:46:31",
+      "source": "France 24"
+    },
+    {
+      "title": "France : Emmanuel Macron revient sur les manifestations du 17 octobre",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261026-france-emmanuel-macron-revient-sur-les-manifestations-du-17-octobre",
+      "desc": "Emmanuel Macron s'est déplacé, lundi 26 octobre, à la mairie de Marseille pour constater les dégradations d'il y a neuf jours, et à la préfecture, pour apporter son soutien aux commerçants et aux forces de l'ordre. Très critiqué par l'opposition et dans son camp après les manifestations du 17 octobr",
+      "date": "2026-10-26T17:09:08",
+      "source": "France 24"
+    },
+    {
+      "title": "Les lycéens saluent l’annonce de la suppression de Parcoursup à leur sortie de Matignon",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261026-les-lyc%C3%A9ens-saluent-l-annonce-de-la-suppression-de-parcoursup-%C3%A0-leur-sortie-de-matignon",
+      "desc": "\"On s’en félicite\" : reçus à Matignon, les représentants lycéens accueillent favorablement l’annonce de la suppression de Parcoursup et saluent \"des annonces très claires\". Après un mois de contestation, cette décision répond à l’une de leurs revendications sur l’accès à l’enseignement supérieur. Qu",
+      "date": "2026-10-26T17:08:01",
+      "source": "France 24"
+    },
+    {
+      "title": "Qui devrait remporter le Ballon d'Or masculin ? Les experts de BBC Sport donnent leur avis",
+      "link": "https://www.bbc.com/afrique/articles/cq78pjdy0g09o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le lauréat du Ballon d'Or sera annoncé lundi à Londres – mais qui remportera cette prestigieuse récompense ?",
+      "date": "2026-10-26T15:52:09",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Mayumba : que sait-on de la défaillance de la plateforme pétrolière Prospector 5 au Gabon, et de ses conséquences ?",
+      "link": "https://www.bbc.com/afrique/articles/cmy83y8l4l3eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les autorités gabonaises en alerte maximale ont déployé des moyens de recherche et de sauvetage pour retrouver cinq personnes portées disparues depuis l’accident survenu samedi en mer sur la plateforme de prospection pétrolière Prospector 5.\nClotaire Kondja, le ministre gabonais du pétrole et du gaz",
+      "date": "2026-10-26T15:11:50",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Qui est Gadi Eisenkot, le général à la retraite qui a perdu un fils à Gaza et qui défie Netanyahu lors des premières élections israéliennes depuis l'attaque du 7 octobre ?",
+      "link": "https://www.bbc.com/afrique/articles/cm5yng81enj6o?at_medium=RSS&at_campaign=rss",
+      "desc": "L'ancien commandant représente la plus grande menace politique pour le Premier ministre Benjamin Netanyahu lors des prochaines élections législatives.",
+      "date": "2026-10-26T12:29:28",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "RDC : meurtre d'un infirmier engagé dans la riposte contre Ebola, l’ONU réclame une enquête",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159722",
+      "desc": "Les Nations Unies ont condamné le meurtre d’un infirmier engagé dans la riposte contre Ebola, dans la province de la Tshopo, au nord-est de la République démocratique du Congo (RDC). Un autre professionnel de santé a été grièvement blessé lors de cette attaque, qui intervient alors que les violences",
+      "date": "2026-10-26T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Enfants dans les conflits : 30 ans de promesses, un nombre record de violations",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159723",
+      "desc": "Trente ans après la création d’un mandat de l’ONU destiné à protéger les enfants de la guerre, les violences à leur encontre atteignent des niveaux sans précédent. Lundi, devant le Conseil de sécurité, plusieurs responsables ont dénoncé un paradoxe&nbsp;: jamais les mécanismes de protection n’ont ét",
+      "date": "2026-10-26T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "L'Ouganda impose une quarantaine de 21 jours aux citoyens revenant de la République démocratique du Congo",
+      "link": "https://www.bbc.com/afrique/articles/c6zxj1x7yjzro?at_medium=RSS&at_campaign=rss",
+      "desc": "L'Ouganda n'autorisera pas non plus la plupart des voyageurs ayant séjourné en République démocratique du Congo à transiter par son pays.",
+      "date": "2026-10-26T11:05:23",
+      "source": "BBC Afrique"
     },
     {
       "title": "Pourquoi la victoire de Lula au Brésil revêt une importance particulière",
       "link": "https://www.bbc.com/afrique/articles/cm3vqegn994po?at_medium=RSS&at_campaign=rss",
       "desc": "Le président brésilien remporte une victoire qui semblait improbable il y a quelques jours lors du second tour face au candidat de droite Flávio Bolsonaro et entame ainsi un quatrième mandat semé d'embûches.",
       "date": "2026-10-26T08:01:49",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Le Gabon annonce le rétablissement de l'accès aux réseaux sociaux après huit mois d'interdiction",
-      "link": "https://www.bbc.com/afrique/articles/cmy0e9xpgk7ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Les autorités avaient justifié l'interdiction en affirmant que les contenus en ligne alimentaient les conflits, tandis que l'opposition l'avait condamnée comme un abus de pouvoir.",
-      "date": "2026-10-26T07:54:33",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Mort de Cédric Chouviat : début du procès de trois policiers jugés pour homicide involontaire",
-      "link": "https://www.france24.com/fr/france/20261026-d%C3%A9c%C3%A8s-c%C3%A9dric-chouviat-trois-policiers-jug%C3%A9s-homicide-involontaire-partir-lundi",
-      "desc": "Plus de six ans après la mort de Cédric Chouviat, trois policiers doivent être jugés à partir de lundi au tribunal de Paris pour homicide involontaire à la suite d'un contrôle routier qui a dégénéré. La défense demande un report du procès et les avocats de la famille entendent plaider \"l'incompétenc",
-      "date": "2026-10-26T07:36:53",
-      "source": "France 24"
-    },
-    {
-      "title": "Le gouvernement promet ce lundi \"des réponses très concrètes\" à la mobilisation lycéenne",
-      "link": "https://www.france24.com/fr/france/20261026-le-gouvernement-promet-lundi-r%C3%A9ponses-tr%C3%A8s-concr%C3%A8tes-mobilisation-lyc%C3%A9enne",
-      "desc": "Le gouvernement a promis d'apporter, lundi, \"des réponses très concrètes\" à la mobilisation des lycéens et étudiants après un mois de perturbations dans le milieu scolaire. Ces annonces politiques attendues devraient concerner la plateforme controversée Parcoursup, l'état des bâtiments ou encore le ",
-      "date": "2026-10-26T06:58:02",
-      "source": "France 24"
-    },
-    {
-      "title": "Lula réélu pour un quatrième mandat : \"un revirement historique\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261026-lula-r%C3%A9%C3%A9lu-pour-un-quatri%C3%A8me-mandat-un-revirement-historique",
-      "desc": "À la Une de la presse, ce lundi 26 octobre, la réélection, au Brésil, du président Lula pour un quatrième mandat ; les réactions, en France, au lancement officiel de la campagne de Marine Le Pen, la candidate du RN, pour la présidentielle de 2027 ; le Rassemblement national, accusé par la gauche d’a",
-      "date": "2026-10-26T06:35:53",
-      "source": "France 24"
-    },
-    {
-      "title": "Lula remporte les élections au Brésil, mais se retrouve face à un Congrès hostile et un pays divisé",
-      "link": "https://www.bbc.com/afrique/articles/c68xz9k74w44o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le président Lula a remporté une victoire surprise, mais il devra faire face à un Congrès hostile et à un pays polarisé.",
-      "date": "2026-10-26T04:35:26",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Quels bienfaits cela a-t-il eu pour mon corps de consommer plus de 30 aliments d'origine végétale au cours de la semaine ?",
-      "link": "https://www.bbc.com/afrique/articles/cm9dzgegwzq3o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'expérience s'est avérée si facile que j'ai dépassé mon objectif sans m'en rendre compte et j'ai fini par consommer un total de 51 plantes. Je vais vous expliquer ici comment j'ai procédé.",
-      "date": "2026-10-25T15:48:25",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Que sont les élections de mi-mandat aux États-Unis ? Un guide simple",
-      "link": "https://www.bbc.com/afrique/articles/ck9dzvx4j9npo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les électeurs américains se rendront aux urnes le 3 novembre pour un scrutin qui pourrait avoir un impact majeur sur la présidence de Donald Trump.",
-      "date": "2026-10-25T12:29:19",
       "source": "BBC Afrique"
     },
     {
@@ -91,20 +105,6 @@
       "title": "Cisjordanie : l’ONU dénonce les bouclages israéliens après une attaque meurtrière à Hébron",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159721",
       "desc": "L’ONU s’est déclarée vendredi « extrêmement alarmée » par l’escalade de la violence en Cisjordanie occupée, après qu’Israël a imposé de nouvelles restrictions de circulation à la suite d’une attaque meurtrière contre ses soldats près de Hébron. Le Secrétaire général, António Guterres, s’inquiète not",
-      "date": "2026-10-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Nucléaire iranien : l’AIEA presse Téhéran de rouvrir ses installations aux inspecteurs",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159719",
-      "desc": "Alors que les négociations sur le programme nucléaire iranien restent dans l’impasse, le chef de l’Agence internationale de l’énergie atomique (AIEA), Rafael Grossi, a appelé vendredi à un retour rapide de ses inspecteurs en Iran. Depuis le siège de l’ONU, à New York, il a également alerté sur les f",
-      "date": "2026-10-23T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "RDC : la crise alimentaire s’aggrave dans les zones touchées par Ebola",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159716",
-      "desc": "Alors que l'épidémie d'Ebola de souche Bundibugyo s’est propagée au Nigéria, près de 3,5 millions de personnes sont confrontées à de graves pénuries alimentaires dans les zones touchées par cette épidémie en République démocratique du Congo (RDC), a alerté vendredi une agence des Nations Unies.",
       "date": "2026-10-23T12:00:00",
       "source": "ONU Info"
     }
