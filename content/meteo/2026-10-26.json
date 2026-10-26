@@ -3,19 +3,19 @@
   "title": "Meteo du 26 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 10.16,
-    "feels_like": 9.29,
-    "humidity": 79,
-    "description": "Légère pluie",
-    "wind_kmh": 11.1
+    "temp": 10.58,
+    "feels_like": 10.1,
+    "humidity": 92,
+    "description": "Couvert",
+    "wind_kmh": 9.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 26.06,
-    "feels_like": 26.06,
-    "humidity": 85,
+    "temp": 24.79,
+    "feels_like": 25.78,
+    "humidity": 94,
     "description": "Pluie modérée",
-    "wind_kmh": 9.9
+    "wind_kmh": 18.5
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 26 octobre 2026 sur Radio Sources de Vie. A Ottawa: 10 degres Celsius. Légère pluie. A Port-au-Prince: 26 degres Celsius. Pluie modérée. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 26 octobre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Couvert. A Port-au-Prince: 25 degres Celsius. Pluie modérée. Que Dieu benisse votre journee!"
 }
