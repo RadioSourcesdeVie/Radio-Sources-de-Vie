@@ -1,76 +1,76 @@
 {
   "category": "haiti",
   "date": "2026-10-28",
-  "updated": "2026-10-28T10:00:20.039701Z",
+  "updated": "2026-10-28T19:00:17.433155Z",
   "articles": [
+    {
+      "title": "Journal d'Haïti et des Amériques - Flavio Bolsonaro est en Floride - RFI",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNaXBXYVRHcFBRUWYzaTctTkJhYVVEajFoRld2VXd0NUtsUnNDT3BfWmJoNTlNdVMxdDF3dXp0SFJtSmdDeXVpYWJkQ0kzNTBaYXZ0b0VtdC1aMWhJTG53SGdacGZQZkxzX1hOUXNvYlpVOC1PWmtrSDFibnpyWE9CSVd1MFhQUUZ3aUx4NjQtMm4tT0VWZk56V0YydGtKOE1EeFhBY1RSWEw2Zi1nNDJLUGFBTTA?oc=5",
+      "desc": "Journal d'Haïti et des Amériques - Flavio Bolsonaro est en Floride&nbsp;&nbsp;RFI",
+      "date": "2026-10-28T16:24:57",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Justice réparatrice : le cas Haïti - Mediapart",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQWHNVdGZzZTNITWszR2RkT05sMWV6ZnJQVmNDRXU4cFBnQVJQYWt3aVByWkVCRjdxUERQQkt1Z2JvcDVORC1SM2Vqd2liVGdpQ0ZLMjZ6TU02dDlaRVZyVW1aY25UUktIb245Rll3TGhmTTRwdDhVTDR5Zjl5Z0g3LUpuMVREYXN4Yjg3bXNFYkY2VDA?oc=5",
+      "desc": "Justice réparatrice : le cas Haïti&nbsp;&nbsp;Mediapart",
+      "date": "2026-10-28T16:24:48",
+      "source": "Google News Haiti"
+    },
+    {
+      "title": "Haïti - Loisirs : Le Saviez-vous ? #71",
+      "link": "https://www.haitilibre.com/article-48769-haiti-loisirs-le-saviez-vous-71.html",
+      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? » Aujourd&apos;hui nous vous demandons, quelle ville américaine a été inondée à plus de 80% après la rupture de ses digues lors du passage de l&apos;ouragan Katrina ?...",
+      "date": "2026-10-28T15:47:20",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Actualité : Zapping",
+      "link": "https://www.haitilibre.com/article-48768-haiti-actualite-zapping.html",
+      "desc": "Armée : Pont aérien avec le Salvador - Barradères sous les eaux - Le reprofilage de la ravine Congo a bien protégé les habitants - Élections : 19e candidat à la Présidence inscrit - Météo : levée de toutes les alertes - Un autre Prix littéraire pour Dany…",
+      "date": "2026-10-28T15:28:27",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti -  Racing Club de Lens (D1) : Nos Grenadiers U-14 champions du CFU, invités à un séjour sportif de 10 jours",
+      "link": "https://www.icihaiti.com/article-48767-icihaitiracing-club-de-lens-d1-nos-grenadiers-u-14-champions-du-cfu-invites-a-un-sejour-sportif-de-10-jours.html",
+      "desc": "La Fédération Haïtienne de Football  annonce que la sélection masculine des Grenadiers U-14,  champions du Challenge Series de la CFU 2026, a été invitée par le Racing Club de Lens de Ligue 1, à un séjour sportif en France du 19 au 29 novembre 2026...",
+      "date": "2026-10-28T14:31:20",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Diplomatie : L'ambassadeur dominicain convoqué à la chancellerie haïtienne",
+      "link": "https://www.haitilibre.com/article-48766-haiti-diplomatie-l-ambassadeur-dominicain-convoque-a-la-chancellerie-haitienne.html",
+      "desc": "Le Ministère des Affaires Étrangères et des Cultes d&apos;Haïti a convoqué l&apos;Ambassadeur de la République dominicaine à Port-au-Prince, Faruk Miguel…",
+      "date": "2026-10-28T14:13:37",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Kenscoff : Distribution de 264 chèvres",
+      "link": "https://www.icihaiti.com/article-48765-icihaiti-kenscoff-distribution-de-264-chevres.html",
+      "desc": "Samedi 24 octobre 2026, le Ministère de l&apos;Agriculture avec l&apos;appui de la FAO, a procédé, à une distribution de chèvres au profit de la population de Kenscoff, dans le cadre du programme alimentaire d&apos;urgence…",
+      "date": "2026-10-28T13:59:19",
+      "source": "HaitiLibre"
+    },
     {
       "title": "Le président salvadorien Nayib Bukele lance l’assaut contre les gangs haïtiens - Courrier international",
       "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQR3lRZ1lnbkI5V0pFZFNNLTZMbmxJVEVxMEd1R0FlTjRRWVY3T2hQRlp0TUpPbXFkZTVpZWtMV19vNjFBS3ZhM2ttcXlkLWY0N3BsbTQ3Wmo1Y1hYVTROaGJ5c2hTWlhMS3dLUzlibWZ2VmdBUXF5UlB4LURJdlFDSXZvM0RPdWZiR0JTM1J4dXRzVDB6SGpTRmtXYWdlUDhpVW8tcHhuZklwOTRMTU1yNkJxbC1ocXVqMVRQTlZub0FQeDdvYnRKTEswMHFRd1lkaHA0?oc=5",
       "desc": "Le président salvadorien Nayib Bukele lance l’assaut contre les gangs haïtiens&nbsp;&nbsp;Courrier international",
-      "date": "2026-10-28T09:57:26",
+      "date": "2026-10-28T09:57:25",
       "source": "Google News Haiti"
     },
     {
-      "title": "Au moins quatre morts dans des inondations en Haïti - سانا",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBHX25INlJOTXE5UDZYZ0lqOXlfeDdzTnRTNUdsekQxQk55dm1NQ0JXb0U2SDh5RkMzS1RPclMzRUNUSVVNWDJIRThSZ3JsRTN1TTE4?oc=5",
-      "desc": "Au moins quatre morts dans des inondations en Haïti&nbsp;&nbsp;سانا",
-      "date": "2026-10-28T07:25:19",
+      "title": "Bukele a lancé une opération militaire spéciale contre les gangs à Haïti - Le Grand Continent",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbTBjamQ4MXB6Nmh6WmVVOUhqSTY0SDJDc1d1MmVmU0NYYjdhNkwyOG9SdjllZ0hDbmhHQUd2a21mMTloVmM0X3g1anczWlJsSUdGLVZteGJGNUZlS29oYktRblUxLUdPMl9qSDNXSFVtcHV4UnJKMUZ3SWt5Q1J4ODh5UG5ickRUQ1l3ZmJzQWJqWWF2NnRqT3NMMU9RaUR4NEJhTU96bWY0b3NFckhXR3hhWXJ2dw?oc=5",
+      "desc": "Bukele a lancé une opération militaire spéciale contre les gangs à Haïti&nbsp;&nbsp;Le Grand Continent",
+      "date": "2026-10-24T15:31:26",
       "source": "Google News Haiti"
     },
     {
-      "title": "Haïti - Actualité : Zapping",
-      "link": "https://www.haitilibre.com/article-48761-haiti-actualite-zapping.html",
-      "desc": "Opération musclée dans le quartier de Bel-Air - Élections : derniers chiffres - 18e candidat à la présidence - Changement d&apos;heure - Félicitations au Président Lula pour sa réélection - Ballon d&apos;Or. Remarquable progression de Melchie…",
-      "date": "2026-10-27T15:30:11",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti -  Insécurité : Le Chef terroriste «Lanmo Sanjou» affirme que les 4 Salvadoriens disparus sont morts",
-      "link": "https://www.haitilibre.com/article-48760-haitiinsecurite-le-chef-terroriste-lanmo-sanjou-affirme-que-les-4-salvadoriens-disparus-sont-morts.html",
-      "desc": "Le chef de la coalition terroriste « 400 Mawozo », Wilson Joseph alias « Lanmo Sanjou » a affirmé dans une vidéo avoir capturé vivants les quatre militaires salvadoriens…",
-      "date": "2026-10-27T14:34:32",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Élections : Opération mobile d'inscription des électeurs",
-      "link": "https://www.icihaiti.com/article-48759-icihaiti-elections-operation-mobile-d-inscription-des-electeurs.html",
-      "desc": "Le Conseil Électoral Provisoire (CEP), dans le cadre de ses efforts visant à accroître le nombre d&apos;électeurs inscrits au registre électoral…",
-      "date": "2026-10-27T14:06:48",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - FLASH : Importantes Inondations, victimes, dégâts, sinistrés, bilan provisoire",
-      "link": "https://www.haitilibre.com/article-48758-haiti-flash-importantes-inondations-victimes-degats-sinistres-bilan-provisoire.html",
-      "desc": "Samedi au Nord d&apos;Haïti et au centre-ouest de la mer des Caraïbes maintiennent sur les Grandes Antilles une masse d&apos;air très humide et instable provoque des pluies intenses sur Haïti depuis 3 jours qui ont fait des morts et de nombreux dégâts…",
-      "date": "2026-10-27T13:56:46",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti -  Décovil : 1,500 familles vont avoir accès à l'eau potable",
-      "link": "https://www.icihaiti.com/article-48757-icihaitidecovil-1-500-familles-vont-avoir-acces-a-l-eau-potable.html",
-      "desc": "Lancement des travaux de construction du Système d&apos;Adduction d&apos;Eau Potable (SAEP) de Décovil,à Lascahobas, au bénéfice de plus de 1,500 familles…",
-      "date": "2026-10-27T13:34:42",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Dole. Le soyeux lyonnais Christian Martin offre 350 euros pour soutenir Haïti - Le Progrès",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVDZxNWVFNElJM1BvZXBycmp6VmJ6NVlPclhsZGgyTGFldU16VU43REpLeXNaalRPUy1feXJNM29ocmpDSzEtd3lzVEFkYWwyQ1R1c1llR3RfU3NKNnlDeGpUN1h5VGNFWnVpRnFhb29YUlphZTRtb0RNQjEtRExRV3JMR2xBTnhadHo2dlp5eFN4azZEdW83QXZITWFEREd3Z1U4M1UzU0E3Y2JsM0Z0MUZwVWZEZw?oc=5",
-      "desc": "Dole. Le soyeux lyonnais Christian Martin offre 350 euros pour soutenir Haïti&nbsp;&nbsp;Le Progrès",
-      "date": "2026-10-26T14:42:41",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Soldats salvadoriens disparus en Haïti: le président Bukele conteste l'identité des corps retrouvés - RFI",
-      "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbnlyRUdmb3d0d3dQTzlJRGpMaVhxT0NqQmZVSTVpd2xsVTR5OGVHM2hsMGRwckJBRFBrMzJ0NXBobkhzeG16bDB3OGJGSGJEUjV6MFgteTl0Zm1hMXhyZXJTa0wtd0lwUEVfcHNnOThKcFBnUVF3Wmo4aV9KMHl4SEhldm9MbXp2c3ZPdW5rMzRwbzFMTTRPa29aVmJ1OUFUcGlicldCY3dLdXN2N2Jxb3hDVWZwOU85NUdfZ2NzS0RZc0x0MXUwR3I4elIxUkt2aXptb2xheTFmelp2a0J1YzA4ZDBZNm5FWVpxVVBSQTJTNi1oNzNV?oc=5",
-      "desc": "Soldats salvadoriens disparus en Haïti: le président Bukele conteste l'identité des corps retrouvés&nbsp;&nbsp;RFI",
-      "date": "2026-10-25T16:35:14",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Choléra : le dernier fléau d’Haïti - parismatch.com",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQeGh1N195cU5QMTRiNS1iemc4N0R0cndraGJNRXRNLWJoQjctV1gzTS1pcF9YNzBmc0EwVnVoOEhKdG9QQVp4TXNYcDJZOFE0bUVqS2kzU2xLUkRWdTJOTzAzQzVaV3VSU01kSHc4WjhCV3J4QlNoclJ2dlpfUGk4OG1pYmd5eVNlLUlLMw?oc=5",
-      "desc": "Choléra : le dernier fléau d’Haïti&nbsp;&nbsp;parismatch.com",
-      "date": "2026-10-25T15:07:54",
+      "title": "Le Salvador envoie des troupes en Haïti pour retrouver quatre soldats disparus - Outre-mer La 1ère",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOQ2JObmRLaDZJd1Q2cGJReU5pOTVBVW9Jd0JINGhCUTlCUDUyRlVmVlllaEhnQTFRbjVxRjdOU1FyWU9YRFM0U3QydVk3N3Rkb1hxbXZFZE1VejA0N2x6ZmJjZ2RuTkRVRi12SXhCVktOa3BVTGE0RHI2Y3pxQndGbFRCaDBLQkZZazA1alE5ZzJ0TmRZZ0NBQXhITm1nWjdKQVBtQWlUdEsyUUNDdno1VXlOSV9pRE41ZHpiXzVUZ2RhbDlOcjlYX00wSQ?oc=5",
+      "desc": "Le Salvador envoie des troupes en Haïti pour retrouver quatre soldats disparus&nbsp;&nbsp;Outre-mer La 1ère",
+      "date": "2026-10-23T18:00:01",
       "source": "Google News Haiti"
     }
   ]
