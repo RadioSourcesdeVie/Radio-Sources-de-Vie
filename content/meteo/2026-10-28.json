@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-28",
+  "title": "Meteo du 28 octobre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 7.36,
+    "feels_like": 4.97,
+    "humidity": 47,
+    "description": "Peu nuageux",
+    "wind_kmh": 13.0
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 27.79,
+    "feels_like": 31.3,
+    "humidity": 78,
+    "description": "Légère pluie",
+    "wind_kmh": 22.2
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 28 octobre 2026 sur Radio Sources de Vie. A Ottawa: 7 degres Celsius. Peu nuageux. A Port-au-Prince: 28 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
+}
