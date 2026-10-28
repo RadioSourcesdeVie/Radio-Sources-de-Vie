@@ -3,19 +3,19 @@
   "title": "Meteo du 28 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 4.49,
-    "feels_like": 3.31,
-    "humidity": 67,
-    "description": "Couvert",
-    "wind_kmh": 5.5
+    "temp": 7.32,
+    "feels_like": 4.93,
+    "humidity": 61,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 29.79,
-    "feels_like": 34.53,
-    "humidity": 70,
-    "description": "Peu nuageux",
-    "wind_kmh": 20.4
+    "temp": 33.79,
+    "feels_like": 40.79,
+    "humidity": 62,
+    "description": "Légère pluie",
+    "wind_kmh": 5.5
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 28 octobre 2026 sur Radio Sources de Vie. A Ottawa: 4 degres Celsius. Couvert. A Port-au-Prince: 30 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 28 octobre 2026 sur Radio Sources de Vie. A Ottawa: 7 degres Celsius. Partiellement nuageux. A Port-au-Prince: 34 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
 }
