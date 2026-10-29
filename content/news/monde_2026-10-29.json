@@ -1,21 +1,91 @@
 {
   "category": "monde",
   "date": "2026-10-29",
-  "updated": "2026-10-29T10:00:14.393406Z",
+  "updated": "2026-10-29T19:00:16.564989Z",
   "articles": [
     {
-      "title": "Espagne : collision mortelle entre deux trains",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-espagne-collision-mortelle-entre-deux-trains",
-      "desc": "Au moins 64 personnes ont été tuées et plusieurs autres blessées dans la collision mercredi de deux trains à environ 150 km au sud de Madrid, selon les autorités, bilan provisoire qui en fait une des pires catastrophes ferroviaires en Espagne après un précédent drame en janvier.",
-      "date": "2026-10-29T09:50:44",
+      "title": "JOJ Dakar 2026 : dans les souvenirs de trois anciens olympiens sénégalais",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-joj-dakar-2026-dans-les-souvenirs-de-trois-anciens-olympiens-s%C3%A9n%C3%A9galais",
+      "desc": "🇸🇳 À quelques jours des JOJ Dakar 2026, plongez dans les souvenirs de trois anciens olympiens sénégalais. Rencontres avec des légendes comme Serena Williams et Mohamed Ali, moments forts et émotions olympiques… Ils nous racontent leur histoire !",
+      "date": "2026-10-29T18:14:12",
       "source": "France 24"
     },
     {
-      "title": "Informatique quantique : la pépite française Alice & Bob défie Google",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261029-informatique-quantique-la-p%C3%A9pite-fran%C3%A7aise-alice-bob-d%C3%A9fie-google",
-      "desc": "La start-up française Alice & Bob annonce une avancée majeure dans la course à l'ordinateur quantique. Invité de France 24, son président exécutif Élie Girard explique comment cette technologie pourrait révolutionner la médecine, mais aussi menacer la sécurité de nos données.",
-      "date": "2026-10-29T09:28:42",
+      "title": "RD CONGO : Joie et espoir à Mongbwalu après la sortie des derniers patients d’Ebola",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-rd-congo-joie-et-espoir-%C3%A0-mongbwalu-apr%C3%A8s-la-sortie-des-derniers-patients-d-ebola",
+      "desc": "En République démocratique du Congo, des scènes de joie en Ituri après la sortie des derniers patients d’Ebola à Mongbwalu. Soignants et habitants célèbrent ce moment d’espoir.",
+      "date": "2026-10-29T17:46:25",
       "source": "France 24"
+    },
+    {
+      "title": "RD Congo : un centre célèbre la sortie des derniers patients atteints d’Ebola",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-rd-congo-un-centre-c%C3%A9l%C3%A8bre-la-sortie-des-derniers-patients-atteints-d-ebola",
+      "desc": "Le personnel médical et des habitants d’un centre de traitement dans l’Ituri ont dansé et chanté pour célébrer une première depuis le mois de mai : le centre ne traite plus aucun patient confirmé d’Ebola.",
+      "date": "2026-10-29T17:39:40",
+      "source": "France 24"
+    },
+    {
+      "title": "Midterms : Barack Obama, le joker des démocrates de la dernière heure",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261029-midterms-barack-obama-joker-des-d%C3%A9mocrates-derni%C3%A8re-heure-campagne",
+      "desc": "L’ex-président démocrate Barack Obama a participé en une semaine à trois grands rassemblements de campagne pour les élections de mi-mandat aux États-Unis. Au fil des ans, il semble être devenu le joker du camp démocrate dans la dernière ligne droite avant un scrutin. Ce n’est pas un hasard.",
+      "date": "2026-10-29T17:27:44",
+      "source": "France 24"
+    },
+    {
+      "title": "Le sport espagnol rend hommage aux victimes de la collision entre deux trains",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-le-sport-espagnol-rend-hommage-aux-victimes-de-la-collision-entre-deux-trains-ce-mercredi",
+      "desc": "En Espagne, le sport est lui aussi en deuil. Après la collision entre deux trains ce mercredi 28 octobre à Urda, dans le sud de Madrid, de nombreuses équipes et sportifs espagnols ont rendu hommage aux victimes de l'accident.",
+      "date": "2026-10-29T17:13:58",
+      "source": "France 24"
+    },
+    {
+      "title": "Accident ferroviaire en Espagne :  quelle pourrait être la cause de la collision ?",
+      "link": "https://www.bbc.com/afrique/articles/ckd6dl93pv03o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le gouvernement attribue à une « erreur humaine » la cause du deuxième accident ferroviaire ayant fait des dizaines de morts en Espagne en moins d'un an.",
+      "date": "2026-10-29T16:53:16",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Accident ferroviaire en Espagne : ce que révèlent les enregistrements audio",
+      "link": "https://www.bbc.com/afrique/articles/c65ynwe7y71do?at_medium=RSS&at_campaign=rss",
+      "desc": "Les enregistrements semblent montrer qu'un train à grande vitesse a été autorisé à repartir alors qu'un autre, plus loin, était immobilisé.",
+      "date": "2026-10-29T13:17:11",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Haïti : l’insécurité alimentaire menace d’atteindre un niveau record",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159744",
+      "desc": "La violence, l’instabilité économique, les mauvais résultats agricoles et les déplacements de population, associés à l’impact croissant du phénomène El Niño, sont à l’origine de « perspectives sombres » pour Haïti. Selon une nouveau rapport de l’ONU, la faim aiguë dans le pays insulaire poursuit sa ",
+      "date": "2026-10-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Kenya : l’ONU anticipe un nouvel afflux de réfugiés venus d'Ethiopie",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159746",
+      "desc": "Environ 50.000 personnes ont déjà fui les violences en Éthiopie pour trouver refuge dans le nord du Kenya et l'ONU prévoit l’arrivée de 30 000 réfugiés supplémentaires dans les prochains jours. Face à cet afflux, les autorités kenyanes et leurs partenaires humanitaires préparent une opération d’assi",
+      "date": "2026-10-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "En mer, l’IA bouleverse les règles de la guerre",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159747",
+      "desc": "Traditionnellement, la puissance navale se mesurait au tonnage des bâtiments, à l’épaisseur de leur blindage et à la portée de leurs missiles. Cette époque touche à sa fin. À l’heure des drones autonomes, des cyberattaques et des navires sans équipage, l’intelligence artificielle transforme la sécur",
+      "date": "2026-10-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Yémen : le système de santé au bord de la rupture",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159745",
+      "desc": "Depuis début août, plus de 281 000 personnes ont été déplacées au Yémen, dont plus de la moitié dans le gouvernorat de Taëz. Alors que les combats entre les rebelles houthis et les forces progouvernementales entravent l’accès humanitaire, les attaques contre les structures de santé, les pénuries de ",
+      "date": "2026-10-29T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "7 éminents érudits islamiques brutalement assassinés dans le nord du Nigeria",
+      "link": "https://www.bbc.com/afrique/articles/c9gkv0g8584jo?at_medium=RSS&at_campaign=rss",
+      "desc": "Lundi soir, des hommes armés ont ouvert le feu sur un religieux peu après qu'il eut quitté son domicile pour se rendre à son lieu d'études.",
+      "date": "2026-10-29T11:05:45",
+      "source": "BBC Afrique"
     },
     {
       "title": "Les États-Unis sanctionnent le ministère rwandais de la Défense en raison du conflit en République démocratique du Congo",
@@ -25,13 +95,6 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Catastrophe ferroviaire en Espagne : un journaliste à bord d'un des trains témoigne",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261029-catastrophe-ferroviaire-en-espagne-un-journaliste-%C3%A0-bord-d-un-des-trains-t%C3%A9moigne",
-      "desc": "À la une de la presse ce mercredi 29 octobre, la catastrophe ferroviaire d’Urda qui occupe les quotidiens espagnols, le rôle des Palestiniens de Jérusalem et de Donald Trump dans les élections législatives en Israël, ainsi qu'une histoire d’amour au beau milieu de l’Atlantique.",
-      "date": "2026-10-29T08:35:46",
-      "source": "France 24"
-    },
-    {
       "title": "Des judokas déterminés à prouver que les réfugiés ont leur place à Dakar 2026",
       "link": "https://www.bbc.com/afrique/articles/cqvgjeej4rd4o?at_medium=RSS&at_campaign=rss",
       "desc": "Arno Yafunga Botay a fui la RDC avec sa famille en 2017 et participera aux Jeux olympiques de la jeunesse de Dakar 2026 en tant que membre de l'équipe olympique des réfugiés.",
@@ -39,72 +102,9 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Ensanglantés, hébétés et en colère : comment le voyage en train de passagers a viré au désastre en Espagne",
-      "link": "https://www.bbc.com/afrique/articles/cm9qzdd92g90o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les survivants de l'accident ferroviaire survenu mercredi dans la province de Tolède ont fait part de leur choc, de leur panique et de leur colère.",
-      "date": "2026-10-29T07:57:31",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Après la collision de deux trains, l'Espagne entame trois jours de deuil national",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261029-apr%C3%A8s-la-collision-de-deux-trains-l-espagne-entame-trois-jours-de-deuil-national",
-      "desc": "Au lendemain de la collision de deux trains à grande vitesse à environ 150 km au sud de Madrid, l'Espagne observe trois jours de deuil national, de jeudi à samedi. Au moins 68 personnes sont mortes et 108 autres blessées, selon les autorités. Le gouvernement socialiste fait face à de vives critiques",
-      "date": "2026-10-29T07:45:41",
-      "source": "France 24"
-    },
-    {
-      "title": "Attentat de Trappes : Macron renvoie dos à dos le RN et LFI sur le racisme et l'antisémitisme",
-      "link": "https://www.france24.com/fr/france/20261029-attentat-de-trappes-macron-renvoie-dos-%C3%A0-dos-le-rn-et-lfi-sur-le-racisme-et-l-antis%C3%A9mitisme",
-      "desc": "À six mois de la présidentielle, Emmanuel Macron a dénoncé, mercredi, une \"désinhibition du racisme\" du Rassemblement national et une \"désinhibition de l'antisémitisme\" de La France insoumise. Après l'attentat \"terroriste raciste\" perpétré à Trappes, qui a coûté la vie à un Français d'origine africa",
-      "date": "2026-10-29T07:39:19",
-      "source": "France 24"
-    },
-    {
-      "title": "''Ce sera une cérémonie qui va toucher le monde entier'', Khady Niang, Directrice de Cérémonies JOJ Dakar 2026",
-      "link": "https://www.bbc.com/afrique/articles/c6lykgpzdwdeo?at_medium=RSS&at_campaign=rss",
-      "desc": "À quelques heures de l’ouverture officielle des Jeux olympiques de la jeunesse (JOJ) Dakar 2026, Khady Niang, directrice des cérémonies au sein du comité d’organisation, explique à BBC News Afrique ce que représente cet événement historique pour le Sénégal et pour l’Afrique, qui accueille pour la pr",
-      "date": "2026-10-28T16:17:03",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Ce que l'on sait sur le tragique accident ferroviaire en Espagne qui a fait au moins 60 morts",
-      "link": "https://www.bbc.com/afrique/articles/cmq8nwyxkkdko?at_medium=RSS&at_campaign=rss",
-      "desc": "Plus de 500 passagers se trouvaient à bord des trains lorsque l'incident s'est produit dans la province de Tolède, au sud de Madrid.",
-      "date": "2026-10-28T14:42:27",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Nombre record de décès liés à la chaleur en 2023 : le prix de l’inaction climatique",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159741",
-      "desc": "La chaleur a causé quelque 710 000 décès dans le monde en 2023, un record. Pour la première fois, plus de sept décès sur dix seraient imputables au changement climatique d’origine humaine, selon le dernier rapport « Lancet Countdown », réalisé en partenariat avec l’Organisation mondiale de la santé ",
-      "date": "2026-10-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Cuba : à l’ONU, la condamnation du blocus américain perd du terrain",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159740",
-      "desc": "Comme chaque année depuis 1992, l’Assemblée générale de l’ONU a réclamé mercredi la levée de l’embargo américain contre Cuba. Mais le soutien international envers La Havane, autrefois massif, s’effrite. Alors que l’administration Trump accentue sa pression sur l’île, confrontée à de graves pénuries,",
-      "date": "2026-10-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : drones et répression plongent El-Obeid dans la peur",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159739",
-      "desc": "Les civils d’El-Obeid, ville de quelque 600.000 habitants dans le centre du Soudan, sont pris entre les frappes de drones, les pénuries et une répression croissante des forces de sécurité. Dans un nouveau rapport publié mercredi, la Mission internationale indépendante d’établissement des faits sur l",
-      "date": "2026-10-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Le changement climatique affaiblit la capacité de l'océan à absorber le CO₂",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159738",
-      "desc": "L’océan absorbe environ 30 % des émissions de dioxyde de carbone (CO₂) d’origine humaine et 90 % de l’excès de chaleur piégé par les gaz à effet de serre. Mais le réchauffement climatique fragilise ce rôle essentiel : sa capacité à absorber le carbone a déjà diminué d’environ 6 %, selon un nouveau r",
-      "date": "2026-10-28T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Racisme et sexisme à l’ONU : Guterres appelle l’organisation à balayer devant sa porte",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159737",
-      "desc": "Un fonctionnaire de l’ONU sur trois déclarait avoir subi une discrimination raciale en 2020. Six ans plus tard, le chef de l’ONU reconnaît que les progrès accomplis dans la lutte contre le racisme et les inégalités entre les sexes demeurent insuffisants.",
+      "title": "Femmes journalistes : témoigner de la guerre, au péril de leur vie",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159743",
+      "desc": "Menaces, harcèlement en ligne, violences sexistes et impunité : les femmes journalistes qui couvrent les conflits sont confrontées à des risques croissants. À l’ONU, des professionnelles des médias et des responsables onusiens appellent à des mesures concrètes pour garantir leur sécurité et préserve",
       "date": "2026-10-28T12:00:00",
       "source": "ONU Info"
     }
