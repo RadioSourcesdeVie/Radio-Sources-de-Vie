@@ -3,19 +3,19 @@
   "title": "Meteo du 30 octobre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 18.71,
-    "feels_like": 18.26,
-    "humidity": 62,
-    "description": "Couvert",
+    "temp": 8.96,
+    "feels_like": 5.86,
+    "humidity": 70,
+    "description": "Partiellement nuageux",
     "wind_kmh": 22.2
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 39.79,
-    "humidity": 66,
-    "description": "Nuageux",
-    "wind_kmh": 27.8
+    "temp": 24.5,
+    "feels_like": 25.15,
+    "humidity": 82,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 9.0
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 30 octobre 2026 sur Radio Sources de Vie. A Ottawa: 19 degres Celsius. Couvert. A Port-au-Prince: 33 degres Celsius. Nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 30 octobre 2026 sur Radio Sources de Vie. A Ottawa: 9 degres Celsius. Partiellement nuageux. A Port-au-Prince: 24 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
 }
