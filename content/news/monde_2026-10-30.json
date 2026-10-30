@@ -1,111 +1,111 @@
 {
   "category": "monde",
   "date": "2026-10-30",
-  "updated": "2026-10-30T10:00:20.463181Z",
+  "updated": "2026-10-30T19:00:13.107227Z",
   "articles": [
+    {
+      "title": "Croissance, dette, crise sociale : la France sous pression",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261030-croissance-dette-crise-sociale-la-france-sous-pression",
+      "desc": "Une croissance qui cale, des prix qui repartent à la hausse, une dette toujours plus lourde, l’économie française est-elle en train de décrocher ? Derrière les chiffres, les tensions internationales, une crise politique et sociale d'ampleur, émaillée d'actes violents. Très endetté, le pays peut-il e",
+      "date": "2026-10-30T18:23:47",
+      "source": "France 24"
+    },
+    {
+      "title": "Manifestations, milices d'ultradroite, Halloween… un week-end sous haute tension en France",
+      "link": "https://www.france24.com/fr/france/20261030-manifestations-milices-ultradroite-halloween-week-end-sous-haute-tension-france",
+      "desc": "Syndicats, organisations de jeunesse et Gilets jaunes appellent à une troisième journée de mobilisation samedi. Face au risque de débordements, les autorités annoncent mobiliser 70 000 policiers et gendarmes. Les violences attribuées à des groupuscules d’ultradroite et les rassemblements prévus pour",
+      "date": "2026-10-30T18:05:27",
+      "source": "France 24"
+    },
+    {
+      "title": "Koen Lenaerts : \"les sanctions de Trump contre la CPI sont un souci énorme\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/ici-l-europe/20261030-koen-lenaerts-les-sanctions-de-trump-contre-la-cpi-sont-un-souci-%C3%A9norme",
+      "desc": "Cette semaine, Caroline de Camaret reçoit Koen Lenaerts, président de la Cour de justice de l’Union européenne (CJUE). Cette institution interprète la législation européenne et arbitre les désaccords entre les États membres et les institutions de l’Union européenne. Elle peut aussi intervenir lorsqu",
+      "date": "2026-10-30T17:51:44",
+      "source": "France 24"
+    },
+    {
+      "title": "MAGA : pourquoi le camp de Trump se fracture",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261030-maga-pourquoi-le-camp-de-trump-se-fracture",
+      "desc": "🇺🇸 À l’approche des élections de mi-mandat de 2026, les divisions au sein du camp MAGA deviennent de plus en plus visibles. Guerre en Iran, coût de la vie, affaire Epstein : plusieurs sujets mettent à l’épreuve l’unité du mouvement réuni autour de Donald Trump.\n \nPourquoi certains soutiens historiqu",
+      "date": "2026-10-30T17:25:21",
+      "source": "France 24"
+    },
+    {
+      "title": "Dans les Yvelines, des rassemblements contre le racisme et en hommage aux victimes de l'attentat",
+      "link": "https://www.france24.com/fr/france/20261030-attentat-raciste-yvelines-centaines-personnes-rassemblement-la-verri%C3%A8re-hommage-victimes-edouard-philippe",
+      "desc": "Deux événements ont eu lieu vendredi à Trappes et à La Verrière, les deux communes touchées par un attentat raciste la semaine passée, pour rendre hommage aux victimes et faire front contre le racisme. Au total, des milliers de personnes étaient présentes à Trappes, dont des personnalités politiques",
+      "date": "2026-10-30T17:12:38",
+      "source": "France 24"
+    },
+    {
+      "title": "Guerre Russie-Ukraine : Les cris de détresse des veuves et parents de jeunes Camerounais enrôlés par la Russie",
+      "link": "https://www.bbc.com/afrique/articles/cmeq3w8y974jo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des dizaines de familles camerounaises ont manifesté mercredi devant l'ambassade de Russie à Yaoundé. Elles réclament le rapatriement de dépouilles de leurs proches morts au front en Ukraine.",
+      "date": "2026-10-30T17:06:27",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La détenue américaine Christa Pike affirme s'être réveillée « confuse et souffrante » après l'échec de son exécution",
+      "link": "https://www.bbc.com/afrique/articles/cm1wv2lnlxzro?at_medium=RSS&at_campaign=rss",
+      "desc": "Il s'agit de la première déclaration publique de Pike depuis qu'elle a survécu à une tentative d'exécution par injection létale en septembre.",
+      "date": "2026-10-30T16:35:27",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L'intelligence artificielle menace-t-elle les emplois des femmes ?",
+      "link": "https://www.bbc.com/afrique/articles/c6gm0lvpglpxo?at_medium=RSS&at_campaign=rss",
+      "desc": "Comment l’intelligence artificielle influe-t-elle sur les opportunités des femmes sur le marché du travail ? La crainte de voir certains emplois disparaître s’accompagne de l’émergence de nouvelles opportunités ; grâce à la formation et aux compétences numériques, les femmes peuvent tirer parti de c",
+      "date": "2026-10-30T13:21:59",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ukraine, Syrie, Liban, Afghanistan : le HCR mobilisé face à l'urgence hivernale",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159755",
+      "desc": "Le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) a lancé vendredi un appel aux dons pour venir en aide à 9 millions de personnes en Ukraine, en Syrie, au Liban et en Afghanistan, confrontées aux rigueurs de l’hiver. L’agence espère recueillir au moins 50 millions de dollars pour financ",
+      "date": "2026-10-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Santé : l’Europe veut mettre l’IA au service des patients, sans en perdre le contrôle",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159757",
+      "desc": "Du dépistage précoce des maladies à l’automatisation des tâches administratives, l’intelligence artificielle promet de transformer les soins de santé. Mais son déploiement soulève des questions de sécurité, de confidentialité et d’égalité d’accès. Jeudi, les États de la région européenne de l’Organi",
+      "date": "2026-10-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Gaza : l’expansion des positions israéliennes ravive les craintes d’un « nettoyage ethnique »",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159756",
+      "desc": "À Gaza, les opérations militaires ne connaissent aucun répit. Alors que les forces israéliennes n'ont de cesse d'étendre leurs positions, les déplacements forcés de Palestiniens se multiplient et leur espace disponible au sein de l’enclave se réduit, sans perspective deretour.&nbsp;Une situation qui",
+      "date": "2026-10-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "RDC : la faim gagne du terrain sur fond de conflits et d’Ebola",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159753",
+      "desc": "En République démocratique du Congo (RDC), près d’un quart de la population, soit 28,8 millions de personnes, fait face à une insécurité alimentaire aiguë, selon la dernière analyse du Cadre intégré de classification de la sécurité alimentaire (IPC). Dans l’est du pays, les conflits, les déplacement",
+      "date": "2026-10-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Du péril de la traversée à celui de la guerre, les réfugiés pris au piège au Yémen",
+      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159754",
+      "desc": "Plus de 65 000 réfugiés et demandeurs d’asile voient leurs conditions de vie se dégrader rapidement au Yémen. Intensification des combats, effondrement économique et restrictions de l’accès humanitaire menacent leur sécurité et leur survie. Malgré ces dangers, des milliers de personnes continuent po",
+      "date": "2026-10-30T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Comment faire plus d'exercice physique sans en avoir l'air",
+      "link": "https://www.bbc.com/afrique/articles/c8ly0xeglpw2o?at_medium=RSS&at_campaign=rss",
+      "desc": "L'activité physique, même au quotidien, peut réduire notre risque de maladies cardiovasculaires et même de décès. Vous pouvez en pratiquer quelques formes simples lors d'une réunion, en avion ou même en lisant cet article.",
+      "date": "2026-10-30T11:11:24",
+      "source": "BBC Afrique"
+    },
     {
       "title": "Les États-Unis condamnent un Rwandais qui a dissimulé son rôle dans un génocide pendant des décennies",
       "link": "https://www.bbc.com/afrique/articles/cvj6jprz9yj0o?at_medium=RSS&at_campaign=rss",
       "desc": "Eric Nshimiye a été accusé d'avoir menti devant un jury pour se protéger lui-même et un autre auteur du génocide.",
       "date": "2026-10-30T09:40:40",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "\"Novaïa Gazeta cesse d'exister\": le journal russe contraint de fermer sous la pression des autorités",
-      "link": "https://www.france24.com/fr/europe/20261030-nova%C3%AFa-gazeta-cesse-d-exister-le-journal-russe-contraint-de-fermer-sous-la-pression-des-autorit%C3%A9s",
-      "desc": "Le journal Novaïa Gazeta, connu pour son opposition à la guerre en Ukraine, a annoncé qu’il était contraint de cesser ses activités sous la pression des autorités russes. Son rédacteur en chef, Sergueï Sokolov, a dénoncé sur YouTube le rôle des \"autorités et des services spéciaux russes\".",
-      "date": "2026-10-30T09:12:38",
-      "source": "France 24"
-    },
-    {
-      "title": "Au Brésil, la victoire de Lula freine la main mise de Trump sur l'Amérique latine",
-      "link": "https://www.france24.com/fr/france/20261030-au-br%C3%A9sil-la-victoire-de-lula-freine-la-main-mise-de-trump-sur-l-am%C3%A9rique-latine",
-      "desc": "Le président brésilien, Luiz Inácio Lula da Silva, a été réélu dimanche pour un quatrième mandat face au candidat d’extrême droite Flavio Bolsonaro, pourtant arrivé en tête au premier tour. Une victoire qui contribue à freiner la \"trumpisation\" du continent sud-américain, souligne le dessinateur bré",
-      "date": "2026-10-30T08:57:58",
-      "source": "France 24"
-    },
-    {
-      "title": "Football : la Coupe d'Afrique des nations se jouera bien tous les deux ans",
-      "link": "https://www.france24.com/fr/sports/20261030-football-la-coupe-d-afrique-des-nations-se-jouera-bien-tous-les-deux-ans",
-      "desc": "La ⁠Coupe d’Afrique des ​nations (CAN) se disputera de nouveau tous les deux ans, et ​non tous les quatre ans, a indiqué, vendredi, la Confédération africaine de football (CAF). La prochaine CAN se déroulera donc comme prévu en 2027 au Kenya, en Tanzanie et en Ouganda.",
-      "date": "2026-10-30T08:36:10",
-      "source": "France 24"
-    },
-    {
-      "title": "Au Texas, les républicains accusés de modifier les règles du jeu électoral",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261030-au-texas-les-r%C3%A9publicains-accus%C3%A9s-de-modifier-les-r%C3%A8gles-du-jeu-%C3%A9lectoral",
-      "desc": "À l'approche des élections de mi-mandat aux États-Unis, les républicains du Texas sont accusés de modifier les règles du jeu électoral à leur avantage. Dans le comté de Tarrant, près de Dallas, ils ont réduit de près de 30 % le nombre de bureaux de vote pour le jour du scrutin. Une décision contesté",
-      "date": "2026-10-30T08:27:58",
-      "source": "France 24"
-    },
-    {
-      "title": "5 clés pour comprendre la crise des militaires salvadoriens en Haïti",
-      "link": "https://www.bbc.com/afrique/articles/cwr7y128x3y4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Membres d’une force multinationale, les militaires ont été portés disparus le 18 octobre. Depuis, les interrogations autour de cette affaire ne cessent de se multiplier.",
-      "date": "2026-10-30T08:18:08",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Mobilisation du 31 octobre : le parcours à Paris contesté devant la justice par les syndicats",
-      "link": "https://www.france24.com/fr/france/20261030-mobilisation-du-31-octobre-le-parcours-%C3%A0-paris-contest%C3%A9-devant-la-justice",
-      "desc": "La préfecture de Paris a imposé tardivement un parcours en périphérie de la capitale pour la manifestation du 31 octobre, mais tarde à prononcer l'arrêté d'interdiction partielle dans le centre. Les organisateurs de la mobilisation ont déposé un recours en référé pour que les décisions  d'interdicti",
-      "date": "2026-10-30T08:15:15",
-      "source": "France 24"
-    },
-    {
-      "title": "Accident ferroviaire en Espagne :  quelle pourrait être la cause de la collision ?",
-      "link": "https://www.bbc.com/afrique/articles/ckd6dl93pv03o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le gouvernement attribue à une « erreur humaine » la cause du deuxième accident ferroviaire ayant fait des dizaines de morts en Espagne en moins d'un an.",
-      "date": "2026-10-29T16:53:16",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Accident ferroviaire en Espagne : ce que révèlent les enregistrements audio",
-      "link": "https://www.bbc.com/afrique/articles/c65ynwe7y71do?at_medium=RSS&at_campaign=rss",
-      "desc": "Les enregistrements semblent montrer qu'un train à grande vitesse a été autorisé à repartir alors qu'un autre, plus loin, était immobilisé.",
-      "date": "2026-10-29T13:17:11",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Afghanistan : la production d’opium remonte en flèche malgré l’interdiction des talibans",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159750",
-      "desc": "Quatre ans après l’interdiction de la culture du pavot par les talibans, la production d’opium a été multipliée par cinq en Afghanistan. Selon un rapport de l’ONU publié jeudi, la pauvreté pousse les agriculteurs à défier les autorités, tandis que les prix élevés et la résistance des réseaux de traf",
-      "date": "2026-10-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : quand prendre le train devient un risque mortel",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159749",
-      "desc": "Au moins 13 personnes ont été tuées et 10 autres blessées jeudi dans une attaque russe par drone contre la gare principale de Dnipro, dans le centre-est de l’Ukraine. Le Secrétaire général de l'ONU et le coordinateur humanitaire des Nations Unies dans le pays ont condamné cette frappe, qui a frappé ",
-      "date": "2026-10-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "La nature reprend ses droits, mais les financements pour la restaurer doivent quadrupler",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159748",
-      "desc": "De la Chine à l’Afrique, 252 millions d’hectares d’écosystèmes sont en cours de restauration dans le monde. Un effort sans précédent, mais encore très insuffisant pour atteindre les objectifs fixés pour 2030. Les milieux aquatiques restent particulièrement négligés, tandis que les financements néces",
-      "date": "2026-10-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Haïti : l’insécurité alimentaire menace d’atteindre un niveau record",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159744",
-      "desc": "La violence, l’instabilité économique, les mauvais résultats agricoles et les déplacements de population, associés à l’impact croissant du phénomène El Niño, sont à l’origine de « perspectives sombres » pour Haïti. Selon une nouveau rapport de l’ONU, la faim aiguë dans le pays insulaire poursuit sa ",
-      "date": "2026-10-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Kenya : l’ONU anticipe un nouvel afflux de réfugiés venus d'Ethiopie",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159746",
-      "desc": "Environ 50.000 personnes ont déjà fui les violences en Éthiopie pour trouver refuge dans le nord du Kenya et l'ONU prévoit l’arrivée de 30 000 réfugiés supplémentaires dans les prochains jours. Face à cet afflux, les autorités kenyanes et leurs partenaires humanitaires préparent une opération d’assi",
-      "date": "2026-10-29T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "7 éminents érudits islamiques brutalement assassinés dans le nord du Nigeria",
-      "link": "https://www.bbc.com/afrique/articles/c9gkv0g8584jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Lundi soir, des hommes armés ont ouvert le feu sur un religieux peu après qu'il eut quitté son domicile pour se rendre à son lieu d'études.",
-      "date": "2026-10-29T11:05:45",
       "source": "BBC Afrique"
     }
   ]
