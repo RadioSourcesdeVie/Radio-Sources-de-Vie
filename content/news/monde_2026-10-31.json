@@ -1,62 +1,76 @@
 {
   "category": "monde",
   "date": "2026-10-31",
-  "updated": "2026-10-31T10:00:14.986191Z",
+  "updated": "2026-10-31T19:00:13.896165Z",
   "articles": [
     {
-      "title": "Midterms 2026, le récap : \"si les sondages ont raison\" ou l'optimisme angoissé des démocrates",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261031-midterms-2026-recap-sondages-democrates-republicains-trump-alaska-fraude-contestation-resultats-obama",
-      "desc": "La dernière ligne droite de la campagne pour les midterms touche à sa fin ! Stratégie, candidats, sondages… voici le dernier récap' de France 24. À quelques jours du vote, les démocrates et les analystes continuent à se méfier des sondages qui prédisent une vague bleue. En Alaska, un scandale impliq",
-      "date": "2026-10-31T09:33:44",
+      "title": "Plus de 5 000 personnes meurent d'Ebola lors de l'épidémie la plus meurtrière qu'ait connue la République démocratique du Congo",
+      "link": "https://www.bbc.com/afrique/articles/cm93z2750zn0o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les données gouvernementales montrent que plus de 10 000 personnes ont contracté ce virus rare.",
+      "date": "2026-10-31T18:56:27",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "\"Objet de désir\" : comment la déesse grecque antique Aphrodite est devenue un symbole controversé de l'amour et du sexe",
+      "link": "https://www.bbc.com/afrique/articles/cwm2415d7meyo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les œuvres d'art représentant Aphrodite, déesse grecque antique de l'amour et de la beauté, ont longtemps été qualifiées d'obscènes, accusées de réduire le corps féminin à un simple objet. Comment est-elle devenue l'une des figures les plus controversées de l'histoire de l'art ?",
+      "date": "2026-10-31T18:01:12",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Face aux spéculations de nouvelles frappes sur l'Iran, Mojtaba Khamenei menace de riposter",
+      "link": "https://www.france24.com/fr/moyen-orient/20261031-iran-%C3%A9tats-unis-isra%C3%ABl-guere-face-aux-sp%C3%A9culations-de-nouvelles-frappes-mojtaba-khamenei-menace-d-une-riposte-imm%C3%A9diate",
+      "desc": "Le guide suprême iranien, Mojtaba Khamenei, a menacé samedi \"d'une riposte immédiate, puissante et sans limite géographique\" si les spéculations autour d'une reprise de la guerre par les États-Unis et Israël voyaient le jour.",
+      "date": "2026-10-31T17:47:09",
       "source": "France 24"
     },
     {
-      "title": "Les Jeux olympiques de la jeunesse, premier évènement olympique en Afrique, s'ouvrent à Dakar",
-      "link": "https://www.france24.com/fr/afrique/20261031-les-jeux-olympiques-de-la-jeunesse-premier-%C3%A9v%C3%A8nement-olympique-en-afrique-s-ouvrent-%C3%A0-dakar",
-      "desc": "Les Jeux olympiques de la jeunesse (JOJ) s'ouvrent vendredi à Dakar, au Sénégal. C'est la première fois qu'un évènement olympique se déroule sur le sol africain. Jusqu'au 13 novembre, 2 600 athètes âgés entre 14 et 17 ans se disputeront les médailles dans 153 épreuves. Cette édition marque aussi le ",
-      "date": "2026-10-31T06:59:57",
+      "title": "Le Royaume-Uni prêt à présenter des excuses officielles pour son rôle dans l'esclavage",
+      "link": "https://www.france24.com/fr/europe/20261031-andy-burnham-royaume-uni-pr%C3%AAt-pr%C3%A9senter-excuses-pour-son-r%C3%B4le-dans-esclavage-traite-transatlantique",
+      "desc": "Le Royaume-Uni serait prêt à présenter des excuses officielles pour son rôle dans la traite transatlantique des esclaves, a déclaré samedi son Premier ministre, Andy Burnham. Il se rendra la semaine prochaine à Antigua-et-Barbuda, dans les Caraïbes, pour un sommet des chefs de gouvernement des pays ",
+      "date": "2026-10-31T16:54:19",
       "source": "France 24"
     },
     {
-      "title": "31 octobre en direct : le cortège parisien défilera entre la porte de Bagnolet et la porte de Charenton",
+      "title": "🔴 Acte III en direct : 320 000 manifestants en France selon le ministère de l'Intérieur, des heurts à Paris",
       "link": "https://www.france24.com/fr/france/20261031-31-octobre-en-direct-70-000-policiers-mobilis%C3%A9s-pour-un-acte-iii-%C3%A0-risque-tr%C3%A8s-%C3%A9lev%C3%A9-en-pleine-f%C3%AAte-d-halloween",
-      "desc": "Pour l'acte III de la mobilisation lycéenne et contre la vie chère, les autorités redoutent des débordements similaires à ceux observés le 17-octobre. Un dispositif de sécurité \"exceptionnel\" a été déployé. En marge des cortèges officiels, les rassemblements prévus pour Halloween et la présence de g",
-      "date": "2026-10-31T06:08:06",
-      "source": "France 24"
-    },
-    {
-      "title": "JOJ 2026 : Dakar en fête pour le dernier relais de la flamme 🇸🇳🔥",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261031-joj-2026-dakar-en-f%C3%AAte-pour-le-dernier-relais-de-la-flamme-%F0%9F%87%B8%F0%9F%87%B3%F0%9F%94%A5",
-      "desc": "🇸🇳🎉 #Dakar est en fête ! La capitale sénégalais célèbre le dernier relais de la #flamme #olympique avant le lancement des Jeux de la jeunesse ce samedi 31 octobre. Khaby Lame, Barros, mais aussi Modou Lô et Omar Sy : 20 personnalités se sont relayées pour porter haut les couleurs du Sénégal et de la",
-      "date": "2026-10-31T01:18:49",
-      "source": "France 24"
-    },
-    {
-      "title": "JOJ Dakar 2026, le Sénégal en fête",
-      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261030-joj-dakar-2026-le-s%C3%A9n%C3%A9gal-en-f%C3%AAte",
       "desc": "",
-      "date": "2026-10-30T22:55:32",
+      "date": "2026-10-31T16:43:38",
       "source": "France 24"
     },
     {
-      "title": "Guerre Russie-Ukraine : Les cris de détresse des veuves et parents de jeunes Camerounais enrôlés par la Russie",
-      "link": "https://www.bbc.com/afrique/articles/cmeq3w8y974jo?at_medium=RSS&at_campaign=rss",
-      "desc": "Des dizaines de familles camerounaises ont manifesté mercredi devant l'ambassade de Russie à Yaoundé. Elles réclament le rapatriement de dépouilles de leurs proches morts au front en Ukraine.",
-      "date": "2026-10-30T17:06:27",
+      "title": "D'où viennent les \"jump scares\", cette technique indissociable du cinéma d'horreur ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261031-d-o%C3%B9-viennent-jump-scares-technique-indissociable-cin%C3%A9ma-horreur-film-culture-prime",
+      "desc": "Bouh ! Le jump scare, c'est l'un des ressorts les plus classiques du cinéma d'horreur. Mais d'où vient ce procédé qui fait sursauter petits et grands dans les salles obscures ?",
+      "date": "2026-10-31T16:30:46",
+      "source": "France 24"
+    },
+    {
+      "title": "Des caméras sur le dos des dauphins pour mieux comprendre leurs comportements et les protéger",
+      "link": "https://www.france24.com/fr/plan%C3%A8te/20261031-cam%C3%A9ras-dos-dauphins-mieux-comprendre-leurs-comportements-prot%C3%A9ger-instant-positif",
+      "desc": "L'Institut français de recherche Ifremer a annoncé cette semaine le déploiement de caméras sur le dos de dauphins. L'objectif de cette première est de mieux comprendre leurs comportements et in fine de réduire les captures accidentelles dans les filets de pêche, notamment dans le golfe de Gascogne.",
+      "date": "2026-10-31T16:06:53",
+      "source": "France 24"
+    },
+    {
+      "title": "JOJ Dakar 2026 : Ce que des Sénégalais pensent et attendent des Jeux",
+      "link": "https://www.bbc.com/afrique/articles/cwx29170kzmjo?at_medium=RSS&at_campaign=rss",
+      "desc": "A quelques heures de l'ouverture des jeux olympiques de la jeunesse, des Sénégalais interrogés par BBC News Afrique expriment leurs attentes, leurs espoirs mais aussi ce qu'ils voudraient voir changer après ces JOJ qu'organise leur pays.",
+      "date": "2026-10-31T13:57:07",
       "source": "BBC Afrique"
     },
     {
-      "title": "La détenue américaine Christa Pike affirme s'être réveillée « confuse et souffrante » après l'échec de son exécution",
-      "link": "https://www.bbc.com/afrique/articles/cm1wv2lnlxzro?at_medium=RSS&at_campaign=rss",
-      "desc": "Il s'agit de la première déclaration publique de Pike depuis qu'elle a survécu à une tentative d'exécution par injection létale en septembre.",
-      "date": "2026-10-30T16:35:27",
+      "title": "Que font les forces militaires dans les écoles iraniennes ?",
+      "link": "https://www.bbc.com/afrique/articles/cxly4dq3180ro?at_medium=RSS&at_campaign=rss",
+      "desc": "Les autorités iraniennes expliquent que ces programmes s'inscrivent dans le cadre de l'éducation patriotique, de la défense nationale et de la formation d'une génération conforme aux principes de la révolution du pays.",
+      "date": "2026-10-31T11:59:04",
       "source": "BBC Afrique"
     },
     {
-      "title": "L'intelligence artificielle menace-t-elle les emplois des femmes ?",
-      "link": "https://www.bbc.com/afrique/articles/c6gm0lvpglpxo?at_medium=RSS&at_campaign=rss",
-      "desc": "Comment l’intelligence artificielle influe-t-elle sur les opportunités des femmes sur le marché du travail ? La crainte de voir certains emplois disparaître s’accompagne de l’émergence de nouvelles opportunités ; grâce à la formation et aux compétences numériques, les femmes peuvent tirer parti de c",
-      "date": "2026-10-30T13:21:59",
+      "title": "Les 7 pires accidents ferroviaires qui ont secoué le monde",
+      "link": "https://www.bbc.com/afrique/articles/cr15j2n01gkvo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les trains sont très lourds et circulent à grande vitesse ; par conséquent, lorsqu'un accident se produit, ils entrent en collision ou déraillent, ce qui provoque le renversement des wagons ou leur chute dans un ravin.",
+      "date": "2026-10-31T09:58:06",
       "source": "BBC Afrique"
     },
     {
@@ -93,20 +107,6 @@
       "desc": "À Gaza, les opérations militaires ne connaissent aucun répit. Alors que les forces israéliennes n'ont de cesse d'étendre leurs positions, les déplacements forcés de Palestiniens se multiplient et leur espace disponible au sein de l’enclave se réduit, sans perspective deretour.&nbsp;Une situation qui",
       "date": "2026-10-30T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Comment faire plus d'exercice physique sans en avoir l'air",
-      "link": "https://www.bbc.com/afrique/articles/c8ly0xeglpw2o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'activité physique, même au quotidien, peut réduire notre risque de maladies cardiovasculaires et même de décès. Vous pouvez en pratiquer quelques formes simples lors d'une réunion, en avion ou même en lisant cet article.",
-      "date": "2026-10-30T11:11:24",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les États-Unis condamnent un Rwandais qui a dissimulé son rôle dans un génocide pendant des décennies",
-      "link": "https://www.bbc.com/afrique/articles/cvj6jprz9yj0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Eric Nshimiye a été accusé d'avoir menti devant un jury pour se protéger lui-même et un autre auteur du génocide.",
-      "date": "2026-10-30T09:40:40",
-      "source": "BBC Afrique"
     }
   ]
 }
