@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-01",
+  "title": "Meteo du 1 novembre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 8.66,
+    "feels_like": 5.66,
+    "humidity": 51,
+    "description": "Nuageux",
+    "wind_kmh": 20.4
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 32.79,
+    "feels_like": 39.69,
+    "humidity": 62,
+    "description": "Peu nuageux",
+    "wind_kmh": 13.0
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 1 novembre 2026 sur Radio Sources de Vie. A Ottawa: 9 degres Celsius. Nuageux. A Port-au-Prince: 33 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
+}
