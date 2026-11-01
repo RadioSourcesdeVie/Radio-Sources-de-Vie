@@ -3,19 +3,19 @@
   "title": "Meteo du 1 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 8.89,
-    "feels_like": 7.12,
-    "humidity": 67,
+    "temp": 16.24,
+    "feels_like": 14.99,
+    "humidity": 41,
     "description": "Peu nuageux",
-    "wind_kmh": 11.1
+    "wind_kmh": 16.7
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 31.79,
-    "feels_like": 37.18,
-    "humidity": 62,
-    "description": "Peu nuageux",
+    "temp": 30.79,
+    "feels_like": 37.04,
+    "humidity": 70,
+    "description": "Légère pluie",
     "wind_kmh": 11.1
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 1 novembre 2026 sur Radio Sources de Vie. A Ottawa: 9 degres Celsius. Peu nuageux. A Port-au-Prince: 32 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 1 novembre 2026 sur Radio Sources de Vie. A Ottawa: 16 degres Celsius. Peu nuageux. A Port-au-Prince: 31 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
 }
