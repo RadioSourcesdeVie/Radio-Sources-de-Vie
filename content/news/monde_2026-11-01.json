@@ -1,62 +1,83 @@
 {
   "category": "monde",
   "date": "2026-11-01",
-  "updated": "2026-11-01T10:00:15.252313Z",
+  "updated": "2026-11-01T19:00:13.493289Z",
   "articles": [
     {
-      "title": "Gabby Williams remporte le titre de WNBA et se hisse au sommet du basket nord-américain",
-      "link": "https://www.france24.com/fr/sports/20261101-gabby-williams-remporte-le-titre-de-wbna-et-se-hisse-au-sommet-du-basket-nord-am%C3%A9ricain",
-      "desc": "La capitaine des Bleues, Gabby Williams, a été magistrale pour conquérir le titre de WNBA avec les Valkyries de San Fransisco face à Atlanta, au terme d'une finale où elle a inscrit 30 points sur 63 et a été élue meilleure joueuse. C'est la première fois qu'une Française remporte cette prestigieuse ",
-      "date": "2026-11-01T08:33:56",
+      "title": "JOJ Dakar 2026 : les coulisses de l'édition spéciale du dimanche",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-m%C3%A9dailles-temps-forts-et-r%C3%A9sultats-rendez-vous-dimanche-21h42-de-paris",
+      "desc": "JOJ Dakar 2026 🇸🇳 Les coulisses de l'édition spéciale du Journal de l'Afrique. Médailles et temps forts des Jeux olympiques de la jeunesse : rendez-vous dimanche à 21h42 (Paris), 20h42 à Dakar, avec Fatimata Wane sur France 24 📺",
+      "date": "2026-11-01T18:05:50",
       "source": "France 24"
     },
     {
-      "title": "En Inde, l'opposition manifeste pour demander la démission du chef de la commission électorale",
-      "link": "https://www.france24.com/fr/asie-pacifique/20261101-en-inde-opposition-manifestation-contre-r%C3%A9forme-listes-%C3%A9lectorales",
-      "desc": "Une grande manifestation réunissant les partis d'opposition, les organisations étudiantes et le mouvement des \"cafards\" se tient à Delhi dimanche, où un dispositif anti-émeute a été mis en place. Ils demandent la démission du chef de la Commission électorale, qui a proposé une révision des listes él",
-      "date": "2026-11-01T06:57:32",
-      "source": "France 24"
-    },
-    {
-      "title": "Route du Rhum: jour J pour les 115 solitaires de la \"reine des transats\"",
-      "link": "https://www.france24.com/fr/info-en-continu/20261101-route-du-rhum-jour-j-pour-les-115-solitaires-de-la-reine-des-transats",
-      "desc": "Sous un soleil radieux, 115 solitaires mettent dimanche les voiles au large de Saint-Malo en direction de la Guadeloupe pour la 13e édition de la légendaire Route du Rhum, sprint transatlantique que les plus rapides pourraient réaliser en six jours.",
-      "date": "2026-11-01T05:25:53",
-      "source": "France 24"
-    },
-    {
-      "title": "JOJ Dakar 2026 : la fierté d'une Afrique qui entre dans l'histoire olympique",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-la-fiert%C3%A9-d-une-afrique-qui-entre-dans-l-histoire-olympique",
-      "desc": "Pour la première fois, le continent africain accueille un événement olympique. La cérémonie d'ouverture des Jeux olympiques de la jeunesse s'est tenue samedi 31 octobre au stade Abdoulaye Wade de Diamniadio. \n \nJusqu'au 13 novembre, quelque 2 700 athlètes de 15 à 17 ans s'affrontent à Dakar, Diamnia",
-      "date": "2026-11-01T01:18:06",
-      "source": "France 24"
-    },
-    {
-      "title": "Les Catacombes : un lieu historique caché sous Paris",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-catacombes-lieu-historique-cach%C3%A9-sous-paris-histoire-culture-prime",
-      "desc": "En battant le pavé à Paris, vous marchez peut-être au-dessus de quelques millions de Parisiens ! Découvrez l'histoire des Catacombes, où reposent les anciens habitants de la capitale... ou plutôt ce qu'il en reste.",
-      "date": "2026-11-01T01:17:01",
-      "source": "France 24"
-    },
-    {
-      "title": "Plus de 5 000 personnes meurent d'Ebola lors de l'épidémie la plus meurtrière qu'ait connue la République démocratique du Congo",
-      "link": "https://www.bbc.com/afrique/articles/cm93z2750zn0o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les données gouvernementales montrent que plus de 10 000 personnes ont contracté ce virus rare.",
-      "date": "2026-10-31T18:56:27",
+      "title": "Des millions de personnes vivaient autrefois dans une civilisation amazonienne : la technologie laser en a révélé l’ampleur.",
+      "link": "https://www.bbc.com/afrique/articles/cr5yn49q8199o?at_medium=RSS&at_campaign=rss",
+      "desc": "Cachées sous la canopée de la forêt amazonienne, des structures construites il y a des milliers d'années ont été découvertes par des chercheurs, contribuant à réécrire l'histoire de l'occupation humaine de cette région.",
+      "date": "2026-11-01T17:57:44",
       "source": "BBC Afrique"
     },
     {
-      "title": "\"Objet de désir\" : comment la déesse grecque antique Aphrodite est devenue un symbole controversé de l'amour et du sexe",
-      "link": "https://www.bbc.com/afrique/articles/cwm2415d7meyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les œuvres d'art représentant Aphrodite, déesse grecque antique de l'amour et de la beauté, ont longtemps été qualifiées d'obscènes, accusées de réduire le corps féminin à un simple objet. Comment est-elle devenue l'une des figures les plus controversées de l'histoire de l'art ?",
-      "date": "2026-10-31T18:01:12",
+      "title": "Allemagne : plusieurs partis condamnent les violences et appellent à écouter la \"Gen Z\"",
+      "link": "https://www.france24.com/fr/europe/20261101-allemagne-plusieurs-partis-condamnent-violences-appellent-%C3%A9couter-gen-z",
+      "desc": "Des responsables politiques des Verts et de la gauche radicale ont affirmé leur soutien, dimanche, à la jeunesse, tout en condamnant les violences survenues en marge des manifestations samedi. Le gouvernement a de son côté accusé \"des groupes de gauche enclins à la violence\" d'être responsables des ",
+      "date": "2026-11-01T17:19:29",
+      "source": "France 24"
+    },
+    {
+      "title": "Départ de la 13e Route du Rhum sous une \"très belle journée ensoleillée\"",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-d%C3%A9part-de-la-13e-route-du-rhum-sous-une-tr%C3%A8s-belle-journ%C3%A9e-ensoleill%C3%A9e",
+      "desc": "Les 115 marins engagés sur la Route du Rhum se sont lancés dimanche, au large de Saint-Malo dans des conditions météo clémentes, à l'assaut de l'Atlantique, pour une traversée en solitaire que les plus rapides pourraient effectuer en un temps record. Cédric Ferreira était là lors du départ, il nous ",
+      "date": "2026-11-01T17:18:35",
+      "source": "France 24"
+    },
+    {
+      "title": "Pologne : pourquoi ce bras de fer entre Tusk et Nawrocki ?",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-pologne-pourquoi-ce-bras-de-fer-entre-tusk-et-nawrocki",
+      "desc": "La Commission européenne a pris le parti du Premier ministre polonais Donald Tusk samedi 31 octobre en appelant le président polonais Karol Nawrocki à valider la nomination de juges pour dénouer une profonde crise politique à Varsovie. Nous en parlons avec notre journaliste en plateau Mélina Huet.",
+      "date": "2026-11-01T17:14:49",
+      "source": "France 24"
+    },
+    {
+      "title": "JOJ Dakar 2026 : la relève de la boxe féminine kenyane à l'assaut des podiums",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261101-joj-dakar-2026-la-rel%C3%A8ve-de-la-boxe-f%C3%A9minine-kenyane-%C3%A0-l-assaut-des-podiums",
+      "desc": "🇰🇪 Avec la deuxième plus grande délégation des JOJ de Dakar, juste derrière le Sénégal, le Kenya compte sur sa nouvelle génération d’athlètes pour briller. Après avoir terminé en tête des nations africaines à Paris 2024 le pays affiche ses ambitions, notamment en boxe féminine.",
+      "date": "2026-11-01T17:04:58",
+      "source": "France 24"
+    },
+    {
+      "title": "« On m'a refusé un emploi parce que je suis une femme »",
+      "link": "https://www.bbc.com/afrique/articles/cr15jd835qv8o?at_medium=RSS&at_campaign=rss",
+      "desc": "Pour Monica, conduire des camions n'est pas seulement un métier, mais un moyen d'être autonome, de subvenir aux besoins de sa famille et de montrer que la capacité à travailler ne devrait pas dépendre du genre d'une personne.",
+      "date": "2026-11-01T13:58:31",
       "source": "BBC Afrique"
     },
     {
-      "title": "JOJ Dakar 2026 : Ce que des Sénégalais pensent et attendent des Jeux",
-      "link": "https://www.bbc.com/afrique/articles/cwx29170kzmjo?at_medium=RSS&at_campaign=rss",
-      "desc": "A quelques heures de l'ouverture des jeux olympiques de la jeunesse, des Sénégalais interrogés par BBC News Afrique expriment leurs attentes, leurs espoirs mais aussi ce qu'ils voudraient voir changer après ces JOJ qu'organise leur pays.",
-      "date": "2026-10-31T13:57:07",
+      "title": "Alima Jaw Jobe : \"J'aime bien Uta Abe, mais je veux faire plus qu'elle\"",
+      "link": "https://www.bbc.com/afrique/articles/cr62yjv0dd2go?at_medium=RSS&at_campaign=rss",
+      "desc": "Sélectionnée pour les Jeux olympiques de la jeunesse (JOJ 2026) prévus à Dakar du 31 octobre au 13 novembre, la jeune judokate gambienne Alima Jaw Jobe a l'ambition de remporter la médaille d'or, mais aussi de dépasser son idole Uta Abe, la jeune japonaise championne du monde 2026 dans la catégorie ",
+      "date": "2026-11-01T12:00:40",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Sahara occidental : fin de la MINURSO, l’ONU demeure prête à soutenir les efforts de paix",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159762",
+      "desc": "Faute d’accord au Conseil de sécurité, la Mission des Nations Unies pour l’organisation d’un référendum au Sahara occidental (MINURSO) a cessé ses opérations samedi à minuit, après 35 ans de présence. Le Secrétaire général réaffirme l’engagement des Nations Unies à aider les parties à parvenir à une",
+      "date": "2026-11-01T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Le premier événement olympique d'Afrique s'ouvre en grande pompe",
+      "link": "https://www.bbc.com/afrique/articles/c6wydk5v42g4o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les Jeux Olympiques de la Jeunesse de Dakar 2026 ont officiellement débuté, marquant une étape historique puisque l’Afrique accueille pour la toute première fois une manifestation olympique.",
+      "date": "2026-11-01T10:46:46",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "La Chine profite de l'essor des scooters électriques en Asie du Sud",
+      "link": "https://www.bbc.com/afrique/articles/cwr7y1ez8v4yo?at_medium=RSS&at_campaign=rss",
+      "desc": "Face à la flambée des prix du carburant et à l'incertitude concernant le détroit d'Ormuz, de plus en plus d'usagers de la route se tournent vers les véhicules électriques de fabrication chinoise.",
+      "date": "2026-11-01T09:58:21",
       "source": "BBC Afrique"
     },
     {
@@ -65,20 +86,6 @@
       "desc": "Le 29 octobre 2012, l’ouragan Sandy s’abattait sur New York, provoquant de gigantesques inondations. Des maisons, des stations de métro et des tunnels se retrouvaient sous l’eau, des quartiers étaient plongés dans le noir et des incendies faisaient plusieurs victimes.",
       "date": "2026-10-31T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Que font les forces militaires dans les écoles iraniennes ?",
-      "link": "https://www.bbc.com/afrique/articles/cxly4dq3180ro?at_medium=RSS&at_campaign=rss",
-      "desc": "Les autorités iraniennes expliquent que ces programmes s'inscrivent dans le cadre de l'éducation patriotique, de la défense nationale et de la formation d'une génération conforme aux principes de la révolution du pays.",
-      "date": "2026-10-31T11:59:04",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Les 7 pires accidents ferroviaires qui ont secoué le monde",
-      "link": "https://www.bbc.com/afrique/articles/cr15j2n01gkvo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les trains sont très lourds et circulent à grande vitesse ; par conséquent, lorsqu'un accident se produit, ils entrent en collision ou déraillent, ce qui provoque le renversement des wagons ou leur chute dans un ravin.",
-      "date": "2026-10-31T09:58:06",
-      "source": "BBC Afrique"
     },
     {
       "title": "À Dakar, six jeunes réfugiés entrent dans l’histoire olympique",
@@ -98,13 +105,6 @@
       "title": "Ukraine, Syrie, Liban, Afghanistan : le HCR mobilisé face à l'urgence hivernale",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159755",
       "desc": "Le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) a lancé vendredi un appel aux dons pour venir en aide à 9 millions de personnes en Ukraine, en Syrie, au Liban et en Afghanistan, confrontées aux rigueurs de l’hiver. L’agence espère recueillir au moins 50 millions de dollars pour financ",
-      "date": "2026-10-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Santé : l’Europe veut mettre l’IA au service des patients, sans en perdre le contrôle",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159757",
-      "desc": "Du dépistage précoce des maladies à l’automatisation des tâches administratives, l’intelligence artificielle promet de transformer les soins de santé. Mais son déploiement soulève des questions de sécurité, de confidentialité et d’égalité d’accès. Jeudi, les États de la région européenne de l’Organi",
       "date": "2026-10-30T12:00:00",
       "source": "ONU Info"
     }
