@@ -1,21 +1,77 @@
 {
   "category": "monde",
   "date": "2026-11-02",
-  "updated": "2026-11-02T10:00:15.441349Z",
+  "updated": "2026-11-02T19:00:13.798025Z",
   "articles": [
     {
-      "title": "En Californie, le nombre de traversées illégales de la frontière chute sous l'administration Trump",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261102-en-californie-le-nombre-de-travers%C3%A9es-ill%C3%A9gales-de-la-fronti%C3%A8re-chute-sous-l-administration-trump",
-      "desc": "Rendre la frontière entre les États-Unis et le Mexique plus hermétique pour en finir avec l'immigration illégale : c'était l'une des principales promesses de campagne du président américain Donald Trump. Une promesse largement tenue : le nombre de personnes entrant illégalement aux États-Unis a atte",
-      "date": "2026-11-02T09:54:37",
+      "title": "COP17 biodiversité: difficile recherche de financements pour sauver le vivant",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261102-cop17-biodiversit%C3%A9-difficile-recherche-de-financements-pour-sauver-le-vivant",
+      "desc": "La COP17 biodiversité d'Erevan s'est achevée le week-end dernier. Il a beaucoup été question de financements. Les pays ont constaté leur retard sur les objectifs pour 2030. Ils sont d'accord pour accélérer leurs efforts mais la question centrale, \"qui payera?\", n'a pas été tranchée. La liste des pay",
+      "date": "2026-11-02T18:05:27",
       "source": "France 24"
     },
     {
-      "title": "Dorange freinée, Williams reine des parquets, Antonelli roi de la F1 : les infos sport du week-end",
-      "link": "https://www.france24.com/fr/sports/20261102-dorange-violette-gabby-williams-wnba-antonelli-f1",
-      "desc": "Le multicoque de Romain Pilliard et l'Imoca de Violette Dorange sont entrés en collision, deux heures après le départ de la Route du Rhum. Gabby Williams a été magistrale pour conquérir le titre de WNBA au terme d'une finale où elle a été élue meilleure joueuse. L'Italien Kimi Antonelli est devenu l",
-      "date": "2026-11-02T09:13:48",
+      "title": "JOJ Dakar 2026 : Matar Diop ouvre le compteur des médailles du Sénégal",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261102-joj-dakar-2026-matar-diop-ouvre-le-compteur-des-m%C3%A9dailles-du-s%C3%A9n%C3%A9gal",
+      "desc": "🇸🇳🥉 Matar Diop offre au Sénégal sa première médaille. Le judoka sénégalais a décroché le bronze dans la catégorie des -66 kg, dimanche à Diamniadio. Une médaille historique pour le Sénégal, qui ouvre son compteur aux JOJ Dakar 2026.",
+      "date": "2026-11-02T17:59:50",
       "source": "France 24"
+    },
+    {
+      "title": "Cérémonie d'ouverture de Dakar 2026",
+      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261102-c%C3%A9r%C3%A9monie-d-ouverture-de-dakar-2026",
+      "desc": "",
+      "date": "2026-11-02T17:46:33",
+      "source": "France 24"
+    },
+    {
+      "title": "Cérémonie d'ouverture de Dakar 2026",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261102-c%C3%A9r%C3%A9monie-d-ouverture-de-dakar-2026",
+      "desc": "La cérémonie d'ouverture a donné le coup d'envoi de ces 13 jours de compétition avec plus de deux heures de spectacle haut en couleur célébrant la diversité et la culture africaine. Devant un stade comble et une foule ravie, les spectateurs ont partagé leurs émotions au micro d’Aminatou Diallo.",
+      "date": "2026-11-02T17:42:42",
+      "source": "France 24"
+    },
+    {
+      "title": "Cyberattaques : des supermarchés européens dénoncent des attaques informatiques",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261102-cyberattaques-des-supermarch%C3%A9s-europ%C3%A9ens-d%C3%A9noncent-des-attaques-informatiques",
+      "desc": "Les supermarchés de plusieurs pays européens ont vu la température de leurs réfrigérateurs s'envoler et gâcher la nourriture, lundi 2 novembre, en raison d'une cyberattaque semblable à celle survenue en France il y a trois semaines. Des supermarchés en Belgique, en Estonie, en Finlande, au Luxembour",
+      "date": "2026-11-02T16:52:19",
+      "source": "France 24"
+    },
+    {
+      "title": "La Chine a contraint Mbappé à présenter des excuses, mais beaucoup ignorent la teneur exacte de ses propos",
+      "link": "https://www.bbc.com/afrique/articles/cmkgk0jwrj59o?at_medium=RSS&at_campaign=rss",
+      "desc": "Ses propos sur le dirigeant chinois Mao ont suscité la colère, mais la censure a laissé beaucoup de gens se demander ce qui s'était exactement passé.",
+      "date": "2026-11-02T16:24:08",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "« C'est Gaza ou rien » : comment le soutien américain à Israël est devenu un sujet brûlant de la campagne électorale",
+      "link": "https://www.bbc.com/afrique/articles/cxg5jpjrjp14o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les inquiétudes concernant le soutien américain à Israël mobilisent désormais les électeurs des deux camps, dans l'une des courses électorales les plus serrées de ces élections de mi-mandat aux États-Unis.",
+      "date": "2026-11-02T15:04:59",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ces 10 exploratrices qui ont changé le regard du monde sur l'Afrique",
+      "link": "https://www.bbc.com/afrique/articles/cx30e9d2qlj6o?at_medium=RSS&at_campaign=rss",
+      "desc": "Longtemps racontée au masculin, l'exploration de l'Afrique a aussi été marquée par des femmes audacieuses qui ont bravé les dangers, parcouru des territoires méconnus et bousculé les certitudes de leur époque.",
+      "date": "2026-11-02T14:08:37",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Accord sur les pandémies : le partage des agents pathogènes au cœur des négociations finales",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159765",
+      "desc": "Après l’adoption de l’Accord de l’OMS relatif aux pandémies et de la Déclaration politique de l’Assemblée générale des Nations Unies sur la prévention, la préparation et la réponse aux pandémies, le chef de l’agence sanitaire mondiale a appelé les États membres à finaliser l’annexe consacrée au syst",
+      "date": "2026-11-02T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Pourquoi la CAF a-t-elle renoncé à organiser la CAN tous les quatre ans ?",
+      "link": "https://www.bbc.com/afrique/articles/cjy562xqz0lpo?at_medium=RSS&at_campaign=rss",
+      "desc": "La Coupe d'Afrique des Nations restera organisée tous les deux ans après que la Confédération africaine de football a fait volte-face sur une décision prise en décembre dernier.",
+      "date": "2026-11-02T11:00:52",
+      "source": "BBC Afrique"
     },
     {
       "title": "6 questions pour comprendre ce qui est en jeu lors des élections de mi-mandat aux États-Unis et ce qu'elles signifient pour Trump",
@@ -25,46 +81,18 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Liga : Yan Diomandé et Kylian Mbappé marquent encore pour le Real Madrid",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261102-liga-yan-diomand%C3%A9-et-kylian-mbapp%C3%A9-marquent-encore-pour-le-real-madrid",
-      "desc": "Kylian Mbappé et Yan Diomandé ont une nouvelle fois marqué pour le Real Madrid face à Santander (3-0). Après un début de saison en dents de scie, le Real Madrid a remporté 9 de ses 10 derniers matches.",
-      "date": "2026-11-02T08:13:56",
-      "source": "France 24"
+      "title": "COP17 : les pays tracent la « Voie d’Erevan » pour accélérer l’action en faveur de la nature",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159764",
+      "desc": "À quatre ans de l’échéance de 2030, un bilan mondial montre que le monde n’est pas en voie d’atteindre ses objectifs en matière de biodiversité. Face à ce constat, les pays réunis en Arménie ont adopté une feuille de route pour accélérer l’action en faveur de la nature.",
+      "date": "2026-11-01T12:00:00",
+      "source": "ONU Info"
     },
     {
-      "title": "Le projet américain d'expulsion de réfugiés afghans vers le Pakistan inquiète les Taliban",
-      "link": "https://www.france24.com/fr/asie-pacifique/20261102-projet-am%C3%A9ricain-expulsion-r%C3%A9fugi%C3%A9s-afghanistan-vers-pakistan-pr%C3%A9occupe-talibans",
-      "desc": "Le gouvernement taliban au pouvoir à Kaboul a indiqué, lundi, sa \"profonde inquiétude\" quant à la possibilité que l'administration Trump expulse des dizaines de migrants afghans vers le Pakistan, en vue de leur retour ultérieur en Afghanistan. Selon le New York Times, certains d'entre eux ont apport",
-      "date": "2026-11-02T07:50:52",
-      "source": "France 24"
-    },
-    {
-      "title": "Logement: \"Au Portugal, il y a eu beaucoup de Maricarmen qui n'ont pas fait la Une des journaux\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261102-logement-au-portugal-il-y-a-eu-beaucoup-de-maricarmen-qui-n-ont-pas-fait-la-une-des-journaux",
-      "desc": "A la Une de la presse, ce mardi 2 novembre, les interrogations, en France, sur la suite du mouvement des lycéens et des étudiants. Les manifestations de la «Gen Z», qui demande aussi des réformes pour l’éducation en Allemagne. Les heurts entre manifestants et forces de l'ordre au Portugal, où les ca",
-      "date": "2026-11-02T07:01:49",
-      "source": "France 24"
-    },
-    {
-      "title": "Des millions de personnes vivaient autrefois dans une civilisation amazonienne : la technologie laser en a révélé l’ampleur.",
-      "link": "https://www.bbc.com/afrique/articles/cr5yn49q8199o?at_medium=RSS&at_campaign=rss",
-      "desc": "Cachées sous la canopée de la forêt amazonienne, des structures construites il y a des milliers d'années ont été découvertes par des chercheurs, contribuant à réécrire l'histoire de l'occupation humaine de cette région.",
-      "date": "2026-11-01T17:57:44",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« On m'a refusé un emploi parce que je suis une femme »",
-      "link": "https://www.bbc.com/afrique/articles/cr15jd835qv8o?at_medium=RSS&at_campaign=rss",
-      "desc": "Pour Monica, conduire des camions n'est pas seulement un métier, mais un moyen d'être autonome, de subvenir aux besoins de sa famille et de montrer que la capacité à travailler ne devrait pas dépendre du genre d'une personne.",
-      "date": "2026-11-01T13:58:31",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "JOJ Dakar 2026 : \"J'aime bien Uta Abe, mais je veux faire plus qu'elle\"- Alima Jaw Jobe",
-      "link": "https://www.bbc.com/afrique/articles/cr62yjv0dd2go?at_medium=RSS&at_campaign=rss",
-      "desc": "Sélectionnée pour les Jeux olympiques de la jeunesse (JOJ 2026) prévus à Dakar du 31 octobre au 13 novembre, la jeune judokate gambienne Alima Jaw Jobe a l'ambition de remporter la médaille d'or, mais aussi de dépasser son idole Uta Abe, la jeune japonaise championne du monde 2026 dans la catégorie ",
-      "date": "2026-11-01T12:00:40",
-      "source": "BBC Afrique"
+      "title": "« Ils méritent de connaître la vérité » : l’ONU exige une enquête sur la mort d’un employé détenu par les Houthis",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159763",
+      "desc": "Le chef des droits de l’homme de l’ONU a exigé samedi une enquête indépendante sur la mort d’un collègue yéménite détenu par les rebelles houthis depuis plus de deux ans, dont la famille n’a appris le décès que plusieurs semaines après les faits.",
+      "date": "2026-11-01T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Sahara occidental : fin de la MINURSO, l’ONU demeure prête à soutenir les efforts de paix",
@@ -74,38 +102,10 @@
       "source": "ONU Info"
     },
     {
-      "title": "Le premier événement olympique d'Afrique s'ouvre en grande pompe",
-      "link": "https://www.bbc.com/afrique/articles/c6wydk5v42g4o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les Jeux Olympiques de la Jeunesse de Dakar 2026 ont officiellement débuté, marquant une étape historique puisque l’Afrique accueille pour la toute première fois une manifestation olympique.",
-      "date": "2026-11-01T10:46:46",
-      "source": "BBC Afrique"
-    },
-    {
       "title": "Prendre de la hauteur : à New York, un parc surélevé pour tenir la mer à distance",
       "link": "https://news.un.org/feed/view/fr/story/2026/10/1159758",
       "desc": "Le 29 octobre 2012, l’ouragan Sandy s’abattait sur New York, provoquant de gigantesques inondations. Des maisons, des stations de métro et des tunnels se retrouvaient sous l’eau, des quartiers étaient plongés dans le noir et des incendies faisaient plusieurs victimes.",
       "date": "2026-10-31T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "À Dakar, six jeunes réfugiés entrent dans l’histoire olympique",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159761",
-      "desc": "Pour la première fois, une équipe de réfugiés participera aux Jeux olympiques de la jeunesse, qui s’ouvrent samedi au Sénégal. Derrière cette avancée symbolique, le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) rappelle que des millions d’enfants déracinés restent privés des possibilit",
-      "date": "2026-10-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Cybercriminalité : avec l’IA, tout le monde peut devenir escroc",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159760",
-      "desc": "Faux messages, voix clonées, vidéos truquées. L’intelligence artificielle permet aux cybercriminels de multiplier les attaques tout en réduisant leurs coûts et leurs besoins en compétences techniques. L’ONU alerte sur cette démocratisation de la fraude et appelle les États à renforcer leur coopérati",
-      "date": "2026-10-30T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine, Syrie, Liban, Afghanistan : le HCR mobilisé face à l'urgence hivernale",
-      "link": "https://news.un.org/feed/view/fr/story/2026/10/1159755",
-      "desc": "Le Haut-Commissariat des Nations Unies pour les réfugiés (HCR) a lancé vendredi un appel aux dons pour venir en aide à 9 millions de personnes en Ukraine, en Syrie, au Liban et en Afghanistan, confrontées aux rigueurs de l’hiver. L’agence espère recueillir au moins 50 millions de dollars pour financ",
-      "date": "2026-10-30T12:00:00",
       "source": "ONU Info"
     }
   ]
