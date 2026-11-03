@@ -1,28 +1,63 @@
 {
   "category": "monde",
   "date": "2026-11-03",
-  "updated": "2026-11-03T10:00:13.760681Z",
+  "updated": "2026-11-03T19:00:14.415876Z",
   "articles": [
     {
-      "title": "Budget 2027 : le gouvernement rattrapé par la réalité économique",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261103-budget-2027-le-gouvernement-rattrap%C3%A9-par-la-r%C3%A9alit%C3%A9-%C3%A9conomique",
-      "desc": "Alors que les députés devraient voter et très probablement rejeter ce mardi le volet budget sur les recettes du budget 2027, le gouvernement se retrouve dans une impasse. Croissance en panne, colère sociale et absence de majorité : l'équation budgétaire devient presque impossible à résoudre.",
-      "date": "2026-11-03T09:09:49",
-      "source": "France 24"
+      "title": "Voir des fantômes et ressentir des présences : pourquoi avons-nous des expériences paranormales ?",
+      "link": "https://www.bbc.com/afrique/articles/c65yne1287kdo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les hommes racontent des histoires de fantômes depuis des milliers d'années, et les progrès scientifiques n'y ont rien changé.",
+      "date": "2026-11-03T16:41:32",
+      "source": "BBC Afrique"
     },
     {
-      "title": "🔴 Midterms : plus de 58 millions d'électeurs ont voté par anticipation, un record. Suivez notre direct",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
-      "desc": "",
-      "date": "2026-11-03T08:31:32",
-      "source": "France 24"
+      "title": "Trump va retirer le Rwanda et l'Afrique du Sud de l'AGOA",
+      "link": "https://www.bbc.com/afrique/articles/cq3dj33808vko?at_medium=RSS&at_campaign=rss",
+      "desc": "Cette décision intervient à peine une semaine après que le ministère rwandais de la Défense a été frappé de sanctions par le Trésor américain.",
+      "date": "2026-11-03T15:51:28",
+      "source": "BBC Afrique"
     },
     {
-      "title": "Jean-François Copé appelle la droite à cesser de \"chercher sans arrêt le général de Gaulle\"",
-      "link": "https://www.france24.com/fr/france/20261103-jean-fran%C3%A7ois-cop%C3%A9-appelle-la-droite-%C3%A0-cesser-de-chercher-sans-arr%C3%AAt-le-g%C3%A9n%C3%A9ral-de-gaulle",
-      "desc": "Alors que la perspective d'une primaire de la droite et du centre s'éloigne, le maire de Meaux LR, Jean-François Copé, a lancé, mardi, un appel d'union à sa famille politique. Il a exhorté ses congénères à arrêter de \"chercher sans arrêt le général de Gaulle\" et de \"faire avec\" les candidats actuels",
-      "date": "2026-11-03T07:51:09",
-      "source": "France 24"
+      "title": "Pourquoi un désaccord entre les États-Unis et la Russie a-t-il provoqué des célébrations au Maroc ?",
+      "link": "https://www.bbc.com/afrique/articles/cwp9geeyyjnxo?at_medium=RSS&at_campaign=rss",
+      "desc": "L'impasse entre les États-Unis et la Russie à l'ONU signifie que sa mission de maintien de la paix au Sahara occidental a pris fin après 35 ans.",
+      "date": "2026-11-03T15:46:45",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Ce que l'on sait du crash dramatique d'un avion privé en Floride qui a fait 9 morts",
+      "link": "https://www.bbc.com/afrique/articles/ck62yvj3dw2go?at_medium=RSS&at_campaign=rss",
+      "desc": "Des enquêteurs du Conseil national de la sécurité des transports des États-Unis ont fait état des premiers éléments concernant le crash tragique d'un jet privé, qui a coûté la vie à tous ses occupants.",
+      "date": "2026-11-03T15:17:25",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "L’égalité entre les genres profite aux entreprises : pourquoi certaines font-elles marche arrière ?",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159777",
+      "desc": "L’égalité entre les genres et la diversité ne sont pas seulement des enjeux sociaux : elles constituent aussi un atout économique pour les entreprises. Si les femmes accèdent de plus en plus aux postes de haute responsabilité, cette progression reste fragile et nécessite de nouveaux engagements pour",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Haïti : l’ONU prise entre les appels au dialogue des gangs et l’offensive militaire du Salvador",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159776",
+      "desc": "Un chef de gang haïtien recherché par les autorités américaines sollicite la médiation des Nations Unies, tandis que le président salvadorien, Nayib Bukele, déploie plus de 2&nbsp;000 soldats dans l’île pour combattre les bandes criminelles. Dans les deux cas, l’ONU prend ses distances et précise qu",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Yémen : à Taëz, les combats coupent les femmes des soins et des services de protection",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159773",
+      "desc": "À Taëz, au Yémen, l’intensification des combats entre les rebelles houthis et les forces progouvernementales et la fermeture des routes paralysent les approvisionnements et privent des centaines de milliers de personnes de soins essentiels. Les femmes et les filles sont particulièrement vulnérables ",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "La planète se connecte, mais la fracture numérique résiste",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159774",
+      "desc": "Plus des trois quarts de la population mondiale, soit 6,3 milliards de personnes, utilisent Internet en 2026. Selon le dernier rapport de l’Union internationale des télécommunications (UIT), publié mardi, le nombre d’internautes a progressé de 200 millions en un an. Mais derrière cette avancée, les ",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Qui remportera les élections de mi-mandat ? Comment se gagnent et se perdent les élections américaines",
@@ -32,39 +67,39 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Ligue des champions : le PSG affronte Villarreal pour rester en tête",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261103-ligue-des-champions-le-psg-affronte-villarreal-pour-rester-en-t%C3%AAte",
-      "desc": "Le Paris Saint-Germain se déplace à Villarreal pour la 4e journée de Ligue des champions. Avec trois victoires en trois matches, le Paris-SG occupe la tête du classement, alors que Villarreal est 19e.",
-      "date": "2026-11-03T07:33:10",
+      "title": "🔴 Midterms en direct : les Américains aux urnes, le contrôle du Congrès en jeu",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
+      "desc": "",
+      "date": "2026-11-03 18:41:21",
       "source": "France 24"
     },
     {
-      "title": "Torpiller tout \"progrès vers la paix\" : Kiev accuse Moscou après de nouvelles frappes meurtrières",
-      "link": "https://www.france24.com/fr/europe/20261103-torpiller-tout-progr%C3%A8s-vers-la-paix-kiev-accuse-moscou-apr%C3%A8s-de-nouvelles-frappes-meurtri%C3%A8res",
-      "desc": "Le président ukrainien, Volodymyr Zelensky, a accusé, lundi, la Russie de torpiller tout \"progrès vers la paix\" après une frappe qui a tué au moins 29 personnes lors d'une distribution d'aide humanitaire dans le sud-est du pays. Des \"négociations de travail\" doivent se tenir les 10 et 11 novembre à ",
-      "date": "2026-11-03T05:51:55",
+      "title": "Prix Goncourt 2026 : Philippe Jaenada récompensé pour « L'inconnue du quai de Javel »",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A0-l-affiche/20261103-prix-goncourt-2026-philippe-jaenada-r%C3%A9compens%C3%A9-pour-l-inconnue-du-quai-de-javel",
+      "desc": "Le prix Goncourt 2026 a été attribué à Philippe Jaenada pour « L'inconnue du quai de Javel » (Flammarion). Dans ce roman, l'écrivain français mène une enquête sur un meurtre non élucidé, celui de Louise Cansot, modèle des peintres de Montparnasse, retrouvée morte dans l'ouest parisien.",
+      "date": "2026-11-03 18:39:22",
       "source": "France 24"
     },
     {
-      "title": "La Chine a contraint Mbappé à présenter des excuses, mais beaucoup ignorent la teneur exacte de ses propos",
-      "link": "https://www.bbc.com/afrique/articles/cmkgk0jwrj59o?at_medium=RSS&at_campaign=rss",
-      "desc": "Ses propos sur le dirigeant chinois Mao ont suscité la colère, mais la censure a laissé beaucoup de gens se demander ce qui s'était exactement passé.",
-      "date": "2026-11-02T16:24:08",
-      "source": "BBC Afrique"
+      "title": "En Indonésie, les incendies de forêt attisent la colère des étudiants",
+      "link": "https://www.france24.com/fr/asie-pacifique/20261103-indon%C3%A9sie-incendies-for%C3%AAt-attisent-col%C3%A8re-%C3%A9tudiants",
+      "desc": "Plusieurs milliers de personnes manifestent depuis fin octobre en Indonésie pour dénoncer la gestion par le gouvernement des incendies de forêts massifs qui touchent le pays et dont les fumées toxiques affectent la santé de la population locale et gagnent les nations voisines comme la Malaisie ou Si",
+      "date": "2026-11-03 17:28:18",
+      "source": "France 24"
     },
     {
-      "title": "« C'est Gaza ou rien » : comment le soutien américain à Israël est devenu un sujet brûlant de la campagne électorale",
-      "link": "https://www.bbc.com/afrique/articles/cxg5jpjrjp14o?at_medium=RSS&at_campaign=rss",
-      "desc": "Les inquiétudes concernant le soutien américain à Israël mobilisent désormais les électeurs des deux camps, dans l'une des courses électorales les plus serrées de ces élections de mi-mandat aux États-Unis.",
-      "date": "2026-11-02T15:04:59",
-      "source": "BBC Afrique"
+      "title": "Pénurie de dermatologues en France : cherche rendez-vous désespérément",
+      "link": "https://www.france24.com/fr/%C3%A9missions/c-est-en-france/20261103-p%C3%A9nurie-de-dermatologues-en-france-cherche-rendez-vous-d%C3%A9sesp%C3%A9r%C3%A9ment",
+      "desc": "Des délais d'attente à rallonge et des patients qui tentent tout pour obtenir un rendez-vous : la France connaît une pénurie sans précédent de dermatologues. Avec trois pour 100 000 habitants et des départements entiers qui en sont dépourvus, consulter un dermatologue est devenu un parcours du comba",
+      "date": "2026-11-03 17:24:11",
+      "source": "France 24"
     },
     {
-      "title": "Ces 10 exploratrices qui ont changé le regard du monde sur l'Afrique",
-      "link": "https://www.bbc.com/afrique/articles/cx30e9d2qlj6o?at_medium=RSS&at_campaign=rss",
-      "desc": "Longtemps racontée au masculin, l'exploration de l'Afrique a aussi été marquée par des femmes audacieuses qui ont bravé les dangers, parcouru des territoires méconnus et bousculé les certitudes de leur époque.",
-      "date": "2026-11-02T14:08:37",
-      "source": "BBC Afrique"
+      "title": "Midterms: La politique climaticide de Donald Trump",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261103-midterms-la-politique-climaticide-de-donald-trump",
+      "desc": "Depuis son retour à la Maison Blanche, Donald Trump démantèle toute la politique climatique des États-Unis. D'abord en coupant les liens de la diplomatie climatique, en quittant l'Accord de Paris, la Convention-cadre de l'ONU sur les changements climatiques et en boycottant les COP. Puis en supprima",
+      "date": "2026-11-03 17:18:16",
+      "source": "France 24"
     },
     {
       "title": "Sahara occidental : l’ONU tourne la page de 35 ans de présence",
@@ -72,41 +107,6 @@
       "desc": "La liquidation de la Mission des Nations Unies pour l’organisation d’un référendum au Sahara occidental (MINURSO) a débuté dimanche 1er novembre, après la fin de ses opérations faute de renouvellement de son mandat par le Conseil de sécurité de l’ONU.",
       "date": "2026-11-02T12:00:00",
       "source": "ONU Info"
-    },
-    {
-      "title": "Yémen : plus de 300 000 nouveaux déplacés et la troisième ville du pays coupée du monde",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159771",
-      "desc": "Plus de 300 000 personnes ont fui les combats dans l’ouest du Yémen, presque toutes au cours des deux derniers mois, selon l’Organisation internationale pour les migrations (OIM). Dans la ville de Taëz, désormais coupée de tout approvisionnement, les prix s’envolent, les hôpitaux menacent de fermer ",
-      "date": "2026-11-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Mexique : briser le silence sur les violences sexuelles dans l’armée",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159769",
-      "desc": "Dans l’armée mexicaine, un ordre ne se discute pas. Même lorsqu’un officier demande à une femme sous ses ordres de le rejoindre dans sa chambre, révèle la journaliste d’investigation Zorayda Gallegos.",
-      "date": "2026-11-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Ukraine : une trêve négociée par Melania Trump permet l’évacuation de centaines de civils",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159768",
-      "desc": "Un cessez-le-feu local négocié avec l’aide de la première dame américaine a permis l’évacuation de nombreux civils d’une ville ukrainienne occupée par la Russie durant le weekend. Mais alors que l’ONU vient en aide aux rescapés, les attaques contre les infrastructures énergétiques font planer la men",
-      "date": "2026-11-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Journalistes tués : l’impunité progresse pour la première fois depuis 2012",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159767",
-      "desc": "Près de neuf meurtres de journalistes sur 10 restent impunis dans le monde. Alors que les enquêtes judiciaires peinent à aboutir, un nouveau rapport de l’UNESCO révèle que le nombre de professionnels des médias tués dans l'exercice de leurs fonctions a augmenté de 20&nbsp;% en deux ans. En cause, no",
-      "date": "2026-11-02T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Pourquoi la CAF a-t-elle renoncé à organiser la CAN tous les quatre ans ?",
-      "link": "https://www.bbc.com/afrique/articles/cjy562xqz0lpo?at_medium=RSS&at_campaign=rss",
-      "desc": "La Coupe d'Afrique des Nations restera organisée tous les deux ans après que la Confédération africaine de football a fait volte-face sur une décision prise en décembre dernier.",
-      "date": "2026-11-02T11:00:52",
-      "source": "BBC Afrique"
     }
   ]
 }
