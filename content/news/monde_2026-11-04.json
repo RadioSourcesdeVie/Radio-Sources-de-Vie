@@ -1,14 +1,77 @@
 {
   "category": "monde",
   "date": "2026-11-04",
-  "updated": "2026-11-04T10:00:13.873682Z",
+  "updated": "2026-11-04T19:00:24.159932Z",
   "articles": [
     {
-      "title": "Qui est Abdul El-Sayed, le premier musulman élu au Sénat américain ?",
-      "link": "https://www.bbc.com/afrique/articles/c6y4xz8nk145o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le démocrate Abdul El-Sayed a remporté mardi le siège vacant du Michigan au Sénat américain, selon les projections des médias, devenant ainsi le premier musulman élu à cette chambre",
-      "date": "2026-11-04T09:55:45",
+      "title": "🔴 Midterms en direct : la guerre en Iran \"valait la peine\" malgré la défaite électorale, juge Donald Trump",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261103-en-direct-etats-unis-midterms-elections-mi-mandat-congres-gouverneurs-trump-democrates-republicains",
+      "desc": "",
+      "date": "2026-11-04T18:32:05",
+      "source": "France 24"
+    },
+    {
+      "title": "L'actu en dessin : le président Trump submergé par une vague démocrate lors des midterms",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-actu-en-dessin-pr%C3%A9sident-trump-submerg%C3%A9-vague-d%C3%A9mocrate-midterms",
+      "desc": "Une vague démocrate a déferlé jusque dans des bastions républicains lors des élections de mi-mandat, alimentée par la colère suscitée par la flambée des prix de l'énergie et la longue guerre contre l'Iran. Un vote sanction qui constitue une humiliation personnelle pour le président américain Donald ",
+      "date": "2026-11-04T18:19:48",
+      "source": "France 24"
+    },
+    {
+      "title": "Une \"maison de torture\" à Kiev ? Comment la photo d'un enfant a été instrumentalisée par la Russie",
+      "link": "https://www.france24.com/fr/europe/20261104-ukraine-maison-torture-kiev-photo-enfant-instrumentalis%C3%A9e-russie",
+      "desc": "Lundi, près de Kiev, des rumeurs de torture dans un centre de détention de déserteurs géré par la Garde nationale ukrainienne ont déclenché une manifestation violente. La diplomatie russe et des responsables d'extrême droite européens ont par la suite diffusé la photo d'un adolescent présenté comme ",
+      "date": "2026-11-04T18:07:55",
+      "source": "France 24"
+    },
+    {
+      "title": "Midterms : Donald Trump face au verdict des urnes",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-donald-trump-face-au-verdict-des-urnes-1",
+      "desc": "Matthieu Mabin analyse la situation en direct de Washington.",
+      "date": "2026-11-04T17:57:34",
+      "source": "France 24"
+    },
+    {
+      "title": "Onze jours en Amérique du Sud : le pape Léon XIV se prépare à d'intenses retrouvailles",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261104-pape-leon-xiv-voyage-amerique-sud-retrouvailles-intenses-perou-argentine-uruguay",
+      "desc": "Le pape Léon XIV doit entamer vendredi l'un des voyages à l'étranger les plus ambitieux d'un souverain pontife depuis des décennies, en se rendant en Uruguay, en Argentine et dans sa patrie d'adoption, le Pérou, malgré une récente opération pour un cancer du poumon.",
+      "date": "2026-11-04T17:36:21",
+      "source": "France 24"
+    },
+    {
+      "title": "Comment le riz peut aider à construire les maisons du futur",
+      "link": "https://www.bbc.com/afrique/articles/c689zdq9k4dvo?at_medium=RSS&at_campaign=rss",
+      "desc": "La balle de riz est un résidu agricole particulièrement problématique pour l'environnement ; elle est toutefois désormais transformée en un matériau de construction solide et résistant.",
+      "date": "2026-11-04T16:31:52",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "Le Coranisme : son origine, ses croyances et son influence au Nigéria",
+      "link": "https://www.bbc.com/afrique/articles/cq1m42znzn50o?at_medium=RSS&at_campaign=rss",
+      "desc": "\"L’émergence de cette nouvelle forme d’exégèse coranique dans le nord du Nigéria représente un changement significatif dans la pensée islamique, car elle remet en question la structure du savoir islamique qui s’est construite au fil des siècles.\"",
+      "date": "2026-11-04T15:42:16",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Trump s'en prend aux républicains mais affirme que les démocrates ont fait du « bon travail ».",
+      "link": "https://www.bbc.com/afrique/articles/ckm23q5gdnz7o?at_medium=RSS&at_campaign=rss",
+      "desc": "Il a écrit sur Truth Social que les républicains auraient gagné « haut la main » si son nom avait figuré sur le bulletin de vote.",
+      "date": "2026-11-04T14:55:27",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Cérémonie d'ouverture des JOJ Dakar 2026 : ces références historiques et culturelles qui parlent à l'Afrique",
+      "link": "https://www.bbc.com/afrique/articles/ck86znn2g75zo?at_medium=RSS&at_campaign=rss",
+      "desc": "Alkebulan, Sitoe, Keb, Touki-Bouki ou Cheikh Anta Diop, la cérémonie d'ouverture des jeux olympiques de la jeunesse Dakar 2026, a été riche en références historiques et culturelles.",
+      "date": "2026-11-04T12:34:32",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "« Le monde n’est pas prêt » : l’adaptation climatique manque cruellement de moyens",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159781",
+      "desc": "Alors que le réchauffement climatique devrait prochainement dépasser la limite fixée de 1,5 °C, les financements destinés à aider les communautés à s’adapter sont largement insuffisants par rapport aux besoins, a indiqué le Programme des Nations Unies pour l’environnement (PNUE) dans un nouveau rapp",
+      "date": "2026-11-04T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Scènes d'euphorie et résultats historiques : les moments clés des élections de mi-mandat aux États-Unis",
@@ -18,94 +81,31 @@
       "source": "BBC Afrique"
     },
     {
-      "title": "Midterms 2026 : la campagne la plus chère de l'histoire politique",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-2026-la-campagne-la-plus-ch%C3%A8re-de-l-histoire-politique",
-      "desc": "La campagne des midterms s'est imposée comme la campagne la plus chère de l'histoire états-unienne, battant les dépense de la présidentielle 2024. Un investissement de plus de 11 milliards de dollars, réparti de manière plutôt égalitaire entre les deux camps. Côté républicain, la figure Elon Musk, a",
-      "date": "2026-11-04 09:25:55",
-      "source": "France 24"
+      "title": "Ukraine : deux jours d’école sur trois perturbés par les alertes aériennes",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159775",
+      "desc": "Depuis le début de l’invasion russe de grande ampleur en février 2022, près de 2 000 attaques ont visé le secteur de l’éducation en Ukraine, dont environ 270 en 2026, selon l’UNICEF. Depuis la rentrée scolaire, les alertes aériennes affectent près de deux jours d’école sur trois, d’après les données",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
     },
     {
-      "title": "L'Iran annonce la destruction de quatre pétroliers qui tentaient de franchir le détroit d'Ormuz",
-      "link": "https://www.france24.com/fr/moyen-orient/20261104-quatre-p%C3%A9troliers-tentant-franchir-d%C3%A9troit-ormuz-d%C3%A9truits",
-      "desc": "Les Gardiens de la révolution ont annoncé, mercredi, que quatre navires pétroliers avaient percuté des mines en tentant de franchir le détroit d'Ormuz. Ces destructions font suite à des frappes américaines qui avaient ciblé l'île iranienne de Qeshm, située dans le passage maritime.",
-      "date": "2026-11-04 09:03:11",
-      "source": "France 24"
+      "title": "La désinformation amplifiée par l’IA transforme les migrants en cibles",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159780",
+      "desc": "La désinformation sur les migrations, amplifiée par les réseaux sociaux et l’intelligence artificielle (IA), transforme les inquiétudes en suspicion et les migrants en cibles, a averti la cheffe de l’agence des Nations Unies pour les migrations, appelant les gouvernements à restaurer la confiance du",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
     },
     {
-      "title": "Midterms : 7 sièges remportés à la Chambre par les démocrates, 4 auraient suffi",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-7-si%C3%A8ges-remport%C3%A9s-%C3%A0-la-chambre-par-les-d%C3%A9mocrates-4-auraient-suffi",
-      "desc": "Les élections de mi-mandat mardi aux États-Unis ont brisé la majorité républicaine et quelques plafonds de verre, en faisant accéder des démocrates issus de minorités à des fonctions de premier plan. Keisha Lance Bottoms, illustre cette victoirte : élue gouverneure de Géorgie, elle devient la premiè",
-      "date": "2026-11-04 09:00:48",
-      "source": "France 24"
-    },
-    {
-      "title": "Midterms : à quoi va ressembler les deux prochaines années de mandat du président Trump ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-%C3%A0-quoi-va-ressembler-les-deux-prochaines-ann%C3%A9es-de-mandat-du-pr%C3%A9sident-trump",
-      "desc": "Les élections de mi-mandat montre l'ampleur de la défaite républicaine aux États-Unis. Le président Trump sera donc privé du pouvoir budgétaire, qui appartient au Congrès, mais pourra toutefois continuer à signer des décrets, quitte à déclencher d'interminables contestations en justice. Il garde aus",
-      "date": "2026-11-04 08:58:46",
-      "source": "France 24"
-    },
-    {
-      "title": "Midterms : le démocrate Abdul El-Sayed déclare fièrement \"Michigan, nous l'avons fait !\"",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261104-midterms-le-d%C3%A9mocrate-abdul-el-sayed-d%C3%A9clare-fi%C3%A8rement-michigan-nous-l-avons-fait",
-      "desc": "Le démocrate Abdul El-Sayed, issu de l'aile gauche du parti, a remporté l'élection sénatoriale dans l'État du Michigan mardi 3 novembre, battant son rival républicain Mike Rogers dans l'un des duels les plus suivis des \"midterms\", ont confirmé des médias américains. Ce médecin va aussi devenir le pr",
-      "date": "2026-11-04 08:42:52",
-      "source": "France 24"
-    },
-    {
-      "title": "Voir des fantômes et ressentir des présences : pourquoi avons-nous des expériences paranormales ?",
-      "link": "https://www.bbc.com/afrique/articles/c65yne1287kdo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les hommes racontent des histoires de fantômes depuis des milliers d'années, et les progrès scientifiques n'y ont rien changé.",
-      "date": "2026-11-03T16:41:32",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Trump va retirer le Rwanda et l'Afrique du Sud de l'AGOA",
-      "link": "https://www.bbc.com/afrique/articles/cq3dj33808vko?at_medium=RSS&at_campaign=rss",
-      "desc": "Cette décision intervient à peine une semaine après que le ministère rwandais de la Défense a été frappé de sanctions par le Trésor américain.",
-      "date": "2026-11-03T15:51:28",
-      "source": "BBC Afrique"
+      "title": "Cinq juges élus à la CIJ sur fond de défiance croissante envers la justice internationale",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159779",
+      "desc": "L’ONU a renouvelé mardi un tiers des magistrats de la Cour internationale de Justice (CIJ), au lendemain d’un débat houleux sur les sanctions américaines contre la Cour pénale internationale (CPI). Alors que les deux tribunaux siégeant à La Haye sont de plus en plus sollicités, leur autorité se heur",
+      "date": "2026-11-03T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "L’égalité entre les genres profite aux entreprises : pourquoi certaines font-elles marche arrière ?",
       "link": "https://news.un.org/feed/view/fr/story/2026/11/1159777",
       "desc": "L’égalité entre les genres et la diversité ne sont pas seulement des enjeux sociaux : elles constituent aussi un atout économique pour les entreprises. Si les femmes accèdent de plus en plus aux postes de haute responsabilité, cette progression reste fragile et nécessite de nouveaux engagements pour",
       "date": "2026-11-03T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Haïti : l’ONU prise entre les appels au dialogue des gangs et l’offensive militaire du Salvador",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159776",
-      "desc": "Un chef de gang haïtien recherché par les autorités américaines sollicite la médiation des Nations Unies, tandis que le président salvadorien, Nayib Bukele, déploie plus de 2&nbsp;000 soldats dans l’île pour combattre les bandes criminelles. Dans les deux cas, l’ONU prend ses distances et précise qu",
-      "date": "2026-11-03T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Yémen : à Taëz, les combats coupent les femmes des soins et des services de protection",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159773",
-      "desc": "À Taëz, au Yémen, l’intensification des combats entre les rebelles houthis et les forces progouvernementales et la fermeture des routes paralysent les approvisionnements et privent des centaines de milliers de personnes de soins essentiels. Les femmes et les filles sont particulièrement vulnérables ",
-      "date": "2026-11-03T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "La planète se connecte, mais la fracture numérique résiste",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159774",
-      "desc": "Plus des trois quarts de la population mondiale, soit 6,3 milliards de personnes, utilisent Internet en 2026. Selon le dernier rapport de l’Union internationale des télécommunications (UIT), publié mardi, le nombre d’internautes a progressé de 200 millions en un an. Mais derrière cette avancée, les ",
-      "date": "2026-11-03T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Qui remportera les élections de mi-mandat ? Comment se gagnent et se perdent les élections américaines",
-      "link": "https://www.bbc.com/afrique/articles/cxyvrlyd0m5lo?at_medium=RSS&at_campaign=rss",
-      "desc": "Une analyse approfondie des principaux sondages, des courses électorales et des enjeux d'une élection qui marquera les deux dernières années du mandat présidentiel de Trump.",
-      "date": "2026-11-03T07:45:13",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Sahara occidental : l’ONU tourne la page de 35 ans de présence",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159772",
-      "desc": "La liquidation de la Mission des Nations Unies pour l’organisation d’un référendum au Sahara occidental (MINURSO) a débuté dimanche 1er novembre, après la fin de ses opérations faute de renouvellement de son mandat par le Conseil de sécurité de l’ONU.",
-      "date": "2026-11-02T12:00:00",
       "source": "ONU Info"
     }
   ]
