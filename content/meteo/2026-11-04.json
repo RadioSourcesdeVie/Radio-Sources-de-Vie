@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-04",
+  "title": "Meteo du 4 novembre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 13.36,
+    "feels_like": 13.23,
+    "humidity": 95,
+    "description": "Légère pluie",
+    "wind_kmh": 9.3
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 32.79,
+    "feels_like": 39.79,
+    "humidity": 66,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 22.2
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 4 novembre 2026 sur Radio Sources de Vie. A Ottawa: 13 degres Celsius. Légère pluie. A Port-au-Prince: 33 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+}
