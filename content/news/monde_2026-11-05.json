@@ -1,77 +1,98 @@
 {
   "category": "monde",
   "date": "2026-11-05",
-  "updated": "2026-11-05T10:00:12.267687Z",
+  "updated": "2026-11-05T19:00:12.895216Z",
   "articles": [
     {
-      "title": "Cinq raisons qui expliquent la cuisante défaite des Républicains",
-      "link": "https://www.bbc.com/afrique/articles/c574peyr2xrro?at_medium=RSS&at_campaign=rss",
-      "desc": "Entre électeurs en colère et président impopulaire, voici pourquoi les Américains des régions traditionnellement républicaines se sont tournés vers les démocrates.",
-      "date": "2026-11-05T08:09:28",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "« Les jours les plus difficiles de ma vie » selon le gardien Owono",
-      "link": "https://www.bbc.com/afrique/articles/cm5yn5z05xzwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Le gardien de but du FC Andorre, Jesus Owono, a publié un communiqué par l'intermédiaire de son club, exprimant sa tristesse et sa douleur suite au décès de l'attaquant de Tenerife, Jesus de Miguel.",
-      "date": "2026-11-05T07:51:53",
-      "source": "BBC Afrique"
-    },
-    {
-      "title": "Birmanie : les civils sous les feux de la junte militaire",
-      "link": "https://www.france24.com/fr/asie-pacifique/20261105-birmanie-les-civils-sous-les-feux-de-la-junte-militaire",
-      "desc": "Alors que la guerre civile fait rage depuis plus de cinq ans, la junte lance une nouvelle offensive pour reconquérir l'État de Rakhine, intensifiant les bombardements contre les civils et recourant à la tactique de la double frappe.",
-      "date": "2026-11-05 09:56:42",
+      "title": "Chaos dans l'espace aérien européen",
+      "link": "https://www.france24.com/fr/%C3%A9missions/questions-directes/20261105-chaos-dans-l-espace-a%C3%A9rien-europ%C3%A9en",
+      "desc": "Les alertes à la bombe se multiplient dans le ciel européen. Ce jeudi, un vol Dublin-Rome a été dérouté vers une base militaire française, escorté par deux avions de chasse. Comment les autorités font-elles face à ces menaces ? Ces incidents pourraient-ils s'inscrire dans une stratégie d'attaques hy",
+      "date": "2026-11-05T18:38:20",
       "source": "France 24"
     },
     {
-      "title": "Un A320 Dublin-Rome dérouté vers Évreux en raison d'une alerte à la bombe",
-      "link": "https://www.france24.com/fr/france/20261105-a320-dublin-rome-d%C3%A9rout%C3%A9-%C3%A9vreux-en-raison-alerte-bombe",
-      "desc": "Matignon a annoncé jeudi le détournement d'un avion commercial qui effectuait la liaison Dublin-Rome en raison d'une alerte à la bombe. L'appareil a été dévié de sa trajectoire \"vers la base aérienne d'Évreux\". Les services de Matignon disent suivre les événements en temps réel.",
-      "date": "2026-11-05 09:10:24",
+      "title": "Paraguay : le président Santiago Peña démissionne sur fond de scandale bancaire national",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261105-paraguay-le-pr%C3%A9sident-santiago-pe%C3%B1a-d%C3%A9missionne-sur-fond-de-scandale-bancaire-national",
+      "desc": "Dans la foulée d'un scandale bancaire national, le président du Paraguay, Santiago Peña, a annoncé sa démission jeudi, alors que les députés s'apprêtaient à voter sa destitution. Il est de \"mauvais exercice de ses fonctions\" et de \"conflit d'intérêts\".",
+      "date": "2026-11-05T17:56:07",
       "source": "France 24"
     },
     {
-      "title": "Washington DC, une capitale toujours plus à l'image de Donald Trump ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261105-washington-dc-une-capitale-toujours-plus-%C3%A0-l-image-de-donald-trump",
-      "desc": "Depuis son retour au pouvoir, Donald Trump n’a eu de cesse de vouloir remodeler la capitale américaine en y laissant son nom et son empreinte. Après le Kennedy Center, la salle de bal de la Maison Blanche et le Lincoln Memorial reflecting pool, le président américain a à cœur la construction d’une a",
-      "date": "2026-11-05 09:09:23",
+      "title": "COP31: le déficit de financement de l'adaptation est \"ahurissant\" (ONU)",
+      "link": "https://www.france24.com/fr/%C3%A9missions/%C3%A9l%C3%A9ment-terre-la-quotidienne/20261105-cop31-le-d%C3%A9ficit-de-financement-de-l-adaptation-est-ahurissant-onu",
+      "desc": "Les financements de l'adaptation doivent être multipliés par dix, selon l'ONU. Les Nations Unies viennent de publier un rapport à quelques jours de l'ouverture de la COP31. Son titre: \"Sommes-nous prêts? Non\". Le message est explicite et appuyé par le secrétaire général des Nations-Unies, Antonio Gu",
+      "date": "2026-11-05T17:52:02",
       "source": "France 24"
     },
     {
-      "title": "Melania Trump réunit des représentants russes et ukrainiens à la Maison Blanche",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261105-melania-trump-r%C3%A9unit-repr%C3%A9sentants-russes-ukrainiens-maison-blanche-etats-unis-guerre",
-      "desc": "À moins d'une semaine des pourparlers à Abu Dhabi, Melania Trump doit recevoir des représentants russes et ukrainiens à la Maison Blanche jeudi, pour tenter de trouver une issue au conflit en Ukraine. La Première dame américaine doit en outre s'exprimer dans la journée devant les médias sur les cons",
-      "date": "2026-11-05 07:29:44",
+      "title": "Manifestations pour le pouvoir d'achat, défaite de Donald Trump aux élections de mi-mandat",
+      "link": "https://www.france24.com/fr/%C3%A9missions/politique/20261105-manifestations-pour-le-pouvoir-d-achat-d%C3%A9faite-de-donald-trump-aux-%C3%A9lections-de-mi-mandat",
+      "desc": "La journée de mobilisation à l’appel des syndicats et pour le pouvoir d’achat, a réuni 600 000 personnes selon le gouvernement. Les syndicats réclament une hausse significative du SMIC et l’augmentation des salaires. Quels leviers le gouvernement a-t-il pour répondre aux revendications ? Aux Etats-U",
+      "date": "2026-11-05T17:48:23",
       "source": "France 24"
     },
     {
-      "title": "En direct : la grogne sociale monte d'un cran, grève et manifestations partout en France ce jeudi",
-      "link": "https://www.france24.com/fr/france/20261105-en-direct-grogne-sociale-monte-cran-greve-manifestations-interprofessionnelle-france-syndicat-police-lycee-fonctionnaires-retraites",
-      "desc": "Le ministre de l'Intérieur, Laurent Nuñez, a annoncé que 70 000 policiers et gendarmes seraient mobilisés, promettant \"une réponse d'une extrême fermeté\" aux éventuels \"débordements\". Suivez la mobilisation en direct.",
-      "date": "2026-11-05 07:13:50",
+      "title": "France : manifestations dans plusieurs villes ce 5 novembre",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261105-france-manifestations-dans-plusieurs-villes-ce-5-novembre",
+      "desc": "La CGT a revendiqué jeudi \"près de 1,6 million\" de manifestants en France, dont 350 000 à Paris, lors d'une journée de mobilisation pour les salaires et les services publics, à l'initiative des syndicats. Le ministère de l'Intérieur a, de son côté, dénombré près de 600 000 participants selon un déco",
+      "date": "2026-11-05T17:37:49",
       "source": "France 24"
     },
     {
-      "title": "Comment le riz peut aider à construire les maisons du futur",
-      "link": "https://www.bbc.com/afrique/articles/c689zdq9k4dvo?at_medium=RSS&at_campaign=rss",
-      "desc": "La balle de riz est un résidu agricole particulièrement problématique pour l'environnement ; elle est toutefois désormais transformée en un matériau de construction solide et résistant.",
-      "date": "2026-11-04T16:31:52",
+      "title": "Qui était Nathalia Gadelha Filgueiras, la copilote de 20 ans qui a perdu la vie dans le crash de l'avion à bord duquel elle voyageait avec huit autres personnes en Floride ?",
+      "link": "https://www.bbc.com/afrique/articles/cmzxjzz9ggnko?at_medium=RSS&at_campaign=rss",
+      "desc": "L'avion privé s'est écrasé dans le comté de Palm Beach, en Floride. Des images filmées par des habitants montraient l'avion en train de dégringoler à grande vitesse avant de s'écraser.",
+      "date": "2026-11-05T16:03:23",
       "source": "BBC Afrique"
     },
     {
-      "title": "Le Coranisme : son origine, ses croyances et son influence au Nigéria",
-      "link": "https://www.bbc.com/afrique/articles/cq1m42znzn50o?at_medium=RSS&at_campaign=rss",
-      "desc": "\"L’émergence de cette nouvelle forme d’exégèse coranique dans le nord du Nigéria représente un changement significatif dans la pensée islamique, car elle remet en question la structure du savoir islamique qui s’est construite au fil des siècles.\"",
-      "date": "2026-11-04T15:42:16",
+      "title": "Élections de mi-mandat aux États-Unis : quelles conséquences pour le reste du monde ?",
+      "link": "https://www.bbc.com/afrique/articles/ck9qzr8511z2o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les démocrates ont pris le contrôle du Congrès pour le reste de la présidence de Donald Trump, leur victoire aux élections de mi-mandat marquant un bouleversement majeur du paysage politique américain. Les journalistes de la BBC analysent les conséquences de ces résultats pour le reste du monde, des",
+      "date": "2026-11-05T14:54:06",
       "source": "BBC Afrique"
     },
     {
-      "title": "Cérémonie d'ouverture des JOJ Dakar 2026 : ces références historiques et culturelles qui parlent à l'Afrique",
-      "link": "https://www.bbc.com/afrique/articles/ck86znn2g75zo?at_medium=RSS&at_campaign=rss",
-      "desc": "Alkebulan, Sitoe, Keb, Touki-Bouki ou Cheikh Anta Diop, la cérémonie d'ouverture des jeux olympiques de la jeunesse Dakar 2026, a été riche en références historiques et culturelles.",
-      "date": "2026-11-04T12:34:32",
+      "title": "Orpaillage en Guinée : ce que l'on sait du rapatriement de milliers de Burkinabé de Siguiri",
+      "link": "https://www.bbc.com/afrique/articles/c6y8lzlpye9go?at_medium=RSS&at_campaign=rss",
+      "desc": "Des milliers de burkinabé sont en voie d'être rapatrier des sites d'orpaillage artisanal de la région de Siguiri, dans le nord-est de la Guinée, près de la frontière avec le Mali.",
+      "date": "2026-11-05T14:49:53",
       "source": "BBC Afrique"
+    },
+    {
+      "title": "Les jeunes politiciens d'origine africaine qui marquent l'histoire des élections de mi-mandat aux États-Unis",
+      "link": "https://www.bbc.com/afrique/articles/cvn06jjxwg9ko?at_medium=RSS&at_campaign=rss",
+      "desc": "Pour certains jeunes Africains, ces victoires offrent un aperçu de ce qu'une nouvelle génération d'électeurs pourrait accomplir dans leur pays.",
+      "date": "2026-11-05T13:32:35",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Cristiano Ronaldo prend sa retraite internationale",
+      "link": "https://www.bbc.com/afrique/articles/cvkgkwk4lj2zo?at_medium=RSS&at_campaign=rss",
+      "desc": "La légende portugaise Cristiano Ronaldo déclare : « Le jour est venu pour moi de rendre le maillot numéro sept. »",
+      "date": "2026-11-05T12:42:30",
+      "source": "BBC Afrique"
+    },
+    {
+      "title": "Nigéria : les réfugiés affluent au Niger et au Bénin, le HCR réclame des fonds",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159790",
+      "desc": "L’intensification des violences et de l’insécurité dans le nord du Nigeria depuis le début de l’année pousse des dizaines de milliers de personnes à fuir, à la fois à l’intérieur du pays et vers les États voisins. Face à l’aggravation de cette crise transfrontalière, le Haut-Commissariat de l’ONU po",
+      "date": "2026-11-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Dans les zones de conflit, les attaques contre les réseaux d’eau ont triplé en quatre ans",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159791",
+      "desc": "De Gaza à l’Ukraine, en passant par le Soudan et le Burkina Faso, les systèmes d’approvisionnement en eau sont de plus en plus touchées par les conflits armés. Selon un rapport de l’UNICEF, le nombre d’attaques signalées contre ces infrastructures a triplé entre 2021 et 2025, avec des conséquences p",
+      "date": "2026-11-05T12:00:00",
+      "source": "ONU Info"
+    },
+    {
+      "title": "Ebola en RDC : deux nouveaux vaccins à l’essai face à une épidémie meurtrière",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159792",
+      "desc": "Alors que l’épidémie d’Ebola qui sévit depuis près de six mois en République démocratique du Congo a fait plus de 5&nbsp;000 morts, l’Organisation mondiale de la santé a annoncé mercredi l’intégration prochaine à un essai clinique de deux nouveaux candidats-vaccins spécialement conçus contre la souc",
+      "date": "2026-11-05T12:00:00",
+      "source": "ONU Info"
     },
     {
       "title": "Activité physique : 15 ans de stagnation chez les adolescents, alerte l’OMS",
@@ -84,27 +105,6 @@
       "title": "Choc pétrolier : les pays en développement paient le prix fort à la pompe",
       "link": "https://news.un.org/feed/view/fr/story/2026/11/1159787",
       "desc": "La flambée des cours du pétrole provoquée par la guerre au Moyen-Orient et la fermeture du détroit d’Ormuz en février ne frappe pas toutes les économies de la même manière. À la pompe, les consommateurs des pays en développement sont particulièrement touchés, avec des hausses de prix bien supérieure",
-      "date": "2026-11-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Maintien de la paix : inquiétudes face au retrait des Casques bleus du Liban et du Sahara occidental",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159789",
-      "desc": "Tandis que la mission de l’ONU au Sahara occidental vient de fermer ses portes après 35 ans d’existence, les Casques bleus déployés au Liban sont également sur le départ. Mercredi, à New York, le chef des opérations de maintien de la paix a mis en garde contre les risques de vide sécuritaire et d’es",
-      "date": "2026-11-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "« On n’est jamais bien que chez soi » : le cri du coeur des déplacés en Haïti",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159784",
-      "desc": "Dans la capitale haïtienne Port-au-Prince, une école qui accueillait autrefois des centaines d'élèves abrite aujourd'hui des milliers de personnes déplacées par la violence. Parmi elles, un ancien enseignant, déterminé à offrir à ses enfants un avenir qui dépasse les murs de la salle de classe deven",
-      "date": "2026-11-04T12:00:00",
-      "source": "ONU Info"
-    },
-    {
-      "title": "Soudan : les drones paralysent les secours et mettent des vies en danger",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159785",
-      "desc": "Les frappes de drones contre les infrastructures civiles au Soudan désorganisent l’approvisionnement en électricité, en eau et en carburant, mettant directement en danger la vie des populations et entravant l’acheminement de l’aide humanitaire, alerte la haute responsable de l’ONU dans le pays.",
       "date": "2026-11-04T12:00:00",
       "source": "ONU Info"
     }
