@@ -3,19 +3,19 @@
   "title": "Meteo du 6 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 18.97,
-    "feels_like": 18.65,
-    "humidity": 66,
+    "temp": 11.17,
+    "feels_like": 10.61,
+    "humidity": 87,
     "description": "Nuageux",
-    "wind_kmh": 18.5
+    "wind_kmh": 7.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 27.79,
-    "feels_like": 32.01,
-    "humidity": 83,
-    "description": "Bruine",
-    "wind_kmh": 5.5
+    "temp": 27.56,
+    "feels_like": 31.03,
+    "humidity": 80,
+    "description": "Légère pluie",
+    "wind_kmh": 2.2
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 6 novembre 2026 sur Radio Sources de Vie. A Ottawa: 19 degres Celsius. Nuageux. A Port-au-Prince: 28 degres Celsius. Bruine. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 6 novembre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Nuageux. A Port-au-Prince: 28 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
 }
