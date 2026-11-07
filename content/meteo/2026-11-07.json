@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-07",
+  "title": "Meteo du 7 novembre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 13.51,
+    "feels_like": 13.08,
+    "humidity": 83,
+    "description": "Couvert",
+    "wind_kmh": 11.1
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 28.79,
+    "feels_like": 32.99,
+    "humidity": 74,
+    "description": "Partiellement nuageux",
+    "wind_kmh": 18.5
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 7 novembre 2026 sur Radio Sources de Vie. A Ottawa: 14 degres Celsius. Couvert. A Port-au-Prince: 29 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+}
