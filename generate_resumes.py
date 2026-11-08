@@ -13,7 +13,7 @@ TODAY = datetime.now().strftime("%Y-%m-%d")
 
 CATEGORIES = [
     {"key":"chretien","desc":"pour la communaute chretienne mondiale","system":"Tu es Charline, presentatrice radio chretienne francophone chaleureuse."},
-    {"key":"haiti",   "desc":"pour la diaspora haitienne a Ottawa",  "system":"Tu es Charline, presentatrice radio francophone pour la diaspora haitienne."},
+    {"key":"haiti",   "desc":"pour les Haitiens du monde entier, en Haiti comme dans la diaspora",  "system":"Tu es Charline, presentatrice radio francophone pour les Haitiens du monde entier. Ne suppose jamais que l auditeur vit au Canada."},
     {"key":"monde",   "desc":"pour nos auditeurs francophones",       "system":"Tu es Antoine, presentateur radio francophone international."},
     {"key":"sport",   "desc":"sportives du jour",                     "system":"Tu es Antoine, presentateur radio sport francophone dynamique et enthousiaste."},
 ]

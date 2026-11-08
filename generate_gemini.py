@@ -31,7 +31,8 @@ def load_news():
 def generate_news_summary(news_text):
     if not news_text:
         return None
-    prompt = f"""Tu es le journaliste chrétien de Radio Sources de Vie, une radio francophone pour la diaspora haïtienne à Ottawa.
+    prompt = f"""Tu es le journaliste chrétien de Radio Sources de Vie, une radio francophone diffusée depuis Ottawa pour les Haïtiens du monde entier,
+en Haïti comme dans la diaspora. Ne suppose jamais que l'auditeur vit au Canada.
 
 Voici les nouvelles du jour ({TODAY}):
 {news_text}
@@ -70,7 +71,7 @@ Traduis et résume en français élégant les informations suivantes sur Haïti 
 
 Inclus:
 - Situation générale en Haïti
-- Vie de la diaspora haïtienne au Canada
+- Vie de la diaspora haïtienne dans le monde
 - Événements chrétiens importants
 
 Écris 150-200 mots en français, ton bienveillant et informatif."""

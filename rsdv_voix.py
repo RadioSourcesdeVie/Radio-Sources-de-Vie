@@ -23,9 +23,9 @@ PAUSE    = 6              # secondes entre deux appels (limite de debit)
 
 # --- Voix par segment -------------------------------------------------
 VOIX = {
-    "priere_matin":     "Sulafat",      # chaleureuse, feminine
-    "priere_soir":      "Sulafat",
-    "sermon":           "Algenib",      # grave, masculine
+    "priere_matin":     "MA_VOIX",      # voix clonee de Souvenan
+    "priere_soir":      "MA_VOIX",
+    "sermon":           "MA_VOIX",      # voix clonee de Souvenan
     "temoignage_homme": "Achird",       # amicale, masculine
     "temoignage_femme": "Vindemiatrix", # tendre, feminine
     "meteo":            "Kore",         # ferme, nette
@@ -34,8 +34,32 @@ VOIX = {
     "resume_haiti":     "Erinome",      # Charline
     "resume_monde":     "Iapetus",      # Antoine - masculine, clair
     "resume_sport":     "Iapetus",      # Antoine
+    # Journal du soir : meme duo de presentateurs
+    "journal_charline": "Erinome",
+    "journal_antoine":  "Iapetus",
 }
 VOIX_DEFAUT = "Iapetus"
+
+# "MA_VOIX" est remplace par l'identifiant de la voix clonee,
+# lu dans ma_voix/voice_id.txt. Si le fichier manque, on retombe
+# sur la voix de secours indiquee ici.
+MA_VOIX_SECOURS = {"priere_matin": "Sulafat", "priere_soir": "Sulafat",
+                   "sermon": "Algenib"}
+
+# Consigne de jeu par segment. Courte : Google deconseille de surcharger.
+STYLES = {
+    "priere_matin": "calme et recueilli, parlant lentement",
+    "priere_soir":  "calme et recueilli, parlant lentement, voix basse",
+    "sermon":       "pose et chaleureux, comme un pasteur en chaire",
+}
+
+def id_ma_voix():
+    f = Path("ma_voix/voice_id.txt")
+    if f.exists():
+        v = f.read_text(encoding="utf-8").strip()
+        if v:
+            return v
+    return None
 
 # --- Chargement de la cle --------------------------------------------
 def charger_env():
@@ -58,6 +82,56 @@ def cle_gemini():
     return os.environ.get("GEMINI_KEY", "")
 
 # --- Preparation du texte --------------------------------------------
+
+
+# --- Dates en toutes lettres ------------------------------------------
+_MOIS = ["", "janvier", "février", "mars", "avril", "mai", "juin",
+         "juillet", "août", "septembre", "octobre", "novembre", "décembre"]
+_UNITES = ["zéro", "un", "deux", "trois", "quatre", "cinq", "six", "sept",
+           "huit", "neuf", "dix", "onze", "douze", "treize", "quatorze",
+           "quinze", "seize", "dix-sept", "dix-huit", "dix-neuf"]
+_DIZAINES = {20: "vingt", 30: "trente", 40: "quarante", 50: "cinquante",
+             60: "soixante"}
+
+def _nombre_en_lettres(n):
+    """Suffisant pour un jour (1-31) et une annee (2000-2099)."""
+    if n < 20:
+        return _UNITES[n]
+    d, u = divmod(n, 10)
+    base = _DIZAINES.get(d * 10)
+    if base is None:
+        return str(n)
+    if u == 0:
+        return base
+    if u == 1:
+        return f"{base} et un"
+    return f"{base}-{_UNITES[u]}"
+
+def _annee_en_lettres(a):
+    if 2000 <= a <= 2099:
+        reste = a - 2000
+        if reste == 0:
+            return "deux mille"
+        return "deux mille " + _nombre_en_lettres(reste)
+    return str(a)
+
+def dates_en_lettres(texte):
+    """2026-11-08 -> huit novembre deux mille vingt-six."""
+    def iso(m):
+        a, mo, j = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if not (1 <= mo <= 12 and 1 <= j <= 31):
+            return m.group(0)
+        jour = "premier" if j == 1 else _nombre_en_lettres(j)
+        return f"{jour} {_MOIS[mo]} {_annee_en_lettres(a)}"
+    texte = re.sub(r"\b(20\d{2})-(\d{1,2})-(\d{1,2})\b", iso, texte)
+
+    def fr(m):
+        j, mo, a = int(m.group(1)), int(m.group(2)), int(m.group(3))
+        if not (1 <= mo <= 12 and 1 <= j <= 31):
+            return m.group(0)
+        jour = "premier" if j == 1 else _nombre_en_lettres(j)
+        return f"{jour} {_MOIS[mo]} {_annee_en_lettres(a)}"
+    return re.sub(r"\b(\d{1,2})/(\d{1,2})/(20\d{2})\b", fr, texte)
 
 # Etiquettes de plan : on les dit pas a l'antenne, mais on garde le titre.
 _ETIQ_SEULE = re.compile(
@@ -96,7 +170,7 @@ def retirer_etiquettes(texte):
     return "\n".join(net).strip()
 
 def nettoyer(texte):
-    texte = retirer_etiquettes(texte)
+    texte = dates_en_lettres(retirer_etiquettes(texte))
     t = re.sub(r'\*\*(.*?)\*\*', r'\1', texte)
     t = re.sub(r'\*(.*?)\*', r'\1', t)
     t = re.sub(r'_{1,2}(.*?)_{1,2}', r'\1', t)
@@ -219,6 +293,32 @@ def _normaliser(pcm, cible_db=PIC_CIBLE_DB):
         a[i] = 32767 if v > 32767 else (-32768 if v < -32768 else v)
     return a.tobytes()
 
+def _appel_sdk(cle, modele, texte, voix, style):
+    """Voix clonee ou style de jeu : passe par l'API interactions."""
+    from google import genai
+    client = genai.Client(api_key=cle,
+                          http_options={"api_version": "v1beta"})
+    contenu = {"type": "text", "text": texte}
+    if style:
+        contenu["annotations"] = [{"type": "speech_metadata", "style": style}]
+    for essai in range(1, 6):
+        try:
+            r = client.interactions.create(
+                model=modele,
+                input=[{"type": "user_input", "content": [contenu]}],
+                response_format={"type": "audio"},
+                generation_config={"speech_config": [{"voice": voix}]},
+            )
+            return base64.b64decode(r.output_audio.data)
+        except Exception as e:
+            msg = str(e)
+            if ("429" in msg or "503" in msg or "500" in msg) and essai < 5:
+                attente = 15 * essai
+                print(f"        debit limite, pause {attente}s...")
+                time.sleep(attente)
+                continue
+            raise
+
 # --- Appel Gemini -----------------------------------------------------
 def _appel(cle, modele, texte, voix):
     url = (f"https://generativelanguage.googleapis.com/v1beta/models/"
@@ -250,24 +350,30 @@ def _appel(cle, modele, texte, voix):
                 continue
             raise
 
-def synthese(texte, voix):
+def synthese(texte, voix, style=None):
     """Texte complet -> PCM brut. Leve une exception si Gemini echoue."""
     cle = cle_gemini()
     if not cle:
         raise RuntimeError("GEMINI_KEY absente de .env")
+    clonee = voix.startswith(("voice_", "voicekey_"))
+    if clonee or style:
+        texte = texte.replace("\n\n", "\n\n<short pause>\n\n")
     morceaux = decouper(nettoyer(texte))
     bouts = []
     modele = MODELE
     for i, m in enumerate(morceaux, 1):
         if len(morceaux) > 1:
             print(f"        morceau {i}/{len(morceaux)} ({len(m)} car.)")
+        appel = _appel_sdk if (clonee or style) else _appel
+        args = (cle, modele, m, voix, style) if (clonee or style) else (cle, modele, m, voix)
         try:
-            brut = _appel(cle, modele, m, voix)
+            brut = appel(*args)
         except Exception:
             if modele == MODELE:
                 print(f"        {MODELE} indisponible, bascule sur {SECOURS}")
                 modele = SECOURS
-                brut = _appel(cle, modele, m, voix)
+                args = (cle, modele, m, voix, style) if (clonee or style) else (cle, modele, m, voix)
+                brut = appel(*args)
             else:
                 raise
         # Chaque morceau est nettoye et adouci a ses deux extremites,
@@ -333,11 +439,16 @@ def parler(texte, cle_voix, chemin_mp3, repli_gtts=True):
     Retourne (moteur, taille_ko).
     """
     voix = VOIX.get(cle_voix, cle_voix if cle_voix in VOIX.values() else VOIX_DEFAUT)
+    if voix == "MA_VOIX":
+        voix = id_ma_voix() or MA_VOIX_SECOURS.get(cle_voix, VOIX_DEFAUT)
+        if not voix.startswith("voice"):
+            print(f"        voix clonee introuvable, repli sur {voix}")
+    style = STYLES.get(cle_voix)
     chemin_mp3 = Path(chemin_mp3)
     chemin_mp3.parent.mkdir(parents=True, exist_ok=True)
 
     try:
-        pcm = synthese(texte, voix)
+        pcm = synthese(texte, voix, style)
         encodeur = pcm_vers_mp3(pcm, chemin_mp3)
         cible = chemin_mp3 if encodeur != "wav" else chemin_mp3.with_suffix(".wav")
         secondes = len(pcm) / (SR * 2)
@@ -349,6 +460,43 @@ def parler(texte, cle_voix, chemin_mp3, repli_gtts=True):
         print(f"        repli sur gTTS pour ne pas laisser de silence")
         from gtts import gTTS
         gTTS(text=nettoyer(texte), lang="fr", slow=False).save(str(chemin_mp3))
+        return "gTTS", chemin_mp3.stat().st_size // 1024, 0.0
+
+
+def parler_duo(segments, chemin_mp3, repli_gtts=True):
+    """
+    Plusieurs voix dans un meme fichier (journal du soir co-presente).
+    segments : liste de (texte, cle_voix).
+    Tout est normalise d'un bloc a la fin, pour un volume homogene.
+    """
+    chemin_mp3 = Path(chemin_mp3)
+    chemin_mp3.parent.mkdir(parents=True, exist_ok=True)
+    try:
+        bouts = []
+        for i, (texte, cle_voix) in enumerate(segments, 1):
+            if not texte or not texte.strip():
+                continue
+            voix = VOIX.get(cle_voix, VOIX_DEFAUT)
+            if voix == "MA_VOIX":
+                voix = id_ma_voix() or MA_VOIX_SECOURS.get(cle_voix, VOIX_DEFAUT)
+            print(f"      segment {i}/{len(segments)} ({voix})")
+            bouts.append(synthese(texte, voix, STYLES.get(cle_voix)))
+            if i < len(segments):
+                time.sleep(PAUSE)
+        if not bouts:
+            raise RuntimeError("aucun segment a lire")
+        pcm = _normaliser(_silence(300).join(bouts)) + _silence(250)
+        encodeur = pcm_vers_mp3(pcm, chemin_mp3)
+        cible = chemin_mp3 if encodeur != "wav" else chemin_mp3.with_suffix(".wav")
+        return "gemini/duo", cible.stat().st_size // 1024, len(pcm) / (SR * 2)
+    except Exception as e:
+        print(f"        Gemini a echoue : {str(e)[:100]}")
+        if not repli_gtts:
+            raise
+        print("        repli sur gTTS")
+        from gtts import gTTS
+        tout = "\n\n".join(t for t, _ in segments if t and t.strip())
+        gTTS(text=nettoyer(tout), lang="fr", slow=False).save(str(chemin_mp3))
         return "gTTS", chemin_mp3.stat().st_size // 1024, 0.0
 
 def voix_temoignage(data):

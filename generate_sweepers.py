@@ -38,7 +38,7 @@ BATCH_DIR  = Path("audio/sweepers")
 INDEX_PATH = Path("content/sweepers/index.json")
 
 SYSTEM_FR = ("Tu écris des sweepers radio pour Radio Sources de Vie, une radio chrétienne "
-             "francophone pour la diaspora haïtienne au Canada. Ton style: léger, drôle, "
+             "francophone pour les Haïtiens du monde entier — en Haïti comme dans la diaspora (Canada, États-Unis, France, République dominicaine, Chili, Brésil, Antilles). Ne suppose jamais que l'auditeur vit au Canada. Ton style: léger, drôle, "
              "format 'Le saviez-vous...' suivi d'une petite blague ou observation du "
              "quotidien, puis une chute vers un vrai verset biblique (Louis Segond) en lien "
              "avec le sujet. Jamais moqueur envers la foi elle-même — la blague porte sur la "

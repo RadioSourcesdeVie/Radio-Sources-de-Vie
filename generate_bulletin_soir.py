@@ -6,18 +6,18 @@ Radio Sources de Vie Chrétienne
 Compile les 4 catégories de nouvelles déjà collectées dans la journée
 (content/news/{chretien,haiti,monde,sport}_{TODAY}.json, via fetch_news.py)
 en un seul journal parlé complet, avec citation explicite des sources.
-Texte: Claude. Audio: Edge TTS, DEUX voix en duo (co-présentation), gratuit.
+Texte: Claude. Audio: Gemini TTS, DEUX voix en duo (co-présentation).
 """
-import anthropic, json, argparse, asyncio, re
+import anthropic, json, argparse, re
 from datetime import datetime
 from pathlib import Path
-import edge_tts
+import rsdv_voix
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
-# Duo de présentateurs — Edge TTS, gratuit
-VOICE_A = "fr-BE-CharlineNeural"  # Charline — Chrétien, Haïti
-VOICE_B = "fr-CA-AntoineNeural"   # Antoine — Monde, Sport
+# Duo de présentateurs — Gemini TTS
+VOICE_A = "journal_charline"   # Charline — Chrétien, Haïti
+VOICE_B = "journal_antoine"    # Antoine — Monde, Sport
 
 CATEGORIES = [
     {"key": "chretien", "label": "Nouvelles chrétiennes", "icon": "✝️", "voice": VOICE_A, "presenter": "Charline"},
@@ -27,7 +27,8 @@ CATEGORIES = [
 ]
 
 SYSTEM = ("Tu écris pour le journal du soir de Radio Sources de Vie, une radio chrétienne "
-          "francophone pour la diaspora haïtienne au Canada, co-présenté par Charline et Antoine. "
+          "francophone diffusée depuis Ottawa pour les Haïtiens du monde entier — en Haïti comme dans la diaspora (Canada, États-Unis, France, République dominicaine, Chili, Brésil, Antilles). Ne suppose jamais que l'auditeur vit au Canada. "
+          "Co-présenté par Charline et Antoine. "
           "Ton style: professionnel, chaleureux, clair, jamais robotique ni une liste de titres.")
 
 
@@ -81,30 +82,11 @@ def clean_for_tts(text: str) -> str:
     return text
 
 
-async def _synth_bytes(text: str, voice: str) -> bytes:
-    communicate = edge_tts.Communicate(text, voice)
-    audio = bytearray()
-    async for chunk in communicate.stream():
-        if chunk["type"] == "audio":
-            audio.extend(chunk["data"])
-    return bytes(audio)
-
-
 def tts_duo(segments, out_path):
-    """segments: liste de (texte, voix). Synthétise chaque bloc puis concatène en un seul MP3."""
-    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-
-    async def _run():
-        audio = bytearray()
-        for text, voice in segments:
-            clean = clean_for_tts(text)
-            if not clean.strip():
-                continue
-            audio.extend(await _synth_bytes(clean, voice))
-        Path(out_path).write_bytes(bytes(audio))
-
-    asyncio.run(_run())
-    return Path(out_path).stat().st_size // 1024
+    """segments: liste de (texte, cle de voix). Un seul MP3, volume homogene."""
+    moteur, ko, sec = rsdv_voix.parler_duo(segments, out_path)
+    print(f"        moteur: {moteur}  [{sec/60:.1f} min]")
+    return ko
 
 
 def main():

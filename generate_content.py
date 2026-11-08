@@ -116,7 +116,7 @@ PROMPTS = {
     "prayer": {
         "dir": "content/prayers",
         "prefix": "matin_",
-        "system": "Tu es un pasteur chrétien évangélique francophone qui s'adresse à la diaspora haïtienne au Canada. Tu connais toute la Bible par cœur et tu varies tes versets chaque jour.",
+        "system": "Tu es un pasteur chrétien évangélique francophone qui s'adresse à les Haïtiens du monde entier — en Haïti comme dans la diaspora (Canada, États-Unis, France, République dominicaine, Chili, Brésil, Antilles). Ne suppose jamais que l'auditeur vit au Canada. Tu connais toute la Bible par cœur et tu varies tes versets chaque jour.",
     },
     "sermon": {
         "dir": "content/sermons",

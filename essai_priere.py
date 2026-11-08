@@ -3,6 +3,8 @@
 essai_priere.py - Un exemple de priere du matin lu par VOTRE voix clonee.
 Sert a decider avant de modifier quoi que ce soit au pipeline.
 Usage : python essai_priere.py
+        python essai_priere.py "tres lent et solennel"
+Le style passe en argument remplace le style par defaut.
 """
 import base64, sys
 from pathlib import Path
@@ -11,6 +13,9 @@ import rsdv_voix as rv
 
 MODELE = "gemini-3.8-flash-tts"
 SORTIE = Path("essai_priere_matin.mp3")
+
+# Consigne de jeu : courte, Google recommande de ne pas la surcharger.
+STYLE_DEFAUT = "calme et recueilli, parlant lentement"
 
 PRIERE = """Seigneur, en ce matin nouveau, je viens à toi avant toute chose.
 
@@ -41,8 +46,12 @@ def main():
     print(f"\n  Voix   : {voix} (la votre)")
     print(f"  Texte  : {mots} mots, environ {mots/140:.1f} minutes")
 
+    style = sys.argv[1] if len(sys.argv) > 1 else STYLE_DEFAUT
+    print(f"  Style  : {style}")
+
     client = genai.Client(api_key=cle, http_options={"api_version": "v1beta"})
-    texte = rv.nettoyer(PRIERE)
+    # Une respiration entre chaque mouvement de la priere
+    texte = rv.nettoyer(PRIERE).replace("\n\n", "\n\n<short pause>\n\n")
 
     morceaux = rv.decouper(texte)
     print(f"  Decoupe: {len(morceaux)} morceau(x)")
@@ -53,7 +62,9 @@ def main():
         r = client.interactions.create(
             model=MODELE,
             input=[{"type": "user_input",
-                    "content": [{"type": "text", "text": m}]}],
+                    "content": [{"type": "text", "text": m,
+                                 "annotations": [{"type": "speech_metadata",
+                                                  "style": style}]}]}],
             response_format={"type": "audio"},
             generation_config={"speech_config": [{"voice": voix}]},
         )
@@ -64,8 +75,11 @@ def main():
 
     pcm = rv._silence(180).join(bouts)
     pcm = rv._normaliser(pcm) + rv._silence(250)
-    encodeur = rv.pcm_vers_mp3(pcm, SORTIE)
-    cible = SORTIE if encodeur != "wav" else SORTIE.with_suffix(".wav")
+    suffixe = "" if len(sys.argv) <= 1 else "_" + "".join(
+        c if c.isalnum() else "_" for c in style)[:28]
+    sortie = SORTIE.with_name(SORTIE.stem + suffixe + SORTIE.suffix)
+    encodeur = rv.pcm_vers_mp3(pcm, sortie)
+    cible = sortie if encodeur != "wav" else sortie.with_suffix(".wav")
     print(f"\n  Pret : {cible}  ({cible.stat().st_size//1024} Ko, "
           f"{len(pcm)/(rv.SR*2)/60:.1f} min)")
     print(f"  Ecoutez :  start {cible}")
