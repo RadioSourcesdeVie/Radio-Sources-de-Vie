@@ -58,7 +58,45 @@ def cle_gemini():
     return os.environ.get("GEMINI_KEY", "")
 
 # --- Preparation du texte --------------------------------------------
+
+# Etiquettes de plan : on les dit pas a l'antenne, mais on garde le titre.
+_ETIQ_SEULE = re.compile(
+    r"^\s*(introduction|conclusion|intro|préambule|preambule|"
+    r"ouverture|exhortation finale|appel final)\s*[:.\-–—]?\s*$",
+    re.IGNORECASE)
+_ETIQ_TITRE = re.compile(
+    r"^\s*(?:point|partie|section|chapitre)\s*(?:n[°o]\s*)?"
+    r"(?:\d+|un|deux|trois|quatre|cinq|premier|première|premiere|"
+    r"deuxième|deuxieme|troisième|troisieme|quatrième|quatrieme)\s*"
+    r"[:.\-–—]\s*(.+?)\s*$",
+    re.IGNORECASE)
+_ETIQ_NUE = re.compile(
+    r"^\s*(?:point|partie|section)\s*\d+\s*[:.\-–—]?\s*$",
+    re.IGNORECASE)
+
+def retirer_etiquettes(texte):
+    """
+    Enleve 'Introduction', 'CONCLUSION', 'POINT 2 :' etc.
+    Conserve le titre qui suit : 'POINT 2 : La reconciliation...'
+    devient 'La reconciliation...'.
+    """
+    sortie = []
+    for ligne in texte.split("\n"):
+        if _ETIQ_SEULE.match(ligne) or _ETIQ_NUE.match(ligne):
+            continue
+        m = _ETIQ_TITRE.match(ligne)
+        sortie.append(m.group(1) if m else ligne)
+    # pas plus d'une ligne vide d'affilee
+    net, vide = [], False
+    for l in sortie:
+        if l.strip():
+            net.append(l); vide = False
+        elif not vide:
+            net.append(""); vide = True
+    return "\n".join(net).strip()
+
 def nettoyer(texte):
+    texte = retirer_etiquettes(texte)
     t = re.sub(r'\*\*(.*?)\*\*', r'\1', texte)
     t = re.sub(r'\*(.*?)\*', r'\1', t)
     t = re.sub(r'_{1,2}(.*?)_{1,2}', r'\1', t)
