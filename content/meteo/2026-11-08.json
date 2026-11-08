@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-08",
+  "title": "Meteo du 8 novembre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 9.81,
+    "feels_like": 8.92,
+    "humidity": 75,
+    "description": "Légère pluie",
+    "wind_kmh": 7.4
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 30.79,
+    "feels_like": 37.04,
+    "humidity": 70,
+    "description": "Légère pluie",
+    "wind_kmh": 18.5
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 8 novembre 2026 sur Radio Sources de Vie. A Ottawa: 10 degres Celsius. Légère pluie. A Port-au-Prince: 31 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
+}

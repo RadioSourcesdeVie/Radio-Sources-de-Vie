@@ -175,9 +175,11 @@ RÈGLES STRICTES:
 3. Le titre doit être unique et refléter le thème spécifique
 4. Le témoignage doit être une histoire personnelle fictive mais réaliste (250-350 mots)
 5. NE JAMAIS utiliser le titre "La fidélité de Dieu dans les épreuves"
+6. Indique le genre du narrateur dans le champ "narrateur": "homme" ou "femme".
+   Ce champ sert à choisir la voix de synthèse, il doit correspondre au récit.
 
 Réponds UNIQUEMENT en JSON valide:
-{{"title":"Titre unique du témoignage","date":"{TODAY}","verse":"texte complet du verset Louis Segond","reference":"Livre Ch:V","content":"témoignage 250-350 mots"}}"""
+{{"title":"Titre unique du témoignage","date":"{TODAY}","narrateur":"homme ou femme","verse":"texte complet du verset Louis Segond","reference":"Livre Ch:V","content":"témoignage 250-350 mots"}}"""
 
 def generate(client, content_type):
     cfg = PROMPTS[content_type]

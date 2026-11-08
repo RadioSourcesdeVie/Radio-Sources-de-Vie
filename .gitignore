@@ -2,3 +2,10 @@
 journal_taches.log
 sync_radiodj.log
 meteo_erreur.log
+test_voix/
+test_style/
+diag_tts/
+test_module.*
+modeles_disponibles.txt
+__pycache__/
+*.pyc

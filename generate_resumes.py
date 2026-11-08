@@ -2,12 +2,12 @@
 """
 generate_resumes.py — Resumes audio pour chaque categorie
 Radio Sources de Vie Chretienne
-Voix: gTTS (Google, gratuit, sans cle API)
+Voix: Gemini TTS (repli automatique sur gTTS)
 """
 import anthropic, json, argparse, re
 from datetime import datetime
 from pathlib import Path
-from gtts import gTTS
+import rsdv_voix
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
@@ -34,10 +34,10 @@ def clean_for_tts(text):
     text = re.sub(r'(\d+):(\d+)', r'\1 verset \2', text)
     return text
 
-def tts(text, out_path):
-    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    gTTS(text=clean_for_tts(text), lang='fr', slow=False).save(out_path)
-    return Path(out_path).stat().st_size // 1024
+def tts(text, out_path, voix):
+    moteur, ko, sec = rsdv_voix.parler(text, voix, out_path)
+    print(f"        moteur: {moteur}")
+    return ko
 
 def main():
     parser = argparse.ArgumentParser()
@@ -74,7 +74,8 @@ JSON: {{"title":"titre court","date":"{TODAY}","category":"{cat['key']}","resume
             d, _ = json.JSONDecoder().raw_decode(raw[start:])
             out_json.parent.mkdir(parents=True, exist_ok=True)
             out_json.write_text(json.dumps(d, ensure_ascii=False, indent=2), encoding="utf-8")
-            kb = tts(f"{d['title']}.\n\n{d['resume']}", str(out_mp3))
+            kb = tts(f"{d['title']}.\n\n{d['resume']}", str(out_mp3),
+                     f"resume_{cat['key']}")
             print(f"[OK] {d['title']} -- {kb} KB")
         except Exception as e:
             print(f"[ERR] {cat['key']}: {e}")

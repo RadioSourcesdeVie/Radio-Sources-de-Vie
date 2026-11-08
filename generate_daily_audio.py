@@ -2,12 +2,12 @@
 """
 generate_daily_audio.py — Genere les audios manquants chaque jour
 Priere Matin, Priere Soir, Temoignage, Sermon, Meteo
-Voix: gTTS (Google, gratuit, sans cle API)
+Voix: Gemini TTS (repli automatique sur gTTS)
 """
 import json, argparse, re
 from datetime import datetime
 from pathlib import Path
-from gtts import gTTS
+import rsdv_voix
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
 
@@ -21,10 +21,11 @@ def clean_for_tts(text):
     text = re.sub(r'(\d+):(\d+)', r'\1 verset \2', text)
     return text
 
-def tts(text, out_path):
-    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
-    gTTS(text=clean_for_tts(text), lang='fr', slow=False).save(out_path)
-    return Path(out_path).stat().st_size // 1024
+def tts(text, out_path, voix="meteo"):
+    moteur, ko, sec = rsdv_voix.parler(text, voix, out_path)
+    duree = f" [{sec/60:.1f} min]" if sec else ""
+    print(f"        moteur: {moteur}{duree}")
+    return ko
 
 def build_text(data):
     parts = []
@@ -35,12 +36,13 @@ def build_text(data):
     elif data.get("text"):  parts.append(data["text"])
     return "\n\n".join(parts)
 
+# (json, mp3, libelle, cle de voix - None = choisie selon le narrateur)
 ITEMS = [
-    (f"content/prayers/matin_{TODAY}.json",  f"audio/prayers/matin_{TODAY}.mp3",  "Priere Matin"),
-    (f"content/prayers/soir_{TODAY}.json",   f"audio/prayers/soir_{TODAY}.mp3",   "Priere Soir"),
-    (f"content/testimonies/{TODAY}.json",     f"audio/testimonies/{TODAY}.mp3",    "Temoignage"),
-    (f"content/sermons/{TODAY}.json",         f"audio/sermons/{TODAY}.mp3",        "Sermon"),
-    (f"content/meteo/{TODAY}.json",           f"audio/meteo/{TODAY}.mp3",          "Meteo"),
+    (f"content/prayers/matin_{TODAY}.json",  f"audio/prayers/matin_{TODAY}.mp3",  "Priere Matin", "priere_matin"),
+    (f"content/prayers/soir_{TODAY}.json",   f"audio/prayers/soir_{TODAY}.mp3",   "Priere Soir",  "priere_soir"),
+    (f"content/testimonies/{TODAY}.json",     f"audio/testimonies/{TODAY}.mp3",    "Temoignage",   None),
+    (f"content/sermons/{TODAY}.json",         f"audio/sermons/{TODAY}.mp3",        "Sermon",       "sermon"),
+    (f"content/meteo/{TODAY}.json",           f"audio/meteo/{TODAY}.mp3",          "Meteo",        "meteo"),
 ]
 
 def generate_meteo_audio():
@@ -70,7 +72,7 @@ def generate_meteo_audio():
     text2 = data2.get("text", "")
     if text2:
         print(f"[GEN] Meteo...")
-        kb = tts(text2, mp3_path)
+        kb = tts(text2, mp3_path, "meteo")
         print(f"[OK]  Meteo -> {kb} KB")
 
 def main():
@@ -78,11 +80,11 @@ def main():
     parser.add_argument("--eleven-key", required=False, default=None)
     args = parser.parse_args()
 
-    print(f"\n[RSDV] Generation audios quotidiens (gTTS) -- {TODAY}\n")
+    print(f"\n[RSDV] Generation audios quotidiens (Gemini TTS) -- {TODAY}\n")
     generate_meteo_audio()
 
     total = 0
-    for json_path, mp3_path, label in ITEMS:
+    for json_path, mp3_path, label, cle_voix in ITEMS:
         if Path(mp3_path).exists() and Path(mp3_path).stat().st_size > 1000:
             print(f"[SKIP] {label}: deja genere")
             total += 1
@@ -93,8 +95,9 @@ def main():
         try:
             data = json.loads(Path(json_path).read_text(encoding="utf-8"))
             text = build_text(data)
-            print(f"[GEN] {label}...")
-            kb = tts(text, mp3_path)
+            voix = cle_voix or rsdv_voix.voix_temoignage(data)
+            print(f"[GEN] {label} ({rsdv_voix.VOIX.get(voix, voix)})...")
+            kb = tts(text, mp3_path, voix)
             print(f"[OK]  {label} -> {kb} KB")
             total += 1
         except Exception as e:
