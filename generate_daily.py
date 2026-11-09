@@ -67,14 +67,95 @@ PRIERES_BIBLIQUES = [
     "Nehemie devant le roi (Nehemie 1)", "Josaphat devant l'ennemi (2 Chroniques 20)",
     "le brigand sur la croix (Luc 23)", "Etienne mourant (Actes 7)",
     "l'eglise pour Pierre en prison (Actes 12)", "Paul et Silas a minuit (Actes 16)",
+    "Abraham intercedant pour Sodome (Genese 18)",
+    "Jacob luttant jusqu'a l'aube (Genese 32)",
+    "Gedeon demandant un signe (Juges 6)",
+    "Samson une derniere fois (Juges 16)",
+    "David apres sa faute (Psaume 51)",
+    "Asa face a l'armee immense (2 Chroniques 14)",
+    "Manasse dans les chaines (2 Chroniques 33)",
+    "Esdras et la honte du peuple (Esdras 9)",
+    "Job pour ses amis (Job 42)",
+    "Habacuc dans l'attente (Habacuc 3)",
+    "les trois Hebreux devant la fournaise (Daniel 3)",
+    "la Cananeenne pour sa fille (Matthieu 15)",
+    "le pere de l'enfant epileptique (Marc 9)",
+    "Bartimee criant sur la route (Marc 10)",
+    "le publicain au fond du temple (Luc 18)",
+    "Corneille dans sa maison (Actes 10)",
 ]
 
 PSAUMES_MATIN = ["Psaume 5", "Psaume 63", "Psaume 90", "Psaume 143",
-                 "Psaume 30", "Psaume 59", "Psaume 92"]
+                 "Psaume 30", "Psaume 59", "Psaume 92", "Psaume 19",
+                 "Psaume 57", "Psaume 108", "Psaume 118", "Psaume 103",
+                 "Psaume 145", "Psaume 36"]
 PSAUMES_SOIR  = ["Psaume 4", "Psaume 91", "Psaume 121", "Psaume 127",
-                 "Psaume 134", "Psaume 3", "Psaume 141"]
+                 "Psaume 134", "Psaume 3", "Psaume 141", "Psaume 42",
+                 "Psaume 62", "Psaume 77", "Psaume 130", "Psaume 131",
+                 "Psaume 139", "Psaume 16"]
 
-def _mouvements(moment, psaume, histoire):
+# Le dernier mouvement rappelle que Christ intercede deja.
+# Sans rotation, chaque priere finirait sur Pierre et Jean 17.
+TEXTES_CHRIST = [
+    "Luc 22:32 — J'ai prie pour toi, afin que ta foi ne defaille point",
+    "Jean 17:20 — ceux qui croiront en moi par leur parole",
+    "Romains 8:34 — Christ est a la droite de Dieu et intercede pour nous",
+    "Hebreux 7:25 — toujours vivant pour interceder en leur faveur",
+    "Hebreux 4:15-16 — un souverain sacrificateur compatissant",
+    "1 Jean 2:1 — nous avons un avocat aupres du Pere",
+    "Esaie 53:12 — il a intercede pour les coupables",
+    "Luc 23:34 — Pere, pardonne-leur",
+    "Jean 14:16 — je prierai le Pere, il vous donnera un autre consolateur",
+    "Romains 8:26 — l'Esprit intercede par des soupirs inexprimables",
+    "Hebreux 9:24 — il comparait pour nous devant la face de Dieu",
+    "Jean 17:9-11 — je prie pour ceux que tu m'as donnes",
+    "Jean 17:15 — je ne te prie pas de les oter du monde",
+    "Jean 17:24 — que la ou je suis, ils soient aussi avec moi",
+    "Hebreux 5:7 — des prieres avec de grands cris et des larmes",
+    "Luc 22:41-44 — il priait plus instamment a Gethsemane",
+    "Marc 1:35 — il se leva avant le jour pour prier a l'ecart",
+    "Luc 6:12 — il passa toute la nuit a prier Dieu",
+    "Jean 11:41-42 — Pere, je Te rends graces de ce que Tu m'as exauce",
+    "Ephesiens 2:18 — par lui nous avons acces aupres du Pere",
+    "Apocalypse 8:3-4 — les prieres des saints montent devant Dieu",
+    "Jean 16:26-27 — le Pere lui-meme vous aime",
+]
+
+def _deja_servis(champ, combien):
+    """
+    Ce qui a servi recemment, pour ne pas le reprendre.
+    Tri par DATE : un tri par nom mettrait tous les 'matin' avant les 'soir'.
+    """
+    import glob, re as _re
+    def _cle(f):
+        m = _re.search(r"(\d{4}-\d{2}-\d{2})", f)
+        return (m.group(1) if m else "", "0" if "matin" in f else "1")
+    vus = []
+    for f in sorted(glob.glob("content/prayers/*.json"), key=_cle)[-combien:]:
+        try:
+            d = json.loads(Path(f).read_text(encoding="utf-8"))
+            if d.get(champ):
+                vus.append(d[champ])
+        except Exception:
+            pass
+    return set(vus)
+
+def _choisir(pool, champ, date_cible, decalage, fenetre):
+    """
+    Rotation deterministe calee sur la DATE DE LA PRIERE, pas sur le jour
+    ou le script tourne. Le decalage separe le matin du soir. On avance
+    ensuite d'un cran tant que la valeur a servi tout recemment.
+    """
+    rang = datetime.strptime(date_cible, "%Y-%m-%d").toordinal() + decalage
+    recents = _deja_servis(champ, fenetre)
+    n = len(pool)
+    for pas in range(n):
+        choix = pool[(rang + pas) % n]
+        if choix not in recents:
+            return choix
+    return pool[rang % n]          # tout a servi : on reprend la rotation
+
+def _mouvements(moment, psaume, histoire, texte_christ):
     """Les 4 consignes, adaptees au matin ou au soir."""
     if moment == "matin":
         cadre = "C'est le matin, l'auditeur se leve et part vers sa journee."
@@ -103,9 +184,11 @@ def _mouvements(moment, psaume, histoire):
          f"etre n'importe ou. Nomme des situations reelles sans tomber dans la "
          f"liste mecanique, et varie : ne parle pas toujours de migration."),
         (f"{REGLE_PRIERE}{cadre} Quatrieme et dernier mouvement, 320 mots : "
-         f"rappelle que Jesus a deja prie pour celui qui ecoute. Appuie-toi sur "
-         f"Luc 22:32 et Jean 17:20. Montre que l'intercession du Christ precede "
-         f"notre priere. {fin}"),
+         f"rappelle que Jesus a deja prie pour celui qui ecoute. Appuie-toi "
+         f"UNIQUEMENT sur ce passage : {texte_christ}. N'emploie aucun autre "
+         f"texte sur l'intercession du Christ, et surtout pas Luc 22:32 ni "
+         f"Jean 17:20 s'ils ne sont pas celui-ci. Montre que l'intercession du "
+         f"Christ precede notre priere. {fin}"),
     ]
 
 def _generer_priere(client, moment):
@@ -114,14 +197,17 @@ def _generer_priere(client, moment):
     if Path(out).exists():
         print(f"⏭️  Prière {moment} déjà générée"); return
 
-    jour = datetime.now().timetuple().tm_yday
-    psaume = (PSAUMES_MATIN if moment == "matin" else PSAUMES_SOIR)[jour % 7]
-    histoire = PRIERES_BIBLIQUES[jour % len(PRIERES_BIBLIQUES)]
+    # Decalage : matin et soir ne doivent jamais tirer la meme chose
+    dec = 0 if moment == "matin" else 7
+    psaumes = PSAUMES_MATIN if moment == "matin" else PSAUMES_SOIR
+    psaume   = _choisir(psaumes,           "verse",         TODAY, dec, 10)
+    histoire = _choisir(PRIERES_BIBLIQUES, "reference",     TODAY, dec, 12)
+    christ   = _choisir(TEXTES_CHRIST,     "texte_christ",  TODAY, dec, 10)
     print(f"{'🌅' if moment=='matin' else '🌙'}  Prière {moment} — "
-          f"{psaume}, {histoire}")
+          f"{psaume} | {histoire} | {christ.split(' — ')[0]}")
 
     parties = []
-    for i, prompt in enumerate(_mouvements(moment, psaume, histoire), 1):
+    for i, prompt in enumerate(_mouvements(moment, psaume, histoire, christ), 1):
         print(f"   mouvement {i}/4...")
         parties.append(gen(client, prompt, max_tokens=2000).strip())
 
@@ -134,6 +220,7 @@ def _generer_priere(client, moment):
         "moment": moment,
         "verse": psaume,
         "reference": histoire,
+        "texte_christ": christ,
         "content": contenu,
         "words": mots,
         "minutes": round(mots / 140, 1),

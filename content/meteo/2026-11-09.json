@@ -3,19 +3,19 @@
   "title": "Meteo du 9 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 7.33,
-    "feels_like": 5.25,
-    "humidity": 92,
+    "temp": 9.77,
+    "feels_like": 7.06,
+    "humidity": 73,
     "description": "Nuageux",
-    "wind_kmh": 11.1
+    "wind_kmh": 20.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.12,
-    "feels_like": 25.88,
-    "humidity": 84,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 11.2
+    "temp": 30.79,
+    "feels_like": 37.04,
+    "humidity": 70,
+    "description": "Peu nuageux",
+    "wind_kmh": 16.7
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 9 novembre 2026 sur Radio Sources de Vie. A Ottawa: 7 degres Celsius. Nuageux. A Port-au-Prince: 25 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 9 novembre 2026 sur Radio Sources de Vie. A Ottawa: 10 degres Celsius. Nuageux. A Port-au-Prince: 31 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }

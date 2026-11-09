@@ -112,12 +112,31 @@ Format exact: TITRE|VERSET|REFERENCE"""}]
               "bibliques, ou des scènes de la vie quotidienne en général — sans répéter toujours le même type "
               "d'histoire d'un sermon à l'autre.")
 
+    REGLE_SERMON = (
+        "IMPORTANT : n'écris AUCUN titre de structure. Pas de ligne "
+        "« Introduction », « Conclusion », « POINT 1 », « POINT 2 », « Partie 1 ». "
+        "Ce texte est lu à la radio : ces mots s'entendent et cassent la "
+        "prédication. Tu peux donner un titre thématique à la section (exemple : "
+        "« La réconciliation commence par l'humilité »), mais jamais précédé d'un "
+        "numéro ni du mot point. Enchaîne naturellement, comme un pasteur en chaire. "
+    )
+
     sections_prompts = [
-        f"IMPORTANT : n'écris AUCUN titre de structure. Pas de ligne « Introduction », « Conclusion », « POINT 1 », « POINT 2 », « Partie 1 ». Ce texte est lu à la radio : ces mots s'entendent et cassent la prédication. Tu peux donner un titre thématique à la section (exemple : « La réconciliation commence par l'humilité »), mais jamais précédé d'un numéro ni du mot point. Enchaîne naturellement, comme un pasteur en chaire. Écris l'ouverture de ce sermon (300 mots minimum): '{titre}'. Commence par une histoire vraie accrocheuse (varie le type d'histoire, pas toujours une histoire de migration/travail), présente le sujet et le verset: {verset}. Termine cette ouverture par une question qui engage l'auditeur.",
-        f"IMPORTANT : n'écris AUCUN titre de structure. Pas de ligne « Introduction », « Conclusion », « POINT 1 », « POINT 2 », « Partie 1 ». Ce texte est lu à la radio : ces mots s'entendent et cassent la prédication. Tu peux donner un titre thématique à la section (exemple : « La réconciliation commence par l'humilité »), mais jamais précédé d'un numéro ni du mot point. Enchaîne naturellement, comme un pasteur en chaire. Écris le premier développement de ce sermon (500 mots minimum): '{titre}'. Premier enseignement majeur avec 2-3 exemples bibliques concrets et une illustration de vie réelle et actuelle (varie le type de situation — famille, travail, santé, relations, épreuve — sans répéter toujours le même scénario de migration).",
-        f"IMPORTANT : n'écris AUCUN titre de structure. Pas de ligne « Introduction », « Conclusion », « POINT 1 », « POINT 2 », « Partie 1 ». Ce texte est lu à la radio : ces mots s'entendent et cassent la prédication. Tu peux donner un titre thématique à la section (exemple : « La réconciliation commence par l'humilité »), mais jamais précédé d'un numéro ni du mot point. Enchaîne naturellement, comme un pasteur en chaire. Écris le deuxième développement de ce sermon (500 mots minimum): '{titre}'. Deuxième enseignement avec versets d'appui multiples, illustrations pratiques variées et application pour aujourd'hui.",
-        f"IMPORTANT : n'écris AUCUN titre de structure. Pas de ligne « Introduction », « Conclusion », « POINT 1 », « POINT 2 », « Partie 1 ». Ce texte est lu à la radio : ces mots s'entendent et cassent la prédication. Tu peux donner un titre thématique à la section (exemple : « La réconciliation commence par l'humilité »), mais jamais précédé d'un numéro ni du mot point. Enchaîne naturellement, comme un pasteur en chaire. Écris le troisième développement de ce sermon (500 mots minimum): '{titre}'. Troisième enseignement avec application concrète, défis pratiques pour la semaine et encouragements.",
-        f"IMPORTANT : n'écris AUCUN titre de structure. Pas de ligne « Introduction », « Conclusion », « POINT 1 », « POINT 2 », « Partie 1 ». Ce texte est lu à la radio : ces mots s'entendent et cassent la prédication. Tu peux donner un titre thématique à la section (exemple : « La réconciliation commence par l'humilité »), mais jamais précédé d'un numéro ni du mot point. Enchaîne naturellement, comme un pasteur en chaire. Écris la fin de ce sermon (400 mots minimum): '{titre}'. Histoire illustrative émouvante (variée, pas un scénario répétitif), reprise des grandes idées, appel à l'action concret et prière finale.",
+        f"{REGLE_SERMON}Écris l'ouverture de ce sermon (250 mots): '{titre}'. Commence par une histoire vraie accrocheuse (varie le type d'histoire, pas toujours une histoire de migration/travail), présente le sujet et le verset: {verset}. Termine cette ouverture par une question qui engage l'auditeur.",
+        f"{REGLE_SERMON}Écris le premier développement de ce sermon (400 mots): '{titre}'. Premier enseignement majeur avec 2-3 exemples bibliques concrets et une illustration de vie réelle et actuelle (varie le type de situation — famille, travail, santé, relations, épreuve — sans répéter toujours le même scénario de migration).",
+        f"{REGLE_SERMON}Écris le deuxième développement de ce sermon (400 mots): '{titre}'. Deuxième enseignement avec versets d'appui multiples, illustrations pratiques variées et application pour aujourd'hui.",
+        f"{REGLE_SERMON}Écris le troisième développement de ce sermon (350 mots): '{titre}'. Troisième enseignement avec application concrète, défis pratiques pour la semaine et encouragements.",
+        f"{REGLE_SERMON}Écris la fin de l'enseignement (250 mots): '{titre}'. Histoire illustrative émouvante (variée, pas un scénario répétitif), reprise des grandes idées et appel à l'action concret. NE termine PAS par une prière : une section de prière suit immédiatement.",
+        f"{REGLE_SERMON}Écris maintenant la PRIÈRE FINALE de ce sermon (650 mots). "
+        f"Ce n'est plus de l'enseignement : tu t'adresses directement à Dieu, à la "
+        f"deuxième personne, et tu pries ce que le sermon vient d'enseigner sur "
+        f"'{titre}'. Reprends {verset} dans la prière elle-même. "
+        f"Déroule la prière en trois temps, sans jamais les annoncer : d'abord "
+        f"l'adoration et la reconnaissance, puis la confession et la demande de "
+        f"transformation sur le sujet du sermon, enfin l'intercession pour celui qui "
+        f"écoute — où qu'il soit dans le monde — et pour les siens. "
+        f"Phrases courtes, rythme lent, ton recueilli. Pas de titre, pas de numéro. "
+        f"Termine par : Au nom de Jésus, amen.",
     ]
 
     texte_complet = ""
