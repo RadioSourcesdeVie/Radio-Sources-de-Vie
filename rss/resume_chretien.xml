@@ -5,23 +5,23 @@
     <description>Résumé des nouvelles chrétiennes — Voix Charlotte</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Sun, 08 Nov 2026 19:00:15 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 09:07:22 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Foi, Musique et Prière - L'Actualité Chrétienne — 2026-11-08</title>
-      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-11-08</description>
-      <pubDate>Sun, 08 Nov 2026 19:00:15 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-11-08.mp3" length="295296" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-11-08.mp3</guid>
+      <title>Sans titre — 2026-11-09</title>
+      <description>Résumé des nouvelles chrétiennes — Voix Charlotte — 2026-11-09</description>
+      <pubDate>Mon, 09 Nov 2026 09:07:22 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-11-09.mp3" length="0" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/resumes/chretien_2026-11-09.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
     <item>
-      <title>Meteo du 8 novembre 2026 — 2026-11-08</title>
-      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-11-08</description>
-      <pubDate>Sun, 08 Nov 2026 19:00:15 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-11-08.mp3" length="160704" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-11-08.mp3</guid>
+      <title>Meteo du 9 novembre 2026 — 2026-11-09</title>
+      <description>Météo quotidienne Ottawa et Port-au-Prince — Voix Bella — 2026-11-09</description>
+      <pubDate>Mon, 09 Nov 2026 09:07:22 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/meteo/2026-11-09.mp3" length="130944" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/meteo/2026-11-09.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>

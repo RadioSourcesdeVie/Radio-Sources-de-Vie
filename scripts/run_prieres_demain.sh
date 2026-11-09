@@ -13,8 +13,10 @@ echo "===== PRIERES DEMAIN lancees le $(date) =====" >> "journal_taches.log"
 # 1) Textes : les deux prieres de 10 minutes
 python generate_daily.py --api-key "$ANTHROPIC_KEY" --date demain || exit 1
 
-# 2) Audio : voix clonee, style calme
-python generate_daily_audio.py --date demain
+# 2) Audio : UNIQUEMENT les deux prieres.
+#    Sans --only, la meteo de demain serait fabriquee avec les
+#    temperatures d'aujourd'hui, et la tache de 5h la sauterait.
+python generate_daily_audio.py --date demain --only "Priere Matin,Priere Soir"
 
 # 3) Publication
 git pull origin main --no-edit
