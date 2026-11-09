@@ -1,8 +1,50 @@
 {
   "category": "haiti",
   "date": "2026-11-09",
-  "updated": "2026-11-09T10:00:13.436952Z",
+  "updated": "2026-11-09T19:00:13.528389Z",
   "articles": [
+    {
+      "title": "Haïti - Actualité : Zapping...",
+      "link": "https://www.haitilibre.com/article-48859-haiti-actualite-zapping.html",
+      "desc": "La résidence de luxe de « Lanmò san jou » détruite - Bel-air : Trois drones explosifs provoquent la panique - 4 otages séquestrés depuis plus de 2 mois libérés - Foot :  «Kiki » rejoint les U-17 au Brésil - Rodhline Préval, promue doyenne de la USFAH...",
+      "date": "2026-11-09T14:53:52",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Environnement : Haïti désignée à la Vice-présidence du Comité permanent de l'Alliance Solaire Internationale",
+      "link": "https://www.icihaiti.com/article-48858-icihaiti-environnement-haiti-designee-a-la-vice-presidence-du-comite-permanent-de-l-alliance-solaire-internationale.html",
+      "desc": "Le Ministère de l&apos;Environnement annonce la désignation d&apos;Haïti à l&apos;une des Vice-présidences du Comité permanent de l&apos;Alliance Solaire Internationale, aux côtés de la Jamaïque…",
+      "date": "2026-11-09T14:10:10",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Domaine maritime : Haïti dépose les instruments d'adhésion à dix conventions internationales",
+      "link": "https://www.haitilibre.com/article-48857-haiti-domaine-maritime-haiti-depose-les-instruments-d-adhesion-a-dix-conventions-internationales.html",
+      "desc": "Vendredi 6 novembre Raina Forbin, la Ministre des Affaires Étrangères accompagnée de l&apos;Ambassadrice d&apos;Haïti auprès du Royaume-Uni a procédé au dépôt officiel des instruments d&apos;adhésion à dix Conventions internationales relevant du domaine maritime...",
+      "date": "2026-11-09T13:50:15",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "iciHaïti - Élections : Le CEP discute ajustements budgétaires avec le Ministère de l'Économie",
+      "link": "https://www.icihaiti.com/article-48855-icihaiti-elections-le-cep-discute-ajustements-budgetaires-avec-le-ministere-de-l-economie.html",
+      "desc": "Jeudi 5 novembre, Serge Gabriel Collin, le Ministre de l&apos;Économie s&apos;est entretenu avec les représentants du CEP dont Peterson Pierre-Louis son Président, autour des dispositions financières en lien avec la mise en œuvre du processus électoral...",
+      "date": "2026-11-09T13:33:08",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "Haïti - Environnement : Une importante délégation d'Haïti participe à la COP31 en Turquie",
+      "link": "https://www.haitilibre.com/article-48854-haiti-environnement-une-importante-delegation-d-haiti-participe-a-la-cop31-en-turquie.html",
+      "desc": "Le Ministère de l&apos;Environnement annonce la participation d&apos;Haïti à la 31e Conférence des Parties à la Convention-cadre des Nations Unies sur les changements climatiques (COP31), qui se tient du 9 au 20 novembre 2026 à Antalya, en Turquie...",
+      "date": "2026-11-09T13:22:15",
+      "source": "HaitiLibre"
+    },
+    {
+      "title": "L’envoi de troupes en Haïti : le pari régional de Bukele - BBC",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBITDdZQjlBQWZNU3RhcGhjcm1taU92NjM3a01odFpkaFNwSnltZ2VUM0xwNXg5SmlMMkhzTlB5ZlB4TExIX0k0VnRldlltR0t3R1VycHZNZkt4a1Ateklj0gFkQVVfeXFMTS1CcUtEc28tQzMxdm1iM3ROVjVYRXBWM0FYWVVQRlNWMU0tTWRGS0hRSDl0UXEzWXA2N1NTenRvSU1MQ1duVjlJNkhxUEQxNVVpLS1YblRBelVxc05TODVkbFBGcw?oc=5",
+      "desc": "L’envoi de troupes en Haïti : le pari régional de Bukele&nbsp;&nbsp;BBC",
+      "date": "2026-11-09T08:13:45",
+      "source": "Google News Haiti"
+    },
     {
       "title": "Haïti : le sauveur salvadorien ? - Europe 1",
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOajNLWUs0OUd2Y09CeFoyZ0IybVhIbXRsd05YTlZUeklmQjhuOGQ2eHo3QlFBZHhZNlRlbUl6VzQtWjFmX204VUxJbEJTMWF5aVBxVlhvdHo3STVKQmUtbXlVUzFlTGJxcDZRWWJGcVdrdE5UOVNHMWZSaTlOYklFM3ZxUVU3Y2VWY2k0QXNtMDdORmo4?oc=5",
@@ -15,48 +57,6 @@
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNaUg5SU1XYlplV042OEtwV0lWa0VkVHRxNjhBZUhJY0YzSDRNeVRLMzBPemJZWDhVMGNiRjlmcVZsNVZaWnhCd1FXWVV1cVVYVXdBb25oeGp2VHk1cFB4WXVWZm9mTzFRX1lSQ1F2SWhRU1FzV0E2cmVOb0RBRmpKX0d6N0JZR3JqUmhoVzc5YmdTckI2d3RFZFQ4eUVJeE5OOVE4OEMtTndFM0NGM21vb2twREpYTjBheHpJOVJ1NThQSFF5eW43YWlXdGNXd2tiRnZWRGlTcw?oc=5",
       "desc": "Haïti: le président du Salvador Nayib Bukele est-il vraiment un sauveur face aux gangs ?&nbsp;&nbsp;tv5monde",
       "date": "2026-11-08T19:16:00",
-      "source": "Google News Haiti"
-    },
-    {
-      "title": "Haïti - Actualité : Zapping...",
-      "link": "https://www.haitilibre.com/article-48851-haiti-actualite-zapping.html",
-      "desc": "Ambassade US : Alerte de sécurité - 23 candidats à la Présidence (liste) - Incendie à l&apos;Ambassade de France - Me Ernest Muscadin démissionne - Élections : L&apos;enregistrement des adhérents achève - L&apos;ancien barème des impôts demeure applicable...",
-      "date": "2026-11-08T15:06:23",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Londres : Échange sur le dossier Haïti avec la Chancelière Forbin",
-      "link": "https://www.icihaiti.com/article-48850-icihaiti-londres-echange-sur-le-dossier-haiti-avec-la-chanceliere-forbin.html",
-      "desc": "Vendredi 6 novembre 2026, la Ministre Raina Forbin accompagnée d&apos;Anaïse Manuel l&apos;Ambassadrice d&apos;Haïti au Royaume-Uni, s&apos;est entretenue à Londres avec les responsables du dossier Haïti…",
-      "date": "2026-11-08T14:16:59",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Élections : Journée de sensibilisation pour les primo-votants",
-      "link": "https://www.haitilibre.com/article-48849-haiti-elections-journee-de-sensibilisation-pour-les-primo-votants.html",
-      "desc": "Vendredi 6 novembre 2026, le CEP a pris part, à une journée de sensibilisation des primo-votants organisée par le Bureau Intégré des Nations Unies en Haïti, autour du thème : « Primo-votants : comprendre le processus électoral et ses acteurs…",
-      "date": "2026-11-08T14:06:26",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "iciHaïti - Championnat D1 : La Série d'ouverture commence (calendrier jour 1)",
-      "link": "https://www.icihaiti.com/article-48848-icihaiti-championnat-d1-la-serie-d-ouverture-commence-calendrier-jour-1.html",
-      "desc": "La LHF donnera le coup d&apos;envoi de la série d&apos;ouverture de la saison 2026-2027 de la D1 Paryaj Lakay ce dimanche 8 novembre. 12 clubs, participeront à cette nouvelle édition du championnat D1 qui comprendra 60 matchs au cours des 10 journées...",
-      "date": "2026-11-08T13:42:11",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Haïti - Agriculture : Tournée de suivi des projets de la Banque Mondiale dans les Nippes",
-      "link": "https://www.haitilibre.com/article-48847-haiti-agriculture-tournee-de-suivi-des-projets-de-la-banque-mondiale-dans-les-nippes.html",
-      "desc": "Dans le cadre du suivi et de l&apos;appui à la mise en œuvre des investissements agricoles financés par la Banque Mondiale, une délégation de la Banque, accompagnée de représentants du Ministère de l&apos;Agriculture a effectué une tournée dans les Nippes...",
-      "date": "2026-11-08T13:32:20",
-      "source": "HaitiLibre"
-    },
-    {
-      "title": "Quatre militaires salvadoriens disparus en Haïti : leur véhicule retrouvé incendié - guadeloupe.franceantilles.fr",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPU0lVWVFVbVFydFFQaWVfSUFodUZnZTNsZjQ4Tlo1aDZWQ3hFb1pVQmlsOXR1QU5iTnRmSUdoSF9aVWpBWk1SQVEzVFJFR2UxMGZ3a3lpZ2FvQ3JPMVRTRXkxQk02b3AtYzViUTY3dW5wbHZqVmhsSjVNSFJCWjFOTUcxendKM3VNUFBsWUlCMU5sWVRnaXE4TWJmaFJBZTdHMlZnVGd6WUE2OGk1UDJRazFVR2Z0SHh3X3ljUHVwNHdDZE90THpuS0VwUi1WbGxxdVktNkMzY0tzMElZZ0Jxel91TzhZS0NjdGY3Zw?oc=5",
-      "desc": "Quatre militaires salvadoriens disparus en Haïti : leur véhicule retrouvé incendié&nbsp;&nbsp;guadeloupe.franceantilles.fr",
-      "date": "2026-11-06T21:20:08",
       "source": "Google News Haiti"
     },
     {
