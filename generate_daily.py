@@ -152,13 +152,17 @@ def main():
     parser.add_argument("--api-key", required=True)
     parser.add_argument("--date", default=None,
                         help="demain, ou une date AAAA-MM-JJ")
+    parser.add_argument("--type", default="all", choices=["matin", "soir", "all"],
+                        help="quelle priere generer")
     args = parser.parse_args()
     _fixer_date(args.date)
     client = anthropic.Anthropic(api_key=args.api_key)
     
     print(f"\n📻 Génération contenu quotidien — {TODAY}\n")
-    generate_prayer_matin(client)
-    generate_prayer_soir(client)
+    if args.type in ("matin", "all"):
+        generate_prayer_matin(client)
+    if args.type in ("soir", "all"):
+        generate_prayer_soir(client)
     print(f"\n✅ Tout généré pour {TODAY}")
 
 if __name__ == "__main__":

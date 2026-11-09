@@ -95,14 +95,25 @@ def main():
     parser.add_argument("--eleven-key", required=False, default=None)
     parser.add_argument("--date", default=None,
                         help="demain, ou une date AAAA-MM-JJ")
+    parser.add_argument("--only", default=None,
+                        help="liste de libelles, ex: \"Priere Matin\" ou \"Priere Matin,Sermon\"")
     args = parser.parse_args()
     _fixer_date(args.date)
 
     print(f"\n[RSDV] Generation audios quotidiens (Gemini TTS) -- {TODAY}\n")
-    generate_meteo_audio()
+
+    garder = None
+    if getattr(args, "only", None):
+        garder = {x.strip().lower() for x in args.only.split(",")}
+
+    if garder is None or "meteo" in garder:
+        generate_meteo_audio()
 
     total = 0
+
     for json_path, mp3_path, label, cle_voix in ITEMS:
+        if garder is not None and label.lower() not in garder:
+            continue
         if Path(mp3_path).exists() and Path(mp3_path).stat().st_size > 1000:
             print(f"[SKIP] {label}: deja genere")
             total += 1
