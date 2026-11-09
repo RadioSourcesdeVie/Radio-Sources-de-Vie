@@ -72,6 +72,7 @@ html,body{width:100%;height:100%;overflow:hidden;background:#000;color:var(--ink
 .item .t1{font-size:19px;letter-spacing:3px;color:var(--ink-soft);text-transform:uppercase;font-weight:600}
 .item .t2{font-size:26px;font-weight:700;color:#fff}
 .sep{width:1px;height:62px;background:rgba(233,185,73,.4)}
+
 </style>
 </head>
 <body>
@@ -135,7 +136,7 @@ const REGLAGES = {
     ],
     [
       "Sijè lapriyè w",
-      "Ekri l nan chat la"
+      "Ekri l nan kòmantè yo"
     ]
   ],
   "versets": [
@@ -180,7 +181,7 @@ $("when").innerHTML = R.horaire;
 let i = 0;
 function showVerse(){ const v = R.versets[i % R.versets.length];
   $("q").style.fontSize = v[0].length > 115 ? "30px" : (v[0].length > 75 ? "34px" : "38px");
-  $("q").textContent = v[0]; $("ref").textContent = v[1]; }
+  $("q").textContent = v[0].replace(/ ([!?;:»])/g, "\u00a0$1"); $("ref").textContent = v[1]; }
 showVerse();
 setInterval(()=>{ $("verse").classList.add("out");
   setTimeout(()=>{ i++; showVerse(); $("verse").classList.remove("out"); }, 1300); }, R.secondes * 1000);

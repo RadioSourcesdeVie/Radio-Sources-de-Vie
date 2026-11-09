@@ -5,11 +5,23 @@ Priere Matin, Priere Soir, Temoignage, Sermon, Meteo
 Voix: Gemini TTS (repli automatique sur gTTS)
 """
 import json, argparse, re
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 import rsdv_voix
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
+
+def _fixer_date(valeur):
+    """--date demain  ou  --date AAAA-MM-JJ"""
+    global TODAY, ITEMS
+    if not valeur:
+        return
+    if valeur.lower() in ("demain", "tomorrow"):
+        TODAY = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
+    else:
+        datetime.strptime(valeur, "%Y-%m-%d")
+        TODAY = valeur
+    ITEMS = _construire_items(TODAY)
 
 def clean_for_tts(text):
     text = re.sub(r'\*\*(.*?)\*\*', r'\1', text)
@@ -37,13 +49,16 @@ def build_text(data):
     return "\n\n".join(parts)
 
 # (json, mp3, libelle, cle de voix - None = choisie selon le narrateur)
-ITEMS = [
-    (f"content/prayers/matin_{TODAY}.json",  f"audio/prayers/matin_{TODAY}.mp3",  "Priere Matin", "priere_matin"),
-    (f"content/prayers/soir_{TODAY}.json",   f"audio/prayers/soir_{TODAY}.mp3",   "Priere Soir",  "priere_soir"),
-    (f"content/testimonies/{TODAY}.json",     f"audio/testimonies/{TODAY}.mp3",    "Temoignage",   None),
-    (f"content/sermons/{TODAY}.json",         f"audio/sermons/{TODAY}.mp3",        "Sermon",       "sermon"),
-    (f"content/meteo/{TODAY}.json",           f"audio/meteo/{TODAY}.mp3",          "Meteo",        "meteo"),
-]
+def _construire_items(d):
+    return [
+        (f"content/prayers/matin_{d}.json", f"audio/prayers/matin_{d}.mp3", "Priere Matin", "priere_matin"),
+        (f"content/prayers/soir_{d}.json",  f"audio/prayers/soir_{d}.mp3",  "Priere Soir",  "priere_soir"),
+        (f"content/testimonies/{d}.json",   f"audio/testimonies/{d}.mp3",   "Temoignage",   None),
+        (f"content/sermons/{d}.json",       f"audio/sermons/{d}.mp3",       "Sermon",       "sermon"),
+        (f"content/meteo/{d}.json",         f"audio/meteo/{d}.mp3",         "Meteo",        "meteo"),
+    ]
+
+ITEMS = _construire_items(TODAY)
 
 def generate_meteo_audio():
     json_path = f"content/meteo/{TODAY}.json"
@@ -78,7 +93,10 @@ def generate_meteo_audio():
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("--eleven-key", required=False, default=None)
+    parser.add_argument("--date", default=None,
+                        help="demain, ou une date AAAA-MM-JJ")
     args = parser.parse_args()
+    _fixer_date(args.date)
 
     print(f"\n[RSDV] Generation audios quotidiens (Gemini TTS) -- {TODAY}\n")
     generate_meteo_audio()

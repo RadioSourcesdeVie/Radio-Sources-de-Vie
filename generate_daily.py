@@ -4,10 +4,21 @@ generate_daily.py — Prière du matin et du soir (10 min chacune)
 Radio Sources de Vie Chrétienne
 """
 import anthropic, json
-from datetime import datetime
+from datetime import datetime, timedelta
 from pathlib import Path
 
 TODAY = datetime.now().strftime("%Y-%m-%d")
+
+def _fixer_date(valeur):
+    """--date demain  ou  --date 2026-11-09"""
+    global TODAY
+    if not valeur:
+        return
+    if valeur.lower() in ("demain", "tomorrow"):
+        TODAY = (datetime.now() + timedelta(days=1)).strftime("%Y-%m-%d")
+    else:
+        datetime.strptime(valeur, "%Y-%m-%d")      # valide le format
+        TODAY = valeur
 HOUR  = datetime.now().hour
 
 SYSTEM_PASTOR = ("Tu es un pasteur chrétien évangélique francophone. Tu t'adresses aux Haïtiens "
@@ -139,7 +150,10 @@ def main():
     import argparse
     parser = argparse.ArgumentParser()
     parser.add_argument("--api-key", required=True)
+    parser.add_argument("--date", default=None,
+                        help="demain, ou une date AAAA-MM-JJ")
     args = parser.parse_args()
+    _fixer_date(args.date)
     client = anthropic.Anthropic(api_key=args.api_key)
     
     print(f"\n📻 Génération contenu quotidien — {TODAY}\n")
