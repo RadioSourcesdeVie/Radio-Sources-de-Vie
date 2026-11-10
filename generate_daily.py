@@ -191,6 +191,37 @@ def _mouvements(moment, psaume, histoire, texte_christ):
          f"Christ precede notre priere. {fin}"),
     ]
 
+# ---------------------------------------------------------------------------
+# Appel a l'action lu a la fin de chaque priere (texte + audio).
+# Texte fixe : aucun appel a l'IA, aucun cout. Pour le modifier, editer ici.
+# ---------------------------------------------------------------------------
+OUTRO_MATIN = (
+    "Avant de partir vivre ta journée, fais une chose pour quelqu'un d'autre : "
+    "écris un prénom dans les commentaires. Juste un prénom. C'est celui que je "
+    "porterai devant Dieu aujourd'hui, à ta place.\n\n"
+    "Et si tu connais quelqu'un qui s'est levé ce matin sans force, envoie-lui ce "
+    "lien. Tu n'as pas besoin de trouver les mots : la prière les a déjà trouvés "
+    "pour toi.\n\n"
+    "Reviens demain matin. Une âme qu'on nourrit un seul jour reste affamée. "
+    "Abonne-toi à Radio Sources de Vie et active la cloche : demain, la prière "
+    "sera déjà là avant même que tu la cherches."
+)
+
+OUTRO_SOIR = (
+    "Avant de poser ton téléphone, laisse un prénom dans les commentaires. Celui "
+    "de quelqu'un qui traverse une nuit difficile. Je le lirai, et je le "
+    "porterai.\n\n"
+    "Si cette prière t'a rejoint, elle peut en rejoindre un autre. Partage-la avec "
+    "celui qui, ce soir, n'arrive pas à fermer les yeux.\n\n"
+    "Et reviens demain soir. On ne bâtit pas une paix solide en une seule nuit : "
+    "on la bâtit soir après soir, comme on pose une pierre sur une autre. "
+    "Abonne-toi à Radio Sources de Vie pour ne plus avoir à la chercher : elle "
+    "t'attendra ici, à la même heure."
+)
+
+OUTROS = {"matin": OUTRO_MATIN, "soir": OUTRO_SOIR}
+
+
 def _generer_priere(client, moment):
     import random
     out = f"content/prayers/{moment}_{TODAY}.json"
@@ -212,6 +243,8 @@ def _generer_priere(client, moment):
         parties.append(gen(client, prompt, max_tokens=2000).strip())
 
     contenu = "\n\n".join(parties)
+    # Appel a l'action : lu dans l'audio ET affiche sur le site
+    contenu += "\n\n" + OUTROS[moment]
     mots = len(contenu.split())
     titre = ("Prière du Matin" if moment == "matin" else "Prière du Soir")
     save(out, {
