@@ -15,7 +15,10 @@ source .env
 
 DEMAIN=$(date -d tomorrow '+%Y-%m-%d' 2>/dev/null || date -v+1d '+%Y-%m-%d')
 echo "🌅 Priere du matin du $DEMAIN — preparee le $(date '+%d/%m a %Hh%M')"
-echo "===== PRIERE MATIN lancee le $(date) =====" >> "journal_taches.log"
+# Pas de ">> journal_taches.log" ici : lancer_priere_matin.bat redirige
+# deja toute la sortie dans ce fichier. Deux ecritures simultanees
+# donnent "Device or resource busy" sous Windows.
+echo "===== PRIERE MATIN lancee le $(date) ====="
 
 # 1) Texte
 python generate_daily.py --api-key "$ANTHROPIC_KEY" --type matin --date demain || exit 1
