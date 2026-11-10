@@ -14,7 +14,9 @@ echo "🙏 Contenu spirituel — $(date '+%Hh%M')"
 echo "===== SPIRITUEL lancé le $(date) =====" >> "journal_taches.log"
 
 # 1) Textes du jour : temoignage, sermon, priere du soir
-python generate_content.py --api-key "$ANTHROPIC_KEY" --type all
+# --type testimony et PAS --type all : "all" declenche aussi
+# l'ancienne priere courte, qui ecrasait celle de 10 minutes.
+python generate_content.py --api-key "$ANTHROPIC_KEY" --type testimony
 python generate_sermon.py  --api-key "$ANTHROPIC_KEY"
 python generate_daily.py   --api-key "$ANTHROPIC_KEY" --type soir
 

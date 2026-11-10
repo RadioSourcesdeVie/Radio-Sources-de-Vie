@@ -217,6 +217,12 @@ def generate(client, content_type):
         if content_type == "prayer":
             # Sauvegarder matin
             out_file_matin = out_dir / f"matin_{TODAY}.json"
+            # Ne JAMAIS ecraser : generate_daily.py produit des prieres de
+            # 10 minutes, bien meilleures. Les ecraser par celle-ci serait
+            # une perte seche.
+            if out_file_matin.exists():
+                print(f"⏭️  prayer matin : {out_file_matin} existe deja, on n'y touche pas")
+                return True
             data["moment"] = "matin"
             out_file_matin.write_text(json.dumps(data, ensure_ascii=False, indent=2), encoding="utf-8")
             print(f"✅  {content_type} matin → {out_file_matin}")
@@ -247,6 +253,9 @@ Réponds UNIQUEMENT en JSON valide:
             data2 = json.loads(raw2)
             data2["moment"] = "soir"
             out_file_soir = out_dir / f"soir_{TODAY}.json"
+            if out_file_soir.exists():
+                print(f"⏭️  prayer soir : {out_file_soir} existe deja, on n'y touche pas")
+                return True
             out_file_soir.write_text(json.dumps(data2, ensure_ascii=False, indent=2), encoding="utf-8")
             print(f"✅  {content_type} soir → {out_file_soir}")
         else:
