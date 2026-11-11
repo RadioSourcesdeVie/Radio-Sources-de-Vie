@@ -3,19 +3,19 @@
   "title": "Meteo du 11 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 9.85,
-    "feels_like": 7,
-    "humidity": 76,
-    "description": "Averses de pluie",
-    "wind_kmh": 22.2
+    "temp": 3.11,
+    "feels_like": 0.17,
+    "humidity": 82,
+    "description": "Peu nuageux",
+    "wind_kmh": 11.1
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 32.79,
-    "feels_like": 39.69,
-    "humidity": 62,
-    "description": "Légère pluie",
-    "wind_kmh": 7.4
+    "temp": 25.09,
+    "feels_like": 25.53,
+    "humidity": 72,
+    "description": "Nuageux",
+    "wind_kmh": 15.7
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 11 novembre 2026 sur Radio Sources de Vie. A Ottawa: 10 degres Celsius. Averses de pluie. A Port-au-Prince: 33 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 11 novembre 2026 sur Radio Sources de Vie. A Ottawa: 3 degres Celsius. Peu nuageux. A Port-au-Prince: 25 degres Celsius. Nuageux. Que Dieu benisse votre journee!"
 }
