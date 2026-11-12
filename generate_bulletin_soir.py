@@ -59,14 +59,68 @@ Consignes:
 - Style journal radio parlé, fluide, jamais une liste de titres collés
 - Mentionne explicitement 2 à 4 sources par leur nom (ex: "selon France 24...", "rapporte Morning Star News...") pour la crédibilité
 - Reste fidèle aux faits donnés ci-dessus, n'invente aucun fait
-- Commence par une transition naturelle vers le sujet, pas juste le nom de la catégorie tout sec
+- Tu es DÉJÀ à l'antenne, au milieu du journal. N'écris AUCUNE salutation : pas de "bonsoir", pas de "bonjour", pas de "chers auditeurs", pas de "vous écoutez Radio Sources de Vie". Les auditeurs ont été salués à l'ouverture.
+- Ne te présente pas non plus : n'écris pas "c'est {cat['presenter']}" ni "je suis {cat['presenter']}". L'auditeur sait déjà qui parle.
+- N'écris AUCUN titre de section en tête du texte : pas de "NOUVELLES D'HAÏTI", pas de "Sport". La voix lirait ce titre à voix haute.
+- Enchaîne directement sur le sujet, par une transition courte qui fait suite à ce qui précède.
 - N'utilise AUCUN symbole markdown (pas de **, pas de #, pas de _)"""
     msg = client.messages.create(
         model="claude-haiku-4-5-20251001", max_tokens=900,
         system=SYSTEM,
         messages=[{"role": "user", "content": prompt}]
     )
-    return msg.content[0].text.strip()
+    return sans_salutation(msg.content[0].text.strip())
+
+
+# Une salutation est courte. On borne a 110 caracteres pour ne jamais
+# avaler une phrase qui porte une information.
+SALUT = re.compile(
+    r"^\s*(?:bonsoir|bonjour|re[\- ]?bonsoir)\b[^.!?\n]{0,110}[.!?]\s*",
+    re.IGNORECASE,
+)
+
+
+def sans_salutation(texte: str) -> str:
+    """
+    Retire ce que la voix ne doit pas dire en milieu de journal : un titre
+    de section en capitales, et une salutation en tete.
+
+    On ne touche a RIEN d'autre. Une phrase du type « Je suis Charline, et
+    nous voila au coeur du sujet » porte du contenu apres la virgule :
+    la supprimer couperait le texte. C'est la consigne d'ecriture qui
+    empeche ces phrases, pas ce filet — il n'est la que pour les rares
+    fois ou le modele salue quand meme.
+
+    Charline salue a l'ouverture du journal, Antoine a la reprise.
+    Nulle part ailleurs.
+    """
+    t = texte.lstrip()
+
+    # Titre de section seul sur sa premiere ligne, tout en capitales
+    lignes = t.split("\n")
+    while lignes:
+        tete = lignes[0].strip()
+        lettres = [c for c in tete if c.isalpha()]
+        if (0 < len(tete) <= 60 and lettres
+                and all(c.isupper() for c in lettres)
+                and not tete.endswith((".", "!", "?"))):
+            lignes = lignes[1:]
+            while lignes and not lignes[0].strip():
+                lignes = lignes[1:]
+        else:
+            break
+    t = "\n".join(lignes).lstrip()
+
+    # Une seule salutation en tete, jamais plus
+    t = SALUT.sub("", t, count=1).lstrip()
+
+    # Si ce qui reste commence par une conjonction, la phrase a ete
+    # coupee en deux : on remet une majuscule plutot qu'un « et » nu.
+    for mot in ("et ", "mais ", "car ", "donc ", "or "):
+        if t.lower().startswith(mot):
+            t = t[len(mot):].lstrip()
+            break
+    return (t[0].upper() + t[1:]) if t else t
 
 
 def clean_for_tts(text: str) -> str:

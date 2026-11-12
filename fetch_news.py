@@ -13,7 +13,7 @@ HEADERS = {"User-Agent": "Mozilla/5.0 Chrome/120.0 Safari/537.36"}
 
 FEEDS = {
     "chretien": [
-        {"url": "https://morningstarnews.org/feed/",             "source": "Morning Star News"},
+        {"url": "https://morningstarnews.org/feed/",             "source": "Morning Star News", "lang": "en"},
         {"url": "https://www.porteouverte.org/feed/",            "source": "Porte Ouverte"},
         {"url": "https://www.evangeliques.info/feed/",           "source": "Évangéliques Info"},
         {"url": "https://www.chretiens.info/feed/",              "source": "Chrétiens Info"},
@@ -42,7 +42,8 @@ def fetch_feed(feed_conf, max_items=5):
         if r.status_code == 200:
             d = feedparser.parse(r.content)
             if d.entries:
-                return parse_entries(d.entries[:max_items], feed_conf["source"])
+                return parse_entries(d.entries[:max_items], feed_conf["source"],
+                                 feed_conf.get("lang", "fr"))
     except Exception:
         pass
     # Essai 2: proxy RSS2JSON
@@ -57,7 +58,8 @@ def fetch_feed(feed_conf, max_items=5):
                     desc = re.sub(r"<[^>]+>", "", item.get("description","")).strip()[:300]
                     items.append({"title": item.get("title","Sans titre"),
                         "link": item.get("link","#"), "desc": desc,
-                        "date": item.get("pubDate",""), "source": feed_conf["source"]})
+                        "date": item.get("pubDate",""), "source": feed_conf["source"],
+                        "lang": feed_conf.get("lang", "fr")})
                 return items
     except Exception:
         pass
@@ -65,12 +67,13 @@ def fetch_feed(feed_conf, max_items=5):
     try:
         d = feedparser.parse(feed_conf["url"])
         if d.entries:
-            return parse_entries(d.entries[:max_items], feed_conf["source"])
+            return parse_entries(d.entries[:max_items], feed_conf["source"],
+                                 feed_conf.get("lang", "fr"))
     except Exception as e:
         print(f"  ⚠️  {feed_conf['source']}: {e}")
     return items
 
-def parse_entries(entries, source):
+def parse_entries(entries, source, lang="fr"):
     items = []
     for entry in entries:
         pub_date = ""
@@ -79,10 +82,100 @@ def parse_entries(entries, source):
         desc = re.sub(r"<[^>]+>","",entry.get("summary","")).strip()[:300]
         items.append({"title": entry.get("title","Sans titre"),
             "link": entry.get("link","#"), "desc": desc,
-            "date": pub_date, "source": source})
+            "date": pub_date, "source": source, "lang": lang})
     return items
 
+ANGLAIS = re.compile(
+    r"\b(the|and|with|from|after|says|said|against|among|killed|attack|"
+    r"church|christian|children|police|court|report|government|people|"
+    r"years|leader|death|sentenced|building|threatened|home|faith)\b",
+    re.IGNORECASE,
+)
+
+
+def semble_anglais(article):
+    """Filet, pour l'article anglais isole dans un flux francophone."""
+    texte = f"{article.get('title','')} {article.get('desc','')}"
+    if not texte.strip():
+        return False
+    anglais = len(set(m.lower() for m in ANGLAIS.findall(texte)))
+    accents = sum(texte.count(c) for c in "éèêëàâçùûîïôœ")
+    return anglais >= 3 and accents <= 1
+
+
+def traduire(articles, cle):
+    """
+    Traduit en francais les articles qui n'y sont pas.
+
+    Tout ce qui sort d'ici part sur le site, dans le journal du soir et
+    dans les flux RSS. Un titre anglais sur une radio francophone est
+    une faute visible : si la traduction echoue, on ECARTE l'article
+    plutot que de le publier tel quel.
+
+    Renvoie la liste gardee.
+    """
+    a_faire = [a for a in articles
+               if a.get("lang") == "en" or semble_anglais(a)]
+    if not a_faire:
+        return articles
+    if not cle:
+        print(f"  ⚠️  {len(a_faire)} articles en anglais écartés (pas de clé API)")
+        return [a for a in articles if a not in a_faire]
+
+    try:
+        import anthropic
+    except ImportError:
+        print(f"  ⚠️  {len(a_faire)} articles en anglais écartés (anthropic absent)")
+        return [a for a in articles if a not in a_faire]
+
+    lot = [{"i": i, "titre": a.get("title", ""), "resume": a.get("desc", "")}
+           for i, a in enumerate(a_faire)]
+    prompt = (
+        "Traduis en francais ces titres et resumes de depeches, pour une "
+        "radio chretienne francophone.\n\n"
+        "Garde le ton d'une depeche : sobre, factuel, pas de commentaire. "
+        "Conserve les noms propres, les lieux et les chiffres tels quels. "
+        "Ne raccourcis pas, ne resume pas, ne rajoute rien.\n\n"
+        f"{json.dumps(lot, ensure_ascii=False, indent=1)}\n\n"
+        "Reponds UNIQUEMENT par un tableau JSON de la meme longueur et dans "
+        'le meme ordre : [{"i": 0, "titre": "...", "resume": "..."}, ...]'
+    )
+    try:
+        client = anthropic.Anthropic(api_key=cle)
+        msg = client.messages.create(
+            model="claude-haiku-4-5-20251001", max_tokens=4000,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        brut = msg.content[0].text.strip()
+        if "```" in brut:
+            brut = brut.split("```")[1]
+            if brut.startswith("json"):
+                brut = brut[4:]
+        d, f = brut.find("["), brut.rfind("]")
+        traductions = json.loads(brut[d:f + 1])
+        par_indice = {int(x["i"]): x for x in traductions}
+        if len(par_indice) != len(a_faire):
+            raise ValueError(
+                f"{len(par_indice)} traductions pour {len(a_faire)} articles")
+        for i, a in enumerate(a_faire):
+            tr = par_indice[i]
+            a["title"] = tr.get("titre") or a["title"]
+            a["desc"] = tr.get("resume") or a.get("desc", "")
+            a["lang"] = "fr"
+            a["traduit_de"] = "en"
+        print(f"  🌍 {len(a_faire)} articles traduits de l'anglais")
+        return articles
+    except Exception as e:
+        print(f"  ⚠️  traduction impossible ({e}) — {len(a_faire)} articles écartés")
+        return [a for a in articles if a not in a_faire]
+
+
 def main():
+    import argparse, os
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--api-key", default=os.environ.get("ANTHROPIC_KEY", ""))
+    cle = ap.parse_args().api_key
+
     all_news = {}
     total = 0
     for category, feeds in FEEDS.items():
@@ -93,6 +186,7 @@ def main():
             articles.extend(items)
             total += len(items)
             print(f"  {'✅' if items else '⚠️ '} {f['source']}: {len(items)} articles")
+        articles = traduire(articles, cle)
         articles.sort(key=lambda x: x.get("date",""), reverse=True)
         all_news[category] = articles[:20]
 

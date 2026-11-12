@@ -4,7 +4,9 @@ export PYTHONUTF8=1
 echo "===== NEWS lancé le $(date) — copie démarrée =====" >> "/c/Users/avena/Desktop/Radio Sources De Vie/journal_taches.log"
 source .env
 echo "📰 Nouvelles — $(date '+%Hh%M')"
-python fetch_news.py
+# --api-key : traduit en francais les depeches des sources anglophones
+# (Morning Star News) avant qu'elles partent sur le site et dans le journal.
+python fetch_news.py --api-key "$ANTHROPIC_KEY"
 python generate_resumes.py --api-key "$ANTHROPIC_KEY"
 python generate_rss.py --type news
 cp "audio/resumes/haiti_$(date '+%Y-%m-%d').mp3" "Nouvelles/Radio SDV Nouvelle Haïti/resume_haiti.mp3" 2>/dev/null || true
