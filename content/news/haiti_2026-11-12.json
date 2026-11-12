@@ -1,8 +1,64 @@
 {
   "category": "haiti",
   "date": "2026-11-12",
-  "updated": "2026-11-12T10:00:22.375625Z",
+  "updated": "2026-11-12T19:00:21.310235Z",
   "articles": [
+    {
+      "title": "CHARTRES - Dédicace : La photographie en Haïti - Radio Intensité",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1aTXIyUXBuZzRKVTBsb3J3TkN1VlhNVXltZk9QMUpPVGdwMS1mUF8yN2lkQ3NEZ3NId2o1SFBIek14Wjl0R2gyNGVVY2ZEd1lSb0tZYmF2QW9iU2FTRWFZVGV0eGZxanF5R21tMUtvWkJDaUd0UUY0?oc=5",
+      "desc": "CHARTRES - Dédicace : La photographie en Haïti&nbsp;&nbsp;Radio Intensité",
+      "date": "2026-11-12T17:59:20",
+      "source": "Google News Haiti",
+      "lang": "fr"
+    },
+    {
+      "title": "🎙️ Haïti : massacres, décapitations, viols collectifs – plus de 1 100 morts en 3 mois - UN News",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9pWjFKclMwU2RaY05lX2FxSFpUeXljTmlLdm1kWnhHRGQwbFE5c0ZZTUVBb2NkNW9manUtSDNaSkRqWkowUHBKUHFVdjBfM0NVRWViQXU5dw?oc=5",
+      "desc": "🎙️ Haïti : massacres, décapitations, viols collectifs – plus de 1 100 morts en 3 mois&nbsp;&nbsp;UN News",
+      "date": "2026-11-12T17:19:50",
+      "source": "Google News Haiti",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Loisirs : Le Saviez-vous ? #76",
+      "link": "https://www.haitilibre.com/article-48882-haiti-loisirs-le-saviez-vous-76.html",
+      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? » Aujourd&apos;hui nous vous demandons, quelle est la capitale de l&apos;Australie, créée pour mettre fin à la rivalité entre Sydney et Melbourne...?",
+      "date": "2026-11-12T15:05:40",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Actualité : Zapping...",
+      "link": "https://www.haitilibre.com/article-48881-haiti-actualite-zapping.html",
+      "desc": "2 nouveaux candidats à la Présidence - Drones kamikazes : Panique à Martissant et Carrefour - 4,200 personnes tuées en 9 mois - Moralité ou ingérence ? - FRG : Saisie d&apos;armes et de munitions (vidéo) - Foot : Patrick Emeka Nwadike rejoint les Grenadiers…",
+      "date": "2026-11-12T14:46:39",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "iciHaïti - Éducation : Le Lycée national de Pétion-Ville célèbre ses 63 ans",
+      "link": "https://www.icihaiti.com/article-48880-icihaiti-education-le-lycee-national-de-petion-ville-celebre-ses-63-ans.html",
+      "desc": "Le Lycée national de Pétion-Ville a célébré ses 63 ans de fondation et les 40 ans de l&apos;Association des anciens élèves. Levée du drapeau accompagné par la fanfare du Lycée, messe d&apos;action de grâce à l&apos;Église Saint-Pierre, défilé d&apos;élèves...",
+      "date": "2026-11-12T14:15:01",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Économie : Clôture de deux journées de formation du projet «Zouti pou Demen»",
+      "link": "https://www.haitilibre.com/article-48879-haiti-economie-cloture-de-deux-journees-de-formation-du-projet-zouti-pou-demen.html",
+      "desc": "James Monazard, le Ministre du Commerce et de l&apos;Industrie, a clôturé, deux journées de formation en entrepreneuriat organisées à l&apos;Hôtel Montana, à Pétion-ville, au profit des bénéficiaires du projet « Zouti pou Demen »…",
+      "date": "2026-11-12T13:56:44",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "iciHaïti - Taïwan : Projet d'amélioration de la production rizicole dans l'Artibonite",
+      "link": "https://www.icihaiti.com/article-48878-icihaiti-taiwan-projet-d-amelioration-de-la-production-rizicole-dans-l-artibonite.html",
+      "desc": "En novembre 2026, la Mission technique de Taïwan en Haïti poursuit les inspections des champs de production de semences de riz. L&apos;équipe technique examine attentivement les parcelles afin de repérer les plants appartenant à d&apos;autres variétés…",
+      "date": "2026-11-12T13:44:12",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
     {
       "title": "Haïti : les opérations militaires d'El Salvador validées par les autorités haïtiennes et le Président de la République dominicaine - Outre-mer La 1ère",
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxPN0g1aVg5MGZUXzkxMElQd1lMTUxpUUdzblNMd2ZGcU5HSU44dDgyb2ZKNmtXWkdXMkxwNExoTThZWFB2ZGEtT21wM2FFT3VibHdTSkxCTTNkSlF5SGtWcVZ0bGZrd0c5MnVweWZEdTRYMzhnUU0yNW5rRHR3NWdhS0FrdnlIbThMb2dJYU5QR0d2bjZleUFSS016OU1uUE04U1l5TjdYZnk0ZGxjMzdwQVFzODdMYUdXQktzeW1jeEM1SnE1TllLYUU2MmsyQkUtdmpiNzJkNHRiZ1RjazlOaTVIU0x2bVdNNlJEQWl5Wkw2X0tXS1RtcTNRZE5GbWhhakp3VDhVcHNqbnJYTWc?oc=5",
@@ -12,58 +68,10 @@
       "lang": "fr"
     },
     {
-      "title": "Haïti: les militaires salvadoriens frappent le quartier général d'un chef de gang - RFI",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZGItbWRIWk04QWc2VUZnWDMzLXNyUzRMSVF5Mk9rN0lnSm9qdDd4ZVJLS2tmcW5Ycm82MVpoWTNrWm5TTzhHOWhKUE80aU00dzZLak1wMkk5eHY2aXRYTFJfNDNPRzdfaFZyWlJodkZxcnRTYml0em0wYmoyZGVvQTZLNTRiNHdRSlVqLTVWekw5LXVocXFFT0ZkeFRUUnFoRVdEUjdpbHctMkRodlhuYlFzQUF4a1hocmp3T25aR1ZuSDdVRHkzbUQ2ekFqQlBIR0FOeF9DaXk?oc=5",
-      "desc": "Haïti: les militaires salvadoriens frappent le quartier général d'un chef de gang&nbsp;&nbsp;RFIQuand Nayib Bukele exporte sa méthode en Haïti : en trois semaines, il bouscule les gangs comme l’ONU n’a pas su le faire en plus de trente ans&nbsp;&nbsp;AtlanticoEn Haïti, Bukele à l'offensive contre le",
-      "date": "2026-11-11T16:21:19",
-      "source": "Google News Haiti",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Loisirs : Le Saviez-vous ? #75",
-      "link": "https://www.haitilibre.com/article-48874-haiti-loisirs-le-saviez-vous-75.html",
-      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? » Aujourd&apos;hui nous vous demandons, quel nom porte la variante du jeu de cache-cache pratiquée la nuit en extérieur avec des signaux sonores pour s&apos;orienter...",
-      "date": "2026-11-11T15:13:22",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Actualité : Zapping...",
-      "link": "https://www.haitilibre.com/article-48873-haiti-actualite-zapping.html",
-      "desc": "Marco Rubio met en garde - Mineau Jolimeau boursier en Droit maritime - Kayden Pierre rejoint les Grenadiers - Haïti à la XIX? Rencontre interaméricaine des autorités électorales - Formation pour 60 jeunes déplacés - La Chancelière Forbin s&apos;entretien...",
-      "date": "2026-11-11T15:02:52",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "iciHaïti - Expo Internationales : Formation en préparation, organisation et gestion des pavillons haïtiens",
-      "link": "https://www.icihaiti.com/article-48872-icihaiti-expo-internationales-formation-en-preparation-organisation-et-gestion-des-pavillons-haitiens.html",
-      "desc": "Dans le cadre de sa visite officielle en France, Raina Forbin, la Ministre des Affaires Étrangères s&apos;est entretenue avec Dimitri S. Kerkentzes le Secrétaire général du Bureau international des expositions…",
-      "date": "2026-11-11T14:32:09",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Économie : Signature d'un accord entre Cap-Haïtien et le Canada",
-      "link": "https://www.haitilibre.com/article-48871-haiti-economie-signature-d-un-accord-entre-cap-haitien-et-le-canada.html",
-      "desc": "Mardi 10 novembre, la Mairie du Cap-Haïtien et la Chambre de Commerce Haïtienne du Canada ont signé un protocole d&apos;accord visant à renforcer la coopération économique, à promouvoir les investissements entre les milieux d&apos;affaires du Cap et du Canada…",
-      "date": "2026-11-11T14:30:08",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Politique : Kenscoff regarde à nouveau vers l'avenir (discours vidéo du P.M.)",
-      "link": "https://www.haitilibre.com/article-48870-haiti-politique-kenscoff-regarde-a-nouveau-vers-l-avenir-discours-video-du-pm.html",
-      "desc": "Mardi 10 novembre 2026, le Premier Ministre Alix Didier Fils-Aimé s&apos;est rendu à Kenscoff pour une visite de proximité marquée par l&apos;écoute, la solidarité et l&apos;action…",
-      "date": "2026-11-11T13:57:07",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Marie Madeleine, un film tourné en Haïti - martinique.franceantilles.fr",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQX1NuWEJNeUxQTThUTmNybFhGaVR6Wkk4SlZMSzluTGlUOXFoM0NkTXpSSWxDRkFxNjItd2oxX3dzNWNvSkdDaWg5dXpka1Y0dDA4cTVDV0tXaGpyZWhETGo1cTc3dllfYjljMVhTb1JVZnl3Z01PaTBZamZPMldfdHV1TmI4MFZEdUVEWUJDQllGVHcyTUNReDViVTRmbnpBYUtYYWdiWnRUdHFURGpN?oc=5",
-      "desc": "Marie Madeleine, un film tourné en Haïti&nbsp;&nbsp;martinique.franceantilles.fr",
-      "date": "2026-11-11T07:13:57",
+      "title": "En Haïti, le président salvadorien Nayib Bukele promet de \"faire le ménage\", mais que peuvent faire ses 2 000 soldats face aux gangs - franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxQbFl3SzZlSWlCTld4SzE0aHBlSW9GbWZJTjFpYk5qWURLZlJZeUtlc0RHYUNJb1pGUVhvbWltYmlKZjBUeDVBdlh6cVlyY0pDbjlLX1U5RUY1dHZHWmpGR1JrdGU3TERQLW1Fdmo5X29iazFldVZBYm1Cc0tTVlp2ek1rSzBlWGFDUXBibkJXZ0RDOHJ6NTJlQzllaWd5NGhCYkJKLWNEZXVReTIwUWdFcmZqYkpwT1BzTkRac1VVVW9aTUgzUGdPMThPeFloMk02UGItWGgxNnRuZ0JFUFJ6VFYtUmdvd1hoNUZxVUczUXlmNHVqampMdWVrQmdmeVBEdmFwNDV6RVRvWTNWQjQ0Yw?oc=5",
+      "desc": "En Haïti, le président salvadorien Nayib Bukele promet de \"faire le ménage\", mais que peuvent faire ses 2 000 soldats face aux gangs&nbsp;&nbsp;franceinfoHaïti: les militaires salvadoriens frappent le quartier général d'un chef de gang&nbsp;&nbsp;RFIHaïti: le \"quartier général\" d'un gang détruit par",
+      "date": "2026-11-10T05:02:12",
       "source": "Google News Haiti",
       "lang": "fr"
     },
@@ -72,14 +80,6 @@
       "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxQLXZ0dWZOamJKb3NVdEdRelMzX1czekZfVlNnWmdjbjJaX2pmMHlkWklva3dTQ1pIeW9NZ0EzREJGd205V0ZaYlVOY2VXOFFNMEVhOHNySW4xNXZqVkNMRTZWU2w2X2pfSHBXb0Z5d09HUzRhOV9UYmxxUERYYUpmZjFVN3V2bjEwcEtxQ05FSE05YXRSRjU4VzB2STNDSWIxRFpxM1Z1YklSY2hmdlVuVHFhSlAwaFZSdEhfcW1QWDJPbl8xN3FraWFjaXVVZHJqblhBRTV0aUltdXBYYXd6LTVsYktvaHlKRUd2aWZGSEdJTGM5RW5tLXZRYXdRMW5HNk5JeDlvWGRxNzhKWWc?oc=5",
       "desc": "Haïti. Les gouvernements d’Haïti et du Salvador doivent veiller à ce que le déploiement de militaires salvadoriens respecte les droits humains&nbsp;&nbsp;Amnesty International",
       "date": "2026-11-09T15:05:39",
-      "source": "Google News Haiti",
-      "lang": "fr"
-    },
-    {
-      "title": "L’envoi de troupes en Haïti : le pari régional de Bukele - BBC",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBITDdZQjlBQWZNU3RhcGhjcm1taU92NjM3a01odFpkaFNwSnltZ2VUM0xwNXg5SmlMMkhzTlB5ZlB4TExIX0k0VnRldlltR0t3R1VycHZNZkt4a1Ateklj0gFkQVVfeXFMTS1CcUtEc28tQzMxdm1iM3ROVjVYRXBWM0FYWVVQRlNWMU0tTWRGS0hRSDl0UXEzWXA2N1NTenRvSU1MQ1duVjlJNkhxUEQxNVVpLS1YblRBelVxc05TODVkbFBGcw?oc=5",
-      "desc": "L’envoi de troupes en Haïti : le pari régional de Bukele&nbsp;&nbsp;BBC",
-      "date": "2026-11-09T08:13:45",
       "source": "Google News Haiti",
       "lang": "fr"
     }
