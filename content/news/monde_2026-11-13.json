@@ -1,14 +1,102 @@
 {
   "category": "monde",
   "date": "2026-11-13",
-  "updated": "2026-11-13T10:00:20.819251Z",
+  "updated": "2026-11-13T19:00:24.495001Z",
   "articles": [
     {
-      "title": "Manifestations du 14 novembre : parcours, revendications, sécurité... Ce qu'il faut savoir",
-      "link": "https://www.france24.com/fr/france/20261113-manifestations-du-14-novembre-parcours-revendications-s%C3%A9curit%C3%A9-ce-qu-il-faut-savoir",
-      "desc": "Les organisations de jeunesse et la coordination des gilets jaunes ont appelé à manifester samedi dans toute la France pour l'acte V du mouvement contre la \"vie chère\". À Paris, le cortège partira de la place de la République pour rejoindre Nation, avec plusieurs collectifs mobilisés autour d'autres",
-      "date": "2026-11-13T09:43:27",
+      "title": "🔴 En direct : les Européens seront représentés par cinq pays, dont la France, aux négociations sur l'Ukraine",
+      "link": "https://www.france24.com/fr/europe/20261113-en-direct-ukraine-russie-europeens-presents-prochaines-negociations-zelensky-poutine",
+      "desc": "",
+      "date": "2026-11-13T18:48:32",
       "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Projet de loi résilience : comment la France veut rattraper son retard en cybersécurité",
+      "link": "https://www.france24.com/fr/france/20261113-projet-de-loi-r%C3%A9silience-comment-la-france-veut-rattraper-son-retard-en-cybers%C3%A9curit%C3%A9",
+      "desc": "Alors que les cyberattaques se multiplient en France, l’Assemblée s'apprête à adopter, mardi, la loi résilience sur le renforcement de la cybersécurité. Retardé depuis deux ans, le texte multiplie par dix le nombre d’entités régulées et impose des sanctions financières en cas de manquement aux oblig",
+      "date": "2026-11-13T18:36:52",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Urgence climatique : la rente pétrolière difficile à lâcher ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261113-urgence-climatique-la-rente-p%C3%A9troli%C3%A8re-difficile-%C3%A0-l%C3%A2cher",
+      "desc": "Alors que l’urgence climatique s’aggrave, la mobilisation politique s’essouffle. Ouverte ce lundi à Antalya, en Turquie, la COP31 se déroule dans une indifférence quasi générale. L’absence de nombreux dirigeants, les divisions persistantes et l’opposition de l’Amérique de Donald Trump à l’action cli",
+      "date": "2026-11-13T18:26:21",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Éliminatoires de la CAN 2027 : le Nigeria se relance, la Tunisie chute et se met en danger",
+      "link": "https://www.france24.com/fr/sports/20261113-eliminatoires-can-2027-nigeria-relance-tunisie",
+      "desc": "La troisième journée des éliminatoires de la CAN 2027 continue. Le Nigeria s'est imposé à domicile face à la Tanzanie (3-1) tandis que la Tunisie s'est inclinée contre la Libye (0-2).",
+      "date": "2026-11-13T18:01:57",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Un radar américain détruit par l'Iran ? Cette image modifiée par IA montre une destruction ancienne",
+      "link": "https://www.france24.com/fr/moyen-orient/20261113-un-radar-am%C3%A9ricain-d%C3%A9truit-par-l-iran-cette-image-modifi%C3%A9e-par-ia-montre-une-destruction-ancienne",
+      "desc": "Le 13 novembre, l'Iran a affirmé avoir détruit un radar américain à Bahreïn, ce que les États-Unis démentent. Une image satellite modifiée par IA, censée prouver l'attaque iranienne, a ensuite circulé en ligne. Elle avait été publiée dès juin, après de précédentes attaques iraniennes qui avaient bie",
+      "date": "2026-11-13T17:53:20",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "4 faits concernant le scandale des \"contrats sexuels\" impliquant l'ancien président colombien Gustavo Petro",
+      "link": "https://www.bbc.com/afrique/articles/cmg46q3nx0d2o?at_medium=RSS&at_campaign=rss",
+      "desc": "L'ancien président ne nie pas sa relation avec cette femme, mais réfute catégoriquement les allégations selon lesquelles il aurait octroyé des contrats gouvernementaux en échange de faveurs sexuelles.",
+      "date": "2026-11-13T17:20:40",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "« Tu ne l'as même pas dit à ta meilleure amie ». Les séquelles de l'accouchement qui ne disparaissent jamais",
+      "link": "https://www.bbc.com/afrique/articles/cq5y15l1111yo?at_medium=RSS&at_campaign=rss",
+      "desc": "De l'incontinence à la douleur chronique, des millions de femmes continuent de souffrir, même des décennies plus tard.",
+      "date": "2026-11-13T14:34:07",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Yémen : la crise des déplacés s’aggrave, l'aide humanitaire entravée",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159839",
+      "desc": "Plus de 340 000 personnes ont été contraintes de fuir leur foyer au Yémen, sur fond de violences persistantes et d’insécurité croissante. Alors que les besoins humanitaires s’aggravent, les restrictions imposées sur des axes de transport essentiels compliquent l’acheminement de l’aide, alerte vendre",
+      "date": "2026-11-13T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Qui décide de la mort ? L’ONU veut barrer la route aux robots tueurs",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159838",
+      "desc": "« Une machine ne doit jamais avoir le pouvoir de décider si un être humain survit ou meurt ». Face à l’essor des armes autonomes et à l’emprise grandissante de l’intelligence artificielle (IA) sur les opérations militaires, le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, pr",
+      "date": "2026-11-13T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Tuberculose : les décès reculent, mais la lutte contre l’épidémie reste à la traîne",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159837",
+      "desc": "Malgré une baisse de la mortalité, la tuberculose a encore tué plus d’un million de personnes en 2025. Dans son rapport annuel&nbsp;publié jeudi, l’Organisation mondiale de la santé (OMS) s’inquiète de la lenteur des progrès et de la diminution de l’aide internationale, qui menace de fragiliser les ",
+      "date": "2026-11-13T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "RDC : la guerre et Ebola aggravent une crise alimentaire qui menace 30 millions de personnes",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159836",
+      "desc": "Six mois après son apparition, l’épidémie d’Ebola a fait plus de 5&nbsp;400 morts dans l’est de la République démocratique du Congo. Alors que les violences entravent la riposte sanitaire, quatre agences des Nations Unies alertent sur une crise alimentaire qui pourrait toucher plus de 30 millions de",
+      "date": "2026-11-13T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Ce que les religions disent sur la fin du monde",
+      "link": "https://www.bbc.com/afrique/articles/c8r4gx307x2qo?at_medium=RSS&at_campaign=rss",
+      "desc": "Bien que les musulmans sachent, d'après divers textes sacrés, que la fin du monde sera un vendredi, et que le 13 tombe également un vendredi, il n'y a aucune certitude à ce sujet.",
+      "date": "2026-11-13T11:49:01",
+      "source": "BBC Afrique",
       "lang": "fr"
     },
     {
@@ -20,14 +108,6 @@
       "lang": "fr"
     },
     {
-      "title": "🔴 En direct : une panne mondiale touche Outlook, \"aucun signe de cyberattaque\" selon Microsoft",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261112-une-panne-mondiale-affecte-la-messagerie-outlook-de-microsoft",
-      "desc": "",
-      "date": "2026-11-13T09:16:40",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
       "title": "Ce que nous savons de la panne mondiale de Microsoft",
       "link": "https://www.bbc.com/afrique/articles/c8zx9d0y6vdno?at_medium=RSS&at_campaign=rss",
       "desc": "Microsoft a déclaré que la panne n'était pas due à un incident de cybersécurité, mais les efforts déployés pour résoudre les problèmes ont jusqu'à présent été largement infructueux.",
@@ -36,89 +116,9 @@
       "lang": "fr"
     },
     {
-      "title": "Éliminatoires CAN 2027 : Sénégal, Cameroun, Côte d'Ivoire... les cadors à la fête",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261113-%C3%A9liminatoires-can-2027-s%C3%A9n%C3%A9gal-cameroun-c%C3%B4te-ivoire-cadors-f%C3%AAte",
-      "desc": "Les favoris ont répondu présents dans les éliminatoires de la CAN 2027. Le Sénégal a largement dominé le Soudan pour la première du sélectionneur Patrick Vieira à domicile, tandis que le Cameroun et la Côte d'Ivoire ont poursuivi leur marche vers la qualification.",
-      "date": "2026-11-13T07:18:24",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Colère sociale : l'arsenal antiterroriste né des attentats de 2015 utilisé contre les manifestants",
-      "link": "https://www.france24.com/fr/france/20261113-col%C3%A8re-sociale-l-arsenal-antiterroriste-n%C3%A9-des-attentats-de-2015-utilis%C3%A9-contre-les-manifestants",
-      "desc": "Alors que la France est secouée par la mobilisation lycéenne et des manifestations contre la vie chère, des associations de défense des droits de l'Homme dénoncent l'utilisation par le gouvernement de mesures héritées de l'état d'urgence décrété suite aux attentats de 2015. Elles ont notamment été e",
-      "date": "2026-11-13T06:08:25",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Fléau des féminicides au Mexique : dans le Morelos règne l'impunité",
-      "link": "https://www.france24.com/fr/%C3%A9missions/focus/20261113-fl%C3%A9au-des-f%C3%A9minicides-au-mexique-dans-le-morelos-r%C3%A8gne-l-impunit%C3%A9",
-      "desc": "Dès son arrivée au pouvoir, Claudia Sheinbaum, première femme présidente du Mexique, avait promis de réduire la violence contre les femmes. Si les féminicides ont diminué depuis son arrivée au pouvoir, ils restent élevés : 518 en 2026 - et l'année n'est pas finie. Dans le Morelos, un petit État coll",
-      "date": "2026-11-13T05:10:00",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "CAN 2027 : le Sénégal, la Côte d'Ivoire, le Cameroun, la RDC et le Bénin vainqueurs",
-      "link": "https://www.bbc.com/afrique/articles/ck24ep4nrlrzo?at_medium=RSS&at_campaign=rss",
-      "desc": "Les matchs de qualification pour la CAN 2027 reprennent ce jeudi 12 novembre pour la 3e journée des éliminatoires et se poursuivront jusqu'au 17 novembre prochain pour la 4e journée. Au total, 48 rencontres sont programmées dans les 12 groupes de qualification.",
-      "date": "2026-11-12T22:27:35",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Qui est Wilson \"Lanmò San Jou\" Joseph, le puissant chef de gang haïtien dont Bukele affirme avoir détruit la maison ?",
-      "link": "https://www.bbc.com/afrique/articles/c60qjzez2zlyo?at_medium=RSS&at_campaign=rss",
-      "desc": "Un dirigeant de 400 Mawozo a été officiellement inculpé d'enlèvement par les autorités américaines. Par ailleurs, le FBI offre une récompense pouvant aller jusqu'à 1 million de dollars pour toute information permettant de le retrouver.",
-      "date": "2026-11-12T17:13:50",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Le Canada lance un nouveau programme pour accueillir 5 500 immigrants",
-      "link": "https://www.bbc.com/afrique/articles/cm9w9jwpw5lno?at_medium=RSS&at_campaign=rss",
-      "desc": "Le Canada a lancé un nouveau programme d'immigration visant à offrir à 5 500 personnes originaires de divers pays du monde entier la possibilité d'obtenir la résidence permanente, à compter de janvier 2027.",
-      "date": "2026-11-12T14:41:23",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
       "title": "Centrafrique : l’ONU renouvelle sa mission de paix pour un an, sur fond de retrait progressif",
       "link": "https://news.un.org/feed/view/fr/story/2026/11/1159835",
       "desc": "Le Conseil de sécurité a renouvelé jeudi le mandat de la mission de maintien de la paix de l’ONU en République centrafricaine jusqu’en novembre 2027. Après douze ans de présence, la MINUSCA doit préparer le transfert progressif de ses responsabilités aux autorités du pays, malgré la persistance des ",
-      "date": "2026-11-12T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Climat : les villes en 1ère ligne, les dirigeants sommés d’agir",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159834",
-      "desc": "Des habitations submergées par les eaux aux glaciers de l’Himalaya menacés d’effondrement, les conséquences humaines du changement climatique ont dominé les débats de la COP31 jeudi. Alors que les dirigeants mondiaux examinent la protection des villes et des communautés vulnérables, des militants on",
-      "date": "2026-11-12T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti : plus de 1 100 personnes tuées entre juillet et septembre",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159831",
-      "desc": "En Haïti, les gangs armés continuent de semer la terreur à Port-au-Prince et au-delà : plus de 1 100 personnes ont été tuées entre juillet et septembre, selon le dernier rapport trimestriel du Bureau intégré des Nations Unies en Haïti (BINUH).",
-      "date": "2026-11-12T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Gaza : l’ONU dénonce des blocages meurtriers face aux intempéries",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159830",
-      "desc": "Alors que des pluies torrentielles ont inondé des milliers d’abris de fortune dans la bande de Gaza, le chef des opérations humanitaires de l’ONU accuse les autorités israéliennes et leurs partenaires internationaux de retarder l’acheminement de matériel indispensable à l’approche de l’hiver. Il dén",
-      "date": "2026-11-12T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Liban : les Casques bleus sur le départ, l’avenir du Sud en suspens",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159829",
-      "desc": "Malgré une nette diminution des hostilités depuis l’accord conclu en juin entre les États-Unis, le Liban et Israël, le sud du Liban reste une région instable, où les populations peinent à reconstruire leur vie. Une situation d’autant plus préoccupante que les Casques bleus de l’ONU, présents depuis ",
       "date": "2026-11-12T12:00:00",
       "source": "ONU Info",
       "lang": "fr"
