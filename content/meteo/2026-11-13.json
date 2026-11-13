@@ -3,19 +3,19 @@
   "title": "Meteo du 13 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 1.72,
-    "feels_like": -1.9,
-    "humidity": 73,
+    "temp": 3.01,
+    "feels_like": -0.95,
+    "humidity": 71,
     "description": "Nuageux",
-    "wind_kmh": 13.0
+    "wind_kmh": 16.7
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25,
-    "feels_like": 25.64,
-    "humidity": 80,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 16.2
+    "temp": 31.79,
+    "feels_like": 38.44,
+    "humidity": 66,
+    "description": "Peu nuageux",
+    "wind_kmh": 27.8
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 13 novembre 2026 sur Radio Sources de Vie. A Ottawa: 2 degres Celsius. Nuageux. A Port-au-Prince: 25 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 13 novembre 2026 sur Radio Sources de Vie. A Ottawa: 3 degres Celsius. Nuageux. A Port-au-Prince: 32 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
