@@ -1,8 +1,72 @@
 {
   "category": "monde",
   "date": "2026-11-14",
-  "updated": "2026-11-14T10:00:20.976442Z",
+  "updated": "2026-11-14T19:00:24.580471Z",
   "articles": [
+    {
+      "title": "Ligue des nations : face à la Turquie, Mbappé et les Bleus en mission pour la qualification",
+      "link": "https://www.france24.com/fr/sports/20261114-ligue-des-nations-france-vs-turquie",
+      "desc": "Renversée par l'Italie à Milan lors de la cinquième journée de Ligue des nations, l'équipe de France jouera sa qualification en quarts de finale face à la Turquie dimanche à Bordeaux. Malgré l'absence de nombreux cadres, notamment en défense, Zinédine Zidane devrait pouvoir compter sur le retour de ",
+      "date": "2026-11-14T17:40:46",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Francophonie : la RD Congo menace de quitter l'organisation",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261114-francophonie-la-rd-congo-menace-de-quitter-l-organisation",
+      "desc": "Le XXe sommet de la Francophonie se tient les 15 et 16 novembre 2026 à Phnom Penh, au Cambodge. Quatre candidats sont en lice pour le secrétariat général de l'OIF, dans un contexte diplomatique tendu. La RD Congo menace notamment de reconsidérer sa place au sein de l'organisation si la Rwandaise Lou",
+      "date": "2026-11-14T16:51:40",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Victorin Lurel, sénateur PS de la Guadeloupe : \"L'oisiveté est la mère de tous les vices\"",
+      "link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-victorin-lurel-s%C3%A9nateur-ps-de-la-guadeloupe-l-oisivet%C3%A9-est-la-m%C3%A8re-de-tous-les-vices",
+      "desc": "Chaque semaine, Judith Grimaldi reçoit un invité dans son émission \"Avec Judith.\" Cette fois-ci, c'est le sénateur PS de la Guadeloupe Victorin Lurel. Il revient sur son parcours de vie, et réagit notamment au taux de chômage élevé en Guadeloupe ainsi qu'à la candidature à l'élection présidentielle ",
+      "date": "2026-11-14T16:28:10",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Rugby : exploit des Gallois, victorieux contre les All Blacks pour la première fois depuis 1953",
+      "link": "https://www.france24.com/fr/sports/20261114-rugby-exploit-des-gallois-victorieux-contre-les-all-blacks-pour-la-premi%C3%A8re-fois-depuis-1953",
+      "desc": "Le XV du Poireau a arraché une victoire historique face à la Nouvelle-Zélande, samedi à Cardiff, dans le cadre de la cinquième journée du Championnat des nations, mettant fin à une disette de 73 ans face aux All Blacks.",
+      "date": "2026-11-14T16:21:30",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Mes parents ont choisi de mourir ensemble et je me suis retrouvé seul à faire mon deuil",
+      "link": "https://www.bbc.com/afrique/articles/cw77p78gk2ldo?at_medium=RSS&at_campaign=rss",
+      "desc": "Jan et Els ont eu recours à une intervention médicale pour mettre fin à leurs jours après 50 années de mariage heureux, laissant derrière eux leur enfant unique.",
+      "date": "2026-11-14T16:01:14",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "De communiste à conseiller de Macron, le parcours de l'économiste Philippe Aghion",
+      "link": "https://www.france24.com/fr/%C3%A9missions/avec-judith/20261114-de-communiste-%C3%A0-conseiller-de-macron-le-parcours-de-l-%C3%A9conomiste-philippe-aghion",
+      "desc": "Comme chaque semaine, Judith Grimaldi reçoit un invité dans son podcast \"Avec Judith\". Cette fois-ci, c'est Philippe Aghion, économiste français, prix Nobel d'économie 2025.",
+      "date": "2026-11-14T15:50:57",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Un milliard de repas par jour : comment réduire le gaspillage alimentaire à la maison ?",
+      "link": "https://www.bbc.com/afrique/articles/cqkgm1m805g6o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les experts affirment que réduire notre gaspillage alimentaire est l'une des actions climatiques les plus concrètes que nous puissions entreprendre individuellement.",
+      "date": "2026-11-14T13:44:47",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Les reines de beauté africaines de Miss Univers dans l'incertitude face aux restrictions de visas américaines",
+      "link": "https://www.bbc.com/afrique/articles/c6n90d7v0qdpo?at_medium=RSS&at_campaign=rss",
+      "desc": "Hall tente d'obtenir un visa américain depuis l'Afrique du Sud, tandis que d'autres reines de beauté africaines se heurtent à des obstacles similaires.",
+      "date": "2026-11-14T11:39:54",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
     {
       "title": "L'« espion chinois » acquitté déclare à la BBC : « J'étais un bouc émissaire des services de sécurité, mais aussi naïf »",
       "link": "https://www.bbc.com/afrique/articles/cm3egj5pnk47o?at_medium=RSS&at_campaign=rss",
@@ -12,66 +76,10 @@
       "lang": "fr"
     },
     {
-      "title": "Présidentielle au Cap-Vert : derrière la stabilité politique, des défis sociaux à relever",
-      "link": "https://www.france24.com/fr/afrique/20261114-pr%C3%A9sidentielle-au-cap-vert-derri%C3%A8re-la-stabilit%C3%A9-politique-des-d%C3%A9fis-sociaux-%C3%A0-relever",
-      "desc": "Les électeurs du Cap-Vert sont appelés aux urnes, dimanche, pour élire leur président. Considéré comme un îlot de stabilité, cet archipel d'Afrique de l'Ouest connaît une croissance dynamique mais peine à endiguer l'exode de sa jeunesse.",
-      "date": "2026-11-14T07:41:48",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Manifestations du 14 novembre en direct : des revendications variées pour l'acte V du mouvement social",
-      "link": "https://www.france24.com/fr/france/20261114-manifestations-du-14-novembre-en-direct-des-revendications-diverses-en-amont-de-l-acte-v",
-      "desc": "La mobilisation de la jeunesse et des Gilets jaunes se poursuit samedi 14 novembre, où des revendications diverses s'exprimeront après plusieurs semaines de mouvement et de mesures répressives : protection des enfants et des adolescents, opposition au \"permis de tuer\", augmentation des moyens pour l",
-      "date": "2026-11-14T06:55:23",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
       "title": "Ce que nous savons du plus long arrêt au sol de l'histoire de l'aviation nationale américaine depuis le 11 septembre",
       "link": "https://www.bbc.com/afrique/articles/cmx20k280xj0o?at_medium=RSS&at_campaign=rss",
       "desc": "Selon les autorités américaines, la perturbation a été causée par une surcharge d'équipements anciens et non par une cyberattaque ou une panne de Microsoft.",
       "date": "2026-11-14T06:24:43",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Panne de Microsoft : le géant américain affirme que ses services sont entièrement rétablis",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261114-les-services-de-microsoft-sont-quasiment-r%C3%A9tablis-l-entreprise-se-dit-profond%C3%A9ment-d%C3%A9sol%C3%A9e",
-      "desc": "Le géant américain des logiciels et services en ligne a annoncé samedi que l'intégralité de ses services Outlook, Teams et Copilot étaient rétablis, après une panne informatique de plus de 24 heures ayant affecté 74 pays et des milliers d'organisations dans le monde.",
-      "date": "2026-11-14T06:19:17",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Des vols toujours annulés aux États-Unis malgré la réouverture de l'espace aérien",
-      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261114-etats-unis-suspension-des-vols-reouverture-espace-aerien-faa",
-      "desc": "Près de 2 000 vols ont été annulés samedi aux États-Unis, malgré la réouverture de l'espace aérien au niveau national. Après la plus longue interruption nationale du trafic aérien en 25 ans, le retour à la normale sera progressif et pourrait prendre plusieurs jours. Écartant la piste d'une cyberatta",
-      "date": "2026-11-14T02:42:17",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Donald Trump, Xi Jinping et Vladimir Poutine vont se rencontrer jeudi en Chine",
-      "link": "https://www.france24.com/fr/asie-pacifique/20261114-donald-trump-xi-jinping-vladimir-poutine-vont-se-rencontrer-jeudi-chine",
-      "desc": "Les présidents américain, chinois et russe vont se rencontrer jeudi à Shenzhen, en Chine, en marge du sommet de l'Apec. Les sujets du nucléaire et de l'Iran devraient être abordés, mais probablement pas l'Ukraine.",
-      "date": "2026-11-14T02:15:28",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "4 faits concernant le scandale des \"contrats sexuels\" impliquant l'ancien président colombien Gustavo Petro",
-      "link": "https://www.bbc.com/afrique/articles/cmg46q3nx0d2o?at_medium=RSS&at_campaign=rss",
-      "desc": "L'ancien président ne nie pas sa relation avec cette femme, mais réfute catégoriquement les allégations selon lesquelles il aurait octroyé des contrats gouvernementaux en échange de faveurs sexuelles.",
-      "date": "2026-11-13T17:20:40",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "« Tu ne l'as même pas dit à ta meilleure amie ». Les séquelles de l'accouchement qui ne disparaissent jamais",
-      "link": "https://www.bbc.com/afrique/articles/cq5y15l1111yo?at_medium=RSS&at_campaign=rss",
-      "desc": "De l'incontinence à la douleur chronique, des millions de femmes continuent de souffrir, même des décennies plus tard.",
-      "date": "2026-11-13T14:34:07",
       "source": "BBC Afrique",
       "lang": "fr"
     },
@@ -113,14 +121,6 @@
       "desc": "« Une machine ne doit jamais avoir le pouvoir de décider si un être humain survit ou meurt ». Face à l’essor des armes autonomes et à l’emprise grandissante de l’intelligence artificielle (IA) sur les opérations militaires, le Haut-Commissaire des Nations Unies aux droits de l’homme, Volker Türk, pr",
       "date": "2026-11-13T12:00:00",
       "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Ce que les religions disent sur la fin du monde",
-      "link": "https://www.bbc.com/afrique/articles/c8r4gx307x2qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Bien que les musulmans sachent, d'après divers textes sacrés, que la fin du monde sera un vendredi, et que le 13 tombe également un vendredi, il n'y a aucune certitude à ce sujet.",
-      "date": "2026-11-13T11:49:01",
-      "source": "BBC Afrique",
       "lang": "fr"
     }
   ]
