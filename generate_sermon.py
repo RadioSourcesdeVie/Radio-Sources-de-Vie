@@ -122,7 +122,27 @@ Format exact: TITRE|VERSET|REFERENCE"""}]
     )
 
     sections_prompts = [
-        f"{REGLE_SERMON}Écris l'ouverture de ce sermon (250 mots): '{titre}'. Commence par une histoire vraie accrocheuse (varie le type d'histoire, pas toujours une histoire de migration/travail), présente le sujet et le verset: {verset}. Termine cette ouverture par une question qui engage l'auditeur.",
+        f"{REGLE_SERMON}Écris l'ouverture de ce sermon (250 mots): '{titre}'.\n\n"
+        f"LA PREMIÈRE PHRASE EST UNE PAROLE, ENTRE GUILLEMETS.\n"
+        f"Pas de décor, pas de mise en place, pas d'annonce du sujet. Une "
+        f"parole qu'on ENTEND : un cri, une demande, une question, une "
+        f"phrase que quelqu'un a vraiment dite.\n"
+        f"Ensuite seulement, en une ou deux phrases courtes, dis qui l'a "
+        f"dite et dans quelle situation.\n\n"
+        f"LA FORME ATTENDUE — imite la forme, jamais ces mots ni ces "
+        f"personnages :\n"
+        f"  « Seigneur, ne leur impute pas ce péché. »\n"
+        f"  La prière d'Étienne, pour ceux qui l'écrasaient sous les "
+        f"cailloux.\n\n"
+        f"  « Maman, je reviens. Je suis désolé. »\n"
+        f"  Vingt ans. C'est le temps qui s'était écoulé depuis le jour où "
+        f"son fils avait quitté la maison dans la colère.\n\n"
+        f"La parole frappe, le contexte suit. Jamais l'inverse.\n\n"
+        f"Déroule ensuite l'histoire, amène le sujet et le verset : "
+        f"{verset}. Termine l'ouverture par une question qui engage "
+        f"l'auditeur.\n"
+        f"Varie le type d'histoire d'un sermon à l'autre. Écris ce que les "
+        f"gens ont fait et dit, jamais ce qu'ils auraient pu faire.",
         f"{REGLE_SERMON}Écris le premier développement de ce sermon (400 mots): '{titre}'. Premier enseignement majeur avec 2-3 exemples bibliques concrets et une illustration de vie réelle et actuelle (varie le type de situation — famille, travail, santé, relations, épreuve — sans répéter toujours le même scénario de migration).",
         f"{REGLE_SERMON}Écris le deuxième développement de ce sermon (400 mots): '{titre}'. Deuxième enseignement avec versets d'appui multiples, illustrations pratiques variées et application pour aujourd'hui.",
         f"{REGLE_SERMON}Écris le troisième développement de ce sermon (350 mots): '{titre}'. Troisième enseignement avec application concrète, défis pratiques pour la semaine et encouragements.",
