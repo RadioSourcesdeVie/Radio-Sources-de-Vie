@@ -5,15 +5,15 @@
     <description>Sermon quotidien</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Sun, 15 Nov 2026 09:07:17 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 09:07:24 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Les quatre terrains du cœur : Quelle terre es-tu ? — 2026-11-15</title>
-      <description>Sermon quotidien — 2026-11-15</description>
-      <pubDate>Sun, 15 Nov 2026 09:07:17 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-11-15.mp3" length="6966144" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-11-15.mp3</guid>
+      <title>Aime ton prochain comme toi-même : L'amour en action — 2026-11-16</title>
+      <description>Sermon quotidien — 2026-11-16</description>
+      <pubDate>Mon, 16 Nov 2026 09:07:24 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-11-16.mp3" length="7108224" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-11-16.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>

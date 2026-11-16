@@ -1,0 +1,20 @@
+DÉPOSE TON ENREGISTREMENT ICI
+=============================
+
+Enregistre ton ouverture de 30 secondes (Audacity, ton téléphone,
+n'importe quoi), exporte-la, et dépose le fichier dans ce dossier.
+
+  - N'importe quel nom de fichier. Tu n'as rien à taper.
+  - N'importe quel format : wav, mp3, m4a, ogg.
+  - Le script prend le fichier le plus récent, le place au début
+    de la vidéo, puis le déplace dans "deja utilisees".
+
+Si le dossier est vide, la vidéo se fait quand même, sans ouverture.
+Rien ne bloque jamais.
+
+Ce que tu peux dire, à ta façon :
+  la date, le thème du jour, une phrase à toi,
+  puis "Prions ensemble."
+
+Le niveau sonore n'a pas d'importance : je l'ajuste automatiquement
+pour qu'il colle à celui de la prière.
