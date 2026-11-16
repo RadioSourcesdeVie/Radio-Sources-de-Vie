@@ -1,19 +1,19 @@
 {
-  "updated": "2026-11-16T11:00:02.375711Z",
+  "updated": "2026-11-16T16:00:02.433990Z",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 1.66,
-    "feels_like": -1.97,
-    "humidity": 76,
-    "description": "Couvert",
-    "wind_kmh": 13.0
+    "temp": 0.27,
+    "feels_like": -4.03,
+    "humidity": 84,
+    "description": "Nuageux",
+    "wind_kmh": 14.8
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 24.83,
-    "feels_like": 25.51,
-    "humidity": 82,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 9.5
+    "temp": 30.79,
+    "feels_like": 35.93,
+    "humidity": 66,
+    "description": "Nuageux",
+    "wind_kmh": 24.1
   }
 }
