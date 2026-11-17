@@ -71,6 +71,11 @@ REGLE_PRIERE = (
     "N'ECRIS PAS de catalogue en « Ceux qui... Ceux qui... » : au plus deux ou "
     "trois situations, chacune ecrite en entier, comme on parle de quelqu'un "
     "qu'on connait. "
+    "AUCUN REMPLISSAGE. Chaque phrase apporte une image, un fait ou une "
+    "demande. Pas de phrase qui annonce ce que tu vas dire. Pas de "
+    "commentaire sur ce que quelqu'un AURAIT PU faire ou ressentir. Pas de "
+    "reformulation de la phrase precedente avec d'autres mots. Si une phrase "
+    "peut sauter sans que rien ne se perde, elle ne doit pas etre ecrite. "
 )
 
 PRIERES_BIBLIQUES = [
@@ -195,51 +200,86 @@ def _mouvements_theme(moment, theme, figure, christ):
 
     sujet = theme["theme"]
     return [
-        (f"{REGLE_PRIERE}{cadre}\n\n"
-         f"Toute la priere d'aujourd'hui porte sur ce theme : {sujet}.\n"
-         f"Le verset qui le porte : {theme['verset']} ({theme['reference']}).\n\n"
-         f"Premier mouvement, 320 mots : ouvre la priere sur ce theme, en "
-         f"t'appuyant sur ce verset. Cite-le en entier, et laisse-le porter "
-         f"l'ouverture.\n"
-         f"Fais ensuite resonner DEUX autres passages qui disent la meme "
-         f"chose, pris dans d'autres livres que celui du verset principal, "
-         f"et cite-les eux aussi. Tisse-les dans la priere : ce doit rester "
-         f"une priere, jamais une lecture biblique enchainee.\n"
-         f"Ne raconte encore aucune histoire, et ne parle d'aucun lieu."),
-
+        # --- 1. LE PERSONNAGE, TOUT DE SUITE -------------------------------
+        # L'auditeur decide en quinze secondes s'il reste. On ne gagne
+        # personne avec « Pere celeste, nous venons devant toi ce matin ».
         (f"{REGLE_PRIERE}{cadre}\n\n"
          f"Theme du jour : {sujet}.\n\n"
-         f"Deuxieme mouvement, 380 mots : rappelle a Dieu cette priere de "
-         f"l'Ecriture — {figure['figure']}. Sa priere : {figure['verset']} "
-         f"({figure['reference']}). Ce qui a change ensuite : "
-         f"{figure['destinee']}.\n"
-         f"Raconte brievement la situation, cite sa priere, et montre comment "
-         f"une seule priere a change une destinee. Relie-la au theme du jour. "
-         f"Reste dans l'adresse a Dieu, ne bascule pas dans la predication."),
+         f"Premier mouvement, 380 mots.\n\n"
+         f"LA PREMIERE PHRASE EST UNE PAROLE, ENTRE GUILLEMETS.\n"
+         f"Pas de decor, pas de mise en place, pas de presentation. Une "
+         f"parole qu'on ENTEND : un cri, une demande, une question. "
+         f"Prends-la dans la priere meme de ce personnage.\n"
+         f"Ensuite seulement, en une ou deux phrases courtes, dis qui l'a "
+         f"dite et dans quelle situation.\n\n"
+         f"LA FORME ATTENDUE — imite la forme, jamais ces mots ni ces "
+         f"personnages :\n"
+         f"  « Seigneur, ne leur impute pas ce peche. »\n"
+         f"  La priere d'Etienne, pour ceux qui l'ecrasaient sous les "
+         f"cailloux.\n\n"
+         f"  « Maman, je reviens. Je suis desole. »\n"
+         f"  Vingt ans. C'est le temps qui s'etait ecoule depuis le jour "
+         f"ou son fils avait quitte la maison dans la colere.\n\n"
+         f"La parole frappe, le contexte suit. Jamais l'inverse.\n\n"
+         f"TU PARLES A DIEU, PAS A UN AUDITOIRE. Un conteur ecrit « les "
+         f"pierres tombaient sur Etienne » ; toi tu dis a Dieu « tu as vu "
+         f"Etienne a genoux sous les pierres ». Toute la difference est "
+         f"la, et elle doit tenir du premier mot au dernier.\n\n"
+         f"Ecris ce que le personnage A FAIT et A DIT. Rien sur ce qu'il "
+         f"aurait pu faire, rien sur ce qu'il aurait pu ressentir, aucun "
+         f"commentaire sur son courage.\n\n"
+         f"Le personnage : {figure['figure']}.\n"
+         f"Sa priere : {figure['verset']} ({figure['reference']}).\n"
+         f"Ce qui a change ensuite : {figure['destinee']}.\n\n"
+         f"INTERDIT en ouverture — ces formules font fuir l'auditeur avant "
+         f"qu'il ait entendu quoi que ce soit :\n"
+         f"- « Pere celeste, nous venons devant toi ce matin »\n"
+         f"- « Seigneur, nous venons devant toi »\n"
+         f"- « Seigneur, nous te prions en pensant a... »\n"
+         f"- toute phrase d'installation, de salutation ou de mise en "
+         f"place avant que la scene ne commence.\n\n"
+         f"Puis cite sa priere en entier, et dis ce qui a change apres "
+         f"elle. Rien d'autre : pas de lecon, pas de morale."),
 
+        # --- 2. LE THEME, UNE FOIS L'AUDITEUR ACCROCHE ---------------------
+        (f"{REGLE_PRIERE}{cadre}\n\n"
+         f"Theme du jour : {sujet}.\n\n"
+         f"Deuxieme mouvement, 330 mots : enchaine sur ce que l'histoire "
+         f"vient de montrer, et amene le theme du jour.\n"
+         f"Le verset qui le porte : {theme['verset']} "
+         f"({theme['reference']}). Cite-le en entier.\n"
+         f"Fais resonner DEUX autres passages qui disent la meme chose, "
+         f"pris dans d'autres livres, et cite-les eux aussi. Tisse-les dans "
+         f"la priere : ce doit rester une priere, jamais une lecture "
+         f"biblique enchainee.\n"
+         f"Ne recommence pas la priere : tu es deja dedans depuis 380 mots. "
+         f"Pas de nouvelle ouverture, pas de nouvelle adresse solennelle."),
+
+        # --- 3. L'INTERCESSION ---------------------------------------------
         (f"{REGLE_PRIERE}{cadre}\n\n"
          f"Theme du jour : {sujet}.\n\n"
          f"Troisieme mouvement, 380 mots : intercede pour l'auditeur sur ce "
          f"theme precis. Ce qu'il porte en silence, sa famille, son travail, "
          f"sa sante, les siens au loin.\n"
-         f"Choisis deux ou trois personnes reelles et ecris-les vraiment : une "
-         f"mere, un homme devant une porte fermee, quelqu'un qui attend une "
-         f"nouvelle. Donne-leur assez de chair pour qu'on les voie. "
+         f"Choisis deux ou trois personnes reelles et ecris-les vraiment : "
+         f"une mere, un homme devant une porte fermee, quelqu'un qui attend "
+         f"une nouvelle. Donne-leur assez de chair pour qu'on les voie. "
          f"Appuie cette intercession sur UNE promesse de l'Ecriture que tu "
          f"cites en entier — une promesse de provision, de garde ou de "
          f"presence, prise ailleurs que dans les passages deja employes.\n"
          f"N'emploie ni « ici » ni « dans ce pays » : l'auditeur peut etre "
          f"n'importe ou, et tu ne dois pas le situer."),
 
+        # --- 4. LE CHRIST A DEJA PRIE --------------------------------------
         (f"{REGLE_PRIERE}{cadre}\n\n"
          f"Theme du jour : {sujet}.\n\n"
-         f"Quatrieme et dernier mouvement, 320 mots : rappelle que Jesus a "
+         f"Quatrieme et dernier mouvement, 310 mots : rappelle que Jesus a "
          f"deja prie pour celui qui ecoute. Appuie-toi UNIQUEMENT sur ce "
          f"passage : {christ['verset']} ({christ['reference']}). Ce qu'il "
          f"assure : {christ['portee']}.\n"
          f"N'emploie aucun autre texte sur l'intercession du Christ. Montre "
-         f"que son intercession precede notre priere, et relie-la au theme du "
-         f"jour. {fin}"),
+         f"que son intercession precede notre priere, et relie-la au theme "
+         f"du jour. {fin}"),
     ]
 
 
