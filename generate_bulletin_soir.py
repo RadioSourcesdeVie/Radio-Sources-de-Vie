@@ -159,7 +159,7 @@ def main():
     print(f"\n📻 Génération du Journal du Soir (duo Charline / Antoine) — {TODAY}\n")
 
     now_h = datetime.now().strftime("%Hh%M")
-    intro = (f"Bonsoir chers auditeurs, il est {now_h}. Je suis Charline, avec mon collègue Antoine, "
+    intro = (f"Bonsoir chers auditeurs, il est 18h00. Je suis Charline, avec mon collègue Antoine, "
              f"bienvenue au journal du soir de Radio Sources de Vie. Voici les nouvelles de votre journée.")
     handoff = ("Et maintenant, pour l'actualité internationale et le sport, je laisse la parole à Antoine.")
     handback_intro = "Merci Charline, bonsoir à tous."
