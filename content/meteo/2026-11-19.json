@@ -3,19 +3,19 @@
   "title": "Meteo du 19 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 13.47,
-    "feels_like": 12.28,
-    "humidity": 54,
-    "description": "Nuageux",
-    "wind_kmh": 20.4
+    "temp": 3.01,
+    "feels_like": -0.33,
+    "humidity": 93,
+    "description": "Brume",
+    "wind_kmh": 13.0
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 31.79,
-    "feels_like": 37.18,
-    "humidity": 62,
-    "description": "Nuageux",
-    "wind_kmh": 14.8
+    "temp": 23.79,
+    "feels_like": 24.39,
+    "humidity": 83,
+    "description": "Peu nuageux",
+    "wind_kmh": 7.4
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 19 novembre 2026 sur Radio Sources de Vie. A Ottawa: 13 degres Celsius. Nuageux. A Port-au-Prince: 32 degres Celsius. Nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 19 novembre 2026 sur Radio Sources de Vie. A Ottawa: 3 degres Celsius. Brume. A Port-au-Prince: 24 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
