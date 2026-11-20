@@ -1,0 +1,21 @@
+{
+  "date": "2026-11-20",
+  "title": "Meteo du 20 novembre 2026",
+  "ottawa": {
+    "label": "Ottawa, Canada",
+    "temp": 14.64,
+    "feels_like": 13.49,
+    "humidity": 51,
+    "description": "Nuageux",
+    "wind_kmh": 24.1
+  },
+  "pap": {
+    "label": "Port-au-Prince, Haïti",
+    "temp": 31.79,
+    "feels_like": 37.18,
+    "humidity": 62,
+    "description": "Légère pluie",
+    "wind_kmh": 13.0
+  },
+  "text": "Bonjour chers auditeurs, voici la meteo du 20 novembre 2026 sur Radio Sources de Vie. A Ottawa: 15 degres Celsius. Nuageux. A Port-au-Prince: 32 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
+}
