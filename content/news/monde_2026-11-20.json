@@ -1,22 +1,102 @@
 {
   "category": "monde",
   "date": "2026-11-20",
-  "updated": "2026-11-20T10:00:23.518615Z",
+  "updated": "2026-11-20T19:00:22.844113Z",
   "articles": [
     {
-      "title": "La députée RN Laure Lavalette se défend d'être antisémite, se dédouane d'écrits vieux de \"30 ans\"",
-      "link": "https://www.france24.com/fr/france/20261120-accusations-antis%C3%A9mitisme-d%C3%A9put%C3%A9e-rn-laure-lavalette-invoque-faits-vieux-de-30-ans",
-      "desc": "Selon une enquête publiée mercredi par le média Les Jours, la députée du Rassemblement national du Var Laure Lavalette aurait présidé, lors de ses années d'études, un syndicat étudiant dont la revue publiait des écrits antisémites. L'élue a balayé les accusations dans une interview sur BFMTV, arguan",
-      "date": "2026-11-20T09:26:06",
+      "title": "Sans Starlink, l'Ukraine à l'assaut du pont de Crimée avec des drones relais",
+      "link": "https://www.france24.com/fr/europe/20261120-sans-starlink-ukraine-assaut-pont-crim%C3%A9e-avec-drones-relais",
+      "desc": "Les frappes ukrainiennes contre le pont de Crimée depuis le 15 novembre ont été saluées comme un succès opérationnel majeur par l'Ukraine. Elles ont été facilitées par ce que le Financial Times a appelé des \"modems volants\", c'est-à-dire des drones relais de communication permettant de palier les li",
+      "date": "2026-11-20T18:01:38",
       "source": "France 24",
       "lang": "fr"
     },
     {
-      "title": "Sommet trilatéral : \"Beaucoup de bruit pour rien\"",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261120-sommet-trilat%C3%A9ral-beaucoup-de-bruit-pour-rien",
-      "desc": "À la une de la presse : un sommet entre Donald Trump, Xi Jinping et Vladimir Poutine pour l'image, le phénomène mondial \"GTA VI\" et des révélations sur des fuites en provenance du ministère de l’Intérieur vers le RN.",
-      "date": "2026-11-20T09:12:04",
+      "title": "Camille Lellouche, 360 degrés de talents",
+      "link": "https://www.france24.com/fr/%C3%A9missions/l%C3%A9gendes-urbaines/20261120-camille-lellouche-360-degr%C3%A9s-de-talents",
+      "desc": "Rendez-vous avec l'artiste pluridisciplinaire Camille Lellouche à l'occasion de la sortie de son nouvel album \"Minuit\". Autrice, compositrice, musicienne, chanteuse, humoriste et comédienne, elle revient sur son enfance à Vitry-sur-Seine, en banlieue parisienne, ses influences musicales – de la Mafi",
+      "date": "2026-11-20T18:00:23",
       "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "États-Unis : l'hippopotame star du zoo de Cincinnati est morte",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261120-%C3%A9tats-unis-l-hippopotame-star-du-zoo-de-cincinnati-est-morte",
+      "desc": "Fiona, l’hippopotame star du zoo de Cincinnati dans l’Ohio (États-Unis), est morte le 19 novembre après avoir mangé un bonnet accidentellement tombé dans son enclos. La femelle âgé de 9 ans n’a pas survécu malgré les soins prodigués par les équipes vétérinaires.",
+      "date": "2026-11-20T17:50:19",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Boom de l'intelligence artificielle : la révolution à quel prix ?",
+      "link": "https://www.france24.com/fr/%C3%A9missions/la-semaine-de-l-%C3%A9co/20261120-boom-de-l-intelligence-artificielle-la-r%C3%A9volution-%C3%A0-quel-prix",
+      "desc": "L'entrée en Bourse spectaculaire d'Anthropic n'aura pas suffi à dissiper les inquiétudes des marchés financiers. Rentabilité incertaine, turbulences chez Nvidia, contestation des centres de données... derrière les promesses de l'intelligence artificielle, les premières limites apparaissent.",
+      "date": "2026-11-20T17:37:58",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "🔴 Rencontre Trump, Poutine et Xi : suivez la conférence de presse du président américain",
+      "link": "https://www.france24.com/fr/am%C3%A9riques/20261120-rencontre-trump-poutine-xi-suivez-conf%C3%A9rence-presse-pr%C3%A9sident-am%C3%A9ricain",
+      "desc": "",
+      "date": "2026-11-20T17:27:05",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Nous ne pouvions pas nous offrir une maison pour notre famille, alors nous en avons acheté une avec des inconnus",
+      "link": "https://www.bbc.com/afrique/articles/c5wy4j7x12neo?at_medium=RSS&at_campaign=rss",
+      "desc": "Au Canada, des personnes et des familles ne peuvent pas se permettre d'acquérir un logement en raison de ses prix élevés et cherchent à s'associer à d'autres personnes se trouvant dans la même situation.",
+      "date": "2026-11-20T16:17:15",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Nouveau programme d'immigration au Canada : quels sont les profils particulièrement recherchés ?",
+      "link": "https://www.bbc.com/afrique/articles/cmwy8pnzp55vo?at_medium=RSS&at_campaign=rss",
+      "desc": "Selon le site du gouvernement canadien, les cibles du Plan des niveaux d'immigration 2027-2029 reposent sur des « progrès relatifs au ralentissement de la croissance démographique. Parallèlement, elles contribuent à renforcer l'économie canadienne et à ajouter les meilleurs talents mondiaux à la mai",
+      "date": "2026-11-20T14:06:05",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Afghanistan : privées de droits, les femmes sont aussi privées de soins",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159879",
+      "desc": "Depuis leur retour au pouvoir en 2021, les talibans n’ont cessé de durcir les restrictions visant les femmes et les filles en Afghanistan. Exclues des formations médicales et confrontées à des obstacles croissants pour accéder aux soignants masculins, elles voient leurs possibilités de recevoir des ",
+      "date": "2026-11-20T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "COP31 : le bras de fer sur les énergies fossiles menace l'accord final",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159882",
+      "desc": "Un groupe de pays d’Europe, d’Afrique, d’Amérique latine et du Pacifique rejette le projet d’accord de la COP31 et réclame des engagements plus fermes sur la sortie des combustibles fossiles et le financement climatique. Alors que c'est officiellement le dernier jour du sommet d’Antalya, les divisio",
+      "date": "2026-11-20T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Ukraine : les enfants paient un tribut sans précédent à la guerre",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159881",
+      "desc": "Au moins 1.144 enfants ont été tués ou blessés en Ukraine au cours des dix premiers mois de 2026, soit davantage que sur l’ensemble de chacune des trois dernières années, a alerté vendredi l’UNICEF. À l’approche de l’hiver, les attaques contre les infrastructures énergétiques atteignent également un",
+      "date": "2026-11-20T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Comprendre les tensions entre la Guinée et le Burkina Faso",
+      "link": "https://www.bbc.com/afrique/articles/c6y97dge5lqyo?at_medium=RSS&at_campaign=rss",
+      "desc": "La Guinée a décidé de suspendre la diffusion de la chaîne publique burkinabè, la RTB, sur toute l'étendue du territoire. Mais, comment en est-on arrivé à cette situation ?",
+      "date": "2026-11-20T11:51:05",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Un expert médico-légal affirme que son analyse des photos de l'autopsie d'Epstein suggère que le financier a été assassiné en prison",
+      "link": "https://www.bbc.com/afrique/articles/c5dj1dzrgv7do?at_medium=RSS&at_campaign=rss",
+      "desc": "Le professeur Michael Freeman a déclaré à la BBC qu'il estimait que les blessures du délinquant sexuel condamné étaient compatibles avec un homicide.",
+      "date": "2026-11-20T10:50:14",
+      "source": "BBC Afrique",
       "lang": "fr"
     },
     {
@@ -24,54 +104,6 @@
       "link": "https://www.bbc.com/afrique/articles/c6x29lj57ve1o?at_medium=RSS&at_campaign=rss",
       "desc": "Zoe Kleinman explique comment l'homme qui a bâti Nvidia à partir de rien a tout perdu en quelques jours.",
       "date": "2026-11-20T08:58:13",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Vladimir Poutine a-t-il été snobé par Xi Jinping ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-ou-intox/20261120-vladimir-poutine-a-t-il-%C3%A9t%C3%A9-snob%C3%A9-par-xi-jinping",
-      "desc": "Alors que se tenait à Shenzhen le sommet de l'APEC, le président chinois Xi Jinping est accusé par des internautes d'avoir volontairement ignoré la main tendue par son homologue russe Vladimir Poutine. Mais les images utilisées comme preuves sont trompeuses et la poignée de main a bien eu lieu.",
-      "date": "2026-11-20T08:44:15",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "En Irak, l'armée entre dans un bastion du groupe pro-iranien Kataeb Hezbollah",
-      "link": "https://www.france24.com/fr/moyen-orient/20261120-irak-arm%C3%A9e-s-appr%C3%AAte-%C3%A0-entrer-dans-bastion-groupe-pro-iranien-kataeb-hezbollah",
-      "desc": "Les forces armées irakiennes ont commencé vendredi à se déployer dans un bastion du groupe Kataeb Hezbollah, selon les médias d'État, alors que le Premier ministre Ali al-Zaïdi intensifie ses efforts pour maîtriser cette faction soutenue par l'Iran. Le Kataeb Hezbollah a adopté cette semaine un ton ",
-      "date": "2026-11-20T08:39:59",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Rififi à la Fifa : Infantino, Tashima et Diallo candidats à la présidence",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261120-rififi-%C3%A0-la-fifa-infantino-tashima-et-diallo-candidats-%C3%A0-la-pr%C3%A9sidence",
-      "desc": "Trois candidats ont officiellement déposé leur candidature à la présidence de la Fifa. Gianni Infantino, en poste depuis 11 ans, briguera un quatrième mandat consécutif. Soutenu par l'UEFA, le président de la Fédération française de football, Philippe Diallo, veut incarner une alternative à la gouve",
-      "date": "2026-11-20T08:15:16",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Quel est le secret de l'architecture « sans pareille » des anciennes villes du Yémen ?",
-      "link": "https://www.bbc.com/afrique/articles/c6y804kel3lgo?at_medium=RSS&at_campaign=rss",
-      "desc": "Elles ont été construites en terre il y a environ 300 à 500 ans. Au Yémen, certaines de ces constructions peuvent atteindre environ 30 mètres de hauteur, alors que les premiers gratte-ciel modernes de Chicago étaient à peine plus hauts !",
-      "date": "2026-11-19T16:14:58",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Gulliver : pourquoi derrière une aventure de conte de fées se cache l'un des livres les plus durs de l'histoire",
-      "link": "https://www.bbc.com/afrique/articles/c6wy4wljxlkqo?at_medium=RSS&at_campaign=rss",
-      "desc": "Gulliver, les Lilliputiens, les géants… On dirait que nous connaissons cette histoire depuis notre enfance. Et si, derrière ce conte familier, se cachait un tout autre livre ?",
-      "date": "2026-11-19T15:12:37",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Pourquoi le Burkina Faso est accusé de vouloir réduire au silence ses critiques à l'étranger ?",
-      "link": "https://www.bbc.com/afrique/articles/cr4gn05dg0pyo?at_medium=RSS&at_campaign=rss",
-      "desc": "L’organisation Human Rights Watch dénonce les mandats d’arrêt et les demandes d’extradition émis par les autorités burkinabè, qui visent des dizaines de personnes vivant à l’étranger.",
-      "date": "2026-11-19T14:00:16",
       "source": "BBC Afrique",
       "lang": "fr"
     },
@@ -89,38 +121,6 @@
       "desc": "Se priver de boire pendant la journée. Craindre une agression en allant aux toilettes. Devoir faire ses besoins à l’air libre. Manquer l’école, le travail ou des activités sociales pendant ses règles. Pour des centaines de millions de femmes et de filles, l’accès à des toilettes sûres est une questi",
       "date": "2026-11-19T12:00:00",
       "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "COP31 : l’ambition fait défaut, les énergies fossiles effacées du projet d’accord",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159875",
-      "desc": "À la COP31, ce jeudi, un chat baptisé « Ambition » était de nouveau porté disparu. Derrière cette campagne humoristique de militants pour le climat se cache une inquiétude bien réelle : la dernière version du projet d’accord de la conférence ne mentionne plus explicitement l’abandon du charbon, du p",
-      "date": "2026-11-19T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Céréales : les stocks mondiaux progressent, mais les marchés agricoles sont sous tension",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159873",
-      "desc": "Les réserves mondiales de céréales devraient encore progresser d’ici à la fin de la campagne 2026-2027, tandis que la production de riz pourrait reculer pour la première fois en quatre campagnes. Dans son dernier rapport, publié jeudi, la FAO alerte sur la chute des exportations de céréales en mer N",
-      "date": "2026-11-19T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Gaza : plus de 18.000 Palestiniens menacés de déplacement, l’ONU rappelle leur droit au retour",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159872",
-      "desc": "Les dernières opérations militaires israéliennes dans le centre de la bande de Gaza pourraient provoquer le déplacement de plus de 18.000 Palestiniens et perturber des services humanitaires essentiels, a averti l'ONU, rappelant que les civils contraints de fuir doivent pouvoir regagner leur foyer dè",
-      "date": "2026-11-19T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Des dizaines de personnes sont portées disparues après le naufrage d'un bateau transportant une centaine de migrants au large des côtes du Sénégal",
-      "link": "https://www.bbc.com/afrique/articles/c6jreyd3nj8qo?at_medium=RSS&at_campaign=rss",
-      "desc": "Certains médias locaux rapportent qu'au moins quatre corps ont été retrouvés.",
-      "date": "2026-11-19T10:22:57",
-      "source": "BBC Afrique",
       "lang": "fr"
     }
   ]
