@@ -1,69 +1,85 @@
 {
   "category": "monde",
   "date": "2026-11-21",
-  "updated": "2026-11-21T10:00:22.875614Z",
+  "updated": "2026-11-21T19:00:22.574296Z",
   "articles": [
+    {
+      "title": "Présidentielle : prenant \"acte de l’impasse\" de sa campagne, François Ruffin retire sa candidature",
+      "link": "https://www.france24.com/fr/france/20261121-pr%C3%A9sidentielle-prenant-acte-de-l-impasse-de-sa-campagne-fran%C3%A7ois-ruffin-retire-sa-candidature",
+      "desc": "À cinq mois de l’échéance, François Ruffin a annoncé samedi qu’il retirait sa candidature à l’élection présidentielle, prenant \"acte de l’impasse\" de sa campagne faute d’avoir réussi à imposer l’organisation d’une \"grande primaire\" de toute la gauche.",
+      "date": "2026-11-21T17:37:20",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "🔴 En direct : 82 500 personnes ont manifesté en France selon Beauvau, 150 000 d'après la CGT",
+      "link": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
+      "desc": "",
+      "date": "2026-11-21T17:07:06",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Guerre en Ukraine : deux personnes tuées à Kryvyï Rih",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-guerre-en-ukraine-deux-personnes-tu%C3%A9es-%C3%A0-kryvy%C3%AF-rih",
+      "desc": "La Russie a ⁠de nouveau frappé ​dans la nuit de vendredi à samedi 21 novembre des cibles civiles dans la ville industrielle de Kryvyï Rih, ville natale du président Volodymyr Zelensky, où au moins deux personnes ont été tuées, dont un garçon de sept ans.",
+      "date": "2026-11-21T17:04:30",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "COP31 à Antalya : bras de fer autour des énergies fossiles et des financements",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-cop31-%C3%A0-antalya-bras-de-fer-autour-des-%C3%A9nergies-fossiles-et-des-financements",
+      "desc": "La 31e ⁠conférence des Nations unies sur ​les changements climatiques (COP31) aboutira soit à un accord satisfaisant, soit à aucun accord, a déclaré samedi 21 novembre le haut responsable de l'Union européenne chargé du climat, alors que les négociations se prolongeaient bien au-delà ​de l'échéance ",
+      "date": "2026-11-21T17:02:33",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Dakar : la Biennale des arts contemporains ouvre ses portes",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261121-dakar-la-biennale-des-arts-contemporains-ouvre-ses-portes",
+      "desc": "C'est parti pour la 16e édition de la Biennale de Dakar ! Le rendez-vous des arts contemporains a ouvert ses portes jeudi 19 novembre dans la capitale sénégalaise. Au programme de l'exposition principale, le IN : 79 artistes du continent et de ses diasporas qui explorent notamment les thèmes de la r",
+      "date": "2026-11-21T16:51:24",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "On m'a annoncé la mort de mon bébé – 42 ans plus tard, il m'a envoyé un courriel",
+      "link": "https://www.bbc.com/afrique/articles/cw053prppzeqo?at_medium=RSS&at_campaign=rss",
+      "desc": "Diane Sheehan a eu son premier enfant en 1976. On lui a annoncé que celui-ci était décédé à la naissance. Quarante ans plus tard, elle a découvert qu'il était toujours en vie. Son histoire fait partie des dizaines de milliers de cas d'adoption forcée en Australie.",
+      "date": "2026-11-21T15:58:34",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "L'IA est-elle un guide spirituel fiable ? Les musulmans sont divisés",
+      "link": "https://www.bbc.com/afrique/articles/ck5y16098xxno?at_medium=RSS&at_campaign=rss",
+      "desc": "Une polémique sur le rôle de l'IA dans l'interprétation des édits religieux fait rage sur les réseaux sociaux, reflétant un débat plus large sur la différence entre l'esprit humain et l'« esprit » d'une machine, la concurrence mondiale pour la domination de l'industrie technologique et le rôle des é",
+      "date": "2026-11-21T13:43:43",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Nadia Murad : « Jour après jour, je me suis réapproprié mon histoire »",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159854",
+      "desc": "Depuis des années, l’Iraquienne Nadia Murad, lauréate du prix Nobel de la paix 2018, raconte les atrocités commises par les combattants de Daech contre elle et sa communauté, les Yézidis.",
+      "date": "2026-11-21T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Ce que le salon de la défense au Mali révèle de ses ambitions",
+      "link": "https://www.bbc.com/afrique/articles/c6vg210x93nko?at_medium=RSS&at_campaign=rss",
+      "desc": "Le deuxième Salon international de la défense et de la sécurité de Bamako (BAMEX) a réuni 19 délégations officielles et 30 entreprises exposantes. La Russie demeure le principal partenaire sécuritaire du Mali, tandis que la Turquie et la Chine renforcent leur présence dans le secteur de la défense.",
+      "date": "2026-11-21T11:00:02",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
     {
       "title": "Sept tendances de voyage qui définiront 2027",
       "link": "https://www.bbc.com/afrique/articles/cmd61v4w13xvo?at_medium=RSS&at_campaign=rss",
       "desc": "De la quête de liens plus authentiques à l'attrait pour des lieux qui semblent appartenir à un autre monde, voici sept tendances de voyage à suivre en 2027.",
       "date": "2026-11-21T09:03:38",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Enigma : le général Bertrand, le Français qui a contribué à casser la machine de cryptage des nazis",
-      "link": "https://www.france24.com/fr/europe/20261121-enigma-role-francais-machine-crypter-nazis-general-bertrand-guerre-mondiale",
-      "desc": "Pour beaucoup, le décryptage d'Enigma, la machine de cryptographie utilisée par l'Allemagne nazie pendant la Seconde Guerre mondiale, tient avant tout au génie du mathématicien britannique Alan Turing. Un livre, \"Le dossier secret des espions français\", met en lumière le rôle méconnu mais crucial de",
-      "date": "2026-11-21T08:38:44",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Manifestations en direct : nouvelle journée de mobilisation pour la jeunesse et contre la vie chère",
-      "link": "https://www.france24.com/fr/france/20261121-en-direct-acte-vi-de-la-mobilisation-pour-la-jeunesse-et-contre-la-vie-ch%C3%A8re",
-      "desc": "Pour la sixième semaine consécutive, syndicats, organisations de jeunesse et Gilets jaunes appellent à protester contre la vie chère, dans un contexte de colère sociale devenue européenne mais qui commence à s'essouffler en France. Des manifestations contre les violences faites aux femmes sont égale",
-      "date": "2026-11-21T08:23:49",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "États-Unis : le ministère de l'Agriculture et le FBI victimes de piratages informatiques",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261121-%C3%A9tats-unis-le-minist%C3%A8re-de-l-agriculture-et-le-fbi-victimes-de-piratages-informatiques",
-      "desc": "Quelques jours après des pannes technologiques dans des secteurs stratégiques du pays, le ministère de l'Agriculture et la police fédérale (FBI) des États-Unis ont été victimes de piratages informatiques, ont rapporté vendredi les médias américains.",
-      "date": "2026-11-21T07:31:14",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "L'Arabie saoudite dit avoir intercepté des missiles lancés par les Houthis vers Riyad",
-      "link": "https://www.france24.com/fr/moyen-orient/20261121-l-arabie-saoudite-dit-avoir-intercept%C3%A9-des-missiles-lanc%C3%A9s-par-les-houthis-vers-riyad",
-      "desc": "Trois missiles balistiques tirés par les Houthis yéménites pro-iraniens en direction de Riyad ont été interceptés par les forces saoudiennes, selon le porte-parole de la coalition militaire. Cette attaque intervient au lendemain de frappes menées par l'Arabie saoudite au Yémen contre un port stratég",
-      "date": "2026-11-21T06:52:00",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Sixième samedi de manifestation contre la vie chère, premier round contre les violences sexistes",
-      "link": "https://www.france24.com/fr/france/20261121-sixi%C3%A8me-samedi-de-manifestation-contre-la-vie-ch%C3%A8re-premier-round-contre-les-violences-sexistes",
-      "desc": "Pour la sixième semaine d'affilée, des syndicats, organisations de jeunesse et gilets jaunes appellent à protester samedi dans la rue contre la vie chère, dans un contexte de grogne sociale devenue européenne mais qui commence à se tasser les samedis en France. Des manifestations sont aussi prévues ",
-      "date": "2026-11-21T06:16:30",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Nous ne pouvions pas nous offrir une maison pour notre famille, alors nous en avons acheté une avec des inconnus",
-      "link": "https://www.bbc.com/afrique/articles/c5wy4j7x12neo?at_medium=RSS&at_campaign=rss",
-      "desc": "Au Canada, des personnes et des familles ne peuvent pas se permettre d'acquérir un logement en raison de ses prix élevés et cherchent à s'associer à d'autres personnes se trouvant dans la même situation.",
-      "date": "2026-11-20T16:17:15",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Nouveau programme d'immigration au Canada : quels sont les profils particulièrement recherchés ?",
-      "link": "https://www.bbc.com/afrique/articles/cmwy8pnzp55vo?at_medium=RSS&at_campaign=rss",
-      "desc": "Selon le site du gouvernement canadien, les cibles du Plan des niveaux d'immigration 2027-2029 reposent sur des « progrès relatifs au ralentissement de la croissance démographique. Parallèlement, elles contribuent à renforcer l'économie canadienne et à ajouter les meilleurs talents mondiaux à la mai",
-      "date": "2026-11-20T14:06:05",
       "source": "BBC Afrique",
       "lang": "fr"
     },
@@ -100,26 +116,10 @@
       "lang": "fr"
     },
     {
-      "title": "Afghanistan : privées de droits, les femmes sont aussi privées de soins",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159879",
-      "desc": "Depuis leur retour au pouvoir en 2021, les talibans n’ont cessé de durcir les restrictions visant les femmes et les filles en Afghanistan. Exclues des formations médicales et confrontées à des obstacles croissants pour accéder aux soignants masculins, elles voient leurs possibilités de recevoir des ",
-      "date": "2026-11-20T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
       "title": "Comprendre les tensions entre la Guinée et le Burkina Faso",
       "link": "https://www.bbc.com/afrique/articles/c6y97dge5lqyo?at_medium=RSS&at_campaign=rss",
       "desc": "La Guinée a décidé de suspendre la diffusion de la chaîne publique burkinabè, la RTB, sur toute l'étendue du territoire. Mais, comment en est-on arrivé à cette situation ?",
       "date": "2026-11-20T11:51:05",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Un expert médico-légal affirme que son analyse des photos de l'autopsie d'Epstein suggère que le financier a été assassiné en prison",
-      "link": "https://www.bbc.com/afrique/articles/c5dj1dzrgv7do?at_medium=RSS&at_campaign=rss",
-      "desc": "Le professeur Michael Freeman a déclaré à la BBC qu'il estimait que les blessures du délinquant sexuel condamné étaient compatibles avec un homicide.",
-      "date": "2026-11-20T10:50:14",
       "source": "BBC Afrique",
       "lang": "fr"
     }
