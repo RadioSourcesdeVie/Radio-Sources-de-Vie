@@ -3,19 +3,19 @@
   "title": "Meteo du 21 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 1.98,
-    "feels_like": -0.74,
-    "humidity": 89,
+    "temp": 6.24,
+    "feels_like": 4.31,
+    "humidity": 100,
     "description": "Brouillard",
     "wind_kmh": 9.3
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 24.18,
-    "feels_like": 24.69,
-    "humidity": 78,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 9.4
+    "temp": 31.79,
+    "feels_like": 37.18,
+    "humidity": 62,
+    "description": "Peu nuageux",
+    "wind_kmh": 16.7
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 21 novembre 2026 sur Radio Sources de Vie. A Ottawa: 2 degres Celsius. Brouillard. A Port-au-Prince: 24 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 21 novembre 2026 sur Radio Sources de Vie. A Ottawa: 6 degres Celsius. Brouillard. A Port-au-Prince: 32 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
