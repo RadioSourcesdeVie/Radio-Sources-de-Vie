@@ -52,19 +52,27 @@ const P={"1": "Psaume 1.\n\nHeureux l'homme qui ne marche pas selon le conseil d
 const AUDIO="Psaumes/Psaume_";
 const AUDIOM="PsaumesMusique/Psaume_";
 let music=true;
+let auto=true;
+function setAuto(v){auto=v;show(cur,false)}
 function setMode(m){music=m;show(cur,false)}
 const grid=document.getElementById('grid'),panel=document.getElementById('panel'),q=document.getElementById('q');
 let cur=1;
 function pad(n){return String(n).padStart(3,'0')}
 function buildGrid(list){grid.innerHTML='';list.forEach(n=>{const b=document.createElement('button');b.textContent=n;b.className=n===cur?'on':'';b.onclick=()=>show(n,true);grid.appendChild(b)})}
+let wantPlay=false;
+function nextAuto(){if(auto&&cur<150){wantPlay=true;show(cur+1,false)}}
 function show(n,scroll){cur=n;location.hash='psaume-'+n;
  const lines=P[n].split(/\n\s*\n/).filter(x=>x.trim());
  const title=lines.shift();
  const src=(music?AUDIOM:AUDIO)+pad(n)+'.mp3';
- panel.innerHTML='<h2>Psaume '+n+'</h2><div class="row"><button class="'+(music?'on':'')+'" onclick="setMode(true)">🎵 Avec musique</button><button class="'+(!music?'on':'')+'" onclick="setMode(false)">🎙 Voix seule</button></div><audio controls preload="none" src="'+src+'" onerror="this.outerHTML=\'<div class=noaudio>Audio bientôt disponible.</div>\'"></audio>'+
+ panel.innerHTML='<h2>Psaume '+n+'</h2><div class="row"><button class="'+(music?'on':'')+'" onclick="setMode(true)">🎵 Avec musique</button><button class="'+(!music?'on':'')+'" onclick="setMode(false)">🎙 Voix seule</button><button class="'+(auto?'on':'')+'" onclick="setAuto('+(!auto)+')">🔁 Lecture automatique : '+(auto?'oui':'non')+'</button></div><audio id="pl" controls preload="auto" src="'+src+'" onended="nextAuto()" onerror="this.outerHTML=\'<div class=noaudio>Audio bientôt disponible.</div>\'"></audio>'+
  '<div class="row"><a href="'+src+'" download>⬇ Télécharger l\'audio</a>'+(n>1?'<button onclick="show('+(n-1)+',true)">← Précédent</button>':'')+(n<150?'<button onclick="show('+(n+1)+',true)">Suivant →</button>':'')+'</div>'+
  '<div class="txt">'+lines.map(l=>'<p>'+l.replace(/&/g,'&amp;').replace(/</g,'&lt;')+'</p>').join('')+'</div>';
- filter();if(scroll)panel.scrollIntoView({behavior:'smooth'})}
+ filter();if(scroll)panel.scrollIntoView({behavior:'smooth'});
+ if(wantPlay){wantPlay=false;const a=document.getElementById('pl');if(a){const p=a.play();if(p&&p.catch)p.catch(()=>{})}}
+ if('mediaSession' in navigator){navigator.mediaSession.metadata=new MediaMetadata({title:'Psaume '+n,artist:'Radio Sources de Vie',album:'Les 150 Psaumes'});
+  navigator.mediaSession.setActionHandler('nexttrack',()=>{if(cur<150){wantPlay=true;show(cur+1,false)}});
+  navigator.mediaSession.setActionHandler('previoustrack',()=>{if(cur>1){wantPlay=true;show(cur-1,false)}})}}
 function filter(){const t=q.value.trim().toLowerCase();let list=[];
  for(let i=1;i<=150;i++){if(!t||(/^\d+$/.test(t)?String(i).startsWith(t):P[i].toLowerCase().includes(t)))list.push(i)}
  buildGrid(list)}
