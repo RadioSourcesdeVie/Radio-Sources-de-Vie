@@ -1,8 +1,88 @@
 {
   "category": "monde",
   "date": "2026-11-22",
-  "updated": "2026-11-22T10:00:24.651363Z",
+  "updated": "2026-11-22T19:00:22.095880Z",
   "articles": [
+    {
+      "title": "La COP31 s'achève sur un échec, l'UE rejette la proposition d'accord final",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-la-cop31-s-ach%C3%A8ve-sur-un-%C3%A9chec-l-ue-rejette-la-proposition-d-accord-final",
+      "desc": "La COP31 ​se dirigeait dimanche 22 novembre vers un échec et le rejet par une majorité de pays du texte de conclusion présenté par la Turquie et l'Australie, qui pilotaient les négociations, un compromis ​jugé bien trop timoré par nombre de pays participants.",
+      "date": "2026-11-22T16:41:59",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Corée du Sud : démission du ministre de l'Éducation après un scandale de triche à l'IA",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-cor%C3%A9e-du-sud-d%C3%A9mission-du-ministre-de-l-%C3%A9ducation-apr%C3%A8s-un-scandale-de-triche-%C3%A0-l-ia",
+      "desc": "Le ministre de l'Éducation sud-coréen a démissionné dimanche 22 novembre, emporté par un scandale de triche à l'intelligence artificielle qui a semé le doute quant à la bonne tenue des sacro-saints examens d'entrée à l'université.",
+      "date": "2026-11-22T16:41:05",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Ukraine : au moins deux morts après une frappe de drone russe contre un immeuble résidentiel",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-ukraine-au-moins-deux-morts-apr%C3%A8s-une-frappe-de-drone-russe-contre-un-immeuble-r%C3%A9sidentiel",
+      "desc": "Au ​moins deux personnes ont été tuées et une ​dizaine d'autres pourraient encore se trouver piégées sous les décombres d'un immeuble résidentiel frappé par un drone russe ​ce dimanche ‌22 novembre matin dans l'oblast de Kiev, ⁠ont déclaré le président Volodymyr Zelensky et des responsables locaux.",
+      "date": "2026-11-22T16:39:36",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "De la Seine-Saint-Denis à la Nasa, retour sur le parcours d'Allan Petre",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-de-la-seine-saint-denis-%C3%A0-la-nasa-retour-sur-le-parcours-d-allan-petre",
+      "desc": "L'ingénieur aérospatial Allan Petre a intégré la Nasa a 24 ans, ce qui fait de lui l'un des plus jeunes Français à y parvenir. Il publie \"Astro Allan\", une bande-dessinée retraçant son parcours.",
+      "date": "2026-11-22T16:38:38",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Climat : la COP31 échoue devant la division des pays sur les énergies fossiles",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261122-climat-la-cop31-%C3%A9choue-devant-la-division-des-pays-sur-les-%C3%A9nergies-fossiles",
+      "desc": "La COP31, la plus longue conférence de l'ONU sur le climat de l'histoire, s'est terminée sur un échec ce dimanche 22 novembre à Antalya en Turquie, après le rejet par l'Union européenne et d'autres pays d'un projet de décision finale omettant les énergies fossiles.",
+      "date": "2026-11-22T16:37:45",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "\"Mon fils a été violé à l'école et forcé de jurer de cacher ce qui s'était passé\"",
+      "link": "https://www.bbc.com/afrique/articles/cm4g137kz7vwo?at_medium=RSS&at_campaign=rss",
+      "desc": "Les abus sexuels commis sur des enfants dans des écoles religieuses au Bangladesh ont mis en lumière les souffrances endurées par les victimes et leurs familles. Un père, Khairul Bashar, a exprimé sa douleur et sa colère face aux sévices subis par son fils : \"je ne peux supporter ce qui est arrivé à",
+      "date": "2026-11-22T16:03:15",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "\"L'appareil photo de ton téléphone est ton arme\" : comment les irakiennes bravent les menaces de mort pour lutter contre les violences sexuelles",
+      "link": "https://www.bbc.com/afrique/articles/cqx2vjyk9n8ko?at_medium=RSS&at_campaign=rss",
+      "desc": "La BBC interviewe une militante qui publie des vidéos sur Instagram pour dénoncer les abus, ainsi qu'une mère qui se bat pour que justice soit rendue à sa fille, victime d'un viol.",
+      "date": "2026-11-22T12:58:16",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "La COP31 s’achève sans accord final, les énergies fossiles au cœur des divergences entre États",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159887",
+      "desc": "La 31e conférence des ⁠Nations ‌Unies sur le changement ​climatique s’est achevée dimanche sans accord final, les négociateurs n’étant pas parvenus à surmonter leurs divisions sur les énergies fossiles pour lutter contre le réchauffement. Après plus de deux semaines de discussions à Antalya, en Turq",
+      "date": "2026-11-22T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "« Voir sa mère dans la pauvreté et être incapable de l'aider, c'est très dur », pourquoi ces pêcheurs veulent tous quitter le Sénégal",
+      "link": "https://www.bbc.com/afrique/articles/c9143j2k7le3o?at_medium=RSS&at_campaign=rss",
+      "desc": "De jeunes pêcheurs de Yenne Todd, âgés de 18 à 22 ans, ne cachent ni leur désarroi ni leur envie de partir. Confrontés à des conditions de vie difficiles et à l'absence de perspectives économiques, ils disent ne plus entrevoir leur avenir au Sénégal. Pour eux, rejoindre l'Europe, même au péril de le",
+      "date": "2026-11-22T11:54:30",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Voici comment annoncer cette nouvelle relation à ses enfants, selon deux expertes",
+      "link": "https://www.bbc.com/afrique/articles/c6p3gzlg49pjo?at_medium=RSS&at_campaign=rss",
+      "desc": "Une situation qui peut être très enthousiasmante et source de bonheur peut se transformer en problème si nous ne gérons pas les choses avec prudence et tendresse.",
+      "date": "2026-11-22T11:05:23",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
     {
       "title": "Une \"autoroute minière\" soutenue par les États-Unis peut-elle apporter la paix et la prospérité en RDC ?",
       "link": "https://www.bbc.com/afrique/articles/c6174enwe7rvo?at_medium=RSS&at_campaign=rss",
@@ -12,75 +92,11 @@
       "lang": "fr"
     },
     {
-      "title": "Championnat des nations : les Bleus s'imposent face aux Pumas et se qualifient pour la finale",
-      "link": "https://www.france24.com/fr/sports/20261122-championnat-des-nations-les-bleus-s-imposent-face-aux-pumas-et-se-qualifient-pour-la-finale",
-      "desc": "Le XV de France s'est largement imposé samedi face aux Argentins (45-17) au Stade de France, lors de la finale du Championnat des nations. Les Bleus ont décroché leur billet pour la finale où ils retrouveront l'Afrique du Sud dimanche prochain.",
-      "date": "2026-11-22T08:39:44",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "COP31 : la France dénonce un texte qui \"nous ramène en arrière\"",
-      "link": "https://www.france24.com/fr/asie-pacifique/20261122-climat-accord-incertain-%C3%A0-la-cop31-des-pays-d%C3%A9noncent-l-absence-de-sortie-des-%C3%A9nergies-fossiles",
-      "desc": "Alors que la COP31 sur le climat en Turquie entre dans sa phase finale dimanche, la signature d'un accord demeure incertaine. Plusieurs États dénoncent l'absence de mention de la sortie des énergies fossiles dans la dernière proposition de compromis. La France a regretté que le texte proposé par la ",
-      "date": "2026-11-22T06:17:57",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "En direct : l'effondrement d'un immeuble frappé par un drone russe fait 14 disparus à Kiev",
-      "link": "https://www.france24.com/fr/europe/20261122-en-direct-la-finlande-d%C3%A9nonce-une-attaque-de-drone-ukrainien-contre-un-cargo-russe-en-mer-baltique",
-      "desc": "Au moins ​14 personnes pourraient être ​prises au piège en Ukraine sous les décombres d'un ​bâtiment ‌résidentiel ⁠qui s'est effondré après ‌une frappe de drone russe dimanche ⁠matin dans l'oblast de Kiev, a ​déclaré dimanche leprésident Volodimir ‌Zelensky. Par ailleurs, la Finlande a repéré la vei",
-      "date": "2026-11-22T05:55:48",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Conflit au Tigré: 700.000 déplacés suite aux affrontements en régions Somali et Oromia",
-      "link": "https://www.france24.com/fr/%C3%A9missions/journal-de-l-afrique/20261121-conflit-au-tigr%C3%A9-700-000-d%C3%A9plac%C3%A9s-suite-aux-affrontements-en-r%C3%A9gions-somali-et-oromia",
-      "desc": "En Ethiopie près de 700.000 personnes ont été déplacées par des affrontements entre forces armées des régions Somali et de l'Oromia qui font rage depuis près d'un mois dans le sud de l'Éthiopie, a annoncé jeudi l'ONG britannique Islamic Relief. Mais alors que les combats font rage au Tigré, 5000 étu",
-      "date": "2026-11-21T22:04:01",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Israël : Gadi Eisenkot invite le parti de Benjamin Netanyahu à des négociations de coalition",
-      "link": "https://www.france24.com/fr/moyen-orient/20261121-isra%C3%ABl-gadi-eisenkot-invite-le-parti-de-benjamin-netanyahu-%C3%A0-des-n%C3%A9gociations-de-coalition",
-      "desc": "Le centriste Gadi Eisenkot, chargé de former le prochain gouvernement israélien, a invité le parti du premier ministre sortant, Benyamin Netanyahu à des pourparlers en vue d’une éventuelle coalition, a annoncé, samedi, son parti.",
-      "date": "2026-11-21T20:29:02",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "On m'a annoncé la mort de mon bébé – 42 ans plus tard, il m'a envoyé un courriel",
-      "link": "https://www.bbc.com/afrique/articles/cw053prppzeqo?at_medium=RSS&at_campaign=rss",
-      "desc": "Diane Sheehan a eu son premier enfant en 1976. On lui a annoncé que celui-ci était décédé à la naissance. Quarante ans plus tard, elle a découvert qu'il était toujours en vie. Son histoire fait partie des dizaines de milliers de cas d'adoption forcée en Australie.",
-      "date": "2026-11-21T15:58:34",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "L'IA est-elle un guide spirituel fiable ? Les musulmans sont divisés",
-      "link": "https://www.bbc.com/afrique/articles/ck5y16098xxno?at_medium=RSS&at_campaign=rss",
-      "desc": "Une polémique sur le rôle de l'IA dans l'interprétation des édits religieux fait rage sur les réseaux sociaux, reflétant un débat plus large sur la différence entre l'esprit humain et l'« esprit » d'une machine, la concurrence mondiale pour la domination de l'industrie technologique et le rôle des é",
-      "date": "2026-11-21T13:43:43",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
       "title": "Nadia Murad : « Jour après jour, je me suis réapproprié mon histoire »",
       "link": "https://news.un.org/feed/view/fr/story/2026/11/1159854",
       "desc": "Depuis des années, l’Iraquienne Nadia Murad, lauréate du prix Nobel de la paix 2018, raconte les atrocités commises par les combattants de Daech contre elle et sa communauté, les Yézidis.",
       "date": "2026-11-21T12:00:00",
       "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Ce que le salon de la défense au Mali révèle de ses ambitions",
-      "link": "https://www.bbc.com/afrique/articles/c6vg210x93nko?at_medium=RSS&at_campaign=rss",
-      "desc": "Le deuxième Salon international de la défense et de la sécurité de Bamako (BAMEX) a réuni 19 délégations officielles et 30 entreprises exposantes. La Russie demeure le principal partenaire sécuritaire du Mali, tandis que la Turquie et la Chine renforcent leur présence dans le secteur de la défense.",
-      "date": "2026-11-21T11:00:02",
-      "source": "BBC Afrique",
       "lang": "fr"
     },
     {
@@ -105,22 +121,6 @@
       "desc": "La faim aiguë touche 266 millions de personnes dans 47 pays, soit plus du double d’il y a dix ans. Les guerres, El Niño et les perturbations du trafic maritime menacent d’alourdir ce bilan. Le Programme alimentaire mondial (PAM) demande plus de 12 milliards de dollars pour secourir 91 millions de pe",
       "date": "2026-11-20T12:00:00",
       "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Rohingyas : après le verdict historique, le Président de l’Assemblée générale réclame justice et réparation",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159884",
-      "desc": "Au lendemain de la décision historique de la Cour internationale de Justice (CIJ), qui a reconnu le Myanmar coupable de génocide à l’encontre des Rohingyas, le président de l’Assemblée générale de l’ONU, Khalilur Rahman, s’est rendu vendredi dans les camps de réfugiés de Cox’s Bazar, au Bangladesh. ",
-      "date": "2026-11-20T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Comprendre les tensions entre la Guinée et le Burkina Faso",
-      "link": "https://www.bbc.com/afrique/articles/c6y97dge5lqyo?at_medium=RSS&at_campaign=rss",
-      "desc": "La Guinée a décidé de suspendre la diffusion de la chaîne publique burkinabè, la RTB, sur toute l'étendue du territoire. Mais, comment en est-on arrivé à cette situation ?",
-      "date": "2026-11-20T11:51:05",
-      "source": "BBC Afrique",
       "lang": "fr"
     }
   ]
