@@ -3,19 +3,19 @@
   "title": "Meteo du 22 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 1.24,
-    "feels_like": -2.09,
-    "humidity": 93,
-    "description": "Brume",
-    "wind_kmh": 11.1
+    "temp": 10.9,
+    "feels_like": 9.98,
+    "humidity": 74,
+    "description": "Peu nuageux",
+    "wind_kmh": 7.4
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 24.52,
-    "feels_like": 25.09,
-    "humidity": 79,
+    "temp": 31.79,
+    "feels_like": 37.18,
+    "humidity": 62,
     "description": "Peu nuageux",
-    "wind_kmh": 8.8
+    "wind_kmh": 22.2
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 22 novembre 2026 sur Radio Sources de Vie. A Ottawa: 1 degres Celsius. Brume. A Port-au-Prince: 25 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 22 novembre 2026 sur Radio Sources de Vie. A Ottawa: 11 degres Celsius. Peu nuageux. A Port-au-Prince: 32 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
