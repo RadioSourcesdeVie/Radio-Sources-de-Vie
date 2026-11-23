@@ -1,62 +1,70 @@
 {
   "category": "haiti",
   "date": "2026-11-23",
-  "updated": "2026-11-23T10:00:23.444859Z",
+  "updated": "2026-11-23T19:00:22.120878Z",
   "articles": [
     {
+      "title": "\"Sans eux, on ne pourrait pas revenir\" : en Haïti, l'intervention militaire salvadorienne contre les gangs largement saluée par la population - franceinfo",
+      "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxPSTlzWl9teDBkU1Fudi1ETUFJa25zR25Wdy1sdFZ0UVVSSFNlWG1hSW8yVTNoM3pOTnZCMnZYYTJvdkFXVXZZaEprU1dKWlRpTUROQUJTVTBzZ0M2WmN3RERvTlhkamI5cE9yM3k0Z3JRLUo2NGhlcldyMDBJc2o3TXVOei1abG1tS1NzYWJLbW56VmhyZXczSDFFTE82RW55dWJRMUQxbWFxajdaWkRFRVA1Y1ZqeFk5Zm5XWE0zbVI4SnhCUjFpY2NHQ3NNa2dBOEFmSFlQTzR4UklSV0tZR3EtVEVNX1BDc1NvVDNIQUZsRzdTZEltSndFMmw0MmltWVF0YVBtSE4waFVIaDcxVW9XQnozOV9PbldvV3U0T0FLXzBNeVhV?oc=5",
+      "desc": "\"Sans eux, on ne pourrait pas revenir\" : en Haïti, l'intervention militaire salvadorienne contre les gangs largement saluée par la population&nbsp;&nbsp;franceinfo",
+      "date": "2026-11-23T17:39:45",
+      "source": "Google News Haiti",
+      "lang": "fr"
+    },
+    {
+      "title": "«J’ai vu deux hommes blancs tirer sur des jeunes»: en Haïti, l’essor opaque des combattants privés étrangers - Le Temps",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM09ITWtob0lQQTJEaTVEd1R2YW15WERraHQyZVRGbnVmQ2FfY3g2M1lkcEd4MVlGcFZ5S3Nma1BzejE4LXFPb0VjSXZaWHYwUGpBNlVFUHRsbG90MDZRYjU3cFJwQlNtcjRjaXdYWHgxbTBHY1FQdDBBYUJWeTMyanhDSEhmVVFuTkJvN3Q2VmxVS29kQ3hkOE4xM29ST0M2VkR1cEtZNG5naFRnRUE?oc=5",
+      "desc": "«J’ai vu deux hommes blancs tirer sur des jeunes»: en Haïti, l’essor opaque des combattants privés étrangers&nbsp;&nbsp;Le Temps",
+      "date": "2026-11-23T17:11:53",
+      "source": "Google News Haiti",
+      "lang": "fr"
+    },
+    {
       "title": "Haïti - Actualité : Zapping...",
-      "link": "https://www.haitilibre.com/article-48954-haiti-actualite-zapping.html",
-      "desc": "Jamaïque : Police et armée en États d&apos;alerte - 3 hélicoptères du Salvador atterrissent en Rep. Dominicaine - OAVCT : Promotion sur les arriérés - Canada : Nouvel Ambassadeur d&apos;Haïti - Nécrologie : décès du journaliste Eddy Jackson Alexis...",
-      "date": "2026-11-22T14:46:58",
+      "link": "https://www.haitilibre.com/article-48961-haiti-actualite-zapping.html",
+      "desc": "Ambassade US  : Alerte de sécurité - Le P.M à la base des militaires du Salvador -  La Cahouane électrifiée - Réduction du coût des césariennes de 76% - Filet de sécurité pour les populations vulnérables - CCI-Sud : Nouveau Conseil d&apos;Administration...",
+      "date": "2026-11-23T15:00:34",
       "source": "HaitiLibre",
       "lang": "fr"
     },
     {
-      "title": "iciHaïti - Coupe du Monde Féminine U-17 Maroc 2027 : Phase éliminatoire (adversaires et calendrier)",
-      "link": "https://www.icihaiti.com/article-48953-icihaiti-coupe-du-monde-feminine-u-17-maroc-2027-phase-eliminatoire-adversaires-et-calendrier.html",
-      "desc": "La CONCACAF a procédé cette semaine à Miami (Floride), au tirage au sort des éliminatoires du championnat féminin U-17…",
-      "date": "2026-11-22T14:07:38",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - «Projet Retour aux quartiers» : Le MTPTC mobilise son expertise technique à Solino",
-      "link": "https://www.haitilibre.com/article-48952-haiti-projet-retour-aux-quartiers-le-mtptc-mobilise-son-expertise-technique-a-solino.html",
-      "desc": "Dans le cadre du programme gouvernemental « Projet Retour aux quartiers », le Ministère des Travaux publics, a été sollicité pour apporter son appui technique et réaliser une évaluation approfondie de l&apos;état des bâtiments dans le quartier de Solino...",
-      "date": "2026-11-22T13:55:39",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "iciHaïti - Mexique : Le CEP et l'Ambassadeur du Mexique en Haïti discutent de la mise en place d'un comité opérationnel",
-      "link": "https://www.icihaiti.com/article-48951-icihaiti-mexique-le-cep-et-l-ambassadeur-du-mexique-en-haiti-discutent-de-la-mise-en-place-d-un-comite-operationnel.html",
-      "desc": "Le Conseil Électoral Provisoire (CEP) a reçu, dans ses locaux à Pétion-ville, José de Jesús Cisneros l&apos;Ambassadeur du Mexique en Haïti, dans le cadre du renforcement de la coopération électorale entre les deux pays…",
-      "date": "2026-11-22T13:42:14",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Formation professionnelle : Lancement de la première cohorte «Metye m se zam pam» à l'intention de 5,000 jeunes",
-      "link": "https://www.haitilibre.com/article-48950-haiti-formation-professionnelle-lancement-de-la-premiere-cohorte-metye-m-se-zam-pam-a-l-intention-de-5-000-jeunes.html",
-      "desc": "Vendredi 20 novembre, à l&apos;hôtel Karibe Convention Center le Ministère de la Jeunesse (MJSAC) a procédé au lancement du programme « Metye m se zam pam » Dans le cadre de ce programme, une première cohorte de 5,000 jeunes sera formée en...",
-      "date": "2026-11-22T13:30:57",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Trois militaires salvadoriens tués en Haïti en manipulant des explosifs - Outre-mer La 1ère",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPajV1akR4Zk9kREx5ZzJQdXRpUmU5QkVUNkh2Q05nUnNxbFBZekpPOGlwVHAzSFFtM3FOZVZqOUJoRU5DQ1VPVXNIckdoQmNSVUZxQ01tMC1mVVZxVTdRMS1TS01veVlfUGpFajhaZldSRnB4cTdqYWZicXdzWmljaVB0TkhhSmtHalNQQ0ZNTDkyb2wxak4wMUdRZFlza1NDVXdkWnZ0WEdSRzdidm04U1NsaGY1dkZZTE9uTmJacFpRZw?oc=5",
-      "desc": "Trois militaires salvadoriens tués en Haïti en manipulant des explosifs&nbsp;&nbsp;Outre-mer La 1ère",
-      "date": "2026-11-21T20:05:02",
+      "title": "Élections en Haïti: «La présence sur les listes de certains candidats consacre leur impunité» - RFI",
+      "link": "https://news.google.com/rss/articles/CBMingJBVV95cUxQSThWQ093RF9SNF9icTZSWkU0Y3pxYkJ0MEpNRlRfaVZYeEtHcUR6Q2pzTjlpU250VUl4TGJYSVZwMmtGMkg1Vy1lSDlCUHVwT3Zlc01mcFA4cXVkSFlLb2hJeDlUVVB6YXJsTlpOZVVqZ2x2cElRRVFFX1hMLWZubndSVzRmcVRYR1pnOEdDZE9oSGhGaEVkZzhFQWZlOUNIOXpPRWNwaTRIcUotUE1BbTFQbFJ0ZHcyaFJhOHdaWkVzZ2NpandwTFdNNmlVT210LW5MZUt4S3Rxc2g4X253YVRVM2U3eUpNM0RQU3phSUptUnNZUzFRRTUtb2V4UGR5SWJZeVBwZFpwZmthWFdxMC1tQjZVZF9mVWhQN0RB?oc=5",
+      "desc": "Élections en Haïti: «La présence sur les listes de certains candidats consacre leur impunité»&nbsp;&nbsp;RFI",
+      "date": "2026-11-23T14:48:59",
       "source": "Google News Haiti",
       "lang": "fr"
     },
     {
-      "title": "Bukele assure que ses troupes quitteront Haïti une fois les soldats retrouvés - guadeloupe.franceantilles.fr",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQUndKS0FfejhtTGFuOW9taHdVOG9hck1BeXFaWDFGMXhpeWgwMUYxZWE5TUNMNU9CbVdMazcxcXNXbWp3d1oyU1RWRmM4MG5EWFZEbTlDeTFoQm0ybkNWRG40S3NmLWlnVTZJeEJacGY5UE5yN3cwYjU3VjNlZzZlbFhrWC1DM1BPQ2txQTZMdGtFb3JMcXlleWR6SG1oUjd0ZHFlQXR6dDhyWlNIVkk2VzFoLUx1Z0RPcko3LWxCb3JIM1pra0NSNVNVS0xOaE94RG9ORXRsUW1FZU5adFVHRTItWXk?oc=5",
-      "desc": "Bukele assure que ses troupes quitteront Haïti une fois les soldats retrouvés&nbsp;&nbsp;guadeloupe.franceantilles.fr",
-      "date": "2026-11-21T19:14:03",
-      "source": "Google News Haiti",
+      "title": "iciHaïti - Le SEMANAH signe deux accords au bénéfice des pêcheurs",
+      "link": "https://www.icihaiti.com/article-48960-icihaiti-le-semanah-signe-deux-accords-au-benefice-des-pecheurs.html",
+      "desc": "Dans le cadre de la Journée internationale des pêcheurs (21 novembre), le Service Maritime et de Navigation d&apos;Haïti (SEMANAH), a signé deux protocoles d&apos;accord importants…",
+      "date": "2026-11-23T14:17:41",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Politique : Haïti souhaite développer des partenariats concrets avec les Émirats Arabes Unis",
+      "link": "https://www.haitilibre.com/article-48959-haiti-politique-haiti-souhaite-developper-des-partenariats-concrets-avec-les-emirats-arabes-unis.html",
+      "desc": "Samedi 21 novembre 2026 en marge du Dialogue 2026 du Sommet mondial des gouvernements, Sandra Paulemon la Ministre de la Planification a tenu une réunion bilatérale avec Mohamed AlSharhan Directeur Général du « World Governments Summit »…",
+      "date": "2026-11-23T14:09:34",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "iciHaïti - Politique : Haïti réaffirme ses ambitions d'intégration touristique dans la Caraïbe",
+      "link": "https://www.icihaiti.com/article-48958-icihaiti-politique-haiti-reaffirme-ses-ambitions-d-integration-touristique-dans-la-caraibe.html",
+      "desc": "Sandra Paulemon la Ministre de la Planification Intervenant à un panel de l&apos;Association des États de la Caraïbe a plaidé pour le dépassement d&apos;une vision touristique fondée sur la concurrence, au profit d&apos;une offre régionale basée sur la complémentarité…",
+      "date": "2026-11-23T13:52:57",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - FLASH : Au moins 54 terroristes tués en 2 jours (vidéos)",
+      "link": "https://www.haitilibre.com/article-48957-haiti-flash-au-moins-54-terroristes-tues-en-2-jours-videos.html",
+      "desc": "Vendredi au moins 20 terroristes ont été tués lors d&apos;une nouvelle opération policière à Martissant, au Sud de Port-au-Prince. Ces 20 individus abattus s&apos;ajoutent aux 34 abattus jeudi dans la même localité…",
+      "date": "2026-11-23T11:42:42",
+      "source": "HaitiLibre",
       "lang": "fr"
     },
     {
@@ -64,14 +72,6 @@
       "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbFo3REhuVV8xaEpJdWJ6d0d1ZU5nRDRoTmZNVUZrYzBUdFMwTEZDQ2NmcXJvenFrZk9NMFcydHVuR1hjZlVuSXRZUmFZNWFjTC1XUmxjWV9QTFNoT1M5WWFfT3lpQnBZQkgxTWNmY1dhZ1kxQ2NRVGZib0U5X0pxZUVnSTY4MEtlWVc5a1dBLXZVRHVT?oc=5",
       "desc": "Haïti : quel bilan de l'intervention du Salvador ?&nbsp;&nbsp;Arte.tv",
       "date": "2026-11-20T18:57:00",
-      "source": "Google News Haiti",
-      "lang": "fr"
-    },
-    {
-      "title": "L’offensive contre les gangs s’intensifie en Haïti, où Bukele exporte sa politique sécuritaire - Courrier international",
-      "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPZjhTNmJHNkFiTlJjT0hJSGxGQXBxSzVWcHl6d0NrZ0VydUI3TllSN3ZfMlVTem1yN2V0WXBkUG10aXg0dzh4Wk1wNDVFbUd1eWZQZFprb192d3dDLXdHbHB2Y0JEb05YVTU5dUItNjVkUFN3QkdwWWU4U3p3OWtjVVVPd1R1Mm9TcnQzQW5FdlpoMDhLWGtFQlNOU1FSN2p0aFhPTEFYY01Sb29lbHQ4V29wY1NLRmNQN0l6TGl1Z0doSmZhdHJyVmZ0bDZTbVN0RlBDYmNKN3J5Yk5BcXVlYnpKQVN1Y3NPb3BXZHZRdzI?oc=5",
-      "desc": "L’offensive contre les gangs s’intensifie en Haïti, où Bukele exporte sa politique sécuritaire&nbsp;&nbsp;Courrier international",
-      "date": "2026-11-20T16:50:09",
       "source": "Google News Haiti",
       "lang": "fr"
     },
