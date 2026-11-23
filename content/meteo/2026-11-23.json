@@ -3,19 +3,19 @@
   "title": "Meteo du 23 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 9.32,
-    "feels_like": 5.6,
-    "humidity": 57,
+    "temp": 7.43,
+    "feels_like": 3.12,
+    "humidity": 53,
     "description": "Peu nuageux",
     "wind_kmh": 31.5
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 31.79,
-    "feels_like": 37.18,
-    "humidity": 62,
-    "description": "Peu nuageux",
-    "wind_kmh": 11.1
+    "temp": 30.79,
+    "feels_like": 35.93,
+    "humidity": 66,
+    "description": "Légère pluie",
+    "wind_kmh": 14.8
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 23 novembre 2026 sur Radio Sources de Vie. A Ottawa: 9 degres Celsius. Peu nuageux. A Port-au-Prince: 32 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 23 novembre 2026 sur Radio Sources de Vie. A Ottawa: 7 degres Celsius. Peu nuageux. A Port-au-Prince: 31 degres Celsius. Légère pluie. Que Dieu benisse votre journee!"
 }
