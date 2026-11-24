@@ -5,15 +5,15 @@
     <description>Sermon quotidien</description>
     <link>https://www.radiosourcesdevie.org</link>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 09:08:56 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 09:07:20 +0000</lastBuildDate>
     <itunes:author>Radio Sources de Vie Chrétienne</itunes:author>
     <itunes:category text="Religion &amp; Spirituality"/>
     <item>
-      <title>Le prix de notre liberté : La victoire de Christ à la croix — 2026-11-23</title>
-      <description>Sermon quotidien — 2026-11-23</description>
-      <pubDate>Mon, 23 Nov 2026 09:08:56 +0000</pubDate>
-      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-11-23.mp3" length="6447360" type="audio/mpeg"/>
-      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-11-23.mp3</guid>
+      <title>La puissance de la foi en action : Quand Jésus calme la tempête — 2026-11-24</title>
+      <description>Sermon quotidien — 2026-11-24</description>
+      <pubDate>Tue, 24 Nov 2026 09:07:20 +0000</pubDate>
+      <enclosure url="https://www.radiosourcesdevie.org/audio/sermons/2026-11-24.mp3" length="6800064" type="audio/mpeg"/>
+      <guid>https://www.radiosourcesdevie.org/audio/sermons/2026-11-24.mp3</guid>
       <itunes:duration>00:01:00</itunes:duration>
     </item>
   </channel>
