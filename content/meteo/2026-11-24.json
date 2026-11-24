@@ -3,19 +3,19 @@
   "title": "Meteo du 24 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": -3,
-    "feels_like": -6.65,
-    "humidity": 75,
-    "description": "Nuageux",
-    "wind_kmh": 9.3
+    "temp": 0.14,
+    "feels_like": -4.19,
+    "humidity": 62,
+    "description": "Peu nuageux",
+    "wind_kmh": 14.8
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 25.85,
-    "feels_like": 26.58,
-    "humidity": 80,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 14.0
+    "temp": 31.79,
+    "feels_like": 37.18,
+    "humidity": 62,
+    "description": "Peu nuageux",
+    "wind_kmh": 22.2
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 24 novembre 2026 sur Radio Sources de Vie. A Ottawa: -3 degres Celsius. Nuageux. A Port-au-Prince: 26 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 24 novembre 2026 sur Radio Sources de Vie. A Ottawa: 0 degres Celsius. Peu nuageux. A Port-au-Prince: 32 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
