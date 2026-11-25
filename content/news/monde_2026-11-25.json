@@ -1,22 +1,94 @@
 {
   "category": "monde",
   "date": "2026-11-25",
-  "updated": "2026-11-25T10:00:23.966906Z",
+  "updated": "2026-11-25T19:00:28.053843Z",
   "articles": [
     {
-      "title": "Paris Nautic Show : quelle industrie nautique en France ?",
-      "link": "https://www.france24.com/fr/%C3%A9missions/info-%C3%A9co/20261125-paris-nautic-show-quelle-industrie-nautique-en-france",
-      "desc": "Rebaptisé en 2025 \"Paris Nautic Show\", le salon nautique de Paris se déroule pour la deuxième année de suite au Parc des expositions du Bourget du 25 au 29 novembre. Né en 1926, l'événement fête ses 100 ans. Le chiffre d'affaires du nautisme et de la plaisance pèse près de 5 milliards et demi d'euro",
-      "date": "2026-11-25T09:41:19",
+      "title": "L'actu en dessin : le 25 novembre, une journée contre les violences faites aux femmes et aux filles",
+      "link": "https://www.france24.com/fr/france/20261125-actu-dessin-25-novembre-journ%C3%A9e-contre-violences-faites-femmes-filles-physiques-sexuelles-sexistes-psychologiques",
+      "desc": "Une journée internationale pour l'élimination de la violence à l'égard des femmes se tient chaque 25 novembre. Selon les Nations unies, environ 47 000 femmes et filles ont été tuées par leur partenaire ou un membre de leur famille en 2025.",
+      "date": "2026-11-25T18:16:15",
       "source": "France 24",
       "lang": "fr"
     },
     {
-      "title": "Suspicion de fuites vers le RN : Darmanin saisit l'Inspection générale de la Justice",
-      "link": "https://www.france24.com/fr/france/20261125-procureur-au-si%C3%A8ge-du-rn-darmanin-saisit-l-inspection-g%C3%A9n%C3%A9rale-de-la-justice",
-      "desc": "Le ministre de la justice, Gérald Darmanin, a annoncé, mercredi 25 novembre, avoir saisi l’inspection générale de la justice pour enquêter sur la présence, dans les locaux du Rassemblement national (RN) lors d’une perquisition, le 9 novembre, d’un procureur adjoint du parquet de Paris, Christian de ",
-      "date": "2026-11-25T08:21:25",
+      "title": "CAN 2025 : à Dakar, le verdict du TAS ne surprend pas les supporters",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261125-can-2025-%C3%A0-dakar-le-verdict-du-tas-ne-surprend-pas-les-supporters",
+      "desc": "🇸🇳 Le Sénégal récupère sa couronne. À Dakar, le verdict du TAS fait réagir les supporters. Entre satisfaction et sentiment de justice rendue, ce dénouement ne surprend pas les Sénégalais après tant de mois de polémique autour de la CAN 2025.",
+      "date": "2026-11-25T17:37:10",
       "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Artex, un général d'agents IA soupçonné d’avoir aidé à pirater la CIA",
+      "link": "https://www.france24.com/fr/%C3%A9co-tech/20261125-artex-g%C3%A9n%C3%A9ral-agents-ia-soup%C3%A7onn%C3%A9-avoir-aid%C3%A9-pirater-cia",
+      "desc": "Pour les enquêteurs américains, les pirates informatiques ayant réussi récemment à s'infiltrer sur les serveurs de la CIA se sont servis d’Artex. Un nom qui revient de plus en plus souvent dans des affaires de piratage dopé à l’IA. Artex est comparé à un général d’armée d’agents IA répondant à ses o",
+      "date": "2026-11-25T16:46:05",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Ebola : soigner en zone de guerre",
+      "link": "https://www.france24.com/fr/%C3%A9missions/le-rendez-vous-afrique/20261125-ebola-soigner-en-zone-de-guerre",
+      "desc": "C'est la difficile mission des humanitaires déployés dans l'est de la République Démocratique du Congo. Des médecins ont du se réfugier pendant 3 jours dans un hôpital de l'Ituri pour échapper à de violents combats. Une situation que connait bien les équipes de Médecins sans frontières déployées dep",
+      "date": "2026-11-25T16:37:32",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "David Lisnard réélu Président de l'Association des maires de France",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261125-david-lisnard-r%C3%A9%C3%A9lu-pr%C3%A9sident-de-l-association-des-maires-de-france",
+      "desc": "Le maire de Cannes et candidat à l'élection présidentielle, David Lisnard, a annoncé mercredi sa réélection pour un troisième mandat à la tête de l'Association des maires de France (AMF), malgré le \"mélange des genres\" contraire à la neutralité politique de association, dénoncé par certains élus.",
+      "date": "2026-11-25T16:25:26",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Comment une femme a été droguée par son mari et violée par des inconnus pendant 13 ans au Royaume-Uni",
+      "link": "https://www.bbc.com/afrique/articles/c6lywq52yw50o?at_medium=RSS&at_campaign=rss",
+      "desc": "Quatre hommes ont été reconnus coupables au Royaume-Uni d'avoir abusé d'une femme après que son mari l'a droguée.",
+      "date": "2026-11-25T16:04:57",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Le gouvernement de l'État de Katsina au Nigeria suspend l'émir de Daura en raison d'allégations d'agression sexuelle",
+      "link": "https://www.bbc.com/afrique/articles/cqj9mvyp2k27o?at_medium=RSS&at_campaign=rss",
+      "desc": "Le gouverneur Dikko Umaru Radda a ordonné la création d'un comité chargé d'enquêter sur l'affaire et de conseiller le gouvernement sur les mesures appropriées à prendre.",
+      "date": "2026-11-25T14:46:46",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Qu'est-ce qui peut entraîner une perte de cheveux chez les femmes ?",
+      "link": "https://www.bbc.com/afrique/articles/cq4gndx7k43ko?at_medium=RSS&at_campaign=rss",
+      "desc": "Il existe de nombreuses idées infondées concernant les causes de la perte de cheveux et la manière de traiter ce problème.",
+      "date": "2026-11-25T13:03:07",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Le Tchad accueille plus de 1 000 Arabes Mahamids expulsés du Niger",
+      "link": "https://www.bbc.com/afrique/articles/cq4gn8p0wpj3o?at_medium=RSS&at_campaign=rss",
+      "desc": "Au total, 1 072 Arabes mahamids issus de près de 180 familles expulsées du Niger sont arrivés le 22 novembre dans la province du Lac, au Tchad, où ils bénéficient d'une aide humanitaire d'urgence.",
+      "date": "2026-11-25T12:25:25",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Gaza et Cisjordanie : l’ONU redoute de nouveaux « crimes atroces » contre les Palestiniens",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159906",
+      "desc": "Le Haut-Commissaire des Nations Unies aux droits de l’homme a appelé mercredi la communauté internationale à agir sans attendre pour prévenir de nouveaux « crimes atroces » contre les Palestiniens à Gaza et en Cisjordanie occupée. Volker Türk s’est dit « extrêmement préoccupé par le caractère de plu",
+      "date": "2026-11-25T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Yémen : à Taëz, la guerre bloque les vaccins et menace des centaines de milliers d’enfants",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159905",
+      "desc": "En visite au Yémen, le chef de l'humanitaire de l’ONU, Tom Fletcher, a appelé à garantir un accès sûr et durable aux populations civiles, prises au piège de la reprise des combats et des déplacements forcés. Il a notamment tiré la sonnette d’alarme sur la situation à Taëz, où l’insécurité bloque l’a",
+      "date": "2026-11-25T12:00:00",
+      "source": "ONU Info",
       "lang": "fr"
     },
     {
@@ -24,46 +96,6 @@
       "link": "https://www.bbc.com/afrique/articles/cr930kpy5p42o?at_medium=RSS&at_campaign=rss",
       "desc": "Plus d'un demi-million de personnes ont fui leurs foyers depuis que des groupes séparatistes ont réclamé l'indépendance des régions anglophones du Cameroun.",
       "date": "2026-11-25T07:46:09",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "CAN 2025 : à la fin, les Lions de la Teranga terrassent ceux de l'Atlas",
-      "link": "https://www.france24.com/fr/%C3%A9missions/dans-la-presse/20261125-can-2025-ry-%C3%A0-la-fin-les-lions-de-la-teranga-terrassent-ceux-de-l-atlas",
-      "desc": "À la une de la presse, ce mercredi 25 novembre, les réactions au verdict du Tribunal arbitral du sport, qui a confirmé la victoire du Sénégal sur le Maroc en finale de la CAN 2025. Le bilan des pertes russes au Mali, où Moscou soutient la junte au pouvoir. L’internationalisation du conflit ukrainien",
-      "date": "2026-11-25T07:29:35",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "🔴 Prise d'otages en Colombie : un assaillant tué, \"tous les otages libérés\", annonce le président",
-      "link": "https://www.france24.com/fr/am%C3%A9riques/20261124-colombie-prise-otages-cours-ville-touristique-carthag%C3%A8ne",
-      "desc": "",
-      "date": "2026-11-25T07:19:32",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "CAN 2025 : le Sénégal déclaré vainqueur par le TAS, le Maroc conteste",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261125-can-2025-le-s%C3%A9n%C3%A9gal-d%C3%A9clar%C3%A9-vainqueur-par-le-tas-le-maroc-conteste",
-      "desc": "Le Tribunal arbitral du sport a rendu sa décision : le Sénégal est officiellement champion d’Afrique 2025. La Fédération marocaine a annoncé contester le verdict, dénonçant des irrégularités dans la procédure.",
-      "date": "2026-11-25T06:28:24",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "CAN 2025 : Pourquoi le TAS a donné la victoire au Sénégal",
-      "link": "https://www.bbc.com/afrique/articles/c98r7ep7x53eo?at_medium=RSS&at_campaign=rss",
-      "desc": "Dix mois après la finale de la Coupe d'Afrique des Nations 2025, le Sénégal est rétabli dans son titre de champion suite à une décision du Tribunal arbitral du sport.",
-      "date": "2026-11-24T15:40:16",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Gisèle Pelicot « humiliée » après l'envoi de photos d'elle nue aux médias pour promouvoir son livre",
-      "link": "https://www.bbc.com/afrique/articles/cw808k02vyxxo?at_medium=RSS&at_campaign=rss",
-      "desc": "L'éditeur d'un essai sur le contrôle coercitif présente ses excuses pour « une communication malheureuse et inappropriée ».",
-      "date": "2026-11-24T14:05:38",
       "source": "BBC Afrique",
       "lang": "fr"
     },
@@ -89,38 +121,6 @@
       "desc": "Dans les zones de l’est de la République démocratique du Congo (RDC) touchées par Ebola, les violences faites aux femmes s’aggravent, tandis que la peur de la contamination les dissuade de chercher de l’aide. Selon une enquête de l’UNICEF, près de six femmes et adolescentes interrogées sur dix décla",
       "date": "2026-11-24T12:00:00",
       "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "VIH/Sida : les coupes budgétaires menacent de balayer des décennies de progrès",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159898",
-      "desc": "Des programmes de prévention démantelés, des structures communautaires fermées, des traitements et des services menacés. La lutte contre le VIH encaisse de plein fouet les coupes dans l’aide internationale. Dans un nouveau rapport, l’ONUSIDA alerte sur le risque de voir des décennies de progrès sani",
-      "date": "2026-11-24T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Gaza : la méningite gagne du terrain dans des conditions sanitaires alarmantes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159896",
-      "desc": "L’Organisation mondiale de la santé (OMS) tire la sonnette d’alarme face à une forte hausse des cas de méningite dans la bande de Gaza depuis la mi-octobre. Plus de 530 cas ont été recensés, dont une majorité chez les très jeunes enfants. L’agence onusienne appelle à renforcer d’urgence l’approvisio",
-      "date": "2026-11-24T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Le journal du pape François révèle qu'il affirme avoir vu le diable à trois reprises",
-      "link": "https://www.bbc.com/afrique/articles/cq4gn6nn3537o?at_medium=RSS&at_campaign=rss",
-      "desc": "Des extraits publiés du journal du défunt pontife affirment que l'une des visions s'est produite « dans la tribune du chœur » pendant la messe.",
-      "date": "2026-11-24T11:47:36",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Qui sont les Arabes Mahamid que le Niger a décidé d'expulser de son territoire ?",
-      "link": "https://www.bbc.com/afrique/articles/cjg46v2369wwo?at_medium=RSS&at_campaign=rss",
-      "desc": "Au Niger, les autorités accusent les Arabes de soutenir des groupes djihadistes tels que Boko Haram et l'ISWAP.",
-      "date": "2026-11-24T07:53:28",
-      "source": "BBC Afrique",
       "lang": "fr"
     }
   ]
