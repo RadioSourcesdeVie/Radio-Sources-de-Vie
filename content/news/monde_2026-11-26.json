@@ -1,22 +1,94 @@
 {
   "category": "monde",
   "date": "2026-11-26",
-  "updated": "2026-11-26T10:00:25.977033Z",
+  "updated": "2026-11-26T19:00:23.337219Z",
   "articles": [
     {
-      "title": "🔴 Écrits antisémites : Jordan Bardella dénonce une \"entreprise de persécution\" après la publication de nouveaux éléments accablants",
-      "link": "https://www.france24.com/fr/france/20261126-%C3%A9crits-antis%C3%A9mites-de-nouveaux-%C3%A9l%C3%A9ments-accablent-jordan-bardella",
-      "desc": "",
-      "date": "2026-11-26T09:29:42",
+      "title": "Bardella, Lavalette… la dédiabolisation du RN à l’épreuve des affaires d’antisémitisme",
+      "link": "https://www.france24.com/fr/france/20261126-france-jordan-bardella-laure-lavalette-dediabolisation-rassemblement-national-epreuve-affaires-antisemitisme",
+      "desc": "De nouvelles accusations sur les écrits antisémites de jeunesse de Jordan Bardella ont été publiées jeudi, quelques jours seulement après d’autres révélations concernant Laure Lavalette, porte-parole de Marine Le Pen. Même si ces accusations n’ont jusqu’ici pas eu d’impact sur les intentions de vote",
+      "date": "2026-11-26T18:29:20",
       "source": "France 24",
       "lang": "fr"
     },
     {
-      "title": "Pourquoi les présidents américains gracient-ils des dindes pour Thanksgiving ?",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261126-pourquoi-pr%C3%A9sidents-am%C3%A9ricains-gracient-dindes-thanksgiving-%C3%A9tats-unis-tradition-animal-histoire-culture-prime",
-      "desc": "Tous les ans, pour Thanksgiving, on retrouve des dindes sur les tables américaines... et à la Maison Blanche ! Le président des États-Unis gracie traditionnellement quelques-uns de ces volatiles, et leur épargne l'abattoir. Mais d'où vient cette tradition ?",
-      "date": "2026-11-26T09:26:12",
+      "title": "Navires russes ciblés en Libye : les frappes ukrainiennes étaient-elles légales ?",
+      "link": "https://www.france24.com/fr/europe/20261126-navires-russes-cibl%C3%A9s-libye-les-frappes-ukrainiennes-%C3%A9taient-elles-l%C3%A9gales",
+      "desc": "Après la spectaculaire attaque de l'Ukraine dimanche contre deux navires russes en Libye, les autorités de l'est du pays ont dénoncé une violation de la souveraineté libyenne et promis une réponse à ces bombardements qui ont causé la mort de deux de leurs soldats. L'Ukraine était-elle dans son bon d",
+      "date": "2026-11-26T17:56:11",
       "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "De l’Ukraine à la Corée au Nord : le camp Songdowon mêlé au scandale des enfants déportés",
+      "link": "https://www.france24.com/fr/asie-pacifique/20261126-de-l-ukraine-a-la-coree-au-nord-le-camp-songdowon-m%C3%AAl%C3%A9-au-scandale-des-enfants-deportes",
+      "desc": "La Corée du Nord a expulsé l’attaché diplomatique suisse à Pyongyang en réponse à la décision de Berne de sanctionner un camp pour enfants accusé d’aider la Russie dans son programme de déportation et de rééducation forcée d’enfants ukrainiens. L’UE et le Royaume-Uni ont également pris des sanctions",
+      "date": "2026-11-26T17:38:11",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "En Haïti, “les gangs ont peur” face aux troupes salvadoriennes",
+      "link": "https://www.france24.com/fr/%C3%A9missions/les-observateurs/20261126-en-ha%C3%AFti-les-gangs-ont-peur-face-aux-troupes-salvadoriennes",
+      "desc": "Déployées en Haïti fin octobre à l’initiative de Nayib Bukele, les troupes salvadoriennes sont accueillies favorablement à Port-au-Prince. Les habitants interrogés par notre rédaction y voient un nouvel espoir face aux violences des gangs qui ravagent le pays depuis plusieurs années. Ils estiment qu",
+      "date": "2026-11-26T17:15:29",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "France : le procès de l'ancienne figure jihadiste Émilie König s'est ouvert",
+      "link": "https://www.france24.com/fr/vid%C3%A9o/20261126-france-le-proc%C3%A8s-de-l-ancienne-figure-jihadiste-%C3%A9milie-k%C3%B6nig-s-est-ouvert",
+      "desc": "Le procès d'Émilie König, accusée d'avoir été l'une des plus actives propagandistes françaises du groupe jihadiste État islamique en Syrie, s'est ouvert jeudi 26 novembre devant la cour d'assises spéciale de Paris. La Bretonne de 41 ans, dont dix passés en Syrie, encourt 30 ans de réclusion. Elle va",
+      "date": "2026-11-26T17:02:54",
+      "source": "France 24",
+      "lang": "fr"
+    },
+    {
+      "title": "Voici le nombre d'hommes perdu par la Russie dans la guerre en Ukraine",
+      "link": "https://www.bbc.com/afrique/articles/c9vg268yld2eo?at_medium=RSS&at_campaign=rss",
+      "desc": "Des données divulguées révèlent comment l'invasion à grande échelle de l'Ukraine a fondamentalement modifié les schémas de mortalité en Russie.",
+      "date": "2026-11-26T16:27:24",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Que savons-nous de la saisie par le Burkina Faso de 181 drones et du matériel militaire ?",
+      "link": "https://www.bbc.com/afrique/articles/cmpqrvd172j1o?at_medium=RSS&at_campaign=rss",
+      "desc": "Les autorités douanières burkinabées affirment avoir saisi mercredi 181 drones, des vêtements de type militaire, du matériel de communication, des appareils Starlink, des gilets pare-balles et d'autres articles à l'aéroport de Ouagadougou.",
+      "date": "2026-11-26T13:58:12",
+      "source": "BBC Afrique",
+      "lang": "fr"
+    },
+    {
+      "title": "Le commerce maritime stagne dans un contexte d’incertitudes géopolitiques",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159912",
+      "desc": "Le commerce maritime, qui est le pilier de l’économie mondiale, continue de ralentir, tandis que les perturbations liées aux conflits et aux facteurs climatiques touchent plus durement les économies les moins développées et les petits États insulaires, ont déclaré jeudi des économistes de l’ONU.",
+      "date": "2026-11-26T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Ebola en RDC : la barre des 12 000 cas franchie, plus de 5 900 décès",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159911",
+      "desc": "Le nombre de cas confirmés d’Ebola a franchi le cap des 12 000 cas confirmés en République démocratique du Congo (RDC) alors que l’insécurité dans certaines parties orientales du pays perturbe les efforts pour contenir la propagation de la maladie.",
+      "date": "2026-11-26T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti : un système de santé au bord de la rupture",
+      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159910",
+      "desc": "En Haïti, les violences des gangs armés, les déplacements massifs de population et la propagation des épidémies aggravent une crise sanitaire déjà alarmante. Confrontées à un afflux croissant de patients, notamment de victimes de traumatismes et de blessures par balle, ainsi qu’à la fermeture de nom",
+      "date": "2026-11-26T12:00:00",
+      "source": "ONU Info",
+      "lang": "fr"
+    },
+    {
+      "title": "Comment un homme a accidentellement avalé une brosse à dents",
+      "link": "https://www.bbc.com/afrique/articles/cmd917vxke4xo?at_medium=RSS&at_campaign=rss",
+      "desc": "« Les objets en plastique apparaissent mal sur les radiographies. Les os et les objets métalliques sont visibles, mais des éléments comme le caoutchouc, par exemple, ne sont souvent pas décelables. Par conséquent, il est impossible d’affirmer qu’il n’y a rien à l’intérieur du corps d’une personne en",
+      "date": "2026-11-26T10:33:18",
+      "source": "BBC Afrique",
       "lang": "fr"
     },
     {
@@ -28,50 +100,10 @@
       "lang": "fr"
     },
     {
-      "title": "Tenu en échec par la Roma, le PSG laisse filer ses premiers points de la saison",
-      "link": "https://www.france24.com/fr/%C3%A9missions/sports/20261126-tenu-en-%C3%A9chec-par-la-roma-le-psg-laisse-filer-ses-premiers-points-de-la-saison",
-      "desc": "Plombé par des blessures, l'équipe de Luis Enrique a concédé le match nul contre la Roma, mercredi soir. Le Real Madrid est désormais seul premier du classement de Ligue des champions, avec cinq victoires sur cinq.",
-      "date": "2026-11-26T08:45:59",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
       "title": "« Justice pour le sport » : les réactions de l’Afrique au verdict final de la CAN",
       "link": "https://www.bbc.com/afrique/articles/c6y978eyxje7o?at_medium=RSS&at_campaign=rss",
       "desc": "Au Sénégal, joueurs et officiels ont salué la décision de réintégrer les Ouest-Africains comme champions de la CAN 2025, mais au Maroc, cette décision est toujours contestée.",
       "date": "2026-11-26T08:09:00",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "GTA VI : le climat grand oublié",
-      "link": "https://www.france24.com/fr/vid%C3%A9o/20261126-gta-vi-le-climat-grand-oubli%C3%A9",
-      "desc": "Le jeu GTA VI est aussi une (grosse) occasion manquée de parler d'écologie, c'est le constat des journalistes de la rédaction de Reporterre dans leur chronique hebdomadaire sur France 24. Avant ça, Erwan Manac'h revient également sur un reportage du média engagé pour le climat sur ce data center prè",
-      "date": "2026-11-26T08:08:38",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "En Irak, huit nouveaux jihadistes français condamnés à la perpétuité",
-      "link": "https://www.france24.com/fr/moyen-orient/20261126-en-irak-huit-nouveaux-jihadistes-fran%C3%A7ais-condamn%C3%A9s-%C3%A0-la-perp%C3%A9tuit%C3%A9",
-      "desc": "Huit Français ont été condamnés à la prison à perpétuité jeudi par la justice irakienne pour leur appartenance au groupe État islamique (EI). Ils font partie des 47 ressortissants français jugés en Irak depuis septembre, après avoir été extradés de Syrie en 2025.",
-      "date": "2026-11-26T07:51:32",
-      "source": "France 24",
-      "lang": "fr"
-    },
-    {
-      "title": "Comment une femme a été droguée par son mari et violée par des inconnus pendant 13 ans au Royaume-Uni",
-      "link": "https://www.bbc.com/afrique/articles/c6lywq52yw50o?at_medium=RSS&at_campaign=rss",
-      "desc": "Quatre hommes ont été reconnus coupables au Royaume-Uni d'avoir abusé d'une femme après que son mari l'a droguée.",
-      "date": "2026-11-25T16:04:57",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Le gouvernement de l'État de Katsina au Nigeria suspend l'émir de Daura en raison d'allégations d'agression sexuelle",
-      "link": "https://www.bbc.com/afrique/articles/cqj9mvyp2k27o?at_medium=RSS&at_campaign=rss",
-      "desc": "Le gouverneur Dikko Umaru Radda a ordonné la création d'un comité chargé d'enquêter sur l'affaire et de conseiller le gouvernement sur les mesures appropriées à prendre.",
-      "date": "2026-11-25T14:46:46",
       "source": "BBC Afrique",
       "lang": "fr"
     },
@@ -88,38 +120,6 @@
       "link": "https://news.un.org/feed/view/fr/story/2026/11/1159904",
       "desc": "En Somalie, le risque de famine qui pesait sur les populations déplacées de Baidoa ne devrait finalement pas se concrétiser d’ici à la fin de l’année. Les inondations redoutées sous l’effet du phénomène El Niño se sont révélées moins dévastatrices que prévu. Mais cette amélioration reste fragile : d",
       "date": "2026-11-25T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Gaza et Cisjordanie : l’ONU redoute de nouveaux « crimes atroces » contre les Palestiniens",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159906",
-      "desc": "Le Haut-Commissaire des Nations Unies aux droits de l’homme a appelé mercredi la communauté internationale à agir sans attendre pour prévenir de nouveaux « crimes atroces » contre les Palestiniens à Gaza et en Cisjordanie occupée. Volker Türk s’est dit « extrêmement préoccupé par le caractère de plu",
-      "date": "2026-11-25T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Yémen : à Taëz, la guerre bloque les vaccins et menace des centaines de milliers d’enfants",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159905",
-      "desc": "En visite au Yémen, le chef de l'humanitaire de l’ONU, Tom Fletcher, a appelé à garantir un accès sûr et durable aux populations civiles, prises au piège de la reprise des combats et des déplacements forcés. Il a notamment tiré la sonnette d’alarme sur la situation à Taëz, où l’insécurité bloque l’a",
-      "date": "2026-11-25T12:00:00",
-      "source": "ONU Info",
-      "lang": "fr"
-    },
-    {
-      "title": "Défigurée à 15 ans : les vies brisées par une décennie de conflit au Cameroun",
-      "link": "https://www.bbc.com/afrique/articles/cr930kpy5p42o?at_medium=RSS&at_campaign=rss",
-      "desc": "Plus d'un demi-million de personnes ont fui leurs foyers depuis que des groupes séparatistes ont réclamé l'indépendance des régions anglophones du Cameroun.",
-      "date": "2026-11-25T07:46:09",
-      "source": "BBC Afrique",
-      "lang": "fr"
-    },
-    {
-      "title": "Violences sexuelles : le fils aîné de Gisèle Pelicot veut en finir avec le silence des hommes",
-      "link": "https://news.un.org/feed/view/fr/story/2026/11/1159903",
-      "desc": "Deux ans après le procès des viols de Mazan, David Pelicot a choisi de mettre son nom au service de la lutte contre les violences sexuelles. De passage aux Nations Unies, à New York, il raconte la genèse d’un engagement né autant de la violence des crimes de son père que du silence des autres hommes",
-      "date": "2026-11-24T12:00:00",
       "source": "ONU Info",
       "lang": "fr"
     }
