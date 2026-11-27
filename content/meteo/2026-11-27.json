@@ -3,19 +3,19 @@
   "title": "Meteo du 27 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 1.42,
-    "feels_like": -5.08,
-    "humidity": 95,
-    "description": "Légère pluie",
-    "wind_kmh": 35.2
+    "temp": 3.68,
+    "feels_like": -1.26,
+    "humidity": 92,
+    "description": "Couvert",
+    "wind_kmh": 25.9
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 27.64,
-    "feels_like": 30.46,
-    "humidity": 74,
-    "description": "Ciel dégagé",
-    "wind_kmh": 13.3
+    "temp": 32.79,
+    "feels_like": 37.34,
+    "humidity": 55,
+    "description": "Peu nuageux",
+    "wind_kmh": 22.2
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 27 novembre 2026 sur Radio Sources de Vie. A Ottawa: 1 degres Celsius. Légère pluie. A Port-au-Prince: 28 degres Celsius. Ciel dégagé. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 27 novembre 2026 sur Radio Sources de Vie. A Ottawa: 4 degres Celsius. Couvert. A Port-au-Prince: 33 degres Celsius. Peu nuageux. Que Dieu benisse votre journee!"
 }
