@@ -1,70 +1,54 @@
 {
   "category": "haiti",
   "date": "2026-11-27",
-  "updated": "2026-11-27T10:00:24.240356Z",
+  "updated": "2026-11-27T19:00:22.159203Z",
   "articles": [
+    {
+      "title": "Haïti - Actualité : Zapping",
+      "link": "https://www.haitilibre.com/article-48991-haiti-actualite-zapping.html",
+      "desc": "La résidence du chef «Tchèchèye» détruite - France : Nos U-14  toujours invaincu - Prochaine réouverture de l&apos;aéroport de PAP ? - Corventina lance l&apos;Association la Perles des Caraïbes - France : L&apos;histoire de la Révolution haïtienne dans les écoles...",
+      "date": "2026-11-27T15:18:55",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Économie : Plan de relance et de développement du Grand Sud (2027-2031)",
+      "link": "https://www.haitilibre.com/article-48990-haiti-economie-plan-de-relance-et-de-developpement-du-grand-sud-2027-2031.html",
+      "desc": "Serge Gabriel Collin, le Ministre de l&apos;Économie et des Finances, a organisé, deux journées de consultations régionales virtuelles consacrées à l&apos;élaboration du Plan de relance et de développement du Grand Sud 2027–2031...",
+      "date": "2026-11-27T14:27:41",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "iciHaïti - Diplomatie : Deux nouveaux Ambassadeurs accrédités",
+      "link": "https://www.icihaiti.com/article-48989-icihaiti-diplomatie-deux-nouveaux-ambassadeurs-accredites.html",
+      "desc": "Jeudi 26 novembre 2026 à la Villa d&apos;accueil, le  Premier Ministre Alix Didier au cours de deux cérémonies solennelles distinctes à reçu les lettres de créances de deux nouveaux ambassadeurs en Haïti celui de l&apos;Italie et celui de Namibie…",
+      "date": "2026-11-27T14:13:25",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Santé : L'OMS annonce un appui à l'HUP, d'un million de dollars",
+      "link": "https://www.haitilibre.com/article-48988-haiti-sante-l-oms-annonce-un-appui-a-l-hup-d-un-million-de-dollars.html",
+      "desc": "Jeudi 26 novembre, le Dr. Tedros Adhanom Ghebreyesus, Directeur Général de l&apos;OMS, lors de son passage à l&apos;Hôpital Universitaire La Paix (HUP) a annoncé un appui d&apos;un million de US$ destiné à fournir des équipements médicaux…",
+      "date": "2026-11-27T14:00:38",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
+    {
+      "title": "Haïti - Relance économique : Haïti mise sur le partenariat français pour attirer de nouveaux investissements",
+      "link": "https://www.haitilibre.com/article-48987-haiti-relance-economique-haiti-mise-sur-le-partenariat-francais-pour-attirer-de-nouveaux-investissements.html",
+      "desc": "En mission économique à Paris, James Monazard le Ministre du Commerce et de l&apos;Industrie a été reçu par En  Éléonore Caroit, Ministre déléguée chargée des Partenariats internationaux. Cette rencontre s&apos;est déroulée autour...…",
+      "date": "2026-11-27T13:37:49",
+      "source": "HaitiLibre",
+      "lang": "fr"
+    },
     {
       "title": "L’intervention du Salvador sous la gouverne de l’impérialisme en Haïti : l’établissement d’une prison à ciel ouvert - World Socialist Web Site",
       "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5JRXNqNzFySHV4bWFfUEZhNV9HQlVRWldwWlpPRDN3OU5qQmFQOVhkMzg3V1JBUHdWVkc1QjM2NGxNUUx2NUpWRjFLMDZ0QXNvdU9MMUhRZncyUGFKcFI3dWN0MnZHbWlR?oc=5",
       "desc": "L’intervention du Salvador sous la gouverne de l’impérialisme en Haïti : l’établissement d’une prison à ciel ouvert&nbsp;&nbsp;World Socialist Web Site",
       "date": "2026-11-27T05:20:01",
       "source": "Google News Haiti",
-      "lang": "fr"
-    },
-    {
-      "title": "Questions directes - Bukele assoit sa popularité en Haïti - France 24",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRjFBVTQ0YTlVUkxjLW9WTS03MDdMeWhUMzUya0FuV0hRUUM4VmgtZjdxdUtzYy0zVjFOZHVsUVhhUzJkSW9ldmNGa21veFRnN041VTQyc1kteU5JVTZMZkVvM0JROUNNT2V0WnMyYXhGNVB6R0hsOTVlSVdfaXg4eDdQWUkyZFM0LUtHS2JQbmVlTlZCdzZVT3Y2ckNWYkpOTHBNTlBOaXc3ZFphQnBlNGVVUEJmTmxp?oc=5",
-      "desc": "Questions directes - Bukele assoit sa popularité en Haïti&nbsp;&nbsp;France 24Les Observateurs - En Haïti, “les gangs ont peur” face aux troupes salvadoriennes&nbsp;&nbsp;France 24Haïti : Les champs de bataille&nbsp;&nbsp;France TV\"Nayib Bukele, je l'aime de tout mon cœur\" : à Port-au-Prince, l'embl",
-      "date": "2026-11-26T19:02:23",
-      "source": "Google News Haiti",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti : corruption, impunité, rôle des politiques... Que cache la guerre des gangs ? - France 24",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPMzVNaVpXeHRwSzZMTzI4bEdOc0QxQ1JCWVdrNzJwVzhIY2JnbGJyRVI4a1JuSXozYVJiOFhqTk9IdlVuNFM2Vm9kSDh1cUJ3TzBNMGg3NzB4QTdJS09FR1BrRnN6VTFQSGNSaEx1SWdjOFdPalh6QTdJMUYzdzFITDhVOUZ4Q2VvcHhHeFRwYlQ1MjR1eTg3YTNaU2VlSVRWbEw1NVBGWU5vV3R6ZG43Zk5tY09pTldRQTRHLUdWZDU5QUtBeFVDVXpkNnJzdWh0RVZRQw?oc=5",
-      "desc": "Haïti : corruption, impunité, rôle des politiques... Que cache la guerre des gangs ?&nbsp;&nbsp;France 24",
-      "date": "2026-11-26T15:20:14",
-      "source": "Google News Haiti",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Loisirs : Le Saviez-vous ? #80",
-      "link": "https://www.haitilibre.com/article-48984-haiti-loisirs-le-saviez-vous-80.html",
-      "desc": "Quiz.HaitiLibre, vous propose 2 fois par semaine une chronique intitulée « Le Saviez-vous ? » Aujourd&apos;hui nous vous demandons, quelle célèbre formule, devenue la devise officielle de la République française, est née durant la Révolution de 1789 ?",
-      "date": "2026-11-26T15:15:28",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Actualité : Zapping...",
-      "link": "https://www.haitilibre.com/article-48983-haiti-actualite-zapping.html",
-      "desc": "FLASH : match en retard  FICA vs Racing FC - 5 nouvelles Bases opérationnelles avancées - 5 nouveaux Centres de Formation technique et professionnelle - La CNDDR demande de rester vigilants - Visite de sympathie au contingent salvadorien - Décès de Me...",
-      "date": "2026-11-26T15:09:44",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "iciHaïti - Japon : Réhabilitation de l'antenne de police de Siloé",
-      "link": "https://www.icihaiti.com/article-48982-icihaiti-japon-rehabilitation-de-l-antenne-de-police-de-siloe.html",
-      "desc": "Le Japon et le Programme des Nations Unies pour le Développement renforcent les capacités opérationnelles de la PNH avec la réhabilitation de l&apos;antenne de police de Siloé (commune de Jacmel)…",
-      "date": "2026-11-26T14:34:26",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "Haïti - Brésil : Vers un partenariat pour le développement des capacités aériennes des FAd'H",
-      "link": "https://www.haitilibre.com/article-48981-haiti-bresil-vers-un-partenariat-pour-le-developpement-des-capacites-aeriennes-des-fad-h.html",
-      "desc": "En marge de la 9e édition de la Mostra BID, Mario Andrésol, le Ministre de la Défense, s&apos;est entretenu avec son homologue brésilien, José Múcio Monteiro Filho, autour de nouvelles perspectives de coopération bilatérale dans le domaine de la défense...",
-      "date": "2026-11-26T14:13:34",
-      "source": "HaitiLibre",
-      "lang": "fr"
-    },
-    {
-      "title": "iciHaïti - Clio Sports Awards : La FHF finaliste pour le titre de «League of the Year» 2026",
-      "link": "https://www.icihaiti.com/article-48980-icihaiti-clio-sports-awards-la-fhf-finaliste-pour-le-titre-de-league-of-the-year-2026.html",
-      "desc": "La Fédération Haïtienne de Football annonce qu&apos;elle a été nommée finaliste pour le titre de «League of the Year 2026» aux «Clio Sports Awards», la compétition internationale qui récompense l&apos;excellence créative en marketing sportif, en publicité et en...",
-      "date": "2026-11-26T14:00:04",
-      "source": "HaitiLibre",
       "lang": "fr"
     },
     {
@@ -76,10 +60,26 @@
       "lang": "fr"
     },
     {
+      "title": "Haïti-Salvador: comment Nayib Bukele assoit sa popularité grâce aux réseaux sociaux - RFI",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONFl6V21QY2psTEItT25xU3pMYjBFMHVWM1pxdmx5eVpJQW5pejFCeEVwTEJDRzhtcjVjYzZIcmtkdnJmRWp6LXd4UnpoQm9yNlVFeVdnTFJqUmwtel84SkUwaC1VT25ETkNpZHRwb1NKZEdzYzB0dVBzRkV2NFhRYVY1THdrZHlXTGd5WjdHZ3FRYkE3Sks0U0JXcDZmbFFITUlrM3B3SmpadU83emZ6UHNhWUdyZw?oc=5",
+      "desc": "Haïti-Salvador: comment Nayib Bukele assoit sa popularité grâce aux réseaux sociaux&nbsp;&nbsp;RFI",
+      "date": "2026-11-25T11:07:06",
+      "source": "Google News Haiti",
+      "lang": "fr"
+    },
+    {
       "title": "Haïti : le Premier ministre défend l'accord avec le Salvador face à \"l'urgence sécuritaire\" - Outre-mer La 1ère",
       "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPdTNWSUd4MXI1TUY1S21RTk9VNjI2Wm03YUZiUVYtdXhvbjYwYm80STM0RXB4eHNKdlBmRWQtWGtCOVdiaGsyNlpmZHY4Z1FicmhCRktOdmdKNlZZTzdZZl9rYUFqNVFhSDg2bThzMmFxN1R5WUhrMjh1aVdPbWRiY1dNZ1oyMjhOMmNpeDljYnVZTHJscHJKUlA0dHlSWGpfYVNjbGtVdERQMUx2bjVKeW14RXhEUF9EUTV5OG1ySHAyajFoRjhIODFWdFdkT0JHZ200aEVRVQ?oc=5",
       "desc": "Haïti : le Premier ministre défend l'accord avec le Salvador face à \"l'urgence sécuritaire\"&nbsp;&nbsp;Outre-mer La 1ère",
       "date": "2026-11-25T04:00:02",
+      "source": "Google News Haiti",
+      "lang": "fr"
+    },
+    {
+      "title": "«J’ai vu deux hommes blancs tirer sur des jeunes»: en Haïti, l’essor opaque des combattants privés étrangers - Le Temps",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM09ITWtob0lQQTJEaTVEd1R2YW15WERraHQyZVRGbnVmQ2FfY3g2M1lkcEd4MVlGcFZ5S3Nma1BzejE4LXFPb0VjSXZaWHYwUGpBNlVFUHRsbG90MDZRYjU3cFJwQlNtcjRjaXdYWHgxbTBHY1FQdDBBYUJWeTMyanhDSEhmVVFuTkJvN3Q2VmxVS29kQ3hkOE4xM29ST0M2VkR1cEtZNG5naFRnRUE?oc=5",
+      "desc": "«J’ai vu deux hommes blancs tirer sur des jeunes»: en Haïti, l’essor opaque des combattants privés étrangers&nbsp;&nbsp;Le Temps",
+      "date": "2026-11-24T09:40:00",
       "source": "Google News Haiti",
       "lang": "fr"
     }
