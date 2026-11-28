@@ -3,19 +3,19 @@
   "title": "Meteo du 28 novembre 2026",
   "ottawa": {
     "label": "Ottawa, Canada",
-    "temp": 3.7,
-    "feels_like": 0.19,
-    "humidity": 95,
-    "description": "Pluie modérée",
+    "temp": 3.32,
+    "feels_like": -0.28,
+    "humidity": 97,
+    "description": "Bruine légère",
     "wind_kmh": 14.8
   },
   "pap": {
     "label": "Port-au-Prince, Haïti",
-    "temp": 35.79,
-    "feels_like": 42.79,
-    "humidity": 52,
-    "description": "Partiellement nuageux",
-    "wind_kmh": 25.9
+    "temp": 28.88,
+    "feels_like": 32.83,
+    "humidity": 72,
+    "description": "Ciel dégagé",
+    "wind_kmh": 13.8
   },
-  "text": "Bonjour chers auditeurs, voici la meteo du 28 novembre 2026 sur Radio Sources de Vie. A Ottawa: 4 degres Celsius. Pluie modérée. A Port-au-Prince: 36 degres Celsius. Partiellement nuageux. Que Dieu benisse votre journee!"
+  "text": "Bonjour chers auditeurs, voici la meteo du 28 novembre 2026 sur Radio Sources de Vie. A Ottawa: 3 degres Celsius. Bruine légère. A Port-au-Prince: 29 degres Celsius. Ciel dégagé. Que Dieu benisse votre journee!"
 }
